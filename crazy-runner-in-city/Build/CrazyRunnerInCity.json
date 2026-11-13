@@ -1,0 +1,17 @@
+{
+"companyName": "AYNGames",
+"productName": "Crazy Runner in City",
+"productVersion": "1",
+"dataUrl": "CrazyRunnerInCity.data.unityweb",
+"wasmCodeUrl": "CrazyRunnerInCity.wasm.code.unityweb",
+"wasmFrameworkUrl": "CrazyRunnerInCity.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CrazyRunnerInCity.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}

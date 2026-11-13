@@ -1,0 +1,86 @@
+{
+	"gateShadow": {
+		"x": 414,
+		"y": 0,
+		"w": 64,
+		"h": 64
+	},
+	"palmShellShine_b": {
+		"x": 74,
+		"y": 276,
+		"w": 64,
+		"h": 64
+	},
+	"palmShellShine_g": {
+		"x": 414,
+		"y": 74,
+		"w": 64,
+		"h": 64
+	},
+	"palmShellShine_r": {
+		"x": 0,
+		"y": 276,
+		"w": 64,
+		"h": 64
+	},
+	"plateGlass_b": {
+		"x": 138,
+		"y": 0,
+		"w": 128,
+		"h": 128
+	},
+	"plateGlass_g": {
+		"x": 0,
+		"y": 138,
+		"w": 128,
+		"h": 128
+	},
+	"plateGlass_r": {
+		"x": 138,
+		"y": 138,
+		"w": 128,
+		"h": 128
+	},
+	"plateTurbine_b": {
+		"x": 414,
+		"y": 148,
+		"w": 64,
+		"h": 64
+	},
+	"plateTurbine_g": {
+		"x": 148,
+		"y": 276,
+		"w": 64,
+		"h": 64
+	},
+	"plateTurbine_r": {
+		"x": 222,
+		"y": 276,
+		"w": 64,
+		"h": 64
+	},
+	"rocketShadow": {
+		"x": 296,
+		"y": 276,
+		"w": 64,
+		"h": 64
+	},
+	"side_screen_color_b": {
+		"x": 276,
+		"y": 0,
+		"w": 128,
+		"h": 128
+	},
+	"side_screen_color_g": {
+		"x": 276,
+		"y": 138,
+		"w": 128,
+		"h": 128
+	},
+	"side_screen_color_r": {
+		"x": 0,
+		"y": 0,
+		"w": 128,
+		"h": 128
+	}
+}

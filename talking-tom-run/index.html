@@ -1,0 +1,40 @@
+<!DOCTYPE html> <html> <head>   <title>Talking Tom Run Game Files</title>    <meta http-equiv="Content-type" content="text/html; charset=utf-8">   <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=0,minimal-ui">   <meta name="apple-mobile-web-app-capable" content="yes">      <link rel="stylesheet" type="text/css" href="game.css">    <script type="text/javascript" src="min.js"></script>    <script src="/sdk.js"></script> <meta name="robots" content="index, follow"><link rel="canonical" href="https://eggycaronline.io/more-game/talking-tom-run.html"></head>  <body onload="setTimeout(window.scrollTo(0,1),1);">   <div id="ajaxbar">     <div id="game"><canvas id="canvas"></canvas></div>        <div id="orientate"><img src="media/graphics/orientate/landscape.jpg"></div>     <div id="play" class="play" onclick=""><img src="media/graphics/splash/mobile/cover-start.jpg"></div>          <img id="scrollDown" width="220" height="277">           <div id="MobileAdInGamePreroll" style="display:none;">             <div id="MobileAdInGamePreroll-Box">                <div id="MobileAdInGamePreroll-Box-Header"></div>                <a id="MobileAdInGamePreroll-Box-Close" onclick="MobileAdInGamePreroll.Close();ShowAds();"></a>                <div id="MobileAdInGamePreroll-Box-Body">                   <center>                        <a href="http://www.gamessumo.com/" target="_blank">                      <img src="adbox.gif">                       </a>                   </center>                </div>                <div id="MobileAdInGamePreroll-Box-Footer"></div>             </div>          </div>   </div>  <!-- Global site tag (gtag.js) - Google Analytics --> <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81855592-1"></script> --> <script>
+// window.dataLayer = window.dataLayer || [];
+// function gtag(){dataLayer.push(arguments);}
+// gtag('js', new Date());
+
+if (YaGames) 
+{
+  YaGames.init(
+  {
+    screen: 
+    { 
+        fullscreen: false
+    },
+    yandexApp: {
+          enabled: true
+      },
+    adv: 
+    {
+          onAdvClose: wasShown => 
+          {
+              //cr_setSuspended(false);
+          }
+      }
+  }).then(function (ysdk) 
+  {
+    window.ysdk = ysdk;
+  });
+}
+
+function ShowYaBanner() {
+try 
+  {
+    ysdk.adv.showFullscreenAdv(
+    {
+     
+    });
+  }
+  catch(err) { } 
+}
+</script> </body> <script src="https://eggycaronline.io/site-scripts/frame.js"></script></html>

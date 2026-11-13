@@ -1,0 +1,174 @@
+
+score.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 4, 2193
+  size: 1413, 1885
+  orig: 1413, 1885
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 1425, 2305
+  size: 1008, 532
+  orig: 1008, 532
+  offset: 0, 0
+  index: -1
+buy_off
+  rotate: false
+  xy: 3235, 2551
+  size: 335, 107
+  orig: 335, 107
+  offset: 0, 0
+  index: -1
+buy_on
+  rotate: false
+  xy: 4, 4
+  size: 335, 107
+  orig: 335, 107
+  offset: 0, 0
+  index: -1
+coins
+  rotate: false
+  xy: 2511, 2081
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+cost
+  rotate: false
+  xy: 3323, 2802
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+count
+  rotate: false
+  xy: 3235, 2666
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+count_bg
+  rotate: false
+  xy: 3883, 3981
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+fade
+  rotate: false
+  xy: 1182, 2173
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+foto1
+  rotate: false
+  xy: 3323, 3458
+  size: 552, 620
+  orig: 552, 620
+  offset: 0, 0
+  index: -1
+foto2
+  rotate: false
+  xy: 622, 1565
+  size: 552, 620
+  orig: 552, 620
+  offset: 0, 0
+  index: -1
+foto3
+  rotate: false
+  xy: 622, 937
+  size: 552, 620
+  orig: 552, 620
+  offset: 0, 0
+  index: -1
+ice1
+  rotate: false
+  xy: 4, 368
+  size: 334, 1817
+  orig: 334, 1817
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 346, 454
+  size: 268, 1731
+  orig: 268, 1731
+  offset: 0, 0
+  index: -1
+market
+  rotate: false
+  xy: 2441, 2345
+  size: 853, 155
+  orig: 853, 155
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 4, 119
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 3031, 2096
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 1425, 2845
+  size: 1890, 1233
+  orig: 1890, 1233
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 3302, 2302
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+shop
+  rotate: false
+  xy: 3280, 2053
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+stamp
+  rotate: false
+  xy: 2441, 2508
+  size: 786, 329
+  orig: 786, 329
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 3323, 2938
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 622, 417
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1425, 2182
+  size: 1078, 115
+  orig: 1078, 115
+  offset: 0, 0
+  index: -1

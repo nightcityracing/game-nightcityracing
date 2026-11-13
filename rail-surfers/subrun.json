@@ -1,0 +1,11 @@
+{
+"companyName": "Subway Runner",
+"productName": "Subway Runner",
+"dataUrl": "subrun.data.unityweb",
+"asmCodeUrl": "subrun.asm.code.unityweb",
+"asmMemoryUrl": "subrun.asm.memory.unityweb",
+"asmFrameworkUrl": "subrun.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <strings>
+        <string id="PAUSED">
+            <en>Paused</en>
+            <de>Pause</de>
+            <es>En pausa</es>
+            <fr>En pause</fr>
+            <it>Pausa</it>
+            <br>Pausado</br>
+            <ru>Пауза</ru>
+        </string>
+
+        <string id="COMPLETED">
+            <en>COMPLETED</en>
+            <de>Abgeschlossen</de>
+            <es>Completado</es>
+            <fr>Terminé</fr>
+            <it>Completato</it>
+            <br>Concluído</br>
+            <ru>ПРОЙДЕН</ru>
+        </string>
+
+        <string id="LEVEL">
+            <en>LEVEL</en>
+            <de>Level</de>
+            <es>Nivel</es>
+            <fr>Niveau</fr>
+            <it>Livello</it>
+            <br>Nível</br>
+            <ru>УРОВЕНЬ</ru>
+        </string>
+
+        <string id="PLAY">
+            <en>Play</en>
+            <de>Spielen</de>
+            <es>Jugar</es>
+            <fr>Jouer</fr>
+            <it>Gioca</it>
+            <br>Jogar</br>
+            <ru>Играть</ru>
+        </string>
+
+        <string id="COINS COLLECTED">
+            <en>COINS COLLECTED</en>
+            <de>Gesammelte Münzen</de>
+            <es>Monedas recogidas</es>
+            <fr>Pièces récupérées</fr>
+            <it>Monete ottenute</it>
+            <br>Moedas coletadas</br>
+            <ru>Собранно монет</ru>
+        </string>
+
+        <string id="UPGRADE YOUR SKILLS">
+            <en>UPGRADE YOUR SKILLS</en>
+            <de>VERBESSERE DEINE FÄHIGKEITEN</de>
+            <es>MEJORA TUS HABILIDADES</es>
+            <fr>AMÉLIOREZ VOS COMPÉTENCES</fr>
+            <it>MIGLIORA LE TUE ABILITÀ</it>
+            <br>MELHORE SUAS HABILIDADES</br>
+            <ru>УЛУЧШАЙТЕ СВОИ НАВЫКИ</ru>
+        </string>
+
+        <string id="SPEED">
+            <en>SPEED</en>
+            <de>Schnelligkeit</de>
+            <es>Velocidad</es>
+            <fr>Vitesse</fr>
+            <it>Velocità</it>
+            <br>Velocidade</br>
+            <ru>скорость</ru>
+        </string>
+
+        <string id="INSTRUCTION">
+            <en>INSTRUCTIONS</en>
+            <de>ANLEITUNG</de>
+            <es>INSTRUCCIONES</es>
+            <fr>INSTRUCTIONS</fr>
+            <it>ISTRUZIONI</it>
+            <br>INSTRUÇÕES</br>
+            <ru>ИНСТРУКЦИЯ</ru>
+        </string>
+
+        <string id="CARVE">
+            <en>CARVE</en>
+            <de>CARVEN</de>
+            <es>DAR CURVA</es>
+            <fr>CARVER</fr>
+            <it>TAGLIA LA CURVA</it>
+            <br>CURVAR</br>
+            <ru>МАНЕВРИРОВАТЬ</ru>
+        </string>
+
+        <string id="YOU WIN">
+            <en>You win</en>
+            <de>Gewonnen</de>
+            <es>Ganas</es>
+            <fr>Vous avez gagné</fr>
+            <it>Hai vinto</it>
+            <br>Você vence</br>
+            <ru>Вы победили</ru>
+        </string>
+
+        <string id="CARVING_TEXT">
+            <en>INCREASE YOUR TURNING SPEED</en>
+            <de>Erhöht deine Wendigkeit</de>
+            <es>Incrementa la velocidad de giro.</es>
+            <fr>Augmente votre vitesse dans les virages</fr>
+            <it>Aumenta la velocità di svolta</it>
+            <br>Aumenta a velocidade de viragem</br>
+            <ru>Увеличивает скорость поворота</ru>
+        </string>
+
+        <string id="BOOST">
+            <en>BOOST</en>
+            <de>Boost</de>
+            <es>Acelerón</es>
+            <fr>Boost</fr>
+            <it>Incremento</it>
+            <br>Aumento</br>
+            <ru>Ускорение</ru>
+        </string>
+
+        <string id="BOOST_TEXT">
+            <en>Decrease cooldown for speed boost</en>
+            <de>Verkürzt die Abklingzeit für den Tempoboost</de>
+            <es>Reduce el tiempo de espera del acelerón.</es>
+            <fr>Réduit le temps de récupération des boosts de vitesse</fr>
+            <it>Riduce il tempo di recupero per l'incremento di velocità</it>
+            <br>Diminui o tempo de espera para aumentar a velocidade</br>
+            <ru>Уменьшает время ожидания между ускорением</ru>
+        </string>
+
+        <string id="STABILITY">
+            <en>STABILITY</en>
+            <de>STABILITÄT</de>
+            <es>ESTABILIDAD</es>
+            <fr>STABILITÉ</fr>
+            <it>STABILITÀ</it>
+            <br>ESTABILIDADE</br>
+            <ru>УСТОЙЧИВОСТЬ</ru>
+        </string>
+
+        <string id="STABILITY_TEXT">
+            <en>Decrease obstacle effects</en>
+            <de>Verringert Hinderniseffekte</de>
+            <es>Reduce los efectos de los obstáculos.</es>
+            <fr>Réduit les effets des obstacles</fr>
+            <it>Diminuisce gli effetti degli ostacoli</it>
+            <br>Diminui os efeitos dos obstáculos</br>
+            <ru>Уменьшает влияние препятствий</ru>
+        </string>
+
+        <string id="COLLECT COINS">
+            <en>Collect coins</en>
+            <de>Sammel Münzen</de>
+            <es>Recoje monedas</es>
+            <fr>Collecter des pièces</fr>
+            <it>Raccogli le monete</it>
+            <br>Coleta moedas</br>
+            <ru>Собирайте монеты</ru>
+        </string>
+
+        <string id="BUY UPGRADES">
+            <en>BUY UPGRADES</en>
+            <de>Verbesserungen kaufen</de>
+            <es>Comprar mejoras</es>
+            <fr>Acheter améliorations</fr>
+            <it>Acquista potenziamenti</it>
+            <br>Comprar upgrades</br>
+            <ru>Покупайте обновления</ru>
+        </string>
+
+        <string id="UPGRADES">
+            <en>UPGRADES</en>
+            <de>Verbesserungen</de>
+            <es>mejoras</es>
+            <fr>améliorations</fr>
+            <it>potenziamenti</it>
+            <br>upgrades</br>
+            <ru>улучшения</ru>
+        </string>
+
+        <string id="OBSTACLES">
+            <en>OBSTACLES</en>
+            <de>Hindernisse</de>
+            <es>Obstáculos</es>
+            <fr>Obstacles</fr>
+            <it>Ostacoli</it>
+            <br>Obstáculos</br>
+            <ru>Препятствия</ru>
+        </string>
+        <string id="OBSTACLES_TEXT">
+            <en>Avoid all obstacles. Snow bumps, gradle and ice slow you down. Don't let the avalanche get to you!</en>
+            <de>Weiche allen Hindernissen aus. Schneehügel, Schotter und Eis machen dich langsamer. Lass dich nicht von der Lawine erwischen!</de>
+            <es>Evita todos los obstáculos. Los montículos de nieve, la gravilla y el hielo hacen que te desplaces más despacio. ¡Cuidado que no te pille la avalancha!</es>
+            <fr>Évitez tous les obstacles. Les bosses de neige, le gravier et la glace vous ralentissent. Ne laissez pas l'avalanche vous rattraper !</fr>
+            <it>Evita tutti gli ostacoli. Dossi di neve, ghiaia e ghiaccio ti rallentano. Non farti raggiungere dalla valanga!</it>
+            <br>Evite todos os obstáculos. Nevascas, lombadas, cascalho e gelo atrasam você. Esquive-se da avalanche!</br>
+            <ru>Избегайте все препятствия. Снежные неровности, уклоны и лед замедляют вас. Не позволяйте лавине добраться до вас!</ru>
+        </string>
+
+        <string id="TAP TO BOOST">
+            <en>TAP TO BOOST</en>
+            <de>Zum Boosten tippen</de>
+            <es>Toca para impulsar</es>
+            <fr>Appuyez pour booster</fr>
+            <it>Tocca per dare la spinta</it>
+            <br>Toca para impulsionar</br>
+            <ru>Нажмите, чтобы ускориться</ru>
+        </string>
+
+        <string id="TOUCH AND HOLD TO CARVE">
+            <en>TOUCH AND HOLD TO CARVE</en>
+            <de>GEDRÜCKT HALTEN UM ZU CARVEN</de>
+            <es>TOCA Y MANTÉN PARA DAR CURVA</es>
+            <fr>TOUCHEZ ET MAINTENEZ POUR CARVER</fr>
+            <it>TOCCA E TIENI PREMUTO PER TAGLIARE LA CURVA</it>
+            <br>TOQUE E SEGURE PARA CURVAR</br>
+            <ru>НАЖМИТЕ И ДЕРЖИТЕ ЧТОБЫ МАНЕВРИРОВАТЬ</ru>
+        </string>
+    </strings>
+</stringresources>
