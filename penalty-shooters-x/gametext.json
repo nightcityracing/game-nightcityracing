@@ -1,0 +1,3410 @@
+{
+    "c2array": true,
+    "size": [
+        200,
+        5,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Goal Getter@Score your first career goal@*@2"
+            ],
+            [
+                "Probijen led@Prvi postignuti gol u karijeri@*@2"
+            ],
+            [
+                "Droit au But@Marquez votre premier but\\nen carrière@*@2"
+            ],
+            [
+                "Первый гол@Забейте свой первый гол в карьере@*@2"
+            ],
+            [
+                "Cazagoles@Haz el primer gol de tu partido@*@2"
+            ]
+        ],
+        [
+            [
+                "Safe Hands@Make your first career save@*@2"
+            ],
+            [
+                "Sigurne ruke@Prva odbrana u karijeri@*@2"
+            ],
+            [
+                "En Mains Sûres@Faites votre premier arrêt \\nen carrière@*@2"
+            ],
+            [
+                "Надежные руки@Ваше первое сохранение в карьере@*@2"
+            ],
+            [
+                "Manos Seguras@Salva el primero de tu partido@*@2"
+            ]
+        ],
+        [
+            [
+                "Victory Lap@Win your first career match@*@5"
+            ],
+            [
+                "I, idemo!@Prva pobeda u karijeri@*@5"
+            ],
+            [
+                "Victoire@Gagnez votre premier match\\nen carrière@*@5"
+            ],
+            [
+                "Победный круг@Выиграйте свой первый матч\\nв карьере@*@5"
+            ],
+            [
+                "Vuelta de victoria@Gana tu primer partido de tu partido@*@5"
+            ]
+        ],
+        [
+            [
+                "Perfect Defense@Save 3+ consecutive\\nshots in one match@@2"
+            ],
+            [
+                "Perfektna odbrana@Odbranio 3+ uzastopnih\\nudaraca u meču@@2"
+            ],
+            [
+                "Défense Parfaite@Arrêtez 3+ tirs consécutifs\\ndans un match@@2"
+            ],
+            [
+                "Идеальная защита@Сохраните 3+ последовательных\\nудара в одном матче@@2"
+            ],
+            [
+                "Defensa Perfecta@Salva 3+ tiros consecutivos\\nen un partido@@2"
+            ]
+        ],
+        [
+            [
+                "Perfect Attendance@Play on 5 consecutive\\ndays@@25"
+            ],
+            [
+                "Redovan učesnik@Igraj 5 dana uzastopno@@25"
+            ],
+            [
+                "Présence Parfaite@Jouez 5 jours\\nconsécutifs@@25"
+            ],
+            [
+                "Идеальная посещаемость@Играем 5 дней подряд\\n@@25"
+            ],
+            [
+                "Asistencia Perfecta@Jugar por 5 días\\nconsecutivos@@25"
+            ]
+        ],
+        [
+            [
+                "Flawless Victory@Win the match without\\nmissing a single shot@@2"
+            ],
+            [
+                "Besprekorna pobeda@Pobedi bez promašenog suta\\nu meču @@2"
+            ],
+            [
+                "Victoire Parfaite@Gagnez le match sans\\nmanquer un seul tir@@2"
+            ],
+            [
+                "Безупречная победа@Выиграйте матч,не пропустив\\nни одного выстрела@@2"
+            ],
+            [
+                "Victoria Perfecta@Gana el partido sin\\nperder ningún tiro@@2"
+            ]
+        ],
+        [
+            [
+                "Iron Wall@Don't concede any goals in a \\npenalty shootout@@2"
+            ],
+            [
+                "Gvozdeni zid@Bez primljenog gola u\\njednom mecu@@2"
+            ],
+            [
+                "Mur de Fer@N'encaissez aucun but\\nlors d'une séance de tirs au but@@2"
+            ],
+            [
+                "Железная стена@Не пропустите ни одного гола в \\nсерии пенальти@@2"
+            ],
+            [
+                "Pared de Hierro@No concedas ningún gol en\\nuna tanda de penaltis@@2"
+            ]
+        ],
+        [
+            [
+                "Seasoned Competitor@25 Matches Played@*@25"
+            ],
+            [
+                "Iskusni učesnik@25 odigranih mečeva@*@25"
+            ],
+            [
+                "Compétiteur Chevronné@25 Matchs Joués@*@25"
+            ],
+            [
+                "Опытный участник@25 Сыграно матчей@*@25"
+            ],
+            [
+                "Competidor Experto@25 Partidos Jugados@*@25"
+            ]
+        ],
+        [
+            [
+                "Marathoner@100 Matches Played@*@50"
+            ],
+            [
+                "Maratonac@100 odigranih mečeva@*@50"
+            ],
+            [
+                "Marathonien@100 Matchs joués@*@50"
+            ],
+            [
+                "Марафонец@100 Сыграно матчей@*@50"
+            ],
+            [
+                "Maratonista@100 Partidos Jugados@*@50"
+            ]
+        ],
+        [
+            [
+                "Legendary Warrior@250 Matches Played@*@150"
+            ],
+            [
+                "Legendarni ratnik@250 odigranih mečeva@*@150"
+            ],
+            [
+                "Guerrier Légendaire@250 Matchs joués@*@150"
+            ],
+            [
+                "Легендарный воин@250 Сыграно матчей@*@150"
+            ],
+            [
+                "Guerrero Legendario@250 Partidos Jugados@*@150"
+            ]
+        ],
+        [
+            [
+                "Penalty Maestro@Score 1,000 goals@*@150"
+            ],
+            [
+                "Maestro Penala@Postigao 1,000 golova@*@150"
+            ],
+            [
+                "Maestro des Penalties@Mettre 1,000 buts@*@150"
+            ],
+            [
+                "Пенальти Маэстро@Забить 1000 голов@*@150"
+            ],
+            [
+                "Maestro del Penalti@1,000 Goles Marcados@*@150"
+            ]
+        ],
+        [
+            [
+                "World Cup Champion@Conquer the World Cup@@50"
+            ],
+            [
+                "Svetski šampion@Osvajač Svetskog kupa@@50"
+            ],
+            [
+                "Champion du Monde@Conquérir la Coupe\\ndu Monde@@50"
+            ],
+            [
+                "Чемпион Кубка мира@Завоевать Кубок мира@@50"
+            ],
+            [
+                "Campeón de Copa Mundial@Conquista la Copa Mundial@@50"
+            ]
+        ],
+        [
+            [
+                "Training Ground Ace@Tier 1 Champion@*@10"
+            ],
+            [
+                "As sa treninga@Završio Nivo 1@*@10"
+            ],
+            [
+                "As du Terrain d'Entraînement@Champion de palier 1@*@10"
+            ],
+            [
+                "Тренировочная площадка Ace@Чемпион 2 уровня@*@10"
+            ],
+            [
+                "As de Entrenamiento@Campeón de Nivel 1@*@10"
+            ]
+        ],
+        [
+            [
+                "Rising Star@Tier 2 Champion@*@15"
+            ],
+            [
+                "Zvezda u najavi@Završio Nivo 2@*@15"
+            ],
+            [
+                "Étoile Montante@Champion de palier 2@*@15"
+            ],
+            [
+                "Восходящая звезда@Чемпион 2 уровня@*@15"
+            ],
+            [
+                "Estrella en Ascenso@Campeón de Nivel 2@*@15"
+            ]
+        ],
+        [
+            [
+                "Spot Kick Savant@Tier 3 Champion@*@50"
+            ],
+            [
+                "Talenat bele tačke@Završio Nivo 3 @*@50"
+            ],
+            [
+                "Savant sur Penalty@Champion de palier 3@*@50"
+            ],
+            [
+                "Супер шутер@Чемпион 3 уровня@*@50"
+            ],
+            [
+                "Sabio del Tiro Penal@Campeón de Nivel 3@*@50"
+            ]
+        ],
+        [
+            [
+                "Penalty Powerhouse@Tier 4 Champion@*@100"
+            ],
+            [
+                "Sila sa penala@Završio Nivo 4@*@100"
+            ],
+            [
+                "Machine à Penalty@Champion de palier 4@*@100"
+            ],
+            [
+                "Свака часть@Чемпион 4 уровня@*@100"
+            ],
+            [
+                "Casa de Poder del Penalti@Campeón de Nivel 4@*@100"
+            ]
+        ],
+        [
+            [
+                "Clutch Performer@Tier 5 Champion@*@150"
+            ],
+            [
+                "Car šuteva@Završio Nivo 5@*@150"
+            ],
+            [
+                "Champion du Clutch @Champion de palier 5@*@150"
+            ],
+            [
+                "Машина для пенальти@Чемпион 5 уровня@*@150"
+            ],
+            [
+                "Arista del Clutch@Campeón de Nivel 5@*@150"
+            ]
+        ],
+        [
+            [
+                "Tier Conqueror@Tier 6 Champion@*@300"
+            ],
+            [
+                "Nema dalje!@Završio Nivo 6@*@300"
+            ],
+            [
+                "Conquérant de palier @Champion de palier 6@*@300"
+            ],
+            [
+                "Завоеватель уровня@Чемпион 6 уровня@*@300"
+            ],
+            [
+                "Conquistador de Nivel@Campeón de Nivel 6@*@300"
+            ]
+        ],
+        [
+            [
+                "FAIL"
+            ],
+            [
+                "NEUSPEH"
+            ],
+            [
+                "RATÉ"
+            ],
+            [
+                "НЕУДАЧА"
+            ],
+            [
+                "FAIL"
+            ]
+        ],
+        [
+            [
+                "YOU DID IT!"
+            ],
+            [
+                "USPEO SI!"
+            ],
+            [
+                "VOUS AVEZ RÉUISSI !"
+            ],
+            [
+                "ТЫ СДЕЛАЛ ЭТО!"
+            ],
+            [
+                "¡LO LOGRASTE!"
+            ]
+        ],
+        [
+            [
+                "Not enough coins!##Play World Cup to earn some#(no entry fee there.)"
+            ],
+            [
+                "Nedovoljno novca!##Igraj Svetski kup da ga zaradiš#(tamo je ulaz besplatan.)"
+            ],
+            [
+                "Pas assez de pièces!##Jouez à la Coupe du Monde pour en gagner#(pas de frais d'inscription ici.)"
+            ],
+            [
+                "Недостаточно монет!##Играйте в чемпионате мира, чтобы заработать немного"
+            ],
+            [
+                "¡No tienes suficientes monedas!##Juega la Copa Mundial para ganar algunas#(no hay cuota de entrada allí.)"
+            ]
+        ],
+        [
+            [
+                "Entry fee:#"
+            ],
+            [
+                "Ulaznica:#"
+            ],
+            [
+                "Frais d'entrée:##"
+            ],
+            [
+                "Взнос:#"
+            ],
+            [
+                "Cuota de entrada:#"
+            ]
+        ],
+        [
+            [
+                "There's no entry fee for the World Cup matches!"
+            ],
+            [
+                "Igranje Svetskog kupa je besplatno!"
+            ],
+            [
+                "Il n'y a pas de frais d'entrée pour les matchs de la Coupe du Monde !"
+            ],
+            [
+                "Плата за вход на матчи чемпионата мира не взимается!"
+            ],
+            [
+                "¡No hay cuota de entrada para los partidos de la Copa del Mundo!"
+            ]
+        ],
+        [
+            [
+                "XX trophies won!"
+            ],
+            [
+                "Osvojio si XX trofeja!"
+            ],
+            [
+                "XX trophées gagnés !"
+            ],
+            [
+                "Выиграно XX трофеев!"
+            ],
+            [
+                "¡XX trofeos ganados!"
+            ]
+        ],
+        [
+            [
+                "XX trophies lost... "
+            ],
+            [
+                "Izgubio si XX trofeja..."
+            ],
+            [
+                "XX trophées perdus... "
+            ],
+            [
+                "XX трофеев потеряно..."
+            ],
+            [
+                "XX trofeos perdidos... "
+            ]
+        ],
+        [
+            [
+                "The World Cup mode doesn't affect trophies."
+            ],
+            [
+                "Svetski kup ne utiče na trofeje"
+            ],
+            [
+                "Le mode Coupe du monde n'affecte pas les trophées."
+            ],
+            [
+                "Режим Кубка мира не влияет на трофеи."
+            ],
+            [
+                "El modo Copa Mundial no afecta a los trofeos."
+            ]
+        ],
+        [
+            [
+                "Win XX trophies to #unlock this tier"
+            ],
+            [
+                "Osvoj XX trofeja da bi#otključao ovaj nivo"
+            ],
+            [
+                "Gagnez XX trophées pour #débloquer ce niveau"
+            ],
+            [
+                "Выиграйте XX призов, чтобы #разблокировать этот уровень"
+            ],
+            [
+                "Gana XX trofeos en #unlock de este nivel"
+            ]
+        ],
+        [
+            [
+                "VICTORY!"
+            ],
+            [
+                "POBEDA!"
+            ],
+            [
+                "VICTOIRE !"
+            ],
+            [
+                "ПОБЕДА!"
+            ],
+            [
+                "¡VICTORIA!"
+            ]
+        ],
+        [
+            [
+                "DEFEAT..."
+            ],
+            [
+                "PORAZ..."
+            ],
+            [
+                "DÉFAITE..."
+            ],
+            [
+                "ПОРАЖЕНИЕ..."
+            ],
+            [
+                "DERROTA..."
+            ]
+        ],
+        [
+            [
+                "You won XX trophies!"
+            ],
+            [
+                "Osvojio si XX trofeja!"
+            ],
+            [
+                "Vous avez gagné XX trophées !"
+            ],
+            [
+                "Вы выиграли XX трофеев!"
+            ],
+            [
+                "¡Has ganado XX trofeos!"
+            ]
+        ],
+        [
+            [
+                "You lost XX trophies."
+            ],
+            [
+                "Izgubio si XX trofeja."
+            ],
+            [
+                "Vous avez perdu XX trophées."
+            ],
+            [
+                "Вы потеряли XX трофеев."
+            ],
+            [
+                "Perdiste XX trofeos."
+            ]
+        ],
+        [
+            [
+                "CAREER STATS: GOALS ###, MATCHES %%%, VICTORIES &&&"
+            ],
+            [
+                "KARIJERA: GOLOVI ###, MECEVI %%%, POBEDE &&&"
+            ],
+            [
+                "STATS DE CARRIÈRE : BUTS ###, MATCHES %%%, VICTOIRES &&&"
+            ],
+            [
+                "КАРЬЕРНАЯ СТАТИСТИКА: ЦЕЛИ ###, МАТЧИ %%%, ПОБЕДЫ &&&"
+            ],
+            [
+                "ESTADÍSTICAS DE CARRERA: GOLES ###, PARTIDOS%%%, VICTORIAS &&&"
+            ]
+        ],
+        [
+            [
+                "Currently, you have no trophies."
+            ],
+            [
+                "Trenutno nemas nijedan trofej."
+            ],
+            [
+                "Actuellement, vous n'avez aucun trophée."
+            ],
+            [
+                "На данный момент у вас нет трофеев."
+            ],
+            [
+                "Actualmente, no tienes trofeos."
+            ]
+        ],
+        [
+            [
+                "Overall max#trophies reached.#Legendary!"
+            ],
+            [
+                "Dosegao si maks.#mogući broj trofeja.#Legendo!"
+            ],
+            [
+                "Maximum# de trophées atteint.#Légendaire !"
+            ],
+            [
+                "Общее количество #трофеев достигнуто.#Легендарно!"
+            ],
+            [
+                "En general se alcanzó el máximo #trofeos. ¡#Legendario!"
+            ]
+        ],
+        [
+            [
+                "Tier completed!#Play another tier to win more trophies."
+            ],
+            [
+                "Nivo kompetiran!#Igraj drugi nivo da bi osvojio još trofeja."
+            ],
+            [
+                "Palier terminé!#Jouez un autre palier pour gagner plus de trophées."
+            ],
+            [
+                "Уровень пройден!#Сыграйте еще раз, чтобы выиграть больше призов."
+            ],
+            [
+                "¡Nivel completado! #Juega otro nivel para ganar más trofeos."
+            ]
+        ],
+        [
+            [
+                "You don't have enough gems!"
+            ],
+            [
+                "Nemaš dovoljno dijamanata!"
+            ],
+            [
+                "Vous n'avez pas assez de gemmes !"
+            ],
+            [
+                "У вас недостаточно драгоценных камней!"
+            ],
+            [
+                "¡No tienes suficientes gemas!"
+            ]
+        ],
+        [
+            [
+                "CLICK ON THE POWER-UP TO BUY IT"
+            ],
+            [
+                "KLIKNI NA POWER-UP DA GA KUPIŠ"
+            ],
+            [
+                "CLIQUEZ SUR LE BONUS POUR L'ACHETER"
+            ],
+            [
+                "НАЖМИТЕ НА УСИЛЕНИЕ, ЧТОБЫ КУПИТЬ ЕГО"
+            ],
+            [
+                "HAZ CLIC EN EL POWER-UP PARA COMPRARLO"
+            ]
+        ],
+        [
+            [
+                "Coins"
+            ],
+            [
+                "Novac"
+            ],
+            [
+                "Pièces"
+            ],
+            [
+                "Монеты"
+            ],
+            [
+                "Monedas"
+            ]
+        ],
+        [
+            [
+                "Gems"
+            ],
+            [
+                "Dijamanti"
+            ],
+            [
+                "Gemmes"
+            ],
+            [
+                "Бриллианты"
+            ],
+            [
+                "Gemas"
+            ]
+        ],
+        [
+            [
+                "Trophies"
+            ],
+            [
+                "Trofeji"
+            ],
+            [
+                "Trophées"
+            ],
+            [
+                "Трофеи"
+            ],
+            [
+                "Trofeos"
+            ]
+        ],
+        [
+            [
+                "\\nYou need coins to enter matches in the Tier mode ('entry fee'). Win matches to earn double entry fee.\\n\\nIn the World Cup mode, no entry fee is needed (you'll still get the prize if you win)\\n\\nWatch an ad to get some coins now:"
+            ],
+            [
+                "Novac ti treba da bi igrao mečeve u modu Izazov nivoa ('ulaznica').\\n\\nPobeda u meču donosi dupli\\niznos ulaznice.\\n\\nU modu Svetski kup nema ulaznica, pa možeš da igraš kad god poželiš (ali ćeš dobiti nagradu ako pobediš)"
+            ],
+            [
+                "Vous avez besoin de pièces pour participer aux matchs du mode palier (\"frais d'entrée\").\\n\\nGagnez des matchs pour gagner le double des frais d'entrée.\\n\\nL'entrée est libre en Coupe du monde (vous recevrez toujours le prix lorsque vous gagnez).\\n\\nRegardez une annonce pour obtenir des pièces :"
+            ],
+            [
+                "Вам нужны монеты для входа в матчи в уровневом режиме («вступительный взнос»).\\nВыигрывайте матчи, чтобы заработать двойную ступительную плату.\\n\\nВ режиме Кубка мира вступительный взнос не требуется, (вы все равно получите приз, если выиграете)\\n\\nВы можете посмотреть рекламу и получить:"
+            ],
+            [
+                "Necesitas monedas para ingresar a las partidas en el modo Nivel ('tarifa de entrada').\\n\\nGana partidos para ganar una cuota de entrada doble.\\n\\nNo hay tarifa de entrada en la Copa del Mundo (aún obtendrás el premio cuando ganes)\\n\\nPuedes ver un anuncio para conseguir algunos:"
+            ]
+        ],
+        [
+            [
+                "\\nGems are a special currency that you can use to purchase power-ups and retry lost matches.\\n\\nYou can earn gems by accomplishing achievements.\\n\\nOr, you can watch an ad to get some now:"
+            ],
+            [
+                "Dijamanti su posebna valuta kojom kupuješ pojačanja i ponovo igraš izgubljene mečeve.\\n\\nZarađujes ih postižući posebne uspehe."
+            ],
+            [
+                "\\nLes gemmes sont une devise spéciale qui vous permet d'acheter des bonus et de rejouer les matchs perdus.\\n\\nVous pouvez gagner des gemmes en accomplissant des succès.\\n\\nOu regardez une publicité pour obtenir des joyaux :"
+            ],
+            [
+                "\\nДрагоценные камни — это особая валюта, которую вы можете использовать для приобретения усилений и повторения проигранных матчей.\\n\\nВы можете зарабатывать драгоценные камни, выполняя достижения.\\n\\nИли посмотрите рекламу, чтобы получить:"
+            ],
+            [
+                "\\n\\nLas gemas son una moneda especial que puedes usar para comprar power-ups y volver a intentar partidos perdidos.\\n\\nPuedes ganar gemas al lograr logros.\\n\\nO puede ver un anuncio para obtener algunos:"
+            ]
+        ],
+        [
+            [
+                "\\nTrophies are important for unlocking and progressing through tiers.\\n\\nIn the Tier mode, winning matches earns you trophies, while losing matches deducts some.\\n\\nOnce you reach the maximum number of trophies for a tier, that tier is completed.\\n\\nThe World Cup mode doesn't affect trophies."
+            ],
+            [
+                "Trofeji su bitni za otključavanje i napredak kroz nivoe.\\n\\nU modu Izazov nivoa, trofeje dobijaš pobedama a gubiš ih porazima. Jednom kada dosegneš maksimalan broj trofeja na nivou, taj nivo je završen.\\n\\nSvetski kup ne utiče na trofeje."
+            ],
+            [
+                "Les trophées sont importants pour débloquer et progresser dans les niveaux.\\n\\nDans le mode palier, gagner des matchs vous permet de gagner des trophées, tandis que perdre des matchs vous enlève des trophées.\\n\\nUne fois le nombre maximum de trophées atteint pour un niveau, ce niveau est terminé.\\n\\nLe mode Coupe du Monde n'affecte pas les trophées."
+            ],
+            [
+                "Трофеи важны для разблокировки и продвижения по уровням.\\n\\nВ уровневом режиме за победу в матчах вы получаете трофеи, а за проигрыш их часть вычитается.\\n\\nКак только вы достигнете максимального количества трофеев для уровня, этот уровень будет завершен.\\n\\nРежим Кубка мира не влияет на трофеи."
+            ],
+            [
+                "\\nLos trofeos son importantes para desbloquear y progresar a través de niveles.\\n\\nEn el Modo de Nivel, ganar partidas te da trofeos, mientras que perder partidas deduce algunos.\\n\\nUna vez que alcances el número máximo de trofeos para un nivel, ese nivel se completa.\\n\\nEl modo Copa Mundial no afecta a los trofeos."
+            ]
+        ],
+        [
+            [
+                "Team names, kit designs, and colors used in this game are fictional and any resemblance to real teams is purely coincidental. \\n\\nThis game is not associated with or endorsed by any real team or league."
+            ],
+            [
+                "Imena timova, dizajn dresova i boje, koji se koriste u ovoj igri, su izmišljeni i svaka sličnost sa stvarnim timovima je slučajna.\\n\\nOva igra nije povezana ni sa jednim pravim timom ili ligom niti podržana od njih."
+            ],
+            [
+                "Les noms des équipes, le design des kits et les couleurs utilisés dans ce jeu sont fictifs et toute ressemblance avec des équipes réelles n'est que pure coïncidence. \\nCe jeu n'est associé à aucune équipe ou ligue réelle."
+            ],
+            [
+                "Названия команд, дизайн формы и цвета, используемые в этой игре, являются вымышленными, и любое сходство с реальными командами является чисто случайным. \\nЭта игра не связана и не одобрена какой-либо реальной командой или лигой."
+            ],
+            [
+                "Los nombres de los equipos, los diseños del kit y los colores utilizados en este juego son ficticios y cualquier parecido con equipos reales es pura coincidencia.\\nEste juego no está asociado ni avalado por ningún equipo o liga real."
+            ]
+        ],
+        [
+            [
+                "This will delete your game progress and start a new game.\\n\\n Are you sure?"
+            ],
+            [
+                "Ovo će obrisati tvoj napredak u igri i započeti novu partiju.\\n\\nDa li si siguran?"
+            ],
+            [
+                "Cela effacera la progression de votre jeu et commencera un nouveau jeu.\\n\\n Êtes-vous sûr ?"
+            ],
+            [
+                "Это приведет к удалению вашего игрового прогресса и запуску новой игры.\\n\\n Вы уверены?"
+            ],
+            [
+                "Esto eliminará el progreso de tu juego y comenzará un nuevo juego.\\n\\n ¿Estás seguro?"
+            ]
+        ],
+        [
+            [
+                "Training Ground Arena"
+            ],
+            [
+                "Trening Arena"
+            ],
+            [
+                "Stade d'Entraînement"
+            ],
+            [
+                "Тренировочная площадка Арена"
+            ],
+            [
+                "Campo de Entrenamiento"
+            ]
+        ],
+        [
+            [
+                "Talent Showcase Ground"
+            ],
+            [
+                "Teren: Pokaži svoj talenat"
+            ],
+            [
+                "Terrain de Démonstration des Talents"
+            ],
+            [
+                "Площадка витрины талантов"
+            ],
+            [
+                "Terreno de Exhibición de Talentos"
+            ]
+        ],
+        [
+            [
+                "Rising Talent Stadium"
+            ],
+            [
+                "Stadion 'Zvezda u povoju'"
+            ],
+            [
+                "Stade des Étoiles Montantes"
+            ],
+            [
+                "Стадион «Восходящий талант»"
+            ],
+            [
+                "Estadio Talento Ascendente"
+            ]
+        ],
+        [
+            [
+                "Skill Showdown Ground"
+            ],
+            [
+                "Teren: Veština na delu"
+            ],
+            [
+                "Terrain de Démonstration des Compétences"
+            ],
+            [
+                "Поле схватки навыков"
+            ],
+            [
+                "Terreno de Enfrentamiento de Habilidades"
+            ]
+        ],
+        [
+            [
+                "Skillmaster Arena"
+            ],
+            [
+                "Arena Majstora"
+            ],
+            [
+                "Stade du Maître de l'Art"
+            ],
+            [
+                "Арена Скиллмастера"
+            ],
+            [
+                "Arena de Maestro de Habilidades"
+            ]
+        ],
+        [
+            [
+                "Epic Thunderdome Stadium"
+            ],
+            [
+                "Epska Stadiončina"
+            ],
+            [
+                "Stade du Tonnerre Epique"
+            ],
+            [
+                "Эпический стадион Громовой купол"
+            ],
+            [
+                "Estadio Domo Trueno Épico"
+            ]
+        ],
+        [
+            [
+                "You shoot"
+            ],
+            [
+                "Ti šutiraš"
+            ],
+            [
+                "Vous tirez"
+            ],
+            [
+                "Ты бьешь"
+            ],
+            [
+                "Tú tiras"
+            ]
+        ],
+        [
+            [
+                "Opponent shoots"
+            ],
+            [
+                "Protivnik šutira"
+            ],
+            [
+                "L'adversaire tire"
+            ],
+            [
+                "Противник бьет"
+            ],
+            [
+                "El oponente tira"
+            ]
+        ],
+        [
+            [
+                "Goal!"
+            ],
+            [
+                "Gol!"
+            ],
+            [
+                "But !"
+            ],
+            [
+                "Гол!"
+            ],
+            [
+                "¡Gol!"
+            ]
+        ],
+        [
+            [
+                "Miss!"
+            ],
+            [
+                "Promašaj!"
+            ],
+            [
+                "Raté !"
+            ],
+            [
+                "Промах!"
+            ],
+            [
+                "¡Fallaste!"
+            ]
+        ],
+        [
+            [
+                "Save!"
+            ],
+            [
+                "Odbrana!"
+            ],
+            [
+                "Arrêt !"
+            ],
+            [
+                "Сейв!"
+            ],
+            [
+                "¡Salvado!"
+            ]
+        ],
+        [
+            [
+                "Match over!"
+            ],
+            [
+                "Kraj utakmice!"
+            ],
+            [
+                "Le match est terminé !"
+            ],
+            [
+                "Матч окончен!"
+            ],
+            [
+                "¡Se acabó el partido!"
+            ]
+        ],
+        [
+            [
+                "You lost but..."
+            ],
+            [
+                "Izgubio si ali..."
+            ],
+            [
+                "Vous avez perdu mais..."
+            ],
+            [
+                "Ты проиграл, но..."
+            ],
+            [
+                "Perdiste pero..."
+            ]
+        ],
+        [
+            [
+                "You can replay this match for ## gems, or watch an ad!"
+            ],
+            [
+                "Možeš da ponoviš meč za ## dijamanata!"
+            ],
+            [
+                "Vous pouvez rejouer ce match pour ## gemmes, ou regarder une publicité !"
+            ],
+            [
+                "Вы можете переиграть этот матч за ## драгоценных камней или посмотреть рекламу!!"
+            ],
+            [
+                "¡Puedes volver a jugar esta partida por ## gemas  o ver un anuncio! "
+            ]
+        ],
+        [
+            [
+                "Previous match\\n doesn't count.\\nEntry fee and trophies\\n were refunded."
+            ],
+            [
+                "Prethodni meč\\nse ne računa.\\nNovac za ulaznicu i trofeji su ti vraćeni."
+            ],
+            [
+                "Le match précédent\\n ne compte pas. Les droits d'entrée et les trophées\\n ont été remboursés."
+            ],
+            [
+                "Предыдущий матч\\n не засчитывается.\\nВступительный взнос и призы возвращаются."
+            ],
+            [
+                "El partido anterior\\nno cuenta.\\nSe reembolsaron las cuotas de entrada y trofeos."
+            ]
+        ],
+        [
+            [
+                "Out of power-ups."
+            ],
+            [
+                "Nemaš pojačanja."
+            ],
+            [
+                "Il n'y a plus\\nde bonus."
+            ],
+            [
+                "Закончились бонусы."
+            ],
+            [
+                "Sin power-ups."
+            ]
+        ],
+        [
+            [
+                "How to shoot:"
+            ],
+            [
+                "Kako se šutira:"
+            ],
+            [
+                "Comment tirer :"
+            ],
+            [
+                "Как снимать:"
+            ],
+            [
+                "Cómo tirar:"
+            ]
+        ],
+        [
+            [
+                "1: PICK A POWER-UP [OPTIONAL]"
+            ],
+            [
+                ""
+            ],
+            [
+                "1 : CHOISISSEZ UN BONUS [FACULTATIF]"
+            ],
+            [
+                "1: ВЫБЕРИТЕ УСИЛЕНИЕ [НЕОБЯЗАТЕЛЬНО]"
+            ],
+            [
+                "1: ELIGE UN POWER-UP [OPCIONAL]"
+            ]
+        ],
+        [
+            [
+                "2: WATCH THE SHOT\\nSTRENGTH INDICATOR"
+            ],
+            [
+                ""
+            ],
+            [
+                "2 : REGARDEZ L'INDICATEUR\\nDE FORCE"
+            ],
+            [
+                "2: СЛЕДИТЕ ЗА ИНДИКАТОРОМ ПРОЧНОСТИ"
+            ],
+            [
+                "2: OBSERVA EL INDICADOR\\nDE FUERZA"
+            ]
+        ],
+        [
+            [
+                "3: PRESS ANYWHERE\\nAND HOLD TO AIM"
+            ],
+            [
+                ""
+            ],
+            [
+                "3 : APPUYEZ N'IMPORTE OÙ ET\\nRESTEZ ENFONCÉ POUR VISER"
+            ],
+            [
+                "3. НАЖМИТЕ В ЛЮБОМ МЕСТЕ И УДЕРЖИВАЙТЕ,\\n ЧТОБЫ ПРИЦЕЛИТЬСЯ."
+            ],
+            [
+                "3: PRESIONA EN CUALQUIER\\nLUGAR Y MANTÉN PRESIONADO PARA APUNTAR"
+            ]
+        ],
+        [
+            [
+                "4: RELEASE TO KICK"
+            ],
+            [
+                ""
+            ],
+            [
+                "4 : RELÂCHEZ POUR TIRER"
+            ],
+            [
+                "4: ОТПУСТИТЕ ДЛЯ УДАРА"
+            ],
+            [
+                "4: SUELTA PARA PATEAR"
+            ]
+        ],
+        [
+            [
+                "How to save:"
+            ],
+            [
+                "Kako se brani:"
+            ],
+            [
+                "Comment faire un arrêt :"
+            ],
+            [
+                "Как сохранить:"
+            ],
+            [
+                "Cómo salvar:"
+            ]
+        ],
+        [
+            [
+                "2: Watch for the target to appear"
+            ],
+            [
+                "2: Čekaj da se pojavi meta"
+            ],
+            [
+                "2 : Attendre que la cible apparaisse"
+            ],
+            [
+                "2: Следите за появлением цели"
+            ],
+            [
+                "2: Atento a que aparezca el objetivo"
+            ]
+        ],
+        [
+            [
+                "3: Tap the target to save"
+            ],
+            [
+                "3: Klikni na metu da se baciš"
+            ],
+            [
+                "3 : Touchez la cible pour l'arrêter"
+            ],
+            [
+                "3. Нажмите на цель, чтобы сохранить"
+            ],
+            [
+                "3: Toca el objetivo para guardar"
+            ]
+        ],
+        [
+            [
+                "World Cup mode unlocked!"
+            ],
+            [
+                "Mod Svetski kup otključan!"
+            ],
+            [
+                "Mode Coupe du Monde débloqué !"
+            ],
+            [
+                "Режим Кубка мира разблокирован!"
+            ],
+            [
+                "Modo Copa Mundial desbloqueado!"
+            ]
+        ],
+        [
+            [
+                "The tension is great before the grand finale!"
+            ],
+            [
+                "Napetost raste pred veliko finale!"
+            ],
+            [
+                "La tension est à son comble avant la grande finale !"
+            ],
+            [
+                "Напряжение перед грандиозным финалом великое!"
+            ],
+            [
+                "¡La tensión es grande antes de la gran final!"
+            ]
+        ],
+        [
+            [
+                "You're the champion of the world!"
+            ],
+            [
+                "Ti si svetski šampion!"
+            ],
+            [
+                "Vous êtes le champion du monde !"
+            ],
+            [
+                "Ты чемпион мира!"
+            ],
+            [
+                "¡Eres el campeón del mundo!"
+            ]
+        ],
+        [
+            [
+                "You made it to the finals!"
+            ],
+            [
+                "Ušao si u finale!"
+            ],
+            [
+                "Vous êtes arrivé en finale !"
+            ],
+            [
+                "Вы прошли в финал!"
+            ],
+            [
+                "¡Has logrado llegar a la final!"
+            ]
+        ],
+        [
+            [
+                "How to play?"
+            ],
+            [
+                "Kako se igra?"
+            ],
+            [
+                "Comment jouer ?"
+            ],
+            [
+                "Как играть?"
+            ],
+            [
+                "¿Cómo jugar?"
+            ]
+        ],
+        [
+            [
+                "Shooting:"
+            ],
+            [
+                "Šutiranje:"
+            ],
+            [
+                "Tirer :"
+            ],
+            [
+                "Стрельба:"
+            ],
+            [
+                "Tiros:"
+            ]
+        ],
+        [
+            [
+                "Defending:"
+            ],
+            [
+                "Branjenje:"
+            ],
+            [
+                "Défendre :"
+            ],
+            [
+                "Защита:"
+            ],
+            [
+                "Defendiendo:"
+            ]
+        ],
+        [
+            [
+                "CHOOSE A POWERUP (OPTIONAL)"
+            ],
+            [
+                "IZABERI POJAČANJE [OPCIONO]"
+            ],
+            [
+                "CHOISIR UN BONUS (FACULTATIF)"
+            ],
+            [
+                "ВЫБЕРИТЕ УСИЛЕНИЕ (ДОПОЛНИТЕЛЬНО)"
+            ],
+            [
+                "ELIGE UN POWERUP (OPCIONAL)"
+            ]
+        ],
+        [
+            [
+                "WATCH OUT THE SHOT POWER"
+            ],
+            [
+                "GLEDAJ INDIKATOR SNAGE"
+            ],
+            [
+                "ATTENTION À LA PUISSANCE DU TIR"
+            ],
+            [
+                "СЛЕДИТЕ ЗА МОЩНОСТЬЮ ВЫСТРЕЛА"
+            ],
+            [
+                "VE EL PODER DE TIRO"
+            ]
+        ],
+        [
+            [
+                "PRESS ANYWHERE AND HOLD "
+            ],
+            [
+                "PRITISNI BILO GDE I DRŽI"
+            ],
+            [
+                "APPUYEZ N'IMPORTE OÙ ET RESTEZ ENFONCÉ "
+            ],
+            [
+                "НАЖМИТЕ В ЛЮБОМ МЕСТЕ И УДЕРЖИВАЙТЕ"
+            ],
+            [
+                "PRESIONA EN CUALQUIER LUGAR Y MANTÉN PRESIONADO "
+            ]
+        ],
+        [
+            [
+                "RELEASE TO KICK"
+            ],
+            [
+                "PUSTI DA BI ŠUTNUO"
+            ],
+            [
+                "RELÂCHEZ POUR FRAPPER"
+            ],
+            [
+                "ОТПУСТИТЕ ДЛЯ УДАРА"
+            ],
+            [
+                "SUELTA PARA PATEAR"
+            ]
+        ],
+        [
+            [
+                "Tip: Change your ways of shooting, goalkeeper is smart!"
+            ],
+            [
+                "Menjaj nacin šutiranja, golman je pametan!"
+            ],
+            [
+                "Astuce : Changez votre façon de tirer, le gardien est intelligent !"
+            ],
+            [
+                "Совет: меняйте способы бросков, вратарь умный!"
+            ],
+            [
+                "Consejo: ¡Cambia tu forma de tirar, el portero es inteligente!"
+            ]
+        ],
+        [
+            [
+                "Tip: Strong  and precise shots .."
+            ],
+            [
+                ""
+            ],
+            [
+                "Astuce : Des tirs forts et précis ..."
+            ],
+            [
+                "Совет: Сильные и точные удары.."
+            ],
+            [
+                "Consejo: Tiros fuertes y precisos.."
+            ]
+        ],
+        [
+            [
+                "Tip"
+            ],
+            [
+                ""
+            ],
+            [
+                "Astuce"
+            ],
+            [
+                "Кончик"
+            ],
+            [
+                "Consejo"
+            ]
+        ],
+        [
+            [
+                "Tip"
+            ],
+            [
+                ""
+            ],
+            [
+                "Astuce"
+            ],
+            [
+                "Кончик"
+            ],
+            [
+                "Consejo"
+            ]
+        ],
+        [
+            [
+                "CHOOSE A POWERUP (OPTIONAL)"
+            ],
+            [
+                "IZABERI POJAČANJE [OPCIONO]"
+            ],
+            [
+                "CHOISISSEZ UN BONUS (FACULTATIF)"
+            ],
+            [
+                "ВЫБЕРИТЕ УСИЛЕНИЕ (ДОПОЛНИТЕЛЬНО)"
+            ],
+            [
+                "ELIGE UN POWERUP (OPCIONAL)"
+            ]
+        ],
+        [
+            [
+                "WATCH THE SHOT POWER INDICATOR"
+            ],
+            [
+                "GLEDAJ INDIKATOR SNAGE"
+            ],
+            [
+                "SURVEILLEZ L'INDICATEUR DE PUISSANCE DE TIR"
+            ],
+            [
+                "СЛЕДИТЕ ЗА ИНДИКАТОРОМ МОЩНОСТИ ВЫСТРЕЛА"
+            ],
+            [
+                "VE EL INDICADOR DE POTENCIA DE DISPARO"
+            ]
+        ],
+        [
+            [
+                "WAIT FOR THE TARGET TO APPEAR"
+            ],
+            [
+                "Čekaj da se pojavi meta"
+            ],
+            [
+                "ATTENDEZ QUE LA CIBLE APPARAISSE"
+            ],
+            [
+                "ПОДОЖДИТЕ ПОЯВЛЕНИЯ ЦЕЛИ"
+            ],
+            [
+                "ESPERA A QUE APAREZCA EL OBJETIVO"
+            ]
+        ],
+        [
+            [
+                "TAP THE TARGET TO DIVE"
+            ],
+            [
+                "Klikni na metu da se baciš"
+            ],
+            [
+                "TOUCHEZ LA CIBLE POUR PLONGER"
+            ],
+            [
+                "НАЖМИТЕ ЦЕЛЬ, ЧТОБЫ ПОГРУЖИТЬСЯ"
+            ],
+            [
+                "TOCA EL OBJETIVO PARA LANZAR"
+            ]
+        ],
+        [
+            [
+                "Tip: If the opponent shots\\n a slow shot, tap a bit later."
+            ],
+            [
+                "Ako protivnik šutne sporo,\\nsačekaj malo pre nego sto se baciš."
+            ],
+            [
+                "Conseil : si l'adversaire tire lentement, tapotez un peu plus tard."
+            ],
+            [
+                "Совет: если противник\\n наносит медленный удар, нажмите чуть позже."
+            ],
+            [
+                "Consejo: Si el oponente tira\\n un tiro lento, toca un poco más tarde."
+            ]
+        ],
+        [
+            [
+                "All rights reserved. Unauthorized copying, modification, or distribution of this game's content is strictly prohibited."
+            ],
+            [
+                "Sva prava zadržana. Neovlašćeno kopiranje, modifikacija ili distribucija sadržaja ove igre je strogo zabranjeno."
+            ],
+            [
+                "Tous droits réservés. La copie, la modification ou la distribution non autorisée du contenu de ce jeu est strictement interdite."
+            ],
+            [
+                "Все права защищены. Несанкционированное копирование, изменение или распространение содержимого этой игры строго запрещено."
+            ],
+            [
+                "Todos los derechos reservados. La copia, modificación o distribución no autorizadas del contenido de este juego está estrictamente prohibida."
+            ]
+        ],
+        [
+            [
+                "Like this game?#Please, give it#a 'thumb up'#or add to favorites :)"
+            ],
+            [
+                ""
+            ],
+            [
+                "Vous aimez ce jeu ? Laissez-lui un#\"pouce en l'air\"#ou ajoutez-le à vos favoris :)"
+            ],
+            [
+                "Понравилась эта игра?#Пожалуйста, поставьте ей#большой палец вверх#или добавьте в избранное :)"
+            ],
+            [
+                "¿Te gusta este juego? #Por favor, dale#un 'pulgar arriba'#o agregar a favoritos :)"
+            ]
+        ],
+        [
+            [
+                "Play # match& in Tier Challenge to unlock World Cup."
+            ],
+            [
+                "Odigraj # meč(a) u Izazovu nivoa da bi otključao Svetski kup"
+            ],
+            [
+                "Jouez # match& dans le Défi de palier pour débloquer la Coupe du Monde."
+            ],
+            [
+                "Сыграйте # матч& в Уровень испытания, чтобы разблокировать чемпионат мира."
+            ],
+            [
+                "Juega # partido& en Desafío Nivel para desbloquear la Copa Mundial."
+            ]
+        ],
+        [
+            [
+                "Credits"
+            ],
+            [
+                "Info"
+            ],
+            [
+                "Crédits"
+            ],
+            [
+                "Кредиты"
+            ],
+            [
+                "Créditos"
+            ]
+        ],
+        [
+            [
+                "Paused"
+            ],
+            [
+                "Pauzirano"
+            ],
+            [
+                "Pause"
+            ],
+            [
+                "Пауза"
+            ],
+            [
+                "Pausado"
+            ]
+        ],
+        [
+            [
+                "EDIT TEAM COLORS"
+            ],
+            [
+                "IZMENI DRES KLUBA"
+            ],
+            [
+                "MODIFIER LES COULEURS"
+            ],
+            [
+                "Клубные цвета"
+            ],
+            [
+                "EDITAR COLORES"
+            ]
+        ],
+        [
+            [
+                "ACHIEVEMENTS"
+            ],
+            [
+                "USPESI"
+            ],
+            [
+                "RÉUSSITES"
+            ],
+            [
+                "ДОСТИЖЕНИЯ"
+            ],
+            [
+                "LOGROS"
+            ]
+        ],
+        [
+            [
+                "Tier challenge"
+            ],
+            [
+                "Izazov nivoa"
+            ],
+            [
+                "Défi de palier"
+            ],
+            [
+                "Уровень испытания"
+            ],
+            [
+                "Desafío de nivel"
+            ]
+        ],
+        [
+            [
+                "World\\ncup"
+            ],
+            [
+                "Svetski\\nkup"
+            ],
+            [
+                "Coupe du\\nmonde"
+            ],
+            [
+                "Кубок мира"
+            ],
+            [
+                "Copa Mundial"
+            ]
+        ],
+        [
+            [
+                "High resolution"
+            ],
+            [
+                "Visoka rezolucija"
+            ],
+            [
+                "Haute résolution"
+            ],
+            [
+                "Высокое разрешение"
+            ],
+            [
+                "Alta resolución"
+            ]
+        ],
+        [
+            [
+                "Reset"
+            ],
+            [
+                "Reset igre"
+            ],
+            [
+                "Réinitialiser"
+            ],
+            [
+                "Перезагрузить"
+            ],
+            [
+                "Restablecer"
+            ]
+        ],
+        [
+            [
+                "PICK ANOTHER NAME FOR YOUR TEAM"
+            ],
+            [
+                "Odaberi drugo ime za klub"
+            ],
+            [
+                "CHOISIR UN AUTRE NOM POUR VOTRE ÉQUIPE"
+            ],
+            [
+                "Изменить название клуба"
+            ],
+            [
+                "ELIGE OTRO NOMBRE PARA TU EQUIPO"
+            ]
+        ],
+        [
+            [
+                "PICK RANDOM NAME"
+            ],
+            [
+                "Odaberi\\nslučajno ime"
+            ],
+            [
+                "CHOISIR UN NOM AU HASARD"
+            ],
+            [
+                "СЛУЧАЙНОЕ ИМЯ"
+            ],
+            [
+                "ELEGIR NOMBRE ALEATORIO"
+            ]
+        ],
+        [
+            [
+                "TEAM NAME UPDATED"
+            ],
+            [
+                "Ime tima je promenjeno"
+            ],
+            [
+                "MISE À JOUR DU NOM DE L'ÉQUIPE"
+            ],
+            [
+                "НАЗВАНИЕ КОМАНДЫ ОБНОВЛЕНО"
+            ],
+            [
+                "NOMBRE DEL EQUIPO ACTUALIZADO"
+            ]
+        ],
+        [
+            [
+                "POWER-UPS STORE"
+            ],
+            [
+                "Prodavnica pojačanja"
+            ],
+            [
+                "MAGASIN DE BONUS"
+            ],
+            [
+                "МАГАЗИН УЛУЧШЕНИЙ"
+            ],
+            [
+                "TIENDA DE POWER-UPS"
+            ]
+        ],
+        [
+            [
+                "FOR GOALKEEPING:"
+            ],
+            [
+                "Za branjenje:"
+            ],
+            [
+                "POUR LES GARDIENS DE BUT :"
+            ],
+            [
+                "ДЛЯ ВРАТАРЕЙ:"
+            ],
+            [
+                "PARA PORTERÍA:"
+            ]
+        ],
+        [
+            [
+                "FOR SHOOTING:"
+            ],
+            [
+                "Za šutiranje:"
+            ],
+            [
+                "POUR LES TIRS :"
+            ],
+            [
+                "ДЛЯ СЪЕМКИ:"
+            ],
+            [
+                "PARA TIRAR:"
+            ]
+        ],
+        [
+            [
+                "Tier"
+            ],
+            [
+                "Nivo"
+            ],
+            [
+                "Niveau"
+            ],
+            [
+                "Уровень"
+            ],
+            [
+                "Nivel"
+            ]
+        ],
+        [
+            [
+                "Loss:"
+            ],
+            [
+                "Poraz:"
+            ],
+            [
+                "Défaite :"
+            ],
+            [
+                "Потеря:"
+            ],
+            [
+                "Pérdida:"
+            ]
+        ],
+        [
+            [
+                "Win:"
+            ],
+            [
+                "Pobeda:"
+            ],
+            [
+                "Victoire :"
+            ],
+            [
+                "Победа!"
+            ],
+            [
+                "Victoria:"
+            ]
+        ],
+        [
+            [
+                "Prize:"
+            ],
+            [
+                "Nagrada:"
+            ],
+            [
+                "Prix:"
+            ],
+            [
+                "Приз:"
+            ],
+            [
+                "Premio:"
+            ]
+        ],
+        [
+            [
+                "Slippery Surface"
+            ],
+            [
+                "Klizavica"
+            ],
+            [
+                "Surface Glissante"
+            ],
+            [
+                "Скользкая поверхность"
+            ],
+            [
+                "Superficie resbaladiza"
+            ]
+        ],
+        [
+            [
+                "Sluggish Reaction"
+            ],
+            [
+                "Spori refleksi"
+            ],
+            [
+                "Réaction lente"
+            ],
+            [
+                "Вялая реакция"
+            ],
+            [
+                "Reacción\\nlenta"
+            ]
+        ],
+        [
+            [
+                "Mind Reader"
+            ],
+            [
+                "Čitanje misli"
+            ],
+            [
+                "Lecture\\nde Pensées"
+            ],
+            [
+                "Телепат"
+            ],
+            [
+                "Lector\\nde Mente"
+            ]
+        ],
+        [
+            [
+                "Goalie Freeze"
+            ],
+            [
+                "GolmoSmrz!"
+            ],
+            [
+                "Gardien Gelé"
+            ],
+            [
+                "Вратарь замирает"
+            ],
+            [
+                "Congelación \\nde portero"
+            ]
+        ],
+        [
+            [
+                "Phantom Wall"
+            ],
+            [
+                "Fantomski zid"
+            ],
+            [
+                "Mur Fantôme"
+            ],
+            [
+                "Призрачная стена"
+            ],
+            [
+                "Pared\\nfantasma"
+            ]
+        ],
+        [
+            [
+                "Precision Boost"
+            ],
+            [
+                "Veća preciznost"
+            ],
+            [
+                "Boost de Précision"
+            ],
+            [
+                "Повышение точности"
+            ],
+            [
+                "Impulso de precisión"
+            ]
+        ],
+        [
+            [
+                "Opponent misses the whole ball."
+            ],
+            [
+                "Protivnik promašuje loptu."
+            ],
+            [
+                "L'adversaire rate toute la balle."
+            ],
+            [
+                "Противник пропускает весь мяч."
+            ],
+            [
+                "El oponente perdió todo el balón."
+            ]
+        ],
+        [
+            [
+                "Opponent goalie will be a bit slower"
+            ],
+            [
+                "Protivnički golman sporije reaguje."
+            ],
+            [
+                "Le gardien de but adverse sera un peu plus lent"
+            ],
+            [
+                "Вратарь соперника будет действовать немного медленнее"
+            ],
+            [
+                "El portero oponente será un poco más lento"
+            ]
+        ],
+        [
+            [
+                "Your goalie will see the opponent's target earlier."
+            ],
+            [
+                "Tvoj golman će ranije videti metu."
+            ],
+            [
+                "Votre gardien verra la cible de l'adversaire plus tôt."
+            ],
+            [
+                "Ваш вратарь раньше увидит цель соперника."
+            ],
+            [
+                "Tu portero verá el objetivo del oponente antes."
+            ]
+        ],
+        [
+            [
+                "Opponent goalie won't react at all."
+            ],
+            [
+                "Protivnički golman neće uopšte reagovati."
+            ],
+            [
+                "Le gardien adverse ne réagira pas du tout."
+            ],
+            [
+                "Вратарь соперника вообще не отреагирует."
+            ],
+            [
+                "El portero oponente no reaccionará en absoluto."
+            ]
+        ],
+        [
+            [
+                "Creates a wall to protect part of your goal"
+            ],
+            [
+                "Stvara se zid koji pokriva deo tvog gola."
+            ],
+            [
+                "Crée un mur pour protéger une partie de votre but"
+            ],
+            [
+                "Создает стену для защиты части вашей цели"
+            ],
+            [
+                "Crea un muro para proteger parte de tu objetivo"
+            ]
+        ],
+        [
+            [
+                "Improves your aiming. Doesn't affect shot strength."
+            ],
+            [
+                "Popravlja tvoje ciljanje. Ne utiče na snagu."
+            ],
+            [
+                "Améliore votre visée. N'affecte pas la puissance du tir."
+            ],
+            [
+                "Улучшает ваше прицеливание. Не влияет на силу выстрела."
+            ],
+            [
+                "Mejora tu puntería. No afecta la fuerza de disparo."
+            ]
+        ],
+        [
+            [
+                "BUY THIS POWER-UP"
+            ],
+            [
+                "Kupi ovo pojačanje"
+            ],
+            [
+                "ACHETER CE BONUS"
+            ],
+            [
+                "КУПИТЬ ЭТО УЛУЧШЕНИЕ"
+            ],
+            [
+                "COMPRAR ESTE POWER-UP"
+            ]
+        ],
+        [
+            [
+                "BUY"
+            ],
+            [
+                "Kupi"
+            ],
+            [
+                "ACHETER"
+            ],
+            [
+                "КУПИТЬ"
+            ],
+            [
+                "COMPRAR"
+            ]
+        ],
+        [
+            [
+                "Get ready!"
+            ],
+            [
+                "Spremi se!"
+            ],
+            [
+                "Préparez-vous !"
+            ],
+            [
+                "Приготовься!"
+            ],
+            [
+                "¡Prepárate!"
+            ]
+        ],
+        [
+            [
+                "USE A POWER-UP?"
+            ],
+            [
+                "KORISTI POJAČANJE?"
+            ],
+            [
+                "UTILISER UN BONUS ?"
+            ],
+            [
+                "Использовать усиление?"
+            ],
+            [
+                "¿USAR UN POWER-UP?"
+            ]
+        ],
+        [
+            [
+                "Achievement!"
+            ],
+            [
+                "Uspeh!"
+            ],
+            [
+                "Réussite !"
+            ],
+            [
+                "Достижение!"
+            ],
+            [
+                "¡Logro!"
+            ]
+        ],
+        [
+            [
+                "Claim"
+            ],
+            [
+                "Uzmi"
+            ],
+            [
+                "Réclamer"
+            ],
+            [
+                "Получить"
+            ],
+            [
+                "Reclamar"
+            ]
+        ],
+        [
+            [
+                "TURN OFF SOUNDS?"
+            ],
+            [
+                "Ugasi zvuk?"
+            ],
+            [
+                "COUPER LES SONS ?"
+            ],
+            [
+                "ВЫКЛЮЧИТЬ ЗВУКИ?"
+            ],
+            [
+                "¿DESACTIVAR SONIDOS?"
+            ]
+        ],
+        [
+            [
+                "Language:"
+            ],
+            [
+                "Jezik:"
+            ],
+            [
+                "Langue :"
+            ],
+            [
+                "Язык:"
+            ],
+            [
+                "Idioma:"
+            ]
+        ],
+        [
+            [
+                "STATUS SAVED!"
+            ],
+            [
+                "Status snimljen"
+            ],
+            [
+                "Partie sauvegardée!"
+            ],
+            [
+                "Статус сохранен!"
+            ],
+            [
+                "Estado guardado"
+            ]
+        ],
+        [
+            [
+                "Watch an ad to replay this match?"
+            ],
+            [
+                "Pogledaj reklamu da ponovis mec?"
+            ],
+            [
+                "Regarder une pub pour rejouer ce match ?"
+            ],
+            [
+                "Посмотреть рекламу, чтобы переиграть этот матч? "
+            ],
+            [
+                "¿Ver un anuncio para volver a jugar este partido?"
+            ]
+        ],
+        [
+            [
+                "Watch an ad to get double coins?"
+            ],
+            [
+                "Pogledaj reklamu za duple novcice?"
+            ],
+            [
+                "Regarder une pub pour obtenir des pièces doubles ?"
+            ],
+            [
+                "Посмотрите рекламу, чтобы получить двойные монеты?"
+            ],
+            [
+                "¿Ver un anuncio para obtener monedas dobles?"
+            ]
+        ],
+        [
+            [
+                "Watch an ad to get double gems?"
+            ],
+            [
+                "Pogledaj reklamu za duple dragulje?"
+            ],
+            [
+                "Regarder une publicité pour obtenir le double de gemmes ?"
+            ],
+            [
+                " Посмотрите рекламу, чтобы получить двойные бриллианты?"
+            ],
+            [
+                "¿Ver un anuncio para obtener gemas dobles?"
+            ]
+        ],
+        [
+            [
+                "Back to menu"
+            ],
+            [
+                "Nazad na meni"
+            ],
+            [
+                "Revenir au menu"
+            ],
+            [
+                "Назад к меню"
+            ],
+            [
+                "Volver al menú"
+            ]
+        ],
+        [
+            [
+                "This will quit the current competition.\\n \nAre you sure?"
+            ],
+            [
+                "Ovo ce prekinuti takmicenje. Da li si siguran?"
+            ],
+            [
+                "Cela quittera la compétition actuelle.\\n\nEs-tu sûr?"
+            ],
+            [
+                "Это покинет текущую конкуренцию.\\n\nВы уверены?"
+            ],
+            [
+                "Esto abandonará la competencia actual.\\n\n¿Está seguro?"
+            ]
+        ],
+        [
+            [
+                "Watch an ad to replay this match?"
+            ],
+            [
+                "Pogledaj reklamu da bi ponovo odigrao mec?"
+            ],
+            [
+                "Regarder une pub pour rejouer ce match ?"
+            ],
+            [
+                "Посмотреть рекламу, чтобы переиграть этот матч?"
+            ],
+            [
+                "¿Ver un anuncio para reproducir este partido?"
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

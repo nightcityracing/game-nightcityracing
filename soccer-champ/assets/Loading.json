@@ -1,0 +1,78 @@
+{"frames": [
+{
+	"filename": "ball",
+	"frame": {"x":228,"y":146,"w":27,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":27},
+	"sourceSize": {"w":27,"h":27}
+},
+{
+	"filename": "bg",
+	"frame": {"x":1,"y":1,"w":287,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":143},
+	"sourceSize": {"w":287,"h":143}
+},
+{
+	"filename": "loading",
+	"frame": {"x":317,"y":179,"w":43,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":43},
+	"sourceSize": {"w":43,"h":43}
+},
+{
+	"filename": "touch01",
+	"frame": {"x":430,"y":145,"w":65,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":85,"w":65,"h":115},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "touch02",
+	"frame": {"x":430,"y":1,"w":72,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":48,"w":72,"h":142},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "touch03",
+	"frame": {"x":228,"y":179,"w":87,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":39,"w":87,"h":151},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "touch04",
+	"frame": {"x":123,"y":146,"w":103,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":30,"w":103,"h":160},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "touch05",
+	"frame": {"x":1,"y":146,"w":120,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":22,"w":120,"h":168},
+	"sourceSize": {"w":150,"h":200}
+},
+{
+	"filename": "touch06",
+	"frame": {"x":290,"y":1,"w":138,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":14,"w":138,"h":176},
+	"sourceSize": {"w":150,"h":200}
+}
+],
+"meta": {
+	"app": "Spritor"
+}
+}

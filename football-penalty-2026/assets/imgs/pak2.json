@@ -1,0 +1,492 @@
+{"frames": [
+
+{
+	"filename": "avatar_bg_playera.png",
+	"frame": {"x":1799,"y":769,"w":160,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":150},
+	"sourceSize": {"w":160,"h":150}
+},
+{
+	"filename": "avatar_bg_playerb.png",
+	"frame": {"x":1818,"y":921,"w":160,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":150},
+	"sourceSize": {"w":160,"h":150}
+},
+{
+	"filename": "blank_black.png",
+	"frame": {"x":1326,"y":1054,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+{
+	"filename": "button_arrow_left.png",
+	"frame": {"x":1369,"y":298,"w":90,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":104},
+	"sourceSize": {"w":90,"h":104}
+},
+{
+	"filename": "button_arrow_right.png",
+	"frame": {"x":1335,"y":1574,"w":90,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":104},
+	"sourceSize": {"w":90,"h":104}
+},
+{
+	"filename": "button_forfeith.png",
+	"frame": {"x":758,"y":922,"w":610,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":130},
+	"sourceSize": {"w":610,"h":130}
+},
+{
+	"filename": "button_upgrades_left.png",
+	"frame": {"x":1902,"y":1,"w":100,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":131},
+	"sourceSize": {"w":100,"h":131}
+},
+{
+	"filename": "button_upgrades_right.png",
+	"frame": {"x":1902,"y":134,"w":100,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":131},
+	"sourceSize": {"w":100,"h":131}
+},
+{
+	"filename": "darkness_bg.png",
+	"frame": {"x":1,"y":1,"w":120,"h":1301},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":1301},
+	"sourceSize": {"w":120,"h":1301}
+},
+{
+	"filename": "darkness_bg_red.png",
+	"frame": {"x":123,"y":1,"w":120,"h":1300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":1300},
+	"sourceSize": {"w":120,"h":1300}
+},
+{
+	"filename": "goldball.png",
+	"frame": {"x":315,"y":1600,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+{
+	"filename": "icon_01half_end.png",
+	"frame": {"x":1094,"y":1630,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "icon_01half_start.png",
+	"frame": {"x":1138,"y":1630,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "icon_02half_end.png",
+	"frame": {"x":1961,"y":769,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "icon_02half_start.png",
+	"frame": {"x":1961,"y":829,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "icon_avatar_selected.png",
+	"frame": {"x":549,"y":1604,"w":91,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":80},
+	"sourceSize": {"w":91,"h":80}
+},
+{
+	"filename": "icon_end.png",
+	"frame": {"x":1589,"y":1602,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "icon_instructions_01.png",
+	"frame": {"x":1492,"y":1460,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+{
+	"filename": "icon_instructions_02.png",
+	"frame": {"x":1634,"y":1501,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+{
+	"filename": "icon_instructions_03.png",
+	"frame": {"x":1776,"y":1501,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+{
+	"filename": "icon_instructions_ball.png",
+	"frame": {"x":1326,"y":1084,"w":316,"h":338},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":338},
+	"sourceSize": {"w":316,"h":338}
+},
+{
+	"filename": "icon_instructions_ball_small.png",
+	"frame": {"x":674,"y":985,"w":53,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":57},
+	"sourceSize": {"w":53,"h":57}
+},
+{
+	"filename": "icon_instructions_trophy.png",
+	"frame": {"x":1480,"y":1,"w":420,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":420},
+	"sourceSize": {"w":420,"h":420}
+},
+{
+	"filename": "icon_instructions_trophy_small.png",
+	"frame": {"x":1916,"y":1393,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+{
+	"filename": "icon_overtime_end.png",
+	"frame": {"x":1953,"y":1073,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "icon_overtime_start.png",
+	"frame": {"x":1953,"y":1133,"w":42,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":58},
+	"sourceSize": {"w":42,"h":58}
+},
+{
+	"filename": "page_active.png",
+	"frame": {"x":2005,"y":769,"w":24,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":70},
+	"sourceSize": {"w":24,"h":70}
+},
+{
+	"filename": "page_unactive.png",
+	"frame": {"x":2005,"y":841,"w":24,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":70},
+	"sourceSize": {"w":24,"h":70}
+},
+{
+	"filename": "player_name_button_check.png",
+	"frame": {"x":1902,"y":267,"w":114,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":114},
+	"sourceSize": {"w":114,"h":114}
+},
+{
+	"filename": "player_name_button_pencil.png",
+	"frame": {"x":1219,"y":1574,"w":114,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":114},
+	"sourceSize": {"w":114,"h":114}
+},
+{
+	"filename": "player_name_textfield.png",
+	"frame": {"x":1370,"y":968,"w":446,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":446,"h":114},
+	"sourceSize": {"w":446,"h":114}
+},
+{
+	"filename": "table_forfeith_sh.png",
+	"frame": {"x":758,"y":630,"w":610,"h":290},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":290},
+	"sourceSize": {"w":610,"h":290}
+},
+{
+	"filename": "table_icons_texts_a.png",
+	"frame": {"x":1369,"y":423,"w":600,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":130},
+	"sourceSize": {"w":600,"h":130}
+},
+{
+	"filename": "table_icons_texts_b.png",
+	"frame": {"x":1370,"y":555,"w":600,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":130},
+	"sourceSize": {"w":600,"h":130}
+},
+{
+	"filename": "table_instructions.png",
+	"frame": {"x":245,"y":1,"w":511,"h":539},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":511,"h":539},
+	"sourceSize": {"w":511,"h":539}
+},
+{
+	"filename": "table_instructions_progressbar.png",
+	"frame": {"x":674,"y":1054,"w":650,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":650,"h":130},
+	"sourceSize": {"w":650,"h":130}
+},
+{
+	"filename": "table_instructions_title.png",
+	"frame": {"x":674,"y":1186,"w":650,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":650,"h":130},
+	"sourceSize": {"w":650,"h":130}
+},
+{
+	"filename": "table_instructions_trophy_ball.png",
+	"frame": {"x":758,"y":1,"w":720,"h":295},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":295},
+	"sourceSize": {"w":720,"h":295}
+},
+{
+	"filename": "table_instructions_upgrades.png",
+	"frame": {"x":674,"y":1318,"w":650,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":650,"h":130},
+	"sourceSize": {"w":650,"h":130}
+},
+{
+	"filename": "table_levels_button_progress_sh.png",
+	"frame": {"x":966,"y":1630,"w":126,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":55},
+	"sourceSize": {"w":126,"h":55}
+},
+{
+	"filename": "table_levels_locked.png",
+	"frame": {"x":655,"y":1510,"w":562,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":562,"h":58},
+	"sourceSize": {"w":562,"h":58}
+},
+{
+	"filename": "table_levels_maxed.png",
+	"frame": {"x":655,"y":1450,"w":563,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":563,"h":58},
+	"sourceSize": {"w":563,"h":58}
+},
+{
+	"filename": "table_levels_progress.png",
+	"frame": {"x":655,"y":1570,"w":562,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":562,"h":58},
+	"sourceSize": {"w":562,"h":58}
+},
+{
+	"filename": "table_mainmenu.png",
+	"frame": {"x":245,"y":542,"w":511,"h":441},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":511,"h":441},
+	"sourceSize": {"w":511,"h":441}
+},
+{
+	"filename": "table_paddleslist.png",
+	"frame": {"x":1370,"y":687,"w":427,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":279},
+	"sourceSize": {"w":427,"h":279}
+},
+{
+	"filename": "table_page_bg.png",
+	"frame": {"x":1799,"y":687,"w":230,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":80},
+	"sourceSize": {"w":230,"h":80}
+},
+{
+	"filename": "table_playerhub.png",
+	"frame": {"x":245,"y":985,"w":427,"h":365},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":365},
+	"sourceSize": {"w":427,"h":365}
+},
+{
+	"filename": "table_playerhub_avatar_bg.png",
+	"frame": {"x":403,"y":1352,"w":250,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":250},
+	"sourceSize": {"w":250,"h":250}
+},
+{
+	"filename": "table_players.png",
+	"frame": {"x":758,"y":298,"w":609,"h":330},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":609,"h":330},
+	"sourceSize": {"w":609,"h":330}
+},
+{
+	"filename": "table_players_glow.png",
+	"frame": {"x":1,"y":1352,"w":400,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":246},
+	"sourceSize": {"w":400,"h":246}
+},
+{
+	"filename": "table_time.png",
+	"frame": {"x":1644,"y":1393,"w":270,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":106},
+	"sourceSize": {"w":270,"h":106}
+},
+{
+	"filename": "table_time_under.png",
+	"frame": {"x":1220,"y":1460,"w":270,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":112},
+	"sourceSize": {"w":270,"h":112}
+},
+{
+	"filename": "tables_levels_locked.png",
+	"frame": {"x":1,"y":1600,"w":312,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":34},
+	"sourceSize": {"w":312,"h":34}
+},
+{
+	"filename": "tables_levels_maxed.png",
+	"frame": {"x":1,"y":1636,"w":312,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":34},
+	"sourceSize": {"w":312,"h":34}
+},
+{
+	"filename": "tables_levels_progress.png",
+	"frame": {"x":1326,"y":1424,"w":312,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":34},
+	"sourceSize": {"w":312,"h":34}
+},
+{
+	"filename": "talbename_playera.png",
+	"frame": {"x":642,"y":1630,"w":160,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":50},
+	"sourceSize": {"w":160,"h":50}
+},
+{
+	"filename": "talbename_playerb.png",
+	"frame": {"x":804,"y":1630,"w":160,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":50},
+	"sourceSize": {"w":160,"h":50}
+},
+{
+	"filename": "talbescore_playera.png",
+	"frame": {"x":1427,"y":1602,"w":160,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":65},
+	"sourceSize": {"w":160,"h":65}
+},
+{
+	"filename": "talbescore_playerb.png",
+	"frame": {"x":387,"y":1604,"w":160,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":65},
+	"sourceSize": {"w":160,"h":65}
+},
+{
+	"filename": "win_effect_rotate.png",
+	"frame": {"x":1644,"y":1084,"w":307,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":307},
+	"sourceSize": {"w":307,"h":307}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pak2.png",
+	"format": "RGBA8888",
+	"size": {"w":2030,"h":1689},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6a4959745fe2a620536fca3b1dbd8ab4:f0539a2a482eec7b668869d80117e2b1:3fc1f6e7261c0ed43ea391d136c0e4ac$"
+}
+}

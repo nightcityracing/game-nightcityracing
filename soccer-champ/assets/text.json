@@ -1,0 +1,167 @@
+{
+  "en": {
+    "TXT_GAMES_PLAYED": "Games played",
+    "TXT_GOALS": "Goals",
+    "TXT_BALL_KICKS": "Ball kicks",
+    "TXT_KICKS_NORMAL": " - normal",
+    "TXT_KICKS_PERFECT": " - perfect",
+    "TXT_MISSES": "Misses",
+    "TXT_BEST_COMBO": "Best combo",
+    "TXT_SCORE": "Score",
+    "TXT_CURRENT_GAME": "Current",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Best Score: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusic & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAll rights reserved."
+  },
+
+  "ja": {
+    "TXT_GAMES_PLAYED": "プレイ回数",
+    "TXT_GOALS": "ゴール",
+    "TXT_BALL_KICKS": "キック",
+    "TXT_KICKS_NORMAL": " - ノーマル",
+    "TXT_KICKS_PERFECT": " - パーフェクト",
+    "TXT_MISSES": "失敗",
+    "TXT_BEST_COMBO": "ベストコンボ",
+    "TXT_SCORE": "スコア",
+    "TXT_CURRENT_GAME": "今回",
+    "TXT_TOTAL": "合計",
+    "TXT_BEST_SCORE": "ベストスコア: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusic & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAll rights reserved."
+  },
+
+  "de": {
+    "TXT_GAMES_PLAYED": "Spiele gespielt",
+    "TXT_GOALS": "Tore",
+    "TXT_BALL_KICKS": "Schüsse",
+    "TXT_KICKS_NORMAL": " - Normal",
+    "TXT_KICKS_PERFECT": " - Perfekt",
+    "TXT_MISSES": "Fehlschlage",
+    "TXT_BEST_COMBO": "Beste Kombo",
+    "TXT_SCORE": "Punkte",
+    "TXT_CURRENT_GAME": "Aktuell",
+    "TXT_TOTAL": "Gesamt",
+    "TXT_BEST_SCORE": "Beste Punkte: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusik und Spezialeffekte:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAlle Rechte vorbehalten."
+  },
+
+  "it": {
+    "TXT_GAMES_PLAYED": "Giochi giocati",
+    "TXT_GOALS": "Goal",
+    "TXT_BALL_KICKS": "Tiri",
+    "TXT_KICKS_NORMAL": " - normale",
+    "TXT_KICKS_PERFECT": " - perfetto",
+    "TXT_MISSES": "Mancati",
+    "TXT_BEST_COMBO": "Miglior combo",
+    "TXT_SCORE": "Punteggio",
+    "TXT_CURRENT_GAME": "Corrente",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Miglior punteggio: ",
+    "TXT_CREDITS": "Codice:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusica ed effetti speciali:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nTutti i diritti riservati."
+  },
+
+  "es": {
+    "TXT_GAMES_PLAYED": "Juegos jugados",
+    "TXT_GOALS": "Goles",
+    "TXT_BALL_KICKS": "Tiros",
+    "TXT_KICKS_NORMAL": " - normal",
+    "TXT_KICKS_PERFECT": " - perfecto",
+    "TXT_MISSES": "Fallos",
+    "TXT_BEST_COMBO": "Mejor combinación",
+    "TXT_SCORE": "Puntuación",
+    "TXT_CURRENT_GAME": "Actual",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Mejor puntuación: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusic & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAll rights reserved."
+  },
+
+  "br": {
+    "TXT_GAMES_PLAYED": "Jogos jogados",
+    "TXT_GOALS": "Gols",
+    "TXT_BALL_KICKS": "Chutes",
+    "TXT_KICKS_NORMAL": " - normal",
+    "TXT_KICKS_PERFECT": " - perfeito",
+    "TXT_MISSES": "Falhas",
+    "TXT_BEST_COMBO": "Melhor combo",
+    "TXT_SCORE": "Pontuação",
+    "TXT_CURRENT_GAME": "Atual",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Melhor pontuação: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMúsica e efeitos especiais:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nTodos os direitos reservados."
+  },
+
+  "fr": {
+    "TXT_GAMES_PLAYED": "Parties jouées",
+    "TXT_GOALS": "Buts",
+    "TXT_BALL_KICKS": "Tirs",
+    "TXT_KICKS_NORMAL": " - normal",
+    "TXT_KICKS_PERFECT": " - parfait",
+    "TXT_MISSES": "Raté",
+    "TXT_BEST_COMBO": "Meilleur combo",
+    "TXT_SCORE": "Score",
+    "TXT_CURRENT_GAME": "Actuel",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Meilleur score: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusic & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAll rights reserved."
+  },
+
+  "tr": {
+    "TXT_GAMES_PLAYED": "Oyanan oyun",
+    "TXT_GOALS": "Gol",
+    "TXT_BALL_KICKS": "Topa vuruş",
+    "TXT_KICKS_NORMAL": " - normal",
+    "TXT_KICKS_PERFECT": " - kusursuz",
+    "TXT_MISSES": "Kaçırılan",
+    "TXT_BEST_COMBO": "En İyi combo",
+    "TXT_SCORE": "Skor",
+    "TXT_CURRENT_GAME": "Anlık",
+    "TXT_TOTAL": "Toplam",
+    "TXT_BEST_SCORE": "En İyi Skor: ",
+    "TXT_CREDITS": "Kodlama:\n Tomáš Rychnovský\n\nGörsel FX:\n Tomáš Kopecký\n\nMüzik & Ses FX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nTüm hakları saklıdır."
+  },
+  
+  "nl": {
+    "TXT_GAMES_PLAYED": "Games gespeeld",
+    "TXT_GOALS": "Doelpunten",
+    "TXT_BALL_KICKS": "Baltrappen",
+    "TXT_KICKS_NORMAL": " - normaal",
+    "TXT_KICKS_PERFECT": " - perfect",
+    "TXT_MISSES": "Missers",
+    "TXT_BEST_COMBO": "Beste combinatie",
+    "TXT_SCORE": "Score",
+    "TXT_CURRENT_GAME": "Actueel",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Beste score: ",
+    "TXT_CREDITS": "Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMuziek & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAlle rechten voorbehouden."
+  },
+
+  "ru": {
+    "TXT_GAMES_PLAYED": "RU:Games played",
+    "TXT_GOALS": "RU:Goals",
+    "TXT_BALL_KICKS": "RU:Ball kicks",
+    "TXT_KICKS_NORMAL": "RU: - normal",
+    "TXT_KICKS_PERFECT": "RU: - perfect",
+    "TXT_MISSES": "RU:Misses",
+    "TXT_BEST_COMBO": "RU:Best combo",
+    "TXT_SCORE": "RU:Score",
+    "TXT_CURRENT_GAME": "RU:Current",
+    "TXT_TOTAL": "RU:Total",
+    "TXT_BEST_SCORE": "RU:Best Score: ",
+    "TXT_CREDITS": "RU:Code:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusic & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAll rights reserved."
+  },
+
+  "no": {
+    "TXT_GAMES_PLAYED": "Spilte spill",
+    "TXT_GOALS": "Mål",
+    "TXT_BALL_KICKS": "Ball spark",
+    "TXT_KICKS_NORMAL": " - normal",
+    "TXT_KICKS_PERFECT": " - perfekt",
+    "TXT_MISSES": "Bom",
+    "TXT_BEST_COMBO": "Best kombo",
+    "TXT_SCORE": "Poeng",
+    "TXT_CURRENT_GAME": "Gjeldende",
+    "TXT_TOTAL": "Total",
+    "TXT_BEST_SCORE": "Beste poeng: ",
+    "TXT_CREDITS": "Kode:\n Tomáš Rychnovský\n\nGFX:\n Tomáš Kopecký\n\nMusikk & SFX:\n Juraj Růžička\n\n(C) 2018 SBC Games.\nAll rights reserved."
+  }
+
+}

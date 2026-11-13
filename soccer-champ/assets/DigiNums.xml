@@ -1,0 +1,20 @@
+<font>
+  <info aa="1" bold="0" charset="" face="DigiNums" italic="0" outline="0" padding="2,2,2,2" size="50" smooth="1" spacing="0,0" stretchH="100" unicode=""/>
+  <common base="0" lineHeight="50" packed="0" pages="1" scaleH="383" scaleW="77"/>
+  <pages>
+    <page file="BonusFont.png" id="0"/>
+  </pages>
+  <chars count="15">
+    <char chnl="15" height="50" id="48" page="0" width="36" x="969" xadvance="36" xoffset="0" y="1621" yoffset="0"/>
+    <char chnl="15" height="50" id="49" page="0" width="36" x="894" xadvance="36" xoffset="0" y="1650" yoffset="0"/>
+    <char chnl="15" height="50" id="50" page="0" width="36" x="565" xadvance="36" xoffset="0" y="1654" yoffset="0"/>
+    <char chnl="15" height="50" id="51" page="0" width="36" x="603" xadvance="36" xoffset="0" y="1654" yoffset="0"/>
+    <char chnl="15" height="50" id="52" page="0" width="36" x="641" xadvance="36" xoffset="0" y="1654" yoffset="0"/>
+    <char chnl="15" height="50" id="53" page="0" width="36" x="768" xadvance="36" xoffset="0" y="1656" yoffset="0"/>
+    <char chnl="15" height="50" id="54" page="0" width="36" x="488" xadvance="36" xoffset="0" y="1659" yoffset="0"/>
+    <char chnl="15" height="50" id="55" page="0" width="36" x="526" xadvance="36" xoffset="0" y="1659" yoffset="0"/>
+    <char chnl="15" height="50" id="56" page="0" width="36" x="806" xadvance="36" xoffset="0" y="1659" yoffset="0"/>
+    <char chnl="15" height="50" id="57" page="0" width="36" x="844" xadvance="36" xoffset="0" y="1659" yoffset="0"/>
+    <char chnl="15" height="1" id="32" page="0" width="1" x="1003" xadvance="36" xoffset="0" y="1120" yoffset="0"/>
+  </chars>
+</font>

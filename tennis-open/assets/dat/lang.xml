@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+  <languages>
+    <language>en</language>
+    <language>sk</language>
+    <language>es</language>
+    <language>cz</language>
+    <language>de</language>
+    <language>it</language>
+    <language>fr</language>
+    <language>ru</language>
+    <language>pt</language>
+    <language>tr</language>
+  </languages>
+  <strings>
+    <string id="1" index="0">
+      <en>en</en>
+      <sk>sk</sk>
+      <es>es</es>
+      <cz>cz</cz>
+      <de>de</de>
+      <it>it</it>
+      <fr>fr</fr>
+      <ru>ru</ru>
+      <pt>pt</pt>
+      <tr>tr</tr>
+    </string>
+    <string id="INSTRUCTIONS_TEXT" index="1">
+      <en>Train your game in training mode. Defeat your opponent, win the match and improve your player for the obtained rewards. Win all championships to earn grand slam trophy. All the rules of tennis also apply in this game.</en>
+      <de>Verbessere dein Spiel im Trainingsmodus. Besiege deinen Gegner, gewinne das Match und verbessere deinen Spieler mit der erhaltenen Belohnung. Gewinne alle Meisterschaften, um dir den Grand-Slam-Pokal zu verdienen. In diesem Spiel gelten alle normalen Tennis-Regeln.</de>
+      <es>Perfecciona tu técnica en el modo de entrenamiento. Derrota a tu rival, gana el partido y mejora a tu personaje con las recompensas obtenidas. Gana todos los campeonatos y consigue el trofeo del Grand Slam. Se aplican todas las reglas del tenis.</es>
+      <fr>Entraînez votre jeu en mode entraînement. Battez votre adversaire, gagnez le match et améliorez votre personnage pour remporter les récompenses obtenues. Gagnez tous les championnats pour obtenir le trophée du Grand Chelem. Toutes les règles du tennis sont également appliquées dans ce jeu.</fr>
+      <it>Esercitati nella modalità Allenamento. Batti il tuo avversario, vinci la partita e migliora il tuo personaggio con le ricompense ricevute. Vinci tutti i campionati per guadagnare il trofeo del Grande Slam. In questo gioco si applicano tutte le regole del tennis.</it>
+      <pt>Treine seu jogo no modo de treinamento. Derrote seu oponente, vença a partida e melhore seu personagem para as recompensas obtidas. Vença todos os campeonatos para ganhar o troféu do Grand Slam. Todas as regras do tênis também se aplicam neste jogo.</pt>
+      <ru>Тренируйте свои навыки в тренировочном режиме. Победите своего противника, выиграйте матч и улучшите своего игрока за заработанные награды. Выиграйте все чемпионаты и получите трофей турнира "Большой шлем". В этой игре также действуют все правила тенниса.</ru>
+      <tr/>
+    </string>
+    <string id="PAUSE" index="2">
+      <en>PAUSE</en>
+      <de>ANHALTEN</de>
+      <es>PAUSA</es>
+      <fr>PAUSE</fr>
+      <it>PAUSA</it>
+      <pt>PAUSA</pt>
+      <ru>ПАУЗА</ru>
+      <tr>DURAKLAT</tr>
+    </string>
+    <string id="SETTINGS" index="3">
+      <en>SETTINGS</en>
+      <de>EINSTELLUNGEN</de>
+      <es>AJUSTES</es>
+      <fr>PARAMÈTRES</fr>
+      <it>IMPOSTAZIONI</it>
+      <pt>CONFIGURAÇÕES</pt>
+      <ru>НАСТРОЙКИ</ru>
+      <tr/>
+    </string>
+    <string id="AUSTRALIA" index="4">
+      <en>AUSTRALIA</en>
+      <de>AUSTRALIEN</de>
+      <es>AUSTRALIA</es>
+      <fr>AUSTRALIE</fr>
+      <it>AUSTRALIA</it>
+      <pt>AUSTRÁLIA</pt>
+      <ru>АВСТРАЛИЯ</ru>
+      <tr/>
+    </string>
+    <string id="FRANCE" index="5">
+      <en>FRANCE</en>
+      <de>FRANKREICH</de>
+      <es>FRANCIA</es>
+      <fr>FRANCE</fr>
+      <it>FRANCIA</it>
+      <pt>FRANÇA</pt>
+      <ru>ФРАНЦИЯ</ru>
+      <tr/>
+    </string>
+    <string id="GREAT BRITAIN" index="6">
+      <en>GREAT BRITAIN</en>
+      <de>GROSSBRITANNIEN</de>
+      <es>GRAN BRETAÑA</es>
+      <fr>GRANDE BRETAGNE</fr>
+      <it>GRÃ-BRETANHA</it>
+      <pt>GRAN BRETAGNA</pt>
+      <ru>ВЕЛИКОБРИТАНИЯ</ru>
+      <tr/>
+    </string>
+    <string id="UNITED STATES" index="7">
+      <en>UNITED STATES</en>
+      <de>VEREINIGTE STAATEN</de>
+      <es>ESTADOS UNIDOS</es>
+      <fr>ÉTATS-UNIS</fr>
+      <it>STATI UNITI</it>
+      <pt>ESTADOS UNIDOS</pt>
+      <ru>США</ru>
+      <tr/>
+    </string>
+    <string id="GAMES WON" index="8">
+      <en>GAMES WON</en>
+      <de>GEWONNENE SPIELE</de>
+      <es>JUEGOS GANADOS</es>
+      <fr>MATCHES GAGNÉS</fr>
+      <it>PARTITE VINTE</it>
+      <pt>JOGOS VENCIDOS</pt>
+      <ru>ИГР ВЫИГРАНО</ru>
+      <tr/>
+    </string>
+    <string id="OPPONENT" index="9">
+      <en>OPPONENT</en>
+      <de>GEGNER</de>
+      <es>ADVERSARIO</es>
+      <fr>ADVERSAIRE</fr>
+      <it>AVVERSARIO</it>
+      <pt>OPONENTE</pt>
+      <ru>ПРОТИВНИК</ru>
+      <tr/>
+    </string>
+    <string id="EASY" index="10">
+      <en>EASY</en>
+      <de>EINFACH</de>
+      <es>FACIL</es>
+      <fr>FACILE</fr>
+      <it>FACILE</it>
+      <pt>FÁCIL</pt>
+      <ru>ЛЕГКАЯ</ru>
+      <tr/>
+    </string>
+    <string id="MEDIUM" index="11">
+      <en>MEDIUM</en>
+      <de>MEDIUM</de>
+      <es>NORMAL</es>
+      <fr>NORMALE</fr>
+      <it>INTERMEDIA</it>
+      <pt>NORMAL</pt>
+      <ru>СРЕДНЯЯ</ru>
+      <tr/>
+    </string>
+    <string id="HARD" index="12">
+      <en>HARD</en>
+      <de>HART</de>
+      <es>DIFICIL</es>
+      <fr>DIFFICILE</fr>
+      <it>DIFFICILE</it>
+      <pt>DIFÍCIL</pt>
+      <ru>СЛОЖНАЯ</ru>
+      <tr/>
+    </string>
+    <string id="REWARD" index="13">
+      <en>REWARD</en>
+      <de>Belohnung</de>
+      <es>Récompense</es>
+      <fr>Récompense</fr>
+      <it>Ricompensa</it>
+      <pt>Recompensa</pt>
+      <ru>Награда</ru>
+      <tr/>
+    </string>
+    <string id="ACCURACY" index="14">
+      <en>ACCURACY</en>
+      <de>GENAUIGKEIT</de>
+      <es>PRECISIÓN</es>
+      <fr>PRÉCISION</fr>
+      <it>PRECISÃO</it>
+      <pt>PRECISIONE</pt>
+      <ru>МЕТКОСТЬ</ru>
+      <tr/>
+    </string>
+    <string id="SPEED" index="15">
+      <en>SPEED</en>
+      <de>SCHNELLIGKEIT</de>
+      <es>VELOCIDAD</es>
+      <fr>VITESSE</fr>
+      <it>VELOCITÀ</it>
+      <pt>VELOCIDADE</pt>
+      <ru>СКОРОСТЬ</ru>
+      <tr/>
+    </string>
+    <string id="REACTION" index="16">
+      <en>REACTION</en>
+      <de>REAKTION</de>
+      <es>REACCIÓN</es>
+      <fr>RÉACTION</fr>
+      <it>REAZIONE</it>
+      <pt>REAÇÃO</pt>
+      <ru>РЕАКЦИЯ</ru>
+      <tr/>
+    </string>
+    <string id="INSTRUCTIONS" index="17">
+      <en>INSTRUCTIONS</en>
+      <de>ANLEITUNG</de>
+      <es>INSTRUCCIONES</es>
+      <fr>INSTRUCTIONS</fr>
+      <it>ISTRUZIONI</it>
+      <pt>INSTRUÇÕES</pt>
+      <ru>ИНСТРУКЦИИ</ru>
+      <tr/>
+    </string>
+    <string id="RESET ALL PROGRESS" index="18">
+      <en>RESET ALL PROGRESS</en>
+      <de>SETZEN SIE ALLE FORTSCHRITTE ZURÜCK</de>
+      <es>RESTABLECER TODO EL PROGRESO</es>
+      <fr>RÉINITIALISER TOUS LES PROGRÈS</fr>
+      <it>RIPRISTINA TUTTI I PROGRESSI</it>
+      <pt>REDEFINIR TODO O PROGRESSO</pt>
+      <ru>СБРОСИТЬ ВЕСЬ ПРОГРЕСС</ru>
+      <tr/>
+    </string>
+    <string id="RESUME" index="19">
+      <en>RESUME</en>
+      <de>FORTSETZEN</de>
+      <es>CONTINUAR</es>
+      <fr>REPRENDRE</fr>
+      <it>RIPRENDI</it>
+      <pt>RETOMAR</pt>
+      <ru>ПРОДОЛЖИТЬ</ru>
+      <tr/>
+    </string>
+    <string id="RETRY" index="20">
+      <en>RETRY</en>
+      <de>ERNEUT VERSUCHEN</de>
+      <es>REINTENTAR</es>
+      <fr>RÉESSAYER</fr>
+      <it>RIPROVA</it>
+      <pt>TENTAR NOVAMENTE</pt>
+      <ru>ПОВТОРИТЬ</ru>
+      <tr/>
+    </string>
+    <string id="FORFEIT" index="21">
+      <en>FORFEIT</en>
+      <de>AUFGEBEN</de>
+      <es>RETIRARSE</es>
+      <fr>FORFAIT</fr>
+      <it>RITIRATA</it>
+      <pt>PERDER</pt>
+      <ru>ПОКИНУТЬ ИГРУ</ru>
+      <tr/>
+    </string>
+    <string id="CLAIM" index="22">
+      <en>CLAIM</en>
+      <de>ABHOLEN</de>
+      <es>SOLICITAR</es>
+      <fr>RÉCUPÉRER</fr>
+      <it>RICHIEDI</it>
+      <pt>PEGUE</pt>
+      <ru>ПОЛУЧИТЬ</ru>
+      <tr/>
+    </string>
+    <string id="MAIN MENU" index="23">
+      <en>MAIN MENU</en>
+      <de>HAUPTMENÜ</de>
+      <es>LISTA PRINCIPAL</es>
+      <fr>MENU PRINCIPAL</fr>
+      <it>MENÙ PRINCIPALE</it>
+      <pt>MENU PRINCIPAL</pt>
+      <ru>ГЛАВНОЕ МЕНЮ</ru>
+      <tr/>
+    </string>
+    <string id="SETS" index="24">
+      <en>SETS</en>
+      <de>SÄTZE</de>
+      <es>SETS</es>
+      <fr>SETS</fr>
+      <it>SET</it>
+      <pt>SETS</pt>
+      <ru>СЕТОВ</ru>
+      <tr/>
+    </string>
+    <string id="MATCH WON" index="25">
+      <en>MATCH WON</en>
+      <de>PARTIE GEWONNEN</de>
+      <es>PARTIDO GANADO</es>
+      <fr>MATCH GAGNÉ</fr>
+      <it>MATCH VINTO</it>
+      <pt>PARTIDA VENCIDA</pt>
+      <ru>МАТЧ ВЫИГРАН</ru>
+      <tr/>
+    </string>
+    <string id="MATCH LOST" index="26">
+      <en>MATCH LOST</en>
+      <de>PARTIE VERLOREN</de>
+      <es>PARTIDO PERDIDO</es>
+      <fr>MATCH PERDU</fr>
+      <it>MATCH PERSO</it>
+      <pt>PARTIDA PERDIDA</pt>
+      <ru>МАТЧ ПРОИГРАН</ru>
+      <tr/>
+    </string>
+    <string id="MAX" index="27">
+      <en>MAX</en>
+      <de>MAX</de>
+      <es>MAX</es>
+      <fr>MAX</fr>
+      <it>MAX</it>
+      <pt>MÁX</pt>
+      <ru>МАК</ru>
+      <tr/>
+    </string>
+    <string id="OUT" index="28">
+      <en>OUT</en>
+      <de>AUS</de>
+      <es>FUERA</es>
+      <fr>DEHORS</fr>
+      <it>FUORI</it>
+      <pt>FORA</pt>
+      <ru>АУТ</ru>
+      <tr/>
+    </string>
+    <string id="FAULT" index="29">
+      <en>FAULT</en>
+      <de>FEHLER</de>
+      <es>FALTA</es>
+      <fr>FAUTE</fr>
+      <it>FALLO</it>
+      <pt>FALTA</pt>
+      <ru>ОШИБКА</ru>
+      <tr/>
+    </string>
+    <string id="YOU" index="30">
+      <en>YOU</en>
+      <de>DU</de>
+      <es>TÚ</es>
+      <fr>VOUS</fr>
+      <it>VOI</it>
+      <pt>VOCÊ</pt>
+      <ru>ВЫ</ru>
+      <tr/>
+    </string>
+    <string id="SERVE_SWIPE" index="31">
+      <en>TAP and DRAG the cursor to change the placement</en>
+      <de>TIPPE und ZIEHE den Cursor, um zu ändern, wohin dein Schlag zielt</de>
+      <es>TOCA y ARRASTRA el cursor para cambiar la posición</es>
+      <fr>TOUCHEZ et FAITES GLISSER le curseur pour changer le placement</fr>
+      <it>TOCCA e TRASCINA il cursore per modificare la posizione</it>
+      <pt>TOQUE e ARRASTE o cursor para alterar o posicionamento</pt>
+      <ru>Нажмите и перетащите курсор, чтобы изменить размещение</ru>
+      <tr/>
+    </string>
+    <string id="RETURN_SWIPE" index="32">
+      <en>TAP and SWIPE at the right time to return the ball</en>
+      <de>TIPPE und WISCHE zur rechten Zeit, um den Ball zurückzuschlagen</de>
+      <es>TOCA y DESLIZA en el momento adecuado para devolver la pelota</es>
+      <fr>TOUCHEZ et BALAYEZ au bon moment pour renvoyer la balle</fr>
+      <it>TOCCA e SCORRI al momento giusto per rinviare la palla</it>
+      <pt>TOQUE e DESLIZE no momento certo para passar a bola</pt>
+      <ru>Нажмите и проведите в нужное время, чтобы отбить мяч</ru>
+      <tr/>
+    </string>
+    <string id="COLLECTIONS" index="33">
+      <en>Collections</en>
+      <de>Sammlungen</de>
+      <es>Colecciones</es>
+      <fr>Collections</fr>
+      <it>Collezioni</it>
+      <pt>Coleções</pt>
+      <ru>Коллекции</ru>
+      <tr/>
+    </string>
+    <string id="TRAINING" index="34">
+      <en>Training</en>
+      <de>Training</de>
+      <es>Entrenamiento</es>
+      <fr>Entraînement</fr>
+      <it>Allenamento</it>
+      <pt>Treinamento</pt>
+      <ru>Обучение</ru>
+      <tr/>
+    </string>
+    <string id="CHAMPIONS" index="35">
+      <en>Championship</en>
+      <de>Meisterschaft</de>
+      <es>Campeonato</es>
+      <fr>Championnat</fr>
+      <it>Campionato</it>
+      <pt>Campeonato</pt>
+      <ru>Чемпионат</ru>
+      <tr/>
+    </string>
+    <string id="SHOP" index="36">
+      <en>Shop</en>
+      <de>Shop</de>
+      <es>Comprar</es>
+      <fr>Boutique</fr>
+      <it>Negozio</it>
+      <pt>Loja</pt>
+      <ru>Магазин</ru>
+      <tr/>
+    </string>
+    <string id="CHARACTER" index="37">
+      <en>Character</en>
+      <de>Charakter</de>
+      <es>Personaje</es>
+      <fr>Personnage</fr>
+      <it>Personaggio</it>
+      <pt>Personagem</pt>
+      <ru>Персонаж</ru>
+      <tr/>
+    </string>
+    <string id="PLAY" index="38">
+      <en>Play</en>
+      <de>Spielen</de>
+      <es>Jugar</es>
+      <fr>Jouer</fr>
+      <it>Gioca</it>
+      <pt>Reproduzir</pt>
+      <ru>Играть</ru>
+      <tr/>
+    </string>
+    <string id="WIN_TROPHY" index="39">
+      <en>Win 5 times in a row to get a trophy</en>
+      <de>Gewinne fünfmal in Folge,\num einen Pokal zu erhalten</de>
+      <es>Gana 5 veces seguidas para\nconseguir un trofeo.</es>
+      <fr>Gagnez 5 fois de suite pour\nobtenir un trophée</fr>
+      <it>Vinci 5 volte di fila per\nottenere un trofeo</it>
+      <pt>Vença 5 vezes seguidas para\nobter um troféu</pt>
+      <ru>Выиграйте 5 раз подряд,\nчтобы выиграть трофей</ru>
+      <tr/>
+    </string>
+    <string id="BUY" index="40">
+      <en>Buy</en>
+      <de>Kaufen</de>
+      <es>Comprar</es>
+      <fr>Acheter</fr>
+      <it>Compra</it>
+      <pt>Comprar</pt>
+      <ru>Купить</ru>
+      <tr/>
+    </string>
+    <string id="COLLECTION" index="41">
+      <en>Collection</en>
+      <de>Sammlung</de>
+      <es>Colección</es>
+      <fr>Collection</fr>
+      <it>Collezione</it>
+      <pt>Coleção</pt>
+      <ru>Коллекция</ru>
+      <tr/>
+    </string>
+    <string id="WIN_CHAMPIONS" index="42">
+      <en>Win all championships to earn\nGrand Slam trophy</en>
+      <de>Gewinne alle Meisterschaften, um dir den\nGrand-Slam-Pokal zu verdienen</de>
+      <es>Gana todos los campeonatos para conseguir el\ntrofeo del Grand Slam</es>
+      <fr>Gagnez tous les championnats pour obtenir\nle trophée du Grand Chelem</fr>
+      <it>Vinci tutti i campionati per ottenere il\ntrofeo del Grande Slam</it>
+      <pt>Vença todos os campeonatos para ganhar o troféu\ndo Grand Slam</pt>
+      <ru>Выиграйте все чемпионаты, чтобы\nвыиграть трофеи "Большого шлема"</ru>
+      <tr/>
+    </string>
+    <string id="GRAND_SLAM" index="43">
+      <en>Grand Slam</en>
+      <de>Grand-Slam-Pokal</de>
+      <es>Grand Slam</es>
+      <fr>Grand Chelem</fr>
+      <it>Grande Slam</it>
+      <pt>Grand Slam</pt>
+      <ru>Большого шлема</ru>
+      <tr/>
+    </string>
+    <string id="ROUND" index="44">
+      <en>Round</en>
+      <de>Runde</de>
+      <es>Ronda</es>
+      <fr>Rond</fr>
+      <it>Turno</it>
+      <pt>Rodada</pt>
+      <ru>Круг</ru>
+      <tr/>
+    </string>
+    <string id="WINNER" index="45">
+      <en>Winner</en>
+      <de>Gewinner</de>
+      <es>Ganador</es>
+      <fr>Gagnant</fr>
+      <it>Vincitore</it>
+      <pt>Vencedor</pt>
+      <ru>Победитель</ru>
+      <tr/>
+    </string>
+    <string id="SELECTED" index="46">
+      <en>SELECTED</en>
+      <de>AUSGEWÄHLT</de>
+      <es>SELECCIONADO</es>
+      <fr>SÉLECTIONNÉ</fr>
+      <it>SELEZIONATO</it>
+      <pt>SELECIONADO</pt>
+      <ru>ОТМЕТИТЬ</ru>
+      <tr/>
+    </string>
+    <string id="SELECT" index="65">
+      <en>SELECT</en>
+      <de>AUSWÄHLEN</de>
+      <es>SELECCIONAR</es>
+      <fr>SÉLECTIONNER</fr>
+      <it>SELEZIONA</it>
+      <pt>SELECIONE</pt>
+      <ru>ВЫБРАТЬ</ru>
+      <tr/>
+    </string>
+    <string id="LANGUAGE" index="66">
+      <en>Language</en>
+      <de>Sprache</de>
+      <es>Idioma</es>
+      <fr>La langue</fr>
+      <it>Linguaggio</it>
+      <pt>Língua</pt>
+      <ru>язык</ru>
+      <tr/>
+    </string>
+  </strings>
+</stringresources>

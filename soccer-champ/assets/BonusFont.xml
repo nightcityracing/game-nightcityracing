@@ -1,0 +1,25 @@
+<font>
+  <info aa="1" bold="0" charset="" face="BonusFont" italic="0" outline="0" padding="2,2,2,2" size="60" smooth="1" spacing="0,0" stretchH="100" unicode=""/>
+  <common base="47" lineHeight="60" packed="0" pages="1" scaleH="383" scaleW="77"/>
+  <pages>
+    <page file="BonusFont.png" id="0"/>
+  </pages>
+  <chars count="15">
+    <char chnl="15" height="31" id="43" page="0" width="30" x="344" xadvance="27" xoffset="1" y="1549" yoffset="12"/>
+    <char chnl="15" height="13" id="45" page="0" width="20" x="542" xadvance="17" xoffset="1" y="1806" yoffset="21"/>
+    <char chnl="15" height="15" id="46" page="0" width="14" x="592" xadvance="11" xoffset="1" y="1809" yoffset="37"/>
+    <char chnl="15" height="21" id="44" page="0" width="14" x="172" xadvance="11" xoffset="1" y="1798" yoffset="37"/>
+    <char chnl="15" height="48" id="48" page="0" width="30" x="53" xadvance="26" xoffset="1" y="1668" yoffset="1"/>
+    <char chnl="15" height="48" id="49" page="0" width="21" x="431" xadvance="18" xoffset="0" y="1668" yoffset="2"/>
+    <char chnl="15" height="48" id="50" page="0" width="28" x="373" xadvance="25" xoffset="2" y="1668" yoffset="1"/>
+    <char chnl="15" height="49" id="51" page="0" width="28" x="85" xadvance="24" xoffset="1" y="1668" yoffset="1"/>
+    <char chnl="15" height="49" id="52" page="0" width="30" x="932" xadvance="27" xoffset="1" y="1650" yoffset="1"/>
+    <char chnl="15" height="49" id="53" page="0" width="28" x="115" xadvance="24" xoffset="1" y="1668" yoffset="1"/>
+    <char chnl="15" height="50" id="54" page="0" width="29" x="731" xadvance="26" xoffset="1" y="1661" yoffset="0"/>
+    <char chnl="15" height="47" id="55" page="0" width="26" x="403" xadvance="24" xoffset="2" y="1668" yoffset="1"/>
+    <char chnl="15" height="49" id="56" page="0" width="28" x="343" xadvance="24" xoffset="1" y="1668" yoffset="1"/>
+    <char chnl="15" height="50" id="57" page="0" width="29" x="197" xadvance="26" xoffset="1" y="1666" yoffset="0"/>
+    <char chnl="15" height="37" id="115" page="0" width="24" x="870" xadvance="21" xoffset="1" y="1549" yoffset="15"/>
+    <char chnl="15" height="1" id="32" page="0" width="1" x="1003" xadvance="11" xoffset="1" y="1120" yoffset="15"/>
+  </chars>
+</font>

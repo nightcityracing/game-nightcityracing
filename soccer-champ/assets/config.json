@@ -1,0 +1,20 @@
+{
+  "supportedLanguages": [ "en", "de", "es", "fr", "it", "br", "tr", "nl", "no" ],
+  "showLanguages": true,
+
+  "alwaysShowSoundDialog": true,
+
+  "closeControlsOnTables": true,
+
+  "tutorialButtonInMenu": true,
+
+  "ads": {
+    "none": [ "AdBoard_famobi_pirate", "AdBoard_SBC_INLOGIC", "AdBoard_famobi_woodventure" ],
+    "wkb": [ "AdBoard_wkb_rabbit", "AdBoard_wkb", "AdBoard_wkb_pirate" ],
+    "famobi": [ "AdBoard_famobi_pirate", "AdBoard_famobi_Russia2018", "AdBoard_famobi_woodventure", "AdBoard_famobi" ],
+    "buongiorno": [ "AdBoard_buongiorno_f1", "AdBoard_buongiorno_f2", "AdBoard_buongiorno_f3", "AdBoard_buongiorno_f4" ],
+    "cloudgames": [ "AdBoard_famobi_pirate", "AdBoard_Cloudgames", "AdBoard_famobi_woodventure" ],
+    "orange_fr": [ "AdBoard_famobi_pirate", "AdBoard_SBC", "AdBoard_famobi_woodventure" ],
+    "igroutka": []
+  }
+}
