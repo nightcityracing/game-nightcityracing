@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"LoginReward","ID\t第几天\t金币\t类型\t数量\r\nID\tday\tgold\ttype\tnum\r\nint\tint\tint\tint\tint\r\n1\t1\t100\t1\t1\r\n2\t2\t150\t2\t1\r\n3\t3\t200\t3\t1\r\n4\t4\t250\t1\t1\r\n5\t5\t300\t2\t1\r\n6\t6\t400\t3\t1\r\n"]],0,0,[],[],[]]

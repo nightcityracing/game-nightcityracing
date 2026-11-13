@@ -1,0 +1,519 @@
+{
+  "stringresources": {
+    "strings": {
+      "string": [
+        {
+          "-id": "ScoreKey",
+          "en": "Score",
+          "de": "Punkte",
+          "es": "Puntuación",
+          "fr": "Score",
+          "it": "Punteggio",
+          "br": "Pontuação",
+          "ru": "Счёт"
+        },
+        {
+          "-id": "LevelSetKey",
+          "en": "Level set:",
+          "de": "Ausgewähltes Level:",
+          "es": "Nivel establecido:",
+          "fr": "Série de niveaux :",
+          "it": "Set livello:",
+          "br": "Nível definido:",
+          "ru": "Набор уровней:"
+        },
+        {
+          "-id": "GetMedalsKey",
+          "en": "Get [X] more medals",
+          "de": "Sammle [X] weitere Medaillen",
+          "es": "Obtén [X] medallas más",
+          "fr": "Obtenir [X] médailles supplémentaires",
+          "it": "Ottieni altre [X] medaglie",
+          "br": "Obtenha [X] mais medalhas",
+          "ru": "Получите еще [X] медалей"
+        },
+        {
+          "-id": "GamePausedKey",
+          "en": "Game paused",
+          "de": "Spiel pausiert",
+          "es": "Juego en pausa",
+          "fr": "Partie en pause",
+          "it": "Pausa",
+          "br": "Jogo pausado",
+          "ru": "Игра приостановлена"
+        },
+        {
+          "-id": "PlayKey",
+          "en": "Play",
+          "de": "Spielen",
+          "es": "Jugar",
+          "fr": "Jouer",
+          "it": "Gioca",
+          "br": "Reproduzir",
+          "ru": "Играть"
+        },
+        {
+          "-id": "GoalKey",
+          "en": "Goal",
+          "de": "Ziel",
+          "es": "Objetivo",
+          "fr": "Objectif",
+          "it": "Obiettivo",
+          "br": "Meta",
+          "ru": "Цель"
+        },
+        {
+          "-id": "GoalClearBoardKey",
+          "en": "Clear the board in [xx:xx]",
+          "de": "Räume das Spielbrett in [xx:xx] frei",
+          "es": "Despeja el tablero en [xx:xx]",
+          "fr": "Vider le plateau en [xx:xx]",
+          "it": "Svuota il tabellone in [xx:xx]",
+          "br": "Limpe o tabuleiro em [xx:xx]",
+          "ru": "Очистить стол за [xx:xx]"
+        },
+        {
+          "-id": "GoalFindTilesKey",
+          "en": "Find all special tiles in [xx:xx]",
+          "de": "Finde alle Spezialkacheln in [xx:xx]",
+          "es": "Encuentra todas las fichas especiales en [xx:xx]",
+          "fr": "Trouver toutes les tuiles spéciales en [xx:xx]",
+          "it": "Trova tutte le tessere speciali in [xx:xx]",
+          "br": "Encontre todas as peças especiais em [xx:xx]",
+          "ru": "Найдите все особые плитки за [xx:xx]"
+        },
+        {
+          "-id": "Goal_forBronzeKey",
+          "en": "for bronze",
+          "de": "um Bronze zu erhalten.",
+          "es": "para el bronce",
+          "fr": "pour le bronze",
+          "it": "per bronzo",
+          "br": "para bronze",
+          "ru": "для бронзы"
+        },
+        {
+          "-id": "Goal_forSilverKey",
+          "en": "for silver",
+          "de": "um Silber zu erhalten.",
+          "es": "para la plata",
+          "fr": "pour l'argent",
+          "it": "per argento",
+          "br": "para prata",
+          "ru": "для серебра"
+        },
+        {
+          "-id": "Goal_forGoldKey",
+          "en": "for gold",
+          "de": "um Gold zu erhalten.",
+          "es": "para el oro",
+          "fr": "pour l'or",
+          "it": "per oro",
+          "br": "para ouro",
+          "ru": "для золота"
+        },
+        {
+          "-id": "Goal_toBeatScoreKey",
+          "en": "to beat your score",
+          "de": "um deinen Highscore zu schlagen.",
+          "es": "para superar tu puntuación",
+          "fr": "pour battre votre score",
+          "it": "per superare il tuo punteggio",
+          "br": "para melhorar sua pontuação",
+          "ru": "побить свой счет"
+        },
+        {
+          "-id": "ToolsShopKey",
+          "en": "Tools Shop",
+          "de": "Werkzeug-Shop",
+          "es": "Tienda de potenciadores",
+          "fr": "Boutique d'outils",
+          "it": "Negozio strumenti",
+          "br": "Loja de ferramentas",
+          "ru": "Магазин инструментов"
+        },
+        {
+          "-id": "NextKey",
+          "en": "Next",
+          "de": "Weiter",
+          "es": "Siguiente",
+          "fr": "Suivant",
+          "it": "Seguente",
+          "br": "Avançar",
+          "ru": "Следующий"
+        },
+        {
+          "-id": "CompleteGoldKey",
+          "en": "Perfect!",
+          "de": "Perfekt!",
+          "es": "¡Perfecto!",
+          "fr": "Parfait !",
+          "it": "Perfetto!",
+          "br": "Perfeito!",
+          "ru": "Отлично!"
+        },
+        {
+          "-id": "CompleteSilverKey",
+          "en": "Awesome!",
+          "de": "Super!",
+          "es": "¡Increíble!",
+          "fr": "Impressionnant !",
+          "it": "Fantastico!",
+          "br": "Fantástico!",
+          "ru": "Потрясающе!"
+        },
+        {
+          "-id": "CompleteBronzeKey",
+          "en": "Great!",
+          "de": "Klasse!",
+          "es": "¡Genial!",
+          "fr": "Génial !",
+          "it": "Grande!",
+          "br": "Ótimo!",
+          "ru": "Отлично!"
+        },
+        {
+          "-id": "CompleteNoMedalKey",
+          "en": "Almost!",
+          "de": "Ganz knapp!",
+          "es": "¡Casi!",
+          "fr": "Presque !",
+          "it": "Ci sei quasi!",
+          "br": "Quase!",
+          "ru": "Почти!"
+        },
+        {
+          "-id": "TimeSpentKey",
+          "en": "Time spent:",
+          "de": "Benötigte Zeit:",
+          "es": "Tiempo jugado:",
+          "fr": "Temps passé :",
+          "it": "Tempo trascorso:",
+          "br": "Tempo gasto:",
+          "ru": "Время затрачено:"
+        },
+        {
+          "-id": "YourScoreKey",
+          "en": "Your score:",
+          "de": "Dein Punktestand:",
+          "es": "Tu puntuación:",
+          "fr": "Votre score :",
+          "it": "Punteggio:",
+          "br": "Sua pontuação:",
+          "ru": "Ваш счёт:"
+        },
+        {
+          "-id": "AwardsKey",
+          "en": "Awards",
+          "de": "Belohnungen",
+          "es": "Premios",
+          "fr": "Trophées",
+          "it": "Premi",
+          "br": "Prêmios",
+          "ru": "Награды"
+        },
+        {
+          "-id": "NoAwardsKey",
+          "en": "No awards",
+          "de": "Keine Belohnungen",
+          "es": "Sin premios",
+          "fr": "Pas de trophées",
+          "it": "Nessun premio",
+          "br": "Sem prêmios",
+          "ru": "Наград нет"
+        },
+        {
+          "-id": "MoreAwardsInfoKey",
+          "en": "You have to complete this level in less than [xx:xx] for more awards",
+          "de": "Du musst dieses Level in weniger als [xx:xx] abschließen, um mehr Belohnungen zu erhalten.",
+          "es": "Para ganar más premios, tienes que completar este nivel en menos de [xx:xx]",
+          "fr": "Vous devez terminer ce niveau en moins de [xx:xx] pour recevoir plus de trophées",
+          "it": "Devi completare questo livello in meno di [xx:xx] per ricevere altri premi",
+          "br": "Para ganhar mais prêmeios, você precisa concluir este nível em menos de [xx:xx]",
+          "ru": "Вы должны пройти этот уровень менее чем за [xx:xx], чтобы получить больше наград"
+        },
+        {
+          "-id": "AllAwardsClaimedKey",
+          "en": "All awards already claimed!",
+          "de": "Alle Belohnungen erhalten!",
+          "es": "¡Ya tienes todos los premios!",
+          "fr": "Tous les trophées déjà réclamés !",
+          "it": "Tutti i premi sono già stati riscossi!",
+          "br": "Todos os prêmios foram reivindicados",
+          "ru": "Все награды уже получены!"
+        },
+        {
+          "-id": "LevelKey",
+          "en": "Level",
+          "de": "Stufe",
+          "es": "Nivel",
+          "fr": "Niveau",
+          "it": "Livello",
+          "br": "Nível",
+          "ru": "Уровень"
+        },
+        {
+          "-id": "BonusFindKey",
+          "en": "Available pair highlighted",
+          "de": "Verfügbare Paare werden hervorgehoben.",
+          "es": "Pareja disponible destacada.",
+          "fr": "Paire disponible mise en surbrillance",
+          "it": "Coppia disponibile evidenziata",
+          "br": "O par disponível é destacado",
+          "ru": "Доступные пары выделены"
+        },
+        {
+          "-id": "BonusUndoKey",
+          "en": "The last pair was returned",
+          "de": "Das letzte Kachelpaar wird zurückgelegt.",
+          "es": "Se ha devuelto la última pareja.",
+          "fr": "La dernière paire a été retournée",
+          "it": "L'ultima coppia è tornata dov'era",
+          "br": "O último par retornado",
+          "ru": "Последняя пара была возвращена"
+        },
+        {
+          "-id": "BonusLuckyCharmKey",
+          "en": "All free tiles are highlighted",
+          "de": "Alle freien Kacheln werden hervorgehoben.",
+          "es": "Se han destacado todas las fichas libres.",
+          "fr": "Toutes les tuiles libres sont en surbrillance",
+          "it": "Tutte le tessere rimanenti sono evidenziate",
+          "br": "Todas as peças livres estão destacadas",
+          "ru": "Все свободные плитки выделены"
+        },
+        {
+          "-id": "YesKey",
+          "en": "Yes",
+          "de": "Ja",
+          "es": "Sí",
+          "fr": "Oui",
+          "it": "Sì",
+          "br": "Sim",
+          "ru": "Да"
+        },
+        {
+          "-id": "NoKey",
+          "en": "No",
+          "de": "Nein",
+          "es": "No",
+          "fr": "Non",
+          "it": "No",
+          "br": "Não",
+          "ru": "Нет"
+        },
+        {
+          "-id": "BonusReshuffleQuestionKey",
+          "en": "Reshuffle all tiles?",
+          "de": "Alle Kacheln neu mischen?",
+          "es": "¿Mezclar todas las fichas?",
+          "fr": "Mélanger toutes les tuiles ?",
+          "it": "Vuoi mischiare tutte le tessere?",
+          "br": "Embaralhar todas as peças?",
+          "ru": "Перетасовать все плитки?"
+        },
+        {
+          "-id": "BonusReshuffleKey",
+          "en": "All remaining tiles were reshuffled",
+          "de": "Alle verbleibenden Kacheln wurden neu gemischt.",
+          "es": "Se han mezclado todas las fichas restantes.",
+          "fr": "Toutes les tuiles restantes ont été mélangées",
+          "it": "Tutte le tessere rimanenti sono state mischiate",
+          "br": "Todas as peças restantes foram embaralhadas",
+          "ru": "Все оставшиеся плитки были перетасованы"
+        },
+        {
+          "-id": "NMM1Key",
+          "en": "No more moves!",
+          "de": "Keine Züge mehr!",
+          "es": "¡No quedan más movimientos!",
+          "fr": "Aucun mouvement restant !",
+          "it": "Mosse esaurite!",
+          "br": "Acabaram-se os movimentos!",
+          "ru": "Нет больше ходов!"
+        },
+        {
+          "-id": "NMM2Key",
+          "en": "You may use a tool, restart or give up",
+          "de": "Du kannst ein Werkzeug nutzen, neustarten oder aufgeben.",
+          "es": "Puedes usar un potenciador, reiniciar o abandonar la partida.",
+          "fr": "Vous pouvez utiliser un outil, recommencer ou abandonner",
+          "it": "Puoi usare uno strumento, riavviare o arrenderti",
+          "br": "Você pode usar uma ferramenta, reiniciar ou desistir",
+          "ru": "Вы можете использовать инструмент, перезапустить или сдаться"
+        },
+        {
+          "-id": "InstructionsTitleKey",
+          "en": "Instructions",
+          "de": "Anleitung",
+          "es": "Instrucciones",
+          "fr": "Instructions",
+          "it": "Istruzioni",
+          "br": "Instruções",
+          "ru": "Инструкция"
+        },
+        {
+          "-id": "InstructionsKey",
+          "en": "Match pairs of identical tiles to remove them from the board until it's entirely cleared or until you find all special tiles. You can only match tiles which are free on at least one side. Match as fast as you can to earn awards and medals to unlock more levels. Season tiles match even if the picture is different. The same works with flower tiles. Rock tiles don't do anything. Some tiles are reversed, they turn around as you select them. To free trapped tiles, you have to match scissors.",
+          "de": "Führe identische Kacheln zusammen, um das Spielbrett freizuräumen. Das Spiel ist zu Ende, wenn das Brett leer ist oder du alle Spezialkacheln gefunden hast. Du kannst nur Kacheln zusammenführen, die auf mindestens einer Seite frei sind. Führe sie so schnell wie möglich zusammen, um Belohnungen und Medaillen zu erhalten, die weitere Levels freischalten. Jahreszeiten-Kacheln passen auch zusammen, wenn sich die Bilder unterscheiden. Das gleiche gilt für Blumen-Kacheln. Stein-Kacheln haben keine Funktion. Einige Kacheln liegen verkehrt herum. Du kannst sie umdrehen, indem du sie auswählst. Um blockierte Kacheln freizulegen, musst du Scheren zusammenführen.",
+          "es": "Empareja fichas idénticas para eliminarlas del tablero, hasta despejarlo del todo o hasta encontrar las fichas especiales. Solo se pueden emparejar las fichas que están libres al menos por uno de los lados. Emparéjalas lo más deprisa que puedas para obtener recompensas y medallas que te permitirán desbloquear más niveles. Las fichas de estaciones se pueden emparejar aunque tengan imágenes distintas, y lo mismo puede decirse de las fichas de flores. Las rocas no sirven para nada. Algunas fichas están boca abajo y se giran cuando las seleccionas. Para liberar fichas atrapadas, debes emparejar tijeras.",
+          "fr": "Associez des paires de tuiles identiques pour les retirer du plateau jusqu'à ce qu'il soit entièrement vide ou jusqu'à ce que vous trouviez toutes les tuiles spéciales. Vous ne pouvez combiner que les tuiles qui sont libres sur au moins un côté. Associez aussi vite que vous pouvez pour gagner des trophées et des médailles, et ainsi déverrouiller plus de niveaux. Les tuiles de saisons peuvent être combinées même si l'image est différente. Même chose pour les tuiles de fleurs. Les tuiles de pierres ne font rien. Certaines tuiles sont à l'envers, elles se retournent lorsque vous les sélectionnez. Pour libérer les tuiles piégées, vous devez combiner des ciseaux.",
+          "it": "Abbina le coppie di tessere uguali per rimuoverle dal tabellone finché non è completamente vuoto o finché non trovi tutte le tessere speciali. Puoi abbinare solo le tessere che sono libere almeno da un lato. Abbinale più velocemente che puoi per vincere premi e medaglie per sbloccare altri livelli. Le tessere delle stagioni si abbinano anche se l'immagine è diversa. Vale lo stesso per le tessere dei fiori. Le tessere delle rocce non fanno nulla. Alcune tessere sono capovolte, si girano non appena le selezioni. Per liberare le tessere intrappolate, devi abbinare le forbici.",
+          "br": "Combine pares de peças idênticas para retirar do tabuleiro até ele estar limpo ou você encontrar as peças especiais. Você só pode combinar as peças que estão livres em pelo menos um dos lados. Combine o mais rápido possível para ganhar prêmios e medalhas para desbloquear mais níveis. Peças sazonais podem ser combinadas mesmo que a image seja diferente. Isto vale também para as peças com flores. Peças de pedra não servem para nada. Alguns azulejos são invertidos, eles giram ao serem selecionados. Para liberar peças presas, você precisa combinar as tesouras.",
+          "ru": "Соберите пары одинаковых плиток, чтобы убрать их со стола, очистите полностью стол или найдите все специальные плитки. Вы можете выбирать плитки, которые освобождены хотя бы с одной стороны. Очистите стол так быстро, как сможете чтобы заработать награды, медали и разблокировать больше уровней. Плитки сезонов совпадают, даже если изображение отличается. То же самое и с цветочной плиткой. Каменная плитка ничего не делает. Некоторые плитки перевернуты, они поворачиваются при нажатии на их. Чтобы освободить застрявшие плитки, вам нужно подобрать ножницы."
+        },
+        {
+          "-id": "INSTR_TOOLS",
+          "en": "Tool",
+          "de": "Werkzeug",
+          "es": "Potenciadore",
+          "fr": "Outil",
+          "it": "Strumento",
+          "br": "Ferramenta",
+          "ru": "Инструмент"
+        },
+        {
+          "-id": "INSTR_UNDO",
+          "en": "Undo: Returns the last removed pair of tiles back to the board",
+          "de": "Rückgängig: Das zuletzt entfernte Kachelpaar kommt zurück auf das Spielbrett.",
+          "es": "Deshacer: devuelve al tablero la última pareja de fichas formada.",
+          "fr": "Annuler : replace sur le plateau la dernière paire de tuiles retirée",
+          "it": "Annulla: rimetti sul tabellone l'ultima coppia di tessere che hai rimosso",
+          "br": "Desfazer: Devolve o último par de peças removido para o tabuleiro",
+          "ru": "Отменить: возвращает последнюю удаленную пару плиток обратно на доску."
+        },
+        {
+          "-id": "INSTR_SHUFFLE",
+          "en": "Shuffle: Shuffles all the remaining tiles on the board.",
+          "de": "Mischen: Alle verbleibenden Kacheln auf dem Spielbrett werden gemischt.",
+          "es": "Mezclar: mezcla todas las fichas que quedan en el tablero.",
+          "fr": "Mélanger : mélange toutes les tuiles restantes sur le plateau",
+          "it": "Mischia: mescola tutte le restanti tessere sul tabellone",
+          "br": "Embaralhar: Embaralha todas as peças restantes no tabuleiro",
+          "ru": "Перемешать: перемешивает все оставшиеся плитки на доске."
+        },
+        {
+          "-id": "INSTR_HINT",
+          "en": "Hint: Points out an available pair of matching tiles",
+          "de": "Tipp: Ein identisches Kachelpaar wird angezeigt.",
+          "es": "Pista: destaca una pareja de fichas disponible.",
+          "fr": "Astuce : indique une paire de tuiles identiques disponible",
+          "it": "Aiuto: indica una coppia di tessere abbinabili disponibile",
+          "br": "Dica: Aponta um par disponível de peças combinadas",
+          "ru": "Подсказка: указывает на доступную пару совпадающих плиток"
+        },
+        {
+          "-id": "INSTR_LUCK",
+          "en": "Lucky Charm: Highlights all free tiles for 30 seconds",
+          "de": "Glücksbringer: Alle freien Kacheln werden 30 Sekunden lang hervorgehoben.",
+          "es": "Talismán de la suerte: destaca todas las fichas libres durante 30 segundos.",
+          "fr": "Porte-bonheur : Met en surbrillance toutes les tuiles libres pendant 30 secondes",
+          "it": "Portafortuna: evidenzia tutte le tessere libere per 30 secondi",
+          "br": "Amuleto da Sorte: Destaca todas peças livres por 30 segundos",
+          "ru": "Счастливый амулет: подсвечивает все свободные плитки на 30 секунд."
+        },
+        {
+          "-id": "TUTORIAL_3",
+          "en": "Select two identical tiles to remove them from the board",
+          "de": "Wähle zwei identische Kacheln aus, um sie vom Spielbrett zu entfernen.",
+          "es": "Selecciona dos fichas idénticas para eliminarlas del tablero.",
+          "fr": "Sélectionnez deux tuiles identiques pour les retirer du plateau",
+          "it": "Seleziona due tessere identiche per rimuoverle dal tabellone",
+          "br": "Selecione duas peças idênticas para retirá-las do tabuleiro",
+          "ru": "Выберите две одинаковые плитки, чтобы убрать их с доски."
+        },
+        {
+          "-id": "TUTORIAL_4",
+          "en": "Clear the board as fast as you can to get a medal and awards!",
+          "de": "Räume das Spielbrett so schnell wie möglich frei, um Medaillen und Belohnungen zu erhalten.",
+          "es": "¡Despeja el tablero todo lo rápido que puedas para obtener una medalla y premios!",
+          "fr": "Videz le plateau aussi vite que possible pour obtenir une médaille et des trophées !",
+          "it": "Svuota il tabellone più velocemente che puoi per ottenere una medaglia e dei premi!",
+          "br": "Limpe o tabuleiro o mais rápido qie puder para ganhar uma medalha e prêmios!",
+          "ru": "Очистите доску как можно быстрее, чтобы получить медаль и награды!"
+        },
+        {
+          "-id": "TUTORIAL_8",
+          "en": "Season tiles can be matched even if the pictures on them are different",
+          "de": "Jahreszeiten-Kacheln können auch zusammengeführt werden, wenn die Bilder unterschiedlich sind.",
+          "es": "Las fichas de estaciones pueden emparejarse aunque tengan imágenes distintas.",
+          "fr": "Les tuiles de saisons peuvent être combinées même si les images sont différentes",
+          "it": "Le tessere delle stagioni possono essere abbinate anche se le immagini su di esse sono diverse",
+          "br": "Peças sazonais podem ser combinadas mesmo que as imagens nelas sejam diferentes",
+          "ru": "Сезонные плитки можно совместить, даже если изображения на них разные"
+        },
+        {
+          "-id": "TUTORIAL_9",
+          "en": "You can also match flower tiles even though the pictures are different",
+          "de": "Du kannst auch Blumen-Kacheln mit unterschiedlichen Bildern zusammenführen.",
+          "es": "También puedes emparejar las fichas de flores aunque las imágenes sean distintas.",
+          "fr": "Vous pouvez également associer des tuiles de fleurs même si les images sont différentes",
+          "it": "Puoi abbinare le tessere dei fiori anche se le immagini sono differenti",
+          "br": "Você também pode combinar peças com flores mesmo que as imagens sejam diferentes",
+          "ru": "Вы также можете совместить цветочные плитки, даже если изображения разные"
+        },
+        {
+          "-id": "TUTORIAL_16",
+          "en": "Find and collect special tiles to complete some puzzles faster",
+          "de": "Suche und sammle Spezialkacheln, um das Spiel schneller zu beenden.",
+          "es": "Encuentra y recoge fichas especiales para completar algunos puzles más deprisa.",
+          "fr": "Trouvez et récupérez des tuiles spéciales pour terminer des casse-têtes plus rapidement",
+          "it": "Trova e raccogli le tessere speciali per completare alcuni puzzle più velocemente",
+          "br": "Descubra e recolha peças especiais para terminar alguns puzzles mais rápido",
+          "ru": "Находите и собирайте особые плитки, чтобы быстрее решить головоломки."
+        },
+        {
+          "-id": "TUTORIAL_17",
+          "en": "Rock tiles don't do anything",
+          "de": "Stein-Kacheln haben keine Funktion.",
+          "es": "Las rocas no sirven para nada.",
+          "fr": "Les tuiles de pierres ne font rien",
+          "it": "Le tessere delle rocce non fanno nulla",
+          "br": "Peças de pedra não servem para nada",
+          "ru": "Каменная плитка ничего не делает"
+        },
+        {
+          "-id": "TUTORIAL_18",
+          "en": "Some tiles are reversed. Select one to turn it around",
+          "de": "Einige Kacheln liegen verkehrt herum. Wähle sie aus, um sie umzudrehen.",
+          "es": "Algunas fichas están boca abajo. Selecciona una para darle la vuelva.",
+          "fr": "Certaines tuiles sont à l'envers. Sélectionnez-en une pour la retourner",
+          "it": "Alcune tessere sono capovolte. Selezionane una per girarla",
+          "br": "Algumas peças são invertidas. Selecione uma para girar",
+          "ru": "Некоторые плитки перевернуты. Выберите одну, чтобы перевернуть"
+        },
+        {
+          "-id": "TUTORIAL_19",
+          "en": "Match identical scissors to unlock trapped tiles",
+          "de": "Führe identische Scheren zusammen, um blockierte Kacheln freizulegen.",
+          "es": "Empareja tijeras idénticas para desbloquear fichas atrapadas.",
+          "fr": "Combinez des ciseaux identiques pour déverrouiller des tuiles bloquées",
+          "it": "Abbina le forbici uguali per sbloccare le tessere intrappolate",
+          "br": "Combine tesouras idênticas para desbloquear peças presas",
+          "ru": "Подбирайте одинаковые ножницы, чтобы разблокировать застрявшие плитки"
+        },
+
+        {
+          "-id": "___Key",
+          "en": "",
+          "de": "",
+          "es": "",
+          "fr": "",
+          "it": "",
+          "br": "",
+          "ru": ""
+        },
+        {
+          "-id": "MoreGames",
+          "en": "MORE GAMES",
+          "de": "MEHR SPIELE",
+          "es": "MÁS JUEGOS",
+          "fr": "PLUS DE JEUX",
+          "it": "ALTRI GIOCHI",
+          "br": "MAIS JOGOS",
+          "ru": "БОЛЬШЕ ИГР"
+        }
+      ]
+    }
+  }
+}

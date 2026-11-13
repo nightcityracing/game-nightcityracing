@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"ProgressReward","ID\t第几天(表示第10天、第20天、第30天)\t类型(0表示金币，6表示随机道具，9表示付费转盘)\t数量\r\nID\tprogress\ttype\tnum\r\nint\tint\tint\tint\r\n1\t1\t0\t500\r\n2\t2\t6\t3\r\n3\t3\t9\t1\r\n"]],0,0,[],[],[]]

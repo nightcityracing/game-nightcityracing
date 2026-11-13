@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>LaseOverLoad</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.png">
+    <link rel="stylesheet" href="TemplateData/style.css">
+  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+</head>
+
+<body>
+    <div id="unity-container" class="unity-desktop" style="width:480px; height: 854px">
+        <canvas id="unity-canvas"></canvas>
+        <div id="unity-loading-bar">
+            <div id="unity-logo"></div>
+            <div id="unity-progress-bar-empty">
+                <div id="unity-progress-bar-full"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var container = document.querySelector("#unity-container");
+        var canvas = document.querySelector("#unity-canvas");
+        var loadingBar = document.querySelector("#unity-loading-bar");
+        var progressBarFull = document.querySelector("#unity-progress-bar-full");
+
+        var iframe_game = document.getElementsByClassName("unity-desktop");
+        var start_w = parseInt(iframe_game[0].style.width);
+        var start_h = parseInt(iframe_game[0].style.height);
+        var frame_aspect_ratio = start_w / start_h;
+        var frame_aspect_ratio_h = start_h / start_w;
+
+        reportWindowSize();
+
+        function reportWindowSize() {
+            var inner_w = parseInt(window.innerWidth);
+            var inner_h = parseInt(window.innerHeight);
+            var curent_aspect_ratio = inner_w / inner_h;
+            if (frame_aspect_ratio <= curent_aspect_ratio) {
+                iframe_game[0].style.height = inner_h + "px";
+                iframe_game[0].style.width = (inner_h * frame_aspect_ratio) + "px";
+                iframe_game[0].style.marginLeft = (inner_w - (inner_h * frame_aspect_ratio)) / 2 + "px";
+                iframe_game[0].style.marginTop = "0px";
+                //console.log("Inner W " + inner_w + " " + "Inner H " + inner_h);
+            } else {
+                iframe_game[0].style.width = inner_w + "px";
+                iframe_game[0].style.height = (inner_w * frame_aspect_ratio_h) + "px";
+                iframe_game[0].style.marginTop = (inner_h - (inner_w * frame_aspect_ratio_h)) / 2 + "px";
+                iframe_game[0].style.marginLeft = "0px";
+                //console.log("Inner W " + inner_w + " " + "Inner H " + inner_h);
+                console.log(frame_aspect_ratio_h);
+            }
+
+
+        }
+
+        window.onresize = reportWindowSize;
+
+        var buildUrl = "Build";
+        var loaderUrl = buildUrl + "/Fill The Battery - GD.loader.js";
+        var config = {
+            dataUrl: buildUrl + "/Fill The Battery - GD.data.unityweb",
+            frameworkUrl: buildUrl + "/Fill The Battery - GD.framework.js.unityweb",
+            codeUrl: buildUrl + "/Fill The Battery - GD.wasm.unityweb",
+            streamingAssetsUrl: "StreamingAssets",
+            companyName: "DefaultCompany",
+            productName: "LaseOverLoad",
+            productVersion: "1.0",
+            // showBanner: unityShowBanner,
+        };
+
+        if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+            var meta = document.createElement('meta');
+            meta.name = 'viewport';
+            meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+            document.getElementsByTagName('head')[0].appendChild(meta);
+        } else {}
+
+        loadingBar.style.display = "block";
+
+        var script = document.createElement("script");
+        script.src = loaderUrl;
+        var gameInstance; //Define the gameInstance variable here
+        script.onload = () => {
+            createUnityInstance(canvas, config, (progress) => {
+                progressBarFull.style.width = 100 * progress + "%";
+            }).then((unityInstance) => {
+                gameInstance  = unityInstance; //make sure to have this assignment
+                loadingBar.style.display = "none";
+            }).catch((message) => {
+                alert(message);
+            });
+        };
+        document.body.appendChild(script);
+
+    </script>
+</body>
+
+</html>

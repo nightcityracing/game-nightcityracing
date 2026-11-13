@@ -1,0 +1,16 @@
+{
+  "locale":"en-US",
+  "data":[
+    {"key":"menu.title", "value":"MENU"},
+    {"key":"bonus.speed", "value":"Speed\nMatch"},
+    {"key":"loose.timeisup", "value":"Time is up!"},
+    {"key":"tutorial.step0", "value":"Tap/Click on same\ntiles to match them"},
+    {"key":"tutorial.step2", "value":"Make sure that there\nare no tiles on the way."},
+    {"key":"gameover.win", "value":"Level complete bonus!"},
+    {"key":"time.sec", "value":"Sec"},
+    {"key":"reward.sponsor", "value":"Watch sponsored video and get reward"},
+    {"key":"gameover.nomorematches", "value":"No more matches.\nUse reshuffle!"},
+    {"key":"gameover.nomoremoves", "value":"No More Moves"},
+    {"key":"gameover.timesup", "value":"Out of Time"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+"companyName": "PongD",
+"productName": "Paint Hit 2D",
+"dataUrl": "Paint-Hit-2d-11-22-1-GD.data.unityweb",
+"wasmCodeUrl": "Paint-Hit-2d-11-22-1-GD.wasm.code.unityweb",
+"wasmFrameworkUrl": "Paint-Hit-2d-11-22-1-GD.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
