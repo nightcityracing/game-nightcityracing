@@ -1,0 +1,94 @@
+{
+
+  "SETTINGS": {
+
+    "CELL_WIDTH": 49,
+    "CELL_HEIGHT": 49,
+    "GRID_WIDTH": 15,
+    "GRID_HEIGHT": 13,
+
+    "LOADING_SCREEN": 2250,
+    "MATCH_TIME": 180000,
+    "INITIAL_BLINKING_TIME": 2000,
+    "INITIAL_SPEED": 0.2,
+    "SPEED_INCREASE": 0.06,
+    "SPEED_CONVEYOR": 0.065,
+    "INITIAL_LIVES": 3,
+    "BOMB_TIMER": 2500,
+    "BOMB_SPEED_KICKED": 0.5,
+    "MAX_BOMB_POWER": 5,
+    "MAX_SPEED": 9,
+    "MAX_BOMBS": 9,
+    "TIME_STUNNED": 5000,
+    "CONVEYOR_BELT_SPEED": 0.05,
+
+    "ON_BLOCK_DESTROY": [
+      {"name": "power_up", "chance": 50},
+      {"name": "weapon", "chance": 20},
+      {"name": "mount", "chance": 5},
+      {"name": "nothing", "chance": 25}
+    ],
+
+    "POWER_UP_CHANCES": [
+      {"name": "bomb", "chance": 20},
+      {"name": "power", "chance": 20},
+      {"name": "speed", "chance": 20},
+      {"name": "push", "chance": 20},
+      {"name": "shield", "chance": 10},
+      {"name": "invincibility", "chance": 8},
+      {"name": "heart", "chance": 2}
+    ],
+
+    "WEAPON_CHANCES": [
+      {"name": "boxing_glove", "chance": 15},
+      {"name": "land_mine", "chance": 10},
+      {"name": "flamethrower", "chance": 15},
+      {"name": "laser_gun", "chance": 15},
+      {"name": "hammer", "chance": 15},
+      {"name": "machine_gun", "chance": 15},
+      {"name": "fireball_launcher", "chance": 15}
+    ],
+
+    "MOUNT_CHANCES": [
+      {"name": "frog", "chance": 25},
+      {"name": "skate", "chance": 25},
+      {"name": "mammoth", "chance": 25},
+      {"name": "sports_car", "chance": 25}
+    ],
+
+    "POINTS_EASY": 1000,
+    "POINTS_NORMAL": 2000,
+    "POINTS_HARD": 3000,
+    "POINTS_PER_SECOND": 10,
+    "POINTS_ARCADE_1_KILL": 600,
+    "POINTS_ARCADE_2_KILL": 900,
+    "POINTS_ARCADE_3_KILL": 1200,
+
+    "POINTS_PER_KILL": 100,
+    "POINTS_PER_COIN": 10,
+    "POINTS_PER_ZONE": 100,
+    "POINTS_PER_POWER_UP": 100,
+    "POINTS_PER_BLOCK": 10,
+
+    "TIMES_TO_SEARCH_PLAYER_EASY": 20,
+    "TIMES_TO_SEARCH_PLAYER_NORMAL": 20,
+    "TIMES_TO_SEARCH_PLAYER_HARD": 20,
+
+    "CHANCE_TO_SEARCH_PLAYER_EASY": 5,
+    "CHANCE_TO_SEARCH_PLAYER_NORMAL": 10,
+    "CHANCE_TO_SEARCH_PLAYER_HARD": 15,
+
+    "CHANCE_TO_ATTACK_EASY": 30,
+    "CHANCE_TO_ATTACK_NORMAL": 50,
+    "CHANCE_TO_ATTACK_HARD": 75,
+
+    "CAMERA_SHAKE": 0.01,
+    "CAMERA_SHAKE_DURATION": 250,
+    "ITEM_COSTS": [
+      2500, 7200, 12000, 19200,
+      24000, 31200, 36000, 48000
+    ]
+
+  }
+
+}

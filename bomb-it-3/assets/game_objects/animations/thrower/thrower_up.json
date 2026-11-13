@@ -1,0 +1,52 @@
+{
+    "name": "thrower_up",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "thrower_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -24.8
+                    ]
+                },
+                {
+                    "frame": 117,
+                    "value": [
+                        -0.5,
+                        -24.8
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        0,
+                        -24.8
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        1,
+                        -24.8
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        0,
+                        -24.8
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "thrower_up.png"
+                }
+            ]
+        }
+    }
+}

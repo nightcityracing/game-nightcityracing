@@ -1,0 +1,112 @@
+{
+    "name": "super_gloves_up3",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "hand": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        3,
+                        -0.3
+                    ]
+                },
+                {
+                    "frame": 80,
+                    "value": [
+                        4.1,
+                        -0.3
+                    ]
+                },
+                {
+                    "frame": 160,
+                    "value": [
+                        4.6,
+                        -154.2
+                    ]
+                },
+                {
+                    "frame": 200,
+                    "value": [
+                        4.6,
+                        -154.2
+                    ]
+                },
+                {
+                    "frame": 240,
+                    "value": [
+                        3,
+                        -0.3
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "boxing_up1.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "boxing_up2.png"
+                },
+                {
+                    "frame": 160,
+                    "value": "boxing_up3.png"
+                },
+                {
+                    "frame": 240,
+                    "value": "boxing_up1.png"
+                }
+            ]
+        },
+        "chain": {
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 0.1
+                },
+                {
+                    "frame": 80,
+                    "value": 0.1
+                },
+                {
+                    "frame": 160,
+                    "value": 1.2
+                },
+                {
+                    "frame": 200,
+                    "value": 1.2
+                },
+                {
+                    "frame": 240,
+                    "value": 0.1
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": -90
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 20,
+                    "value": 1
+                },
+                {
+                    "frame": 220,
+                    "value": 1
+                },
+                {
+                    "frame": 240,
+                    "value": 0
+                }
+            ]
+        }
+    }
+}

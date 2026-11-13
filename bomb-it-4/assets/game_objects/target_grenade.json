@@ -1,0 +1,42 @@
+{
+    "hierarchy": {
+        "name": "target_grenade",
+        "children": [
+            {
+                "name": "target1"
+            },
+            {
+                "name": "target2"
+            }
+        ],
+        "animations": [
+            "target_grenade_stand"
+        ]
+    },
+    "properties": {
+        "target1": {
+            "file": "target_assets.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "angle": -47,
+            "scale": {
+                "x": 1.5,
+                "y": 1.5
+            },
+            "alpha": 0.43,
+            "type": "sprite"
+        },
+        "target2": {
+            "file": "target_assets.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

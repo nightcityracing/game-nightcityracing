@@ -1,0 +1,28 @@
+{
+    "hierarchy": {
+        "name": "character8",
+        "children": [
+            {
+                "name": "eyes"
+            }
+        ],
+        "animations": [
+            "character8_stand"
+        ]
+    },
+    "properties": {
+        "eyes": {
+            "file": "face8_eye0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.6,
+                "y": 10.8
+            },
+            "scale": {
+                "x": 1.01,
+                "y": 1.01
+            },
+            "type": "sprite"
+        }
+    }
+}

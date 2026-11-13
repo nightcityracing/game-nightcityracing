@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "bomb_loading.png",
+	"frame": {"x":811,"y":2,"w":41,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":41,"h":44},
+	"sourceSize": {"w":44,"h":47}
+},
+{
+	"filename": "loading_container.png",
+	"frame": {"x":2,"y":2,"w":415,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":415,"h":84},
+	"sourceSize": {"w":419,"h":90}
+},
+{
+	"filename": "loading_container2.png",
+	"frame": {"x":786,"y":206,"w":86,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":79},
+	"sourceSize": {"w":86,"h":79}
+},
+{
+	"filename": "loading_image1.png",
+	"frame": {"x":419,"y":2,"w":390,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":202},
+	"sourceSize": {"w":390,"h":202}
+},
+{
+	"filename": "loading_image2.png",
+	"frame": {"x":2,"y":88,"w":390,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":202},
+	"sourceSize": {"w":390,"h":202}
+},
+{
+	"filename": "loading_image3.png",
+	"frame": {"x":394,"y":206,"w":390,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":202},
+	"sourceSize": {"w":390,"h":202}
+},
+{
+	"filename": "loading_image4.png",
+	"frame": {"x":2,"y":292,"w":390,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":202},
+	"sourceSize": {"w":390,"h":202}
+},
+{
+	"filename": "pink_button.png",
+	"frame": {"x":394,"y":410,"w":271,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":271,"h":67},
+	"sourceSize": {"w":271,"h":67}
+},
+{
+	"filename": "pink_button_over.png",
+	"frame": {"x":667,"y":410,"w":271,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":271,"h":67},
+	"sourceSize": {"w":271,"h":67}
+},
+{
+	"filename": "pink_button_press.png",
+	"frame": {"x":394,"y":479,"w":261,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":10,"w":261,"h":57},
+	"sourceSize": {"w":271,"h":67}
+},
+{
+	"filename": "point_decor.png",
+	"frame": {"x":394,"y":88,"w":18,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":21,"w":18,"h":27},
+	"sourceSize": {"w":19,"h":54}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_loading.png",
+	"format": "RGBA8888",
+	"size": {"w":940,"h":538},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f9ecfe06bdb3b3b4c1ead8a5e6059910:6deaf8b096cdf629dee38b64daca3136:5662b0741b7b3b3013170f0be225ff43$"
+}
+}

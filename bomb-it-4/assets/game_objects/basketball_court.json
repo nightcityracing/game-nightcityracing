@@ -1,0 +1,90 @@
+{
+    "hierarchy": {
+        "name": "basketball_court",
+        "children": [
+            {
+                "name": "base_basketball",
+                "children": [
+                    {
+                        "name": "basketball_portal1"
+                    },
+                    {
+                        "name": "basketball_portal2"
+                    },
+                    {
+                        "name": "basketball_portal3"
+                    },
+                    {
+                        "name": "basketball_portal4"
+                    }
+                ]
+            }
+        ],
+        "animations": [
+            "center_basketball_stand"
+        ]
+    },
+    "properties": {
+        "base_basketball": {
+            "file": "center_basketball_court.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 5.3
+            },
+            "type": "sprite"
+        },
+        "base_basketball/basketball_portal1": {
+            "file": "orange_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 97.4,
+                "y": -6
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.7
+            },
+            "type": "sprite"
+        },
+        "base_basketball/basketball_portal2": {
+            "file": "orange_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -97.4,
+                "y": -6.4
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.7
+            },
+            "type": "sprite"
+        },
+        "base_basketball/basketball_portal3": {
+            "file": "purple_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.1,
+                "y": -106.6
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.6
+            },
+            "type": "sprite"
+        },
+        "base_basketball/basketball_portal4": {
+            "file": "purple_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.3,
+                "y": 91.8
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.6
+            },
+            "type": "sprite"
+        }
+    }
+}

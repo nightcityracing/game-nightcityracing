@@ -1,0 +1,28 @@
+{
+    "hierarchy": {
+        "name": "firework_red",
+        "children": [
+            {
+                "name": "red_base"
+            }
+        ],
+        "animations": [
+            "firework_red_anim"
+        ]
+    },
+    "properties": {
+        "red_base": {
+            "file": "anim_star_base34.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            },
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,1551 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container_1player",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "avatar_p1"
+                    },
+                    {
+                        "name": "p1"
+                    },
+                    {
+                        "name": "container_decor1"
+                    },
+                    {
+                        "name": "container_decor2"
+                    },
+                    {
+                        "name": "container_decor3"
+                    },
+                    {
+                        "name": "container_decor4"
+                    },
+                    {
+                        "name": "container_decor5"
+                    },
+                    {
+                        "name": "container_decor6"
+                    },
+                    {
+                        "name": "container_decor7"
+                    },
+                    {
+                        "name": "container_decor8"
+                    },
+                    {
+                        "name": "container_decor9"
+                    },
+                    {
+                        "name": "container_decor10"
+                    },
+                    {
+                        "name": "container_decor11"
+                    },
+                    {
+                        "name": "container_decor12"
+                    },
+                    {
+                        "name": "score"
+                    },
+                    {
+                        "name": "enemies_killed_icon"
+                    },
+                    {
+                        "name": "time_bonus_icon"
+                    },
+                    {
+                        "name": "easy_bonus_icon"
+                    },
+                    {
+                        "name": "enemies_killed"
+                    },
+                    {
+                        "name": "time_bonus_text"
+                    },
+                    {
+                        "name": "enemies_killed_text"
+                    },
+                    {
+                        "name": "easy_bonus_text"
+                    },
+                    {
+                        "name": "easy_bonus"
+                    },
+                    {
+                        "name": "score_text"
+                    },
+                    {
+                        "name": "time_bonus"
+                    },
+                    {
+                        "name": "decor_edge_l"
+                    },
+                    {
+                        "name": "decor_edge_r"
+                    },
+                    {
+                        "name": "decor_edge_bottom"
+                    }
+                ]
+            },
+            {
+                "name": "container_2players",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "avatar_p1"
+                    },
+                    {
+                        "name": "p1"
+                    },
+                    {
+                        "name": "container_decor1"
+                    },
+                    {
+                        "name": "container_decor2"
+                    },
+                    {
+                        "name": "container_decor3"
+                    },
+                    {
+                        "name": "container_decor4"
+                    },
+                    {
+                        "name": "container_decor5"
+                    },
+                    {
+                        "name": "container_decor6"
+                    },
+                    {
+                        "name": "container_decor7"
+                    },
+                    {
+                        "name": "container_decor8"
+                    },
+                    {
+                        "name": "container_decor9"
+                    },
+                    {
+                        "name": "container_decor10"
+                    },
+                    {
+                        "name": "container_decor11"
+                    },
+                    {
+                        "name": "container_decor12"
+                    },
+                    {
+                        "name": "container_decor13"
+                    },
+                    {
+                        "name": "container_decor14"
+                    },
+                    {
+                        "name": "container_decor15"
+                    },
+                    {
+                        "name": "container_decor16"
+                    },
+                    {
+                        "name": "container_decor17"
+                    },
+                    {
+                        "name": "container_decor18"
+                    },
+                    {
+                        "name": "score_p1"
+                    },
+                    {
+                        "name": "enemies_killed_icon"
+                    },
+                    {
+                        "name": "time_bonus_icon"
+                    },
+                    {
+                        "name": "easy_bonus_icon"
+                    },
+                    {
+                        "name": "enemies_killed_p1"
+                    },
+                    {
+                        "name": "time_bonus_text"
+                    },
+                    {
+                        "name": "enemies_killed_text"
+                    },
+                    {
+                        "name": "easy_bonus_text"
+                    },
+                    {
+                        "name": "easy_bonus_p1"
+                    },
+                    {
+                        "name": "score_text"
+                    },
+                    {
+                        "name": "time_bonus_p1"
+                    },
+                    {
+                        "name": "decor_edge_l"
+                    },
+                    {
+                        "name": "decor_edge_r"
+                    },
+                    {
+                        "name": "decor_edge_bottom"
+                    },
+                    {
+                        "name": "p2"
+                    },
+                    {
+                        "name": "score_p2"
+                    },
+                    {
+                        "name": "easy_bonus_p2"
+                    },
+                    {
+                        "name": "time_bonus_p2"
+                    },
+                    {
+                        "name": "enemies_killed_p2"
+                    },
+                    {
+                        "name": "avatar_p2"
+                    }
+                ]
+            },
+            {
+                "name": "next",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container_1player": {
+            "file": "base_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 91,
+                "bottom": 69,
+                "left": 142,
+                "right": 134
+            },
+            "size": {
+                "width": 840,
+                "height": 540
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -37
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -37
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -29
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/title": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 34
+            },
+            "text": "LEVEL X COMPLETE!",
+            "align": "center",
+            "stroke": "#0577b5",
+            "strokeThickness": 13.8,
+            "position": {
+                "x": 0,
+                "y": -234
+            },
+            "color": "#a7ebf6",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -341
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/avatar_p1": {
+            "file": "character_1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 165.9,
+                "y": -157.9
+            },
+            "type": "sprite"
+        },
+        "container_1player/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 162.9,
+                "y": -106.9
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor1": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 287.7,
+                "height": 175.5
+            },
+            "position": {
+                "x": 164.7,
+                "y": 5.7
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor2": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 287.7,
+                "height": 57.3
+            },
+            "position": {
+                "x": 164.7,
+                "y": 146.5
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor3": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 305.5,
+                "height": 26.7
+            },
+            "position": {
+                "x": -149,
+                "y": -54.5
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor4": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 305.5,
+                "height": 26.7
+            },
+            "position": {
+                "x": -149,
+                "y": 8.5
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor5": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 305.5,
+                "height": 26.7
+            },
+            "position": {
+                "x": -149,
+                "y": 68.7
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor6": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 309.3,
+                "height": 26.7
+            },
+            "position": {
+                "x": -150.9,
+                "y": 148.5
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor7": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 247.4,
+                "height": 31.8
+            },
+            "position": {
+                "x": 165.2,
+                "y": 147.4
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor8": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 247.4,
+                "height": 31.8
+            },
+            "position": {
+                "x": 165.2,
+                "y": 65.9
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor9": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 247.4,
+                "height": 31.8
+            },
+            "position": {
+                "x": 165.2,
+                "y": 7.6
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor10": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 247.4,
+                "height": 31.8
+            },
+            "position": {
+                "x": 165.2,
+                "y": -52.8
+            },
+            "type": "sprite"
+        },
+        "container_1player/container_decor11": {
+            "file": "container_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -306.5,
+                "y": -229.3
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -293.2,
+                            "y": -298
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/container_decor12": {
+            "file": "container_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 304.7,
+                "y": -229.3
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 294,
+                            "y": -298
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/score": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "4260",
+            "align": "center",
+            "position": {
+                "x": 231.8,
+                "y": 150.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_1player/enemies_killed_icon": {
+            "file": "lc_icon_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -303.8,
+                "y": -61.7
+            },
+            "type": "sprite"
+        },
+        "container_1player/time_bonus_icon": {
+            "file": "lc_icon_2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -305.5,
+                "y": 3.3
+            },
+            "type": "sprite"
+        },
+        "container_1player/easy_bonus_icon": {
+            "file": "lc_icon_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -305.9,
+                "y": 61.9
+            },
+            "type": "sprite"
+        },
+        "container_1player/enemies_killed": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "200",
+            "align": "center",
+            "position": {
+                "x": 232.2,
+                "y": -50.1
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_1player/time_bonus_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "TIME BONUS",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -189,
+                "y": 6.3
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_1player/enemies_killed_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "ENEMIES KILLED",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -162.8,
+                "y": -58.4
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_1player/easy_bonus_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "EASY BONUS",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -188,
+                "y": 65
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_1player/easy_bonus": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 232.5,
+                "y": 69.4
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_1player/score_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "SCORE",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -228.3,
+                "y": 144.3
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_1player/time_bonus": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "1490",
+            "align": "center",
+            "position": {
+                "x": 233.7,
+                "y": 11.5
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_1player/decor_edge_l": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": -409.4,
+                "y": 13.4
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -348,
+                            "y": 7
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/decor_edge_r": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": 411.5,
+                "y": 13
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 348,
+                            "y": 13
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/decor_edge_bottom": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 745
+            },
+            "position": {
+                "x": 2,
+                "y": 259.3
+            },
+            "angle": 90,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -3,
+                            "y": 326
+                        }
+                    }
+                }
+            }
+        },
+        "container_2players": {
+            "file": "base_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 91,
+                "bottom": 69,
+                "left": 142,
+                "right": 134
+            },
+            "size": {
+                "width": 840,
+                "height": 540
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -37
+                }
+            },
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container_2players/title": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 34
+            },
+            "text": "LEVEL X COMPLETE!",
+            "align": "center",
+            "stroke": "#0577b5",
+            "strokeThickness": 13.8,
+            "position": {
+                "x": 0,
+                "y": -229.9
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_2players/avatar_p1": {
+            "file": "character_1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 71.5,
+                "y": -158
+            },
+            "type": "sprite"
+        },
+        "container_2players/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 68.5,
+                "y": -107
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor1": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 210,
+                "height": 175.5
+            },
+            "position": {
+                "x": 70.5,
+                "y": 6
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor2": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 210,
+                "height": 57.3
+            },
+            "position": {
+                "x": 70.5,
+                "y": 147
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor3": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 305.5,
+                "height": 26.7
+            },
+            "position": {
+                "x": -196,
+                "y": -55
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor4": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 305.5,
+                "height": 26.7
+            },
+            "position": {
+                "x": -196,
+                "y": 9
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor5": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 305.5,
+                "height": 26.7
+            },
+            "position": {
+                "x": -196,
+                "y": 69
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor6": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 309.3,
+                "height": 26.7
+            },
+            "position": {
+                "x": -198,
+                "y": 149
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor7": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 71.5,
+                "y": 147
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor8": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 71.5,
+                "y": 66
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor9": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 71.5,
+                "y": 8
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor10": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 71.5,
+                "y": -53
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor11": {
+            "file": "container_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -306.5,
+                "y": -229.3
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor12": {
+            "file": "container_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 304.7,
+                "y": -229.3
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor13": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 210,
+                "height": 175.5
+            },
+            "position": {
+                "x": 284.2,
+                "y": 6
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor14": {
+            "file": "container3.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 16,
+                "bottom": 12,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 210,
+                "height": 57.3
+            },
+            "position": {
+                "x": 284.2,
+                "y": 147
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor15": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 285.2,
+                "y": 147
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor16": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 285.2,
+                "y": 66
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor17": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 285.2,
+                "y": 8
+            },
+            "type": "sprite"
+        },
+        "container_2players/container_decor18": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 190,
+                "height": 31.8
+            },
+            "position": {
+                "x": 285.2,
+                "y": -53
+            },
+            "type": "sprite"
+        },
+        "container_2players/score_p1": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "4260",
+            "align": "center",
+            "position": {
+                "x": 124.4,
+                "y": 151.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/enemies_killed_icon": {
+            "file": "lc_icon_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -351,
+                "y": -62
+            },
+            "type": "sprite"
+        },
+        "container_2players/time_bonus_icon": {
+            "file": "lc_icon_2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -353,
+                "y": 3
+            },
+            "type": "sprite"
+        },
+        "container_2players/easy_bonus_icon": {
+            "file": "lc_icon_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -353,
+                "y": 62
+            },
+            "type": "sprite"
+        },
+        "container_2players/enemies_killed_p1": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "200",
+            "align": "center",
+            "position": {
+                "x": 123.8,
+                "y": -49.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/time_bonus_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "TIME BONUS",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -236,
+                "y": 6.3
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_2players/enemies_killed_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "ENEMIES KILLED",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -210,
+                "y": -58.7
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_2players/easy_bonus_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "EASY BONUS",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -235,
+                "y": 65.3
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_2players/easy_bonus_p1": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 124.8,
+                "y": 69.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/score_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "SCORE",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -276,
+                "y": 144.3
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container_2players/time_bonus_p1": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "1490",
+            "align": "center",
+            "position": {
+                "x": 124.4,
+                "y": 11.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/decor_edge_l": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": -409.4,
+                "y": 13.4
+            },
+            "type": "sprite"
+        },
+        "container_2players/decor_edge_r": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": 411.5,
+                "y": 13
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "container_2players/decor_edge_bottom": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 745
+            },
+            "position": {
+                "x": 2,
+                "y": 259.3
+            },
+            "angle": 90,
+            "type": "sprite"
+        },
+        "container_2players/p2": {
+            "file": "p2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 282.2,
+                "y": -107
+            },
+            "type": "sprite"
+        },
+        "container_2players/score_p2": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "4260",
+            "align": "center",
+            "position": {
+                "x": 338.1,
+                "y": 151.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/easy_bonus_p2": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 304.5,
+                "y": 69.2
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/time_bonus_p2": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "1490",
+            "align": "center",
+            "position": {
+                "x": 338.1,
+                "y": 11.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/enemies_killed_p2": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 25
+            },
+            "text": "200",
+            "align": "center",
+            "position": {
+                "x": 337.5,
+                "y": -49.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container_2players/avatar_p2": {
+            "file": "character_1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 285.2,
+                "y": -158
+            },
+            "type": "sprite"
+        },
+        "next": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 288.6,
+                    "y": 277.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 288.6,
+                            "y": 277.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 199.2,
+                            "y": 352.7
+                        }
+                    }
+                }
+            }
+        },
+        "next/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "NEXT",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -5.3,
+                "y": -5.3
+            },
+            "type": "text"
+        }
+    }
+}

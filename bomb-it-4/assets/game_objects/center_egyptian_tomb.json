@@ -1,0 +1,21 @@
+{
+    "hierarchy": {
+        "name": "center_egyptian_tomb",
+        "children": [
+            {
+                "name": "base_egyptian_tomb"
+            }
+        ]
+    },
+    "properties": {
+        "base_egyptian_tomb": {
+            "file": "egyptian_tomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -14
+            },
+            "type": "sprite"
+        }
+    }
+}

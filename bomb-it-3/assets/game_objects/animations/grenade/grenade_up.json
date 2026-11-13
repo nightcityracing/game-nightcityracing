@@ -1,0 +1,52 @@
+{
+    "name": "grenade_up",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "grenade_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        17,
+                        -12.9
+                    ]
+                },
+                {
+                    "frame": 117,
+                    "value": [
+                        16.3,
+                        -13.8
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        17,
+                        -12.9
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        17.9,
+                        -12.2
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        17,
+                        -12.9
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "grenade_up.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "hierarchy": {
+        "name": "thrower",
+        "children": [
+            {
+                "name": "thrower_base"
+            },
+            {
+                "name": "thrower_fire"
+            }
+        ],
+        "animations": [
+            "thrower_down_play",
+            "thrower_side_play",
+            "thrower_up_play",
+            "thrower_down",
+            "thrower_side",
+            "thrower_up"
+        ]
+    },
+    "properties": {
+        "thrower_base": {
+            "file": "thrower_up.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.16,
+                "y": -24.8
+            },
+            "type": "sprite"
+        },
+        "thrower_fire": {
+            "file": "thrower_fire25.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 7.2,
+                "y": -37.7
+            },
+            "angle": -90,
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "type": "sprite"
+        }
+    }
+}

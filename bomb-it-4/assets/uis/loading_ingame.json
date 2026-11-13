@@ -1,0 +1,341 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "mode_image"
+                    },
+                    {
+                        "name": "decor_l"
+                    },
+                    {
+                        "name": "decor_r"
+                    },
+                    {
+                        "name": "description"
+                    },
+                    {
+                        "name": "loading_text"
+                    },
+                    {
+                        "name": "gear1"
+                    },
+                    {
+                        "name": "gear2"
+                    },
+                    {
+                        "name": "bomb_container",
+                        "children": [
+                            {
+                                "name": "gear3"
+                            },
+                            {
+                                "name": "gear4"
+                            },
+                            {
+                                "name": "bomb1"
+                            },
+                            {
+                                "name": "bomb2"
+                            },
+                            {
+                                "name": "bomb3"
+                            },
+                            {
+                                "name": "bomb4"
+                            },
+                            {
+                                "name": "bomb5"
+                            },
+                            {
+                                "name": "bomb6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "set_avatar_container.png",
+            "image": "SIMPLE",
+            "scale": {
+                "x": 0.9,
+                "y": 0.9
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 7,
+                    "y": -110
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 7,
+                            "y": -110
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 7,
+                            "y": -206
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 42
+            },
+            "text": "ARCADE",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 4,
+                "y": -127
+            },
+            "color": "#fea367",
+            "type": "text"
+        },
+        "container/mode_image": {
+            "file": "loading_image1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 16.3,
+                "y": 32.3
+            },
+            "type": "sprite"
+        },
+        "container/decor_l": {
+            "file": "loading_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -150.3,
+                "y": 92
+            },
+            "type": "sprite"
+        },
+        "container/decor_r": {
+            "file": "loading_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 185.2,
+                "y": 92
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "container/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "Place your bombs tactically to kill all\nenemies!",
+            "align": "center",
+            "stroke": "#ffffcd",
+            "strokeThickness": 4,
+            "position": {
+                "x": 3.7,
+                "y": 195.2
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/loading_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 27
+            },
+            "text": "LOADING...",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 6,
+            "position": {
+                "x": 0,
+                "y": 268
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/gear1": {
+            "file": "weel1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 238.33,
+                "y": 315.22
+            },
+            "scale": {
+                "x": 1.11,
+                "y": 1.11
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 238,
+                            "y": 450
+                        }
+                    }
+                }
+            }
+        },
+        "container/gear2": {
+            "file": "weel1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -204.22,
+                "y": 317.78
+            },
+            "scale": {
+                "x": 1.11,
+                "y": 1.11
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -204,
+                            "y": 453
+                        }
+                    }
+                }
+            }
+        },
+        "container/bomb_container": {
+            "file": "loading_bar.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 17.67,
+                "y": 324.89
+            },
+            "scale": {
+                "x": 1.11,
+                "y": 1.11
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 18,
+                            "y": 460
+                        }
+                    }
+                }
+            }
+        },
+        "container/bomb_container/gear3": {
+            "file": "weel2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -179.5,
+                "y": 26.9
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/gear4": {
+            "file": "weel2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 172.4,
+                "y": 26.9
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/bomb1": {
+            "file": "bomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -126.8,
+                "y": -1.4
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/bomb2": {
+            "file": "bomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -78.9,
+                "y": -1
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/bomb3": {
+            "file": "bomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -27.6,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/bomb4": {
+            "file": "bomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 21,
+                "y": -1
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/bomb5": {
+            "file": "bomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 68.1,
+                "y": -2.7
+            },
+            "type": "sprite"
+        },
+        "container/bomb_container/bomb6": {
+            "file": "bomb.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 118.8,
+                "y": -2
+            },
+            "type": "sprite"
+        }
+    }
+}

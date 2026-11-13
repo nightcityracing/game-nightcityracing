@@ -1,0 +1,52 @@
+{
+    "name": "thrower_side",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "thrower_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        6.9,
+                        -25.4
+                    ]
+                },
+                {
+                    "frame": 133,
+                    "value": [
+                        7.4,
+                        -25.9
+                    ]
+                },
+                {
+                    "frame": 233,
+                    "value": [
+                        6.9,
+                        -25.4
+                    ]
+                },
+                {
+                    "frame": 317,
+                    "value": [
+                        7.9,
+                        -24.4
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        6.9,
+                        -25.4
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "thrower_left.png"
+                }
+            ]
+        }
+    }
+}

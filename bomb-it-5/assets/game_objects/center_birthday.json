@@ -1,0 +1,80 @@
+{
+    "hierarchy": {
+        "name": "center_birthday",
+        "children": [
+            {
+                "name": "birthday_base"
+            },
+            {
+                "name": "birthday_light1"
+            },
+            {
+                "name": "birthday_fire1"
+            },
+            {
+                "name": "birthday_light2"
+            },
+            {
+                "name": "birthday_fire2"
+            }
+        ],
+        "animations": [
+            "center_birthday_stand"
+        ]
+    },
+    "properties": {
+        "birthday_base": {
+            "file": "center_birthday_party.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.5,
+                "y": -63.9
+            },
+            "type": "sprite"
+        },
+        "birthday_light1": {
+            "file": "center_birthday_party3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -46.3,
+                "y": -157.9
+            },
+            "type": "sprite"
+        },
+        "birthday_fire1": {
+            "file": "center_birthday_party2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -45.6,
+                "y": -147.7
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "sprite"
+        },
+        "birthday_light2": {
+            "file": "center_birthday_party3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 27.7,
+                "y": -157.9
+            },
+            "type": "sprite"
+        },
+        "birthday_fire2": {
+            "file": "center_birthday_party2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 28.4,
+                "y": -147.7
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "sprite"
+        }
+    }
+}

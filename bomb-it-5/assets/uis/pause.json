@@ -1,0 +1,275 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "base"
+                    }
+                ]
+            },
+            {
+                "name": "sound_container",
+                "children": [
+                    {
+                        "name": "audio_button"
+                    },
+                    {
+                        "name": "music_button"
+                    }
+                ]
+            },
+            {
+                "name": "main_menu_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "pause_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "set_avatar_container.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -37
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -37
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -83
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 50
+            },
+            "text": "PAUSE",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -232.5
+            },
+            "color": "#ffe000",
+            "type": "text"
+        },
+        "container/base": {
+            "file": "characters_pause.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 9.9,
+                "y": 26
+            },
+            "type": "sprite"
+        },
+        "sound_container": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 419,
+                    "y": -256
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 419,
+                            "y": -256
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 320,
+                            "y": -383
+                        }
+                    }
+                }
+            }
+        },
+        "sound_container/audio_button": {
+            "file": "mm_audio.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -3.7
+            },
+            "type": "button"
+        },
+        "sound_container/music_button": {
+            "file": "mm_music.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 56.3
+            },
+            "type": "button"
+        },
+        "main_menu_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -156.3,
+                    "y": 212.7
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -156.3,
+                            "y": 212.7
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -139.8,
+                            "y": 349.7
+                        }
+                    }
+                }
+            }
+        },
+        "main_menu_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "MAIN MENU",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "pause_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 126.5,
+                    "y": 212.7
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 126.5,
+                            "y": 212.7
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 140.9,
+                            "y": 349.7
+                        }
+                    }
+                }
+            }
+        },
+        "pause_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "RESUME",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "sheep_side_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "sheep_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -14.4
+                    ]
+                }
+            ],
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "sheep_stand_side1.png"
+                },
+                {
+                    "frame": 120,
+                    "value": "sheep_stand_side2.png"
+                },
+                {
+                    "frame": 240,
+                    "value": "sheep_stand_side3.png"
+                },
+                {
+                    "frame": 360,
+                    "value": "sheep_stand_side4.png"
+                },
+                {
+                    "frame": 480,
+                    "value": "sheep_stand_side5.png"
+                },
+                {
+                    "frame": 600,
+                    "value": "sheep_stand_side1.png"
+                }
+            ]
+        }
+    }
+}

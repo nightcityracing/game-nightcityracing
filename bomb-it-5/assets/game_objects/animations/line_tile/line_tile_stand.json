@@ -1,0 +1,23 @@
+{
+    "name": "line_tile_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "line_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "line_anim1.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "line_anim2.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "line_anim1.png"
+                }
+            ]
+        }
+    }
+}

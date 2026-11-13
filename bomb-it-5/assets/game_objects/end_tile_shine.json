@@ -1,0 +1,29 @@
+{
+    "hierarchy": {
+        "name": "end_tile_shine",
+        "children": [
+            {
+                "name": "shine"
+            }
+        ],
+        "animations": [
+            "end_tile_shine_play"
+        ]
+    },
+    "properties": {
+        "shine": {
+            "file": "bottom_anim3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -7,
+                "y": 0
+            },
+            "scale": {
+                "x": 0,
+                "y": 0
+            },
+            "alpha": 0,
+            "type": "sprite"
+        }
+    }
+}

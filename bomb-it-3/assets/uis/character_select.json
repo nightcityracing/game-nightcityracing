@@ -1,0 +1,907 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "container_decor5"
+                    },
+                    {
+                        "name": "container_decor6"
+                    },
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "container_decor1",
+                        "children": [
+                            {
+                                "name": "container_decor2"
+                            },
+                            {
+                                "name": "container_decor3"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "decor_edge_l"
+                    },
+                    {
+                        "name": "decor_edge_r"
+                    },
+                    {
+                        "name": "decor_edge_bottom"
+                    },
+                    {
+                        "name": "character1",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character2",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character3",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character4",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character5",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character6",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character7",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character8",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character9",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character10",
+                        "children": [
+                            {
+                                "name": "p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "p1_decor_l"
+                    },
+                    {
+                        "name": "p1_decor_r"
+                    },
+                    {
+                        "name": "p1_select",
+                        "children": [
+                            {
+                                "name": "character"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "p1"
+                    },
+                    {
+                        "name": "p2_decor_l"
+                    },
+                    {
+                        "name": "p2_decor_r"
+                    },
+                    {
+                        "name": "p2_select",
+                        "children": [
+                            {
+                                "name": "character"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "p2"
+                    },
+                    {
+                        "name": "decor_gear1"
+                    },
+                    {
+                        "name": "decor_gear2"
+                    },
+                    {
+                        "name": "decor_gear3"
+                    }
+                ]
+            },
+            {
+                "name": "back",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "next",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "base_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 91,
+                "bottom": 69,
+                "left": 142,
+                "right": 134
+            },
+            "size": {
+                "width": 840,
+                "height": 540
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": "0%",
+                    "y": -37
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": -37
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": -29
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_decor5": {
+            "file": "container_decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -373,
+                "y": -226.5
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -287,
+                            "y": -310
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_decor6": {
+            "file": "container_decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 353.6,
+                "y": -226
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 295,
+                            "y": -309
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 34
+            },
+            "text": "CHOOSE CHARACTER",
+            "align": "center",
+            "stroke": "#0577b5",
+            "strokeThickness": 13.8,
+            "position": {
+                "x": 0,
+                "y": -230.7
+            },
+            "color": "#a7ebf6",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -313.4
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_decor1": {
+            "file": "container1.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 42,
+                "bottom": 48,
+                "left": 56,
+                "right": 56
+            },
+            "size": {
+                "width": 734.9,
+                "height": 207.8
+            },
+            "position": {
+                "x": 2.5,
+                "y": -98.9
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -1.4,
+                            "y": -107.2
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_decor1/container_decor2": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 603.3,
+                "height": 31.5
+            },
+            "position": {
+                "x": 0,
+                "y": -24.7
+            },
+            "type": "sprite"
+        },
+        "container/container_decor1/container_decor3": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 436.5,
+                "height": 25
+            },
+            "position": {
+                "x": 0,
+                "y": 67.2
+            },
+            "type": "sprite"
+        },
+        "container/decor_edge_l": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": -409.4,
+                "y": 13.4
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -348,
+                            "y": 7
+                        }
+                    }
+                }
+            }
+        },
+        "container/decor_edge_r": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": 411.5,
+                "y": 13
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 348,
+                            "y": 13
+                        }
+                    }
+                }
+            }
+        },
+        "container/decor_edge_bottom": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 745
+            },
+            "position": {
+                "x": 2,
+                "y": 259.3
+            },
+            "angle": 90,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -3,
+                            "y": 326
+                        }
+                    }
+                }
+            }
+        },
+        "container/character1": {
+            "file": "character_1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -265.7,
+                "y": -155.2
+            },
+            "type": "button"
+        },
+        "container/character1/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character2": {
+            "file": "character_2_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -161.5,
+                "y": -155.2
+            },
+            "type": "button"
+        },
+        "container/character2/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character3": {
+            "file": "character_3_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -57.2,
+                "y": -155.2
+            },
+            "type": "button"
+        },
+        "container/character3/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character4": {
+            "file": "character_4_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 47,
+                "y": -155.2
+            },
+            "type": "button"
+        },
+        "container/character4/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character5": {
+            "file": "character_5_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 151.3,
+                "y": -155.2
+            },
+            "type": "button"
+        },
+        "container/character5/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character6": {
+            "file": "character_6_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 255.5,
+                "y": -155.2
+            },
+            "type": "button"
+        },
+        "container/character6/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character7": {
+            "file": "character_b1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -154,
+                "y": -55
+            },
+            "type": "button"
+        },
+        "container/character7/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character8": {
+            "file": "character_b2_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -53.5,
+                "y": -55
+            },
+            "type": "button"
+        },
+        "container/character8/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character9": {
+            "file": "character_b3_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 46.9,
+                "y": -55
+            },
+            "type": "button"
+        },
+        "container/character9/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/character10": {
+            "file": "character_b4_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 147.4,
+                "y": -55
+            },
+            "type": "button"
+        },
+        "container/character10/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 45.3
+            },
+            "type": "sprite"
+        },
+        "container/p1_decor_l": {
+            "file": "decor_sc.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -251,
+                "y": 194
+            },
+            "type": "sprite"
+        },
+        "container/p1_decor_r": {
+            "file": "decor_sc.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -69,
+                "y": 194
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "container/p1_select": {
+            "file": "character_container1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -151,
+                "y": 130
+            },
+            "type": "button"
+        },
+        "container/p1_select/character": {
+            "position": {
+                "x": -1.1,
+                "y": 100
+            },
+            "type": "container"
+        },
+        "container/p1": {
+            "file": "p1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -263,
+                "y": 34
+            },
+            "type": "sprite"
+        },
+        "container/p2_decor_l": {
+            "file": "decor_sc.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 64,
+                "y": 194
+            },
+            "type": "sprite"
+        },
+        "container/p2_decor_r": {
+            "file": "decor_sc.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 246,
+                "y": 194
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "container/p2_select": {
+            "file": "character_container1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 163,
+                "y": 130
+            },
+            "type": "button"
+        },
+        "container/p2_select/character": {
+            "position": {
+                "x": 2.1,
+                "y": 99.7
+            },
+            "type": "container"
+        },
+        "container/p2": {
+            "file": "p2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 51,
+                "y": 34
+            },
+            "type": "sprite"
+        },
+        "container/decor_gear1": {
+            "position": {
+                "x": 353.1,
+                "y": -20.5
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 301.5,
+                            "y": -28.9
+                        }
+                    }
+                }
+            }
+        },
+        "container/decor_gear2": {
+            "position": {
+                "x": -344.1,
+                "y": -11.8
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -303.2,
+                            "y": -20.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/decor_gear3": {
+            "position": {
+                "x": 382.3,
+                "y": 236.1
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 309.8,
+                            "y": 314.6
+                        }
+                    }
+                }
+            }
+        },
+        "back": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -273.8,
+                    "y": 277.6
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -273.8,
+                            "y": 277.6
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -199.6,
+                            "y": 352.5
+                        }
+                    }
+                }
+            }
+        },
+        "back/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -5.3,
+                "y": -5.3
+            },
+            "type": "text"
+        },
+        "next": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 288.2,
+                    "y": 277.6
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 288.2,
+                            "y": 277.6
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 199.4,
+                            "y": 352.5
+                        }
+                    }
+                }
+            }
+        },
+        "next/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "NEXT",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -5.3,
+                "y": -5.3
+            },
+            "type": "text"
+        }
+    }
+}

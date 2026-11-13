@@ -1,0 +1,48 @@
+
+car_race.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x1
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+atras/base
+  rotate: true
+  xy: 2, 5
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+frente/base
+  rotate: true
+  xy: 78, 8
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+frente/glass
+  rotate: true
+  xy: 227, 21
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+perfil/base
+  rotate: false
+  xy: 146, 8
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 213, 15
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1

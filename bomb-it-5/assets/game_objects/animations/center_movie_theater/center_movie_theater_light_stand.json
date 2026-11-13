@@ -1,0 +1,55 @@
+{
+    "name": "center_movie_theater_light_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "movie_light": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "center_light1.png"
+                },
+                {
+                    "frame": 40,
+                    "value": "center_light2.png"
+                },
+                {
+                    "frame": 80,
+                    "value": "center_light3.png"
+                },
+                {
+                    "frame": 120,
+                    "value": "center_light4.png"
+                },
+                {
+                    "frame": 160,
+                    "value": "center_light5.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "center_light6.png"
+                },
+                {
+                    "frame": 240,
+                    "value": "center_light7.png"
+                },
+                {
+                    "frame": 280,
+                    "value": "center_light8.png"
+                },
+                {
+                    "frame": 320,
+                    "value": "center_light9.png"
+                },
+                {
+                    "frame": 360,
+                    "value": "center_light10.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "center_light1.png"
+                }
+            ]
+        }
+    }
+}

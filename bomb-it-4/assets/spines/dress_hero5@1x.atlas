@@ -1,0 +1,139 @@
+
+dress_hero5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frente/eye_3
+  rotate: false
+  xy: 210, 94
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_1
+  rotate: true
+  xy: 392, 43
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: true
+  xy: 415, 43
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_4
+  rotate: false
+  xy: 438, 70
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 236, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: false
+  xy: 272, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 2, 10
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_body_front2
+  rotate: false
+  xy: 80, 10
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_body_front3
+  rotate: false
+  xy: 361, 102
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_body_front4
+  rotate: false
+  xy: 158, 10
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_body_front5
+  rotate: false
+  xy: 236, 45
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_body_front6
+  rotate: true
+  xy: 439, 93
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_body_front7
+  rotate: false
+  xy: 314, 30
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 361, 174
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 2, 82
+  size: 206, 172
+  orig: 206, 172
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: true
+  xy: 308, 2
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: true
+  xy: 352, 2
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 210, 117
+  size: 149, 137
+  orig: 149, 137
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 458, 171
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

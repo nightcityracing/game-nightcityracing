@@ -1,0 +1,241 @@
+{
+    "hierarchy": {
+        "name": "center_candy_factory",
+        "children": [
+            {
+                "name": "candy_factory_base"
+            },
+            {
+                "name": "candys_bg1"
+            },
+            {
+                "name": "candys_bg2"
+            },
+            {
+                "name": "candy_green"
+            },
+            {
+                "name": "candy_blue"
+            },
+            {
+                "name": "candy_purple"
+            },
+            {
+                "name": "candy_yellow"
+            },
+            {
+                "name": "candy_red"
+            },
+            {
+                "name": "candy_green2"
+            },
+            {
+                "name": "candy_blue2"
+            },
+            {
+                "name": "candy_purple2"
+            },
+            {
+                "name": "candy_yellow2"
+            },
+            {
+                "name": "candy_red2"
+            },
+            {
+                "name": "candy_green3"
+            },
+            {
+                "name": "candy_blue3"
+            },
+            {
+                "name": "candy_purple3"
+            },
+            {
+                "name": "candy_yellow3"
+            },
+            {
+                "name": "candy_red3"
+            },
+            {
+                "name": "candy_factory_top"
+            }
+        ],
+        "animations": [
+            "center_candy_factory_stand"
+        ]
+    },
+    "properties": {
+        "candy_factory_base": {
+            "file": "center_candy_factory.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.3,
+                "y": -22.7
+            },
+            "type": "sprite"
+        },
+        "candys_bg1": {
+            "file": "center_candy_factory1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.9,
+                "y": -20.6
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "candys_bg2": {
+            "file": "center_candy_factory2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.2,
+                "y": -24.9
+            },
+            "type": "sprite"
+        },
+        "candy_green": {
+            "file": "center_candy_factory3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 32.1,
+                "y": -75.5
+            },
+            "type": "sprite"
+        },
+        "candy_blue": {
+            "file": "center_candy_factory4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 57.9,
+                "y": -52.3
+            },
+            "type": "sprite"
+        },
+        "candy_purple": {
+            "file": "center_candy_factory5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -34.2,
+                "y": -69.7
+            },
+            "type": "sprite"
+        },
+        "candy_yellow": {
+            "file": "center_candy_factory6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 31.3,
+                "y": -34.5
+            },
+            "type": "sprite"
+        },
+        "candy_red": {
+            "file": "center_candy_factory7.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -52.3,
+                "y": -49.8
+            },
+            "type": "sprite"
+        },
+        "candy_green2": {
+            "file": "center_candy_factory3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 48.2,
+                "y": -64.4
+            },
+            "type": "sprite"
+        },
+        "candy_blue2": {
+            "file": "center_candy_factory4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -19,
+                "y": -31.7
+            },
+            "type": "sprite"
+        },
+        "candy_purple2": {
+            "file": "center_candy_factory5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 34.6,
+                "y": -38.5
+            },
+            "type": "sprite"
+        },
+        "candy_yellow2": {
+            "file": "center_candy_factory6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -21.5,
+                "y": -83.2
+            },
+            "type": "sprite"
+        },
+        "candy_red2": {
+            "file": "center_candy_factory7.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -57.8,
+                "y": -56.8
+            },
+            "type": "sprite"
+        },
+        "candy_green3": {
+            "file": "center_candy_factory3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 62.2,
+                "y": -24
+            },
+            "type": "sprite"
+        },
+        "candy_blue3": {
+            "file": "center_candy_factory4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -56,
+                "y": -26.2
+            },
+            "type": "sprite"
+        },
+        "candy_purple3": {
+            "file": "center_candy_factory5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -41.1,
+                "y": -7.4
+            },
+            "type": "sprite"
+        },
+        "candy_yellow3": {
+            "file": "center_candy_factory6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -32.1,
+                "y": -45.8
+            },
+            "type": "sprite"
+        },
+        "candy_red3": {
+            "file": "center_candy_factory7.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 49,
+                "y": -6.2
+            },
+            "type": "sprite"
+        },
+        "candy_factory_top": {
+            "file": "center_candy_factory8.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.3,
+                "y": -22.7
+            },
+            "type": "sprite"
+        }
+    }
+}

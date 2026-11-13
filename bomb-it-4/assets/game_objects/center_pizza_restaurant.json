@@ -1,0 +1,21 @@
+{
+    "hierarchy": {
+        "name": "center_pizza_restaurant",
+        "children": [
+            {
+                "name": "base_pizza_restaurant"
+            }
+        ]
+    },
+    "properties": {
+        "base_pizza_restaurant": {
+            "file": "center_pizza_restaurant.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -14.9
+            },
+            "type": "sprite"
+        }
+    }
+}

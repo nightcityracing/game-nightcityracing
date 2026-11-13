@@ -1,0 +1,47 @@
+{
+    "name": "portal_red_in",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "light_red_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "red1.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "red2.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "red3.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "red4.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "red5.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "red4.png"
+                },
+                {
+                    "frame": 383,
+                    "value": "red3.png"
+                },
+                {
+                    "frame": 433,
+                    "value": "red2.png"
+                },
+                {
+                    "frame": 483,
+                    "value": "red1.png"
+                }
+            ]
+        }
+    }
+}

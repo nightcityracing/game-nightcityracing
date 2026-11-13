@@ -1,0 +1,55 @@
+{
+    "name": "center_basketball_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "base_basketball/basketball_portal1": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 2500,
+                    "value": 360
+                }
+            ]
+        },
+        "base_basketball/basketball_portal2": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 2500,
+                    "value": 360
+                }
+            ]
+        },
+        "base_basketball/basketball_portal3": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 2500,
+                    "value": 360
+                }
+            ]
+        },
+        "base_basketball/basketball_portal4": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 2500,
+                    "value": 360
+                }
+            ]
+        }
+    }
+}

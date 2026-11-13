@@ -1,0 +1,195 @@
+{
+    "name": "crocodile_tile_play",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "crocodile": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "crocodile_top1.png"
+                },
+                {
+                    "frame": 83,
+                    "value": "crocodile_top5.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "crocodile_top10.png"
+                },
+                {
+                    "frame": 250,
+                    "value": "crocodile_top15.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "crocodile_top20.png"
+                },
+                {
+                    "frame": 417,
+                    "value": "crocodile_top25.png"
+                },
+                {
+                    "frame": 917,
+                    "value": "crocodile_top55.png"
+                },
+                {
+                    "frame": 1000,
+                    "value": "crocodile_top60.png"
+                },
+                {
+                    "frame": 1083,
+                    "value": "crocodile_top65.png"
+                },
+                {
+                    "frame": 1167,
+                    "value": "crocodile_top70.png"
+                },
+                {
+                    "frame": 1250,
+                    "value": "crocodile_top75.png"
+                }
+            ]
+        },
+        "crocodile_bottom": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "crocodile_bottom1.png"
+                },
+                {
+                    "frame": 33,
+                    "value": "crocodile_bottom2.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "crocodile_bottom3.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "crocodile_bottom4.png"
+                },
+                {
+                    "frame": 133,
+                    "value": "crocodile_bottom5.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "crocodile_bottom6.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "crocodile_bottom7.png"
+                },
+                {
+                    "frame": 233,
+                    "value": "crocodile_bottom8.png"
+                },
+                {
+                    "frame": 267,
+                    "value": "crocodile_bottom9.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "crocodile_bottom10.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "crocodile_bottom11.png"
+                },
+                {
+                    "frame": 367,
+                    "value": "crocodile_bottom1.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "crocodile_bottom2.png"
+                },
+                {
+                    "frame": 433,
+                    "value": "crocodile_bottom3.png"
+                },
+                {
+                    "frame": 467,
+                    "value": "crocodile_bottom4.png"
+                },
+                {
+                    "frame": 500,
+                    "value": "crocodile_bottom5.png"
+                },
+                {
+                    "frame": 533,
+                    "value": "crocodile_bottom6.png"
+                },
+                {
+                    "frame": 567,
+                    "value": "crocodile_bottom7.png"
+                },
+                {
+                    "frame": 600,
+                    "value": "crocodile_bottom8.png"
+                },
+                {
+                    "frame": 633,
+                    "value": "crocodile_bottom9.png"
+                },
+                {
+                    "frame": 667,
+                    "value": "crocodile_bottom10.png"
+                },
+                {
+                    "frame": 700,
+                    "value": "crocodile_bottom11.png"
+                },
+                {
+                    "frame": 733,
+                    "value": "crocodile_bottom1.png"
+                },
+                {
+                    "frame": 767,
+                    "value": "crocodile_bottom2.png"
+                },
+                {
+                    "frame": 800,
+                    "value": "crocodile_bottom3.png"
+                },
+                {
+                    "frame": 833,
+                    "value": "crocodile_bottom4.png"
+                },
+                {
+                    "frame": 867,
+                    "value": "crocodile_bottom5.png"
+                },
+                {
+                    "frame": 917,
+                    "value": "crocodile_bottom6.png"
+                },
+                {
+                    "frame": 967,
+                    "value": "crocodile_bottom7.png"
+                },
+                {
+                    "frame": 1033,
+                    "value": "crocodile_bottom8.png"
+                },
+                {
+                    "frame": 1083,
+                    "value": "crocodile_bottom9.png"
+                },
+                {
+                    "frame": 1133,
+                    "value": "crocodile_bottom10.png"
+                },
+                {
+                    "frame": 1183,
+                    "value": "crocodile_bottom11.png"
+                },
+                {
+                    "frame": 1250,
+                    "value": "crocodile_bottom1.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "corner_tile",
+        "children": [
+            {
+                "name": "corner_base"
+            }
+        ],
+        "animations": [
+            "corner_tile_stand"
+        ]
+    },
+    "properties": {
+        "corner_base": {
+            "file": "corner_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "launcher_down",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "launcher_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        12.9,
+                        -25.7
+                    ]
+                },
+                {
+                    "frame": 117,
+                    "value": [
+                        13.8,
+                        -29.3
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        12.9,
+                        -25.7
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        12.6,
+                        -23.3
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        12.9,
+                        -25.7
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "launcher_down.png"
+                }
+            ]
+        }
+    }
+}

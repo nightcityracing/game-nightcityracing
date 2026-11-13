@@ -1,0 +1,599 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "characters",
+                "children": [
+                    {
+                        "name": "mm_pink_eyes"
+                    }
+                ]
+            },
+            {
+                "name": "bombit1"
+            },
+            {
+                "name": "bombit2"
+            },
+            {
+                "name": "bombit3"
+            },
+            {
+                "name": "sound_container",
+                "children": [
+                    {
+                        "name": "audio"
+                    },
+                    {
+                        "name": "music"
+                    }
+                ]
+            },
+            {
+                "name": "buttons_container",
+                "children": [
+                    {
+                        "name": "start_button",
+                        "children": [
+                            {
+                                "name": "start_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "how_to_play_button",
+                        "children": [
+                            {
+                                "name": "how_to_play_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "more_games_button",
+                        "children": [
+                            {
+                                "name": "more_games_text"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "container_flag",
+                "children": [
+                    {
+                        "name": "flag2"
+                    },
+                    {
+                        "name": "flag1"
+                    }
+                ]
+            },
+            {
+                "name": "container_select",
+                "children": [
+                    {
+                        "name": "flag_select"
+                    }
+                ]
+            },
+            {
+                "name": "logo"
+            },
+            {
+                "name": "agame"
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "characters": {
+            "file": "character-land.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": "4%",
+                    "y": "12%"
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "4%",
+                            "y": "12%"
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": 292
+                        }
+                    }
+                }
+            }
+        },
+        "characters/mm_pink_eyes": {
+            "position": {
+                "x": -138.2,
+                "y": 1.7
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 20.1,
+                            "y": 105.9
+                        },
+                        "scale": {
+                            "x": 0.95,
+                            "y": 0.95
+                        }
+                    }
+                }
+            }
+        },
+        "bombit1": {
+            "file": "bomb_it1.png",
+            "image": "SIMPLE",
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -381,
+                    "y": -121
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -381,
+                            "y": -121
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -267.8,
+                            "y": -121
+                        }
+                    }
+                }
+            }
+        },
+        "bombit2": {
+            "file": "bomb_it2.png",
+            "image": "SIMPLE",
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -381,
+                    "y": 135
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -381,
+                            "y": 135
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -267.8,
+                            "y": 135
+                        }
+                    }
+                }
+            }
+        },
+        "bombit3": {
+            "file": "bomb_it3.png",
+            "image": "SIMPLE",
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -381,
+                    "y": "1%"
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -381,
+                            "y": "1%"
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -267.8,
+                            "y": "1%"
+                        }
+                    }
+                }
+            }
+        },
+        "sound_container": {
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 280.5,
+                    "y": 253
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 280.5,
+                            "y": 253
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 281,
+                            "y": 537.4
+                        }
+                    }
+                }
+            }
+        },
+        "sound_container/audio": {
+            "file": "mm_audio.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 35.2,
+                "y": -0.7
+            },
+            "type": "button"
+        },
+        "sound_container/music": {
+            "file": "mm_music.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -35.8,
+                "y": -0.7
+            },
+            "type": "button"
+        },
+        "buttons_container": {
+            "scale": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 193.6,
+                    "y": 3.2
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 193.6,
+                            "y": 3.2
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "scale": {
+                            "x": 1,
+                            "y": 1
+                        }
+                    },
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": 40.6
+                        }
+                    }
+                }
+            }
+        },
+        "buttons_container/start_button": {
+            "file": "button_start_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_start_1.png",
+                "pressed": "button_start_2.png",
+                "hover": "button_start_2.png"
+            },
+            "position": {
+                "x": -1.7,
+                "y": -95.4
+            },
+            "type": "button"
+        },
+        "buttons_container/start_button/start_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "START",
+            "align": "center",
+            "position": {
+                "x": 19.8,
+                "y": 1.2
+            },
+            "color": "#ffffcd",
+            "type": "text"
+        },
+        "buttons_container/how_to_play_button": {
+            "file": "button_howto_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_howto_1.png",
+                "pressed": "button_howto_2.png",
+                "hover": "button_howto_2.png"
+            },
+            "position": {
+                "x": -4.5,
+                "y": 8.7
+            },
+            "type": "button"
+        },
+        "buttons_container/how_to_play_button/how_to_play_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 28
+            },
+            "text": "HOW TO PLAY",
+            "align": "center",
+            "position": {
+                "x": 23.9,
+                "y": 0.6
+            },
+            "color": "#ffffcd",
+            "type": "text"
+        },
+        "buttons_container/more_games_button": {
+            "file": "button_moregames_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_moregames_1.png",
+                "pressed": "button_moregames_2.png",
+                "hover": "button_moregames_2.png"
+            },
+            "position": {
+                "x": -2.3,
+                "y": 105.3
+            },
+            "type": "button"
+        },
+        "buttons_container/more_games_button/more_games_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 28
+            },
+            "text": "MORE GAMES",
+            "align": "center",
+            "position": {
+                "x": 21.1,
+                "y": 4.3
+            },
+            "color": "#ffffcd",
+            "type": "text"
+        },
+        "container_flag": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_CENTER",
+                "offset": {
+                    "x": -379.6,
+                    "y": -67.9
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -379.6,
+                            "y": -67.9
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -270,
+                            "y": -146
+                        }
+                    }
+                }
+            }
+        },
+        "container_flag/flag2": {
+            "file": "hol.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -72
+            },
+            "type": "sprite"
+        },
+        "container_flag/flag1": {
+            "file": "esp.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 23.2
+            },
+            "type": "sprite"
+        },
+        "container_select": {
+            "file": "select.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_CENTER",
+                "offset": {
+                    "x": -379.7,
+                    "y": -21.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -379.7,
+                            "y": -21.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -270,
+                            "y": -97.5
+                        }
+                    }
+                }
+            }
+        },
+        "container_select/flag_select": {
+            "file": "eng.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "logo": {
+            "file": "mm_logo1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "TOP_CENTER",
+                "offset": {
+                    "x": 0.5,
+                    "y": -46.1
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "TOP_CENTER",
+                        "offset": {
+                            "x": 0.5,
+                            "y": -46.1
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "TOP_CENTER",
+                        "offset": {
+                            "x": -2,
+                            "y": -168
+                        }
+                    }
+                }
+            }
+        },
+        "agame": {
+            "file": "Agame.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 206,
+                    "y": 311
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 206,
+                            "y": 311
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 208,
+                            "y": 605.7
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

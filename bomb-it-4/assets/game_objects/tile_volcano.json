@@ -1,0 +1,66 @@
+{
+    "hierarchy": {
+        "name": "tile_volcano",
+        "children": [
+            {
+                "name": "base1"
+            },
+            {
+                "name": "base3"
+            },
+            {
+                "name": "lava"
+            },
+            {
+                "name": "lava_fx"
+            }
+        ],
+        "animations": [
+            "tile_volcano_play"
+        ]
+    },
+    "properties": {
+        "base1": {
+            "file": "anim_tile_volcano1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "base3": {
+            "file": "anim_tile_volcano3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "lava": {
+            "file": "anim_tile_volcano4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0,
+                "y": 0
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "lava_fx": {
+            "file": "anim_tile_volcano30.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

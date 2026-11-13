@@ -1,0 +1,97 @@
+{
+    "hierarchy": {
+        "name": "decor",
+        "children": [
+            {
+                "name": "star1"
+            },
+            {
+                "name": "star2"
+            },
+            {
+                "name": "star3"
+            },
+            {
+                "name": "star4"
+            },
+            {
+                "name": "base",
+                "children": [
+                    {
+                        "name": "image"
+                    }
+                ]
+            }
+        ],
+        "animations": [
+            "decor_loop"
+        ]
+    },
+    "properties": {
+        "star1": {
+            "file": "star_decor_gear.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -57,
+                "y": 0
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "star2": {
+            "file": "star_decor_gear.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 26,
+                "y": -2
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "star3": {
+            "file": "star_decor_gear.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -31,
+                "y": 6
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "star4": {
+            "file": "star_decor_gear.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 10,
+                "y": 15
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "base": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5
+            },
+            "alpha": 0,
+            "type": "container"
+        },
+        "base/image": {
+            "file": "cilin.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.47,
+                "y": 0.48
+            },
+            "type": "sprite"
+        }
+    }
+}

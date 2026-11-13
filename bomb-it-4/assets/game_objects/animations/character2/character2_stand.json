@@ -1,0 +1,55 @@
+{
+    "name": "character2_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "eyes": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "face2_eye0.png"
+                },
+                {
+                    "frame": 667,
+                    "value": "face2_eye0.png"
+                },
+                {
+                    "frame": 700,
+                    "value": "face2_eye1.png"
+                },
+                {
+                    "frame": 733,
+                    "value": "face2_eye2.png"
+                },
+                {
+                    "frame": 767,
+                    "value": "face2_eye3.png"
+                },
+                {
+                    "frame": 800,
+                    "value": "face2_eye4.png"
+                },
+                {
+                    "frame": 867,
+                    "value": "face2_eye3.png"
+                },
+                {
+                    "frame": 900,
+                    "value": "face2_eye2.png"
+                },
+                {
+                    "frame": 933,
+                    "value": "face2_eye1.png"
+                },
+                {
+                    "frame": 967,
+                    "value": "face2_eye0.png"
+                },
+                {
+                    "frame": 1650,
+                    "value": "face2_eye0.png"
+                }
+            ]
+        }
+    }
+}

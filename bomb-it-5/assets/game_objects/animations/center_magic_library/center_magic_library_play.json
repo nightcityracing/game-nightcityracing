@@ -1,0 +1,373 @@
+{
+    "name": "center_magic_library_play",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "magic_library_page": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "anim_center_magic_pages34.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "anim_center_magic_pages1.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "anim_center_magic_pages2.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "anim_center_magic_pages3.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "anim_center_magic_pages4.png"
+                },
+                {
+                    "frame": 250,
+                    "value": "anim_center_magic_pages5.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "anim_center_magic_pages6.png"
+                },
+                {
+                    "frame": 350,
+                    "value": "anim_center_magic_pages7.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "anim_center_magic_pages8.png"
+                },
+                {
+                    "frame": 450,
+                    "value": "anim_center_magic_pages9.png"
+                },
+                {
+                    "frame": 500,
+                    "value": "anim_center_magic_pages10.png"
+                },
+                {
+                    "frame": 550,
+                    "value": "anim_center_magic_pages11.png"
+                },
+                {
+                    "frame": 600,
+                    "value": "anim_center_magic_pages12.png"
+                },
+                {
+                    "frame": 650,
+                    "value": "anim_center_magic_pages13.png"
+                },
+                {
+                    "frame": 700,
+                    "value": "anim_center_magic_pages14.png"
+                },
+                {
+                    "frame": 750,
+                    "value": "anim_center_magic_pages15.png"
+                },
+                {
+                    "frame": 800,
+                    "value": "anim_center_magic_pages16.png"
+                },
+                {
+                    "frame": 850,
+                    "value": "anim_center_magic_pages17.png"
+                },
+                {
+                    "frame": 900,
+                    "value": "anim_center_magic_pages18.png"
+                },
+                {
+                    "frame": 950,
+                    "value": "anim_center_magic_pages19.png"
+                },
+                {
+                    "frame": 1000,
+                    "value": "anim_center_magic_pages20.png"
+                },
+                {
+                    "frame": 1050,
+                    "value": "anim_center_magic_pages21.png"
+                },
+                {
+                    "frame": 1100,
+                    "value": "anim_center_magic_pages22.png"
+                },
+                {
+                    "frame": 1150,
+                    "value": "anim_center_magic_pages23.png"
+                },
+                {
+                    "frame": 1200,
+                    "value": "anim_center_magic_pages24.png"
+                },
+                {
+                    "frame": 1250,
+                    "value": "anim_center_magic_pages25.png"
+                },
+                {
+                    "frame": 1300,
+                    "value": "anim_center_magic_pages26.png"
+                },
+                {
+                    "frame": 1350,
+                    "value": "anim_center_magic_pages27.png"
+                },
+                {
+                    "frame": 1400,
+                    "value": "anim_center_magic_pages28.png"
+                },
+                {
+                    "frame": 1450,
+                    "value": "anim_center_magic_pages29.png"
+                },
+                {
+                    "frame": 1500,
+                    "value": "anim_center_magic_pages30.png"
+                },
+                {
+                    "frame": 1550,
+                    "value": "anim_center_magic_pages31.png"
+                },
+                {
+                    "frame": 1600,
+                    "value": "anim_center_magic_pages32.png"
+                },
+                {
+                    "frame": 1650,
+                    "value": "anim_center_magic_pages33.png"
+                },
+                {
+                    "frame": 1700,
+                    "value": "anim_center_magic_pages34.png"
+                }
+            ]
+        },
+        "magic_library_shine5": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 400,
+                    "value": 1
+                },
+                {
+                    "frame": 825,
+                    "value": 0.2
+                },
+                {
+                    "frame": 1225,
+                    "value": 1
+                },
+                {
+                    "frame": 1700,
+                    "value": 0
+                }
+            ]
+        },
+        "magic_library_shine4": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 125,
+                    "value": 1
+                },
+                {
+                    "frame": 350,
+                    "value": 0.59
+                },
+                {
+                    "frame": 600,
+                    "value": 1
+                },
+                {
+                    "frame": 850,
+                    "value": 0.59
+                },
+                {
+                    "frame": 1075,
+                    "value": 1
+                },
+                {
+                    "frame": 1275,
+                    "value": 0.59
+                },
+                {
+                    "frame": 1600,
+                    "value": 1
+                },
+                {
+                    "frame": 1700,
+                    "value": 0
+                }
+            ],
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 450,
+                    "value": 1.4
+                },
+                {
+                    "frame": 825,
+                    "value": 1
+                },
+                {
+                    "frame": 1325,
+                    "value": 1.4
+                },
+                {
+                    "frame": 1700,
+                    "value": 1
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 450,
+                    "value": 1.4
+                },
+                {
+                    "frame": 825,
+                    "value": 1
+                },
+                {
+                    "frame": 1325,
+                    "value": 1.4
+                },
+                {
+                    "frame": 1700,
+                    "value": 1
+                }
+            ]
+        },
+        "magic_library_shine3": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 125,
+                    "value": 1
+                },
+                {
+                    "frame": 500,
+                    "value": 1
+                },
+                {
+                    "frame": 750,
+                    "value": 0.98
+                },
+                {
+                    "frame": 1000,
+                    "value": 1
+                },
+                {
+                    "frame": 1375,
+                    "value": 1
+                },
+                {
+                    "frame": 1700,
+                    "value": 0
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "center_stars25.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "center_stars29.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "center_stars32.png"
+                },
+                {
+                    "frame": 600,
+                    "value": "center_stars35.png"
+                },
+                {
+                    "frame": 800,
+                    "value": "center_stars38.png"
+                },
+                {
+                    "frame": 1025,
+                    "value": "center_stars42.png"
+                },
+                {
+                    "frame": 1275,
+                    "value": "center_stars44.png"
+                },
+                {
+                    "frame": 1475,
+                    "value": "center_stars47.png"
+                },
+                {
+                    "frame": 1700,
+                    "value": "center_stars25.png"
+                }
+            ]
+        },
+        "magic_library_shine2": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 375,
+                    "value": 1
+                },
+                {
+                    "frame": 875,
+                    "value": 1
+                },
+                {
+                    "frame": 1250,
+                    "value": 0
+                }
+            ]
+        },
+        "magic_library_shine1": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 375,
+                    "value": 0
+                },
+                {
+                    "frame": 875,
+                    "value": 0
+                },
+                {
+                    "frame": 1375,
+                    "value": 1
+                },
+                {
+                    "frame": 1700,
+                    "value": 0
+                }
+            ]
+        }
+    }
+}

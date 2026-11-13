@@ -1,0 +1,1069 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "container_characters",
+                        "children": [
+                            {
+                                "name": "character1"
+                            },
+                            {
+                                "name": "character2"
+                            },
+                            {
+                                "name": "character3"
+                            },
+                            {
+                                "name": "character4"
+                            },
+                            {
+                                "name": "character5"
+                            },
+                            {
+                                "name": "character6"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character_p1_container",
+                        "children": [
+                            {
+                                "name": "player_image"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character_p2_container",
+                        "children": [
+                            {
+                                "name": "player_image"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_items",
+                        "children": [
+                            {
+                                "name": "item1",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "black"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item2",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "black"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item3",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "black"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item4",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "black"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item5",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "black"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item6",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "black"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character_player1"
+                    },
+                    {
+                        "name": "character_player2"
+                    },
+                    {
+                        "name": "bubble_item1",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bubble_item2",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bubble_item3",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bubble_item4",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bubble_item5",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bubble_item6",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "start_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "back_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -12
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -12
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -63
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 26
+            },
+            "text": "Dress up your characters\nhere!",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 10.4,
+                "y": -180.2
+            },
+            "color": "#fea367",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 10.4,
+                            "y": -277.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters": {
+            "file": "cc_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 26,
+                "bottom": 86,
+                "left": 96,
+                "right": 40
+            },
+            "size": {
+                "width": 651.6,
+                "height": 120
+            },
+            "position": {
+                "x": 0,
+                "y": -68.7
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -93
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face1_normal.png",
+                "pressed": "face1_normal_hover.png",
+                "hover": "face1_normal_hover.png"
+            },
+            "position": {
+                "x": -251.7,
+                "y": -14
+            },
+            "type": "button"
+        },
+        "container/container_characters/character2": {
+            "file": "face2_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face2_normal.png",
+                "pressed": "face2_normal_hover.png",
+                "hover": "face2_normal_hover.png"
+            },
+            "position": {
+                "x": -146.8,
+                "y": -14
+            },
+            "type": "button"
+        },
+        "container/container_characters/character3": {
+            "file": "face3_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face3_normal.png",
+                "pressed": "face3_normal_hover.png",
+                "hover": "face3_normal_hover.png"
+            },
+            "position": {
+                "x": -41.9,
+                "y": -14
+            },
+            "type": "button"
+        },
+        "container/container_characters/character4": {
+            "file": "face4_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face4_normal.png",
+                "pressed": "face4_normal_hover.png",
+                "hover": "face4_normal_hover.png"
+            },
+            "position": {
+                "x": 63.1,
+                "y": -14
+            },
+            "type": "button"
+        },
+        "container/container_characters/character5": {
+            "file": "face5_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face5_normal.png",
+                "pressed": "face5_normal_hover.png",
+                "hover": "face5_normal_hover.png"
+            },
+            "position": {
+                "x": 168,
+                "y": -14
+            },
+            "type": "button"
+        },
+        "container/container_characters/character6": {
+            "file": "face6_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face6_normal.png",
+                "pressed": "face6_normal_hover.png",
+                "hover": "face6_normal_hover.png"
+            },
+            "position": {
+                "x": 272.9,
+                "y": -14
+            },
+            "type": "button"
+        },
+        "container/character_p1_container": {
+            "file": "character_bottom_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "character_bottom_normal.png",
+                "pressed": "character_bottom_press.png",
+                "hover": "character_bottom_hover.png"
+            },
+            "position": {
+                "x": -244,
+                "y": 106.3
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -236,
+                            "y": 133
+                        }
+                    }
+                }
+            }
+        },
+        "container/character_p1_container/player_image": {
+            "file": "p1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 2.9,
+                "y": -117.9
+            },
+            "type": "sprite"
+        },
+        "container/character_p2_container": {
+            "file": "character_bottom_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "character_bottom_normal.png",
+                "pressed": "character_bottom_press.png",
+                "hover": "character_bottom_hover.png"
+            },
+            "position": {
+                "x": 244,
+                "y": 106.3
+            },
+            "type": "button",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/character_p2_container/player_image": {
+            "file": "p2_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 2.9,
+                "y": -117.9
+            },
+            "type": "sprite"
+        },
+        "container/container_items": {
+            "file": "cc_container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 28,
+                "bottom": 28,
+                "left": 34,
+                "right": 34
+            },
+            "size": {
+                "width": 297.7,
+                "height": 263.5
+            },
+            "position": {
+                "x": 0,
+                "y": 98.8
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 25,
+                            "y": 120
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_items/item1": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -99.1,
+                "y": -42.3
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item1/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item1/black": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0.97,
+                "y": 0.98
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item2": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.4,
+                "y": -42.3
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item2/image": {
+            "file": "item1_2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item2/black": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0.97,
+                "y": 0.98
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item3": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 96.2,
+                "y": -42.3
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item3/image": {
+            "file": "item1_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item3/black": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0.97,
+                "y": 0.98
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item4": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -99.1,
+                "y": 72.7
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item4/image": {
+            "file": "item1_4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item4/black": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0.97,
+                "y": 0.98
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item5": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.4,
+                "y": 72.7
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item5/image": {
+            "file": "item1_5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item5/black": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0.97,
+                "y": 0.98
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item6": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 96.2,
+                "y": 72.7
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item6/image": {
+            "file": "item1_6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item6/black": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 0.97,
+                "y": 0.98
+            },
+            "type": "sprite"
+        },
+        "container/character_player1": {
+            "position": {
+                "x": -244,
+                "y": 198.1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -235.1,
+                            "y": 224.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/character_player2": {
+            "position": {
+                "x": 244,
+                "y": 198.1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "container",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/bubble_item1": {
+            "file": "bubble.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 41,
+                "left": 55,
+                "right": 27
+            },
+            "size": {
+                "width": 255,
+                "height": 95
+            },
+            "position": {
+                "x": -46.4,
+                "y": -9.9
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -22.7,
+                            "y": 8
+                        }
+                    }
+                }
+            }
+        },
+        "container/bubble_item1/text": {
+            "font": {
+                "name": "Arial Black",
+                "fontSize": 14
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -9.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/bubble_item2": {
+            "file": "bubble.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 41,
+                "left": 55,
+                "right": 27
+            },
+            "size": {
+                "width": 255,
+                "height": 95
+            },
+            "position": {
+                "x": 52.3,
+                "y": -10.6
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 76,
+                            "y": 7.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/bubble_item2/text": {
+            "font": {
+                "name": "Arial Black",
+                "fontSize": 14
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -9.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/bubble_item3": {
+            "file": "bubble.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 41,
+                "left": 55,
+                "right": 27
+            },
+            "size": {
+                "width": 255,
+                "height": 95
+            },
+            "position": {
+                "x": 149.5,
+                "y": -11.1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 173.2,
+                            "y": 6.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/bubble_item3/text": {
+            "font": {
+                "name": "Arial Black",
+                "fontSize": 14
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -9.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/bubble_item4": {
+            "file": "bubble.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 41,
+                "left": 55,
+                "right": 27
+            },
+            "size": {
+                "width": 255,
+                "height": 95
+            },
+            "position": {
+                "x": -46.4,
+                "y": 104
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -22.7,
+                            "y": 121.9
+                        }
+                    }
+                }
+            }
+        },
+        "container/bubble_item4/text": {
+            "font": {
+                "name": "Arial Black",
+                "fontSize": 14
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -9.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/bubble_item5": {
+            "file": "bubble.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 41,
+                "left": 55,
+                "right": 27
+            },
+            "size": {
+                "width": 255,
+                "height": 95
+            },
+            "position": {
+                "x": 50.8,
+                "y": 104
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 74.5,
+                            "y": 121.9
+                        }
+                    }
+                }
+            }
+        },
+        "container/bubble_item5/text": {
+            "font": {
+                "name": "Arial Black",
+                "fontSize": 14
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -9.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/bubble_item6": {
+            "file": "bubble.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 41,
+                "left": 55,
+                "right": 27
+            },
+            "size": {
+                "width": 255,
+                "height": 95
+            },
+            "position": {
+                "x": 150.4,
+                "y": 104
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 174.1,
+                            "y": 121.9
+                        }
+                    }
+                }
+            }
+        },
+        "container/bubble_item6/text": {
+            "font": {
+                "name": "Arial Black",
+                "fontSize": 14
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -9.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/start_button": {
+            "file": "button_options_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_options_1.png",
+                "pressed": "button_options_3.png",
+                "hover": "button_options_2.png"
+            },
+            "position": {
+                "x": 227.8,
+                "y": 279.4
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 227.8,
+                            "y": 348.7
+                        }
+                    }
+                }
+            }
+        },
+        "container/start_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "START",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 3.6,
+            "position": {
+                "x": 13,
+                "y": 2
+            },
+            "type": "text"
+        },
+        "container/back_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "position": {
+                "x": -228,
+                "y": 282.8
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -228,
+                            "y": 352.1
+                        }
+                    }
+                }
+            }
+        },
+        "container/back_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 3.6,
+            "position": {
+                "x": 8,
+                "y": -1
+            },
+            "type": "text"
+        }
+    }
+}

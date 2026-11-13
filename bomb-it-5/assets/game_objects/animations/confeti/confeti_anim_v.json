@@ -1,0 +1,1474 @@
+{
+    "name": "confeti_anim_v",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "base/image_33": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -65,
+                        -387
+                    ]
+                },
+                {
+                    "frame": 917,
+                    "value": [
+                        -65,
+                        -387
+                    ]
+                },
+                {
+                    "frame": 2050,
+                    "value": [
+                        -65,
+                        402
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 917,
+                    "value": 0
+                },
+                {
+                    "frame": 1183,
+                    "value": 76
+                },
+                {
+                    "frame": 1450,
+                    "value": 124
+                },
+                {
+                    "frame": 1767,
+                    "value": 178
+                },
+                {
+                    "frame": 2033,
+                    "value": 228
+                }
+            ]
+        },
+        "base/image_32": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        132,
+                        -392
+                    ]
+                },
+                {
+                    "frame": 517,
+                    "value": [
+                        132,
+                        -392
+                    ]
+                },
+                {
+                    "frame": 1650,
+                    "value": [
+                        158,
+                        406
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 136
+                },
+                {
+                    "frame": 517,
+                    "value": 136
+                },
+                {
+                    "frame": 850,
+                    "value": 197
+                },
+                {
+                    "frame": 1183,
+                    "value": 237
+                },
+                {
+                    "frame": 1633,
+                    "value": 295
+                }
+            ]
+        },
+        "base/image_31": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        401,
+                        -417
+                    ]
+                },
+                {
+                    "frame": 950,
+                    "value": [
+                        401,
+                        -417
+                    ]
+                },
+                {
+                    "frame": 2067,
+                    "value": [
+                        417,
+                        410
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": -76
+                },
+                {
+                    "frame": 950,
+                    "value": -76
+                },
+                {
+                    "frame": 1267,
+                    "value": 0
+                },
+                {
+                    "frame": 1667,
+                    "value": 84
+                },
+                {
+                    "frame": 2067,
+                    "value": 133
+                }
+            ]
+        },
+        "base/image_30": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        24,
+                        -401
+                    ]
+                },
+                {
+                    "frame": 833,
+                    "value": [
+                        24,
+                        -401
+                    ]
+                },
+                {
+                    "frame": 2183,
+                    "value": [
+                        24,
+                        373
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 833,
+                    "value": 0
+                },
+                {
+                    "frame": 1233,
+                    "value": 58
+                },
+                {
+                    "frame": 1717,
+                    "value": 161
+                },
+                {
+                    "frame": 2183,
+                    "value": 228
+                }
+            ]
+        },
+        "base/image_29": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        84,
+                        -370
+                    ]
+                },
+                {
+                    "frame": 1350,
+                    "value": [
+                        84,
+                        400
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 450,
+                    "value": 69
+                },
+                {
+                    "frame": 900,
+                    "value": 105
+                },
+                {
+                    "frame": 1350,
+                    "value": 144
+                }
+            ]
+        },
+        "base/image_28": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -264,
+                        -375
+                    ]
+                },
+                {
+                    "frame": 250,
+                    "value": [
+                        -264,
+                        -375
+                    ]
+                },
+                {
+                    "frame": 1600,
+                    "value": [
+                        -264,
+                        431
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 250,
+                    "value": 0
+                },
+                {
+                    "frame": 1600,
+                    "value": 0
+                }
+            ]
+        },
+        "base/image_27": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -128,
+                        -373
+                    ]
+                },
+                {
+                    "frame": 100,
+                    "value": [
+                        -128,
+                        -373
+                    ]
+                },
+                {
+                    "frame": 1450,
+                    "value": [
+                        -73,
+                        419
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 160
+                },
+                {
+                    "frame": 100,
+                    "value": 160
+                },
+                {
+                    "frame": 817,
+                    "value": 234
+                },
+                {
+                    "frame": 1450,
+                    "value": 282
+                }
+            ]
+        },
+        "base/image_26": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -409,
+                        -385
+                    ]
+                },
+                {
+                    "frame": 317,
+                    "value": [
+                        -409,
+                        -385
+                    ]
+                },
+                {
+                    "frame": 1667,
+                    "value": [
+                        -377,
+                        411
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": -45
+                },
+                {
+                    "frame": 317,
+                    "value": -45
+                },
+                {
+                    "frame": 700,
+                    "value": 21
+                },
+                {
+                    "frame": 1117,
+                    "value": 92
+                },
+                {
+                    "frame": 1667,
+                    "value": 155
+                }
+            ]
+        },
+        "base/image_25": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        379,
+                        -380
+                    ]
+                },
+                {
+                    "frame": 1350,
+                    "value": [
+                        405,
+                        392
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 261
+                },
+                {
+                    "frame": 683,
+                    "value": 286
+                },
+                {
+                    "frame": 1350,
+                    "value": 317
+                }
+            ]
+        },
+        "base/image_24": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        424,
+                        -390
+                    ]
+                },
+                {
+                    "frame": 250,
+                    "value": [
+                        424,
+                        -390
+                    ]
+                },
+                {
+                    "frame": 1600,
+                    "value": [
+                        420,
+                        446
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 250,
+                    "value": 0
+                },
+                {
+                    "frame": 933,
+                    "value": -56
+                },
+                {
+                    "frame": 1600,
+                    "value": -146
+                }
+            ]
+        },
+        "base/image_23": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -2,
+                        -380
+                    ]
+                },
+                {
+                    "frame": 150,
+                    "value": [
+                        -2,
+                        -380
+                    ]
+                },
+                {
+                    "frame": 1500,
+                    "value": [
+                        14,
+                        370
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 136
+                },
+                {
+                    "frame": 150,
+                    "value": 136
+                },
+                {
+                    "frame": 800,
+                    "value": 188
+                },
+                {
+                    "frame": 1500,
+                    "value": 209
+                }
+            ]
+        },
+        "base/image_22": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        84,
+                        -423
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        84,
+                        -423
+                    ]
+                },
+                {
+                    "frame": 1550,
+                    "value": [
+                        84,
+                        385
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 283,
+                    "value": 0
+                },
+                {
+                    "frame": 1550,
+                    "value": -95
+                }
+            ]
+        },
+        "base/image_21": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -13,
+                        -392
+                    ]
+                },
+                {
+                    "frame": 467,
+                    "value": [
+                        -13,
+                        -392
+                    ]
+                },
+                {
+                    "frame": 1733,
+                    "value": [
+                        -4,
+                        362
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 218
+                },
+                {
+                    "frame": 467,
+                    "value": 218
+                },
+                {
+                    "frame": 833,
+                    "value": 282
+                },
+                {
+                    "frame": 1267,
+                    "value": 335
+                },
+                {
+                    "frame": 1733,
+                    "value": 350
+                }
+            ]
+        },
+        "base/image_20": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -125,
+                        -466
+                    ]
+                },
+                {
+                    "frame": 1117,
+                    "value": [
+                        -111,
+                        431
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 350,
+                    "value": 60
+                },
+                {
+                    "frame": 767,
+                    "value": 139
+                },
+                {
+                    "frame": 1117,
+                    "value": 181
+                }
+            ]
+        },
+        "base/image_19": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        5,
+                        -444
+                    ]
+                },
+                {
+                    "frame": 167,
+                    "value": [
+                        5,
+                        -444
+                    ]
+                },
+                {
+                    "frame": 1367,
+                    "value": [
+                        13,
+                        432
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 100
+                },
+                {
+                    "frame": 167,
+                    "value": 100
+                },
+                {
+                    "frame": 583,
+                    "value": 2
+                },
+                {
+                    "frame": 967,
+                    "value": -62
+                },
+                {
+                    "frame": 1367,
+                    "value": -101
+                }
+            ]
+        },
+        "base/image_18": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -225,
+                        -457
+                    ]
+                },
+                {
+                    "frame": 517,
+                    "value": [
+                        -225,
+                        -457
+                    ]
+                },
+                {
+                    "frame": 1900,
+                    "value": [
+                        -187,
+                        416
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 84
+                },
+                {
+                    "frame": 517,
+                    "value": 84
+                },
+                {
+                    "frame": 1200,
+                    "value": 149
+                },
+                {
+                    "frame": 1883,
+                    "value": 213
+                }
+            ]
+        },
+        "base/image_17": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -374,
+                        -438
+                    ]
+                },
+                {
+                    "frame": 367,
+                    "value": [
+                        -374,
+                        -438
+                    ]
+                },
+                {
+                    "frame": 1733,
+                    "value": [
+                        -330,
+                        458
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 45
+                },
+                {
+                    "frame": 367,
+                    "value": 45
+                },
+                {
+                    "frame": 883,
+                    "value": -42
+                },
+                {
+                    "frame": 1333,
+                    "value": -129
+                },
+                {
+                    "frame": 1733,
+                    "value": -167
+                }
+            ]
+        },
+        "base/image_16": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        413,
+                        -380
+                    ]
+                },
+                {
+                    "frame": 1383,
+                    "value": [
+                        452,
+                        501
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": -45
+                },
+                {
+                    "frame": 650,
+                    "value": 17
+                },
+                {
+                    "frame": 1367,
+                    "value": 74
+                }
+            ]
+        },
+        "base/image_15": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -436,
+                        -369
+                    ]
+                },
+                {
+                    "frame": 500,
+                    "value": [
+                        -436,
+                        -369
+                    ]
+                },
+                {
+                    "frame": 1750,
+                    "value": [
+                        -420,
+                        486
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 500,
+                    "value": 0
+                },
+                {
+                    "frame": 1067,
+                    "value": 74
+                },
+                {
+                    "frame": 1767,
+                    "value": 162
+                }
+            ]
+        },
+        "base/image_14": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -247,
+                        -373
+                    ]
+                },
+                {
+                    "frame": 817,
+                    "value": [
+                        -247,
+                        -373
+                    ]
+                },
+                {
+                    "frame": 1950,
+                    "value": [
+                        -244,
+                        430
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 167
+                },
+                {
+                    "frame": 817,
+                    "value": 167
+                },
+                {
+                    "frame": 1950,
+                    "value": 280
+                }
+            ]
+        },
+        "base/image_13": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        426,
+                        -370
+                    ]
+                },
+                {
+                    "frame": 700,
+                    "value": [
+                        426,
+                        -370
+                    ]
+                },
+                {
+                    "frame": 1883,
+                    "value": [
+                        447,
+                        433
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 700,
+                    "value": 0
+                },
+                {
+                    "frame": 1083,
+                    "value": 53
+                },
+                {
+                    "frame": 1533,
+                    "value": 114
+                },
+                {
+                    "frame": 1867,
+                    "value": 162
+                }
+            ]
+        },
+        "base/image_12": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -455,
+                        -361
+                    ]
+                },
+                {
+                    "frame": 167,
+                    "value": [
+                        -455,
+                        -361
+                    ]
+                },
+                {
+                    "frame": 1333,
+                    "value": [
+                        -431,
+                        399
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 136
+                },
+                {
+                    "frame": 167,
+                    "value": 136
+                },
+                {
+                    "frame": 517,
+                    "value": 215
+                },
+                {
+                    "frame": 983,
+                    "value": 304
+                },
+                {
+                    "frame": 1350,
+                    "value": 5
+                }
+            ]
+        },
+        "base/image_11": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        216,
+                        -399
+                    ]
+                },
+                {
+                    "frame": 733,
+                    "value": [
+                        216,
+                        -399
+                    ]
+                },
+                {
+                    "frame": 1900,
+                    "value": [
+                        270,
+                        465
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 87
+                },
+                {
+                    "frame": 733,
+                    "value": 87
+                },
+                {
+                    "frame": 1900,
+                    "value": 216
+                }
+            ]
+        },
+        "base/image_10": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -106,
+                        -356
+                    ]
+                },
+                {
+                    "frame": 600,
+                    "value": [
+                        -106,
+                        -356
+                    ]
+                },
+                {
+                    "frame": 1750,
+                    "value": [
+                        -88,
+                        397
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 103
+                },
+                {
+                    "frame": 600,
+                    "value": 103
+                },
+                {
+                    "frame": 950,
+                    "value": 172
+                },
+                {
+                    "frame": 1367,
+                    "value": 235
+                },
+                {
+                    "frame": 1733,
+                    "value": 288
+                }
+            ]
+        },
+        "base/image_9": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        335,
+                        -390
+                    ]
+                },
+                {
+                    "frame": 817,
+                    "value": [
+                        335,
+                        -390
+                    ]
+                },
+                {
+                    "frame": 1917,
+                    "value": [
+                        367,
+                        405
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 817,
+                    "value": 0
+                },
+                {
+                    "frame": 1133,
+                    "value": 66
+                },
+                {
+                    "frame": 1550,
+                    "value": 154
+                },
+                {
+                    "frame": 1900,
+                    "value": 261
+                }
+            ]
+        },
+        "base/image_8": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -75,
+                        -354
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        -75,
+                        -354
+                    ]
+                },
+                {
+                    "frame": 1383,
+                    "value": [
+                        -68,
+                        483
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 283,
+                    "value": 0
+                },
+                {
+                    "frame": 633,
+                    "value": 74
+                },
+                {
+                    "frame": 1033,
+                    "value": 120
+                },
+                {
+                    "frame": 1383,
+                    "value": 176
+                }
+            ]
+        },
+        "base/image_7": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        305,
+                        -362
+                    ]
+                },
+                {
+                    "frame": 617,
+                    "value": [
+                        305,
+                        -362
+                    ]
+                },
+                {
+                    "frame": 1733,
+                    "value": [
+                        329,
+                        395
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 617,
+                    "value": 0
+                },
+                {
+                    "frame": 967,
+                    "value": -44
+                },
+                {
+                    "frame": 1383,
+                    "value": -87
+                },
+                {
+                    "frame": 1733,
+                    "value": -118
+                }
+            ]
+        },
+        "base/image_6": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        261,
+                        -369
+                    ]
+                },
+                {
+                    "frame": 450,
+                    "value": [
+                        261,
+                        -369
+                    ]
+                },
+                {
+                    "frame": 1500,
+                    "value": [
+                        256,
+                        411
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 450,
+                    "value": 0
+                },
+                {
+                    "frame": 950,
+                    "value": 118
+                },
+                {
+                    "frame": 1500,
+                    "value": 217
+                }
+            ]
+        },
+        "base/image_5": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        184,
+                        -359
+                    ]
+                },
+                {
+                    "frame": 333,
+                    "value": [
+                        184,
+                        -359
+                    ]
+                },
+                {
+                    "frame": 1433,
+                    "value": [
+                        184,
+                        500
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 333,
+                    "value": 0
+                },
+                {
+                    "frame": 667,
+                    "value": 58
+                },
+                {
+                    "frame": 1067,
+                    "value": 151
+                },
+                {
+                    "frame": 1433,
+                    "value": 219
+                }
+            ]
+        },
+        "base/image_4": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        112,
+                        -361
+                    ]
+                },
+                {
+                    "frame": 617,
+                    "value": [
+                        112,
+                        -361
+                    ]
+                },
+                {
+                    "frame": 1533,
+                    "value": [
+                        139,
+                        423
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 617,
+                    "value": 0
+                },
+                {
+                    "frame": 1083,
+                    "value": 64
+                },
+                {
+                    "frame": 1533,
+                    "value": -180
+                }
+            ]
+        },
+        "base/image_3": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -160,
+                        -364
+                    ]
+                },
+                {
+                    "frame": 183,
+                    "value": [
+                        -160,
+                        -364
+                    ]
+                },
+                {
+                    "frame": 1117,
+                    "value": [
+                        -169,
+                        445
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 183,
+                    "value": 0
+                },
+                {
+                    "frame": 617,
+                    "value": -60
+                },
+                {
+                    "frame": 1100,
+                    "value": -176
+                }
+            ]
+        },
+        "base/image_2": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -290,
+                        -354
+                    ]
+                },
+                {
+                    "frame": 750,
+                    "value": [
+                        -290,
+                        -354
+                    ]
+                },
+                {
+                    "frame": 1683,
+                    "value": [
+                        -290,
+                        456
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 750,
+                    "value": 0
+                },
+                {
+                    "frame": 1233,
+                    "value": -46
+                },
+                {
+                    "frame": 1683,
+                    "value": -85
+                }
+            ]
+        },
+        "base/image_1": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -377,
+                        -380
+                    ]
+                },
+                {
+                    "frame": 1233,
+                    "value": [
+                        -318,
+                        450
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 367,
+                    "value": -31
+                },
+                {
+                    "frame": 817,
+                    "value": -111
+                },
+                {
+                    "frame": 1233,
+                    "value": 179
+                }
+            ]
+        },
+        "base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -388
+                    ]
+                },
+                {
+                    "frame": 2033,
+                    "value": [
+                        0,
+                        403
+                    ]
+                },
+                {
+                    "frame": 2200,
+                    "value": [
+                        0,
+                        -388
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 83,
+                    "value": 1
+                },
+                {
+                    "frame": 1933,
+                    "value": 1
+                },
+                {
+                    "frame": 2000,
+                    "value": 0
+                }
+            ]
+        }
+    }
+}

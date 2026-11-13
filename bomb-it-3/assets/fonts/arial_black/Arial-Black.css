@@ -1,0 +1,12 @@
+/* Webfont: Arial-Black */@font-face {
+    font-family: 'ArialBlack';
+    src: url('Arial-Black.eot'); /* IE9 Compat Modes */
+    src: url('Arial-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Arial-Black.woff') format('woff'), /* Modern Browsers */
+         url('Arial-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Arial-Black.svg#Arial-Black') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

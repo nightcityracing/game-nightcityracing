@@ -1,0 +1,28 @@
+{
+    "hierarchy": {
+        "name": "firework_pink",
+        "children": [
+            {
+                "name": "pink_base"
+            }
+        ],
+        "animations": [
+            "firework_pink_anim"
+        ]
+    },
+    "properties": {
+        "pink_base": {
+            "file": "anim_star_base34.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            },
+            "type": "sprite"
+        }
+    }
+}

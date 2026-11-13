@@ -1,0 +1,26 @@
+{
+    "hierarchy": {
+        "name": "bowling_ball",
+        "children": [
+            {
+                "name": "bowling_ball_base"
+            }
+        ],
+        "animations": [
+            "bowling_ball_down",
+            "bowling_ball_side",
+            "bowling_ball_up"
+        ]
+    },
+    "properties": {
+        "bowling_ball_base": {
+            "file": "bowling_ball_up.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 17.01,
+                "y": -17.73
+            },
+            "type": "sprite"
+        }
+    }
+}

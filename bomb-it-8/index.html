@@ -1,0 +1,535 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="~">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover,minimal-ui" />
+    <script type="text/javascript" src="//unblocked-games911.github.io/js/link.js"></script>
+    <title>BOMB IT 8 - Unblocked Games 911 - TBG95 Games</title>
+    <script>
+      window.addEventListener("keydown", function (e) { if (["Space", "ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].indexOf(e.code) > -1) { e.preventDefault(); } }, false);
+    </script>
+    <script>
+      window.notifyProgress = function (loaded, total) {
+        var prg = document.getElementById('progress-bar-fill');
+
+        var val = (loaded / total * 100);
+        prg.style.width = val + '%';
+      }
+
+      function calculateAspectRatioFit(srcWidth, srcHeight, maxWidth, maxHeight) {
+        var ratio = Math.min(maxWidth / srcWidth, maxHeight / srcHeight);
+        return { width: srcWidth * ratio, height: srcHeight * ratio };
+      };
+
+      function onResize() {
+        var padding = 40;
+        var halfPadding = padding * 0.5;
+        var progressHeight = 120;
+        var size = 256;
+        var innerWidth = window.innerWidth - padding;
+        var innerHeight = window.innerHeight - padding;
+        var verticalCenter = 0.333;
+
+        var ratio = calculateAspectRatioFit(size, size, innerWidth, innerHeight - progressHeight);
+
+        var newWidth = Math.min(ratio.width, size);
+        var newHeight = Math.min(ratio.height, size);
+
+        var newTop = (innerHeight - newHeight) * verticalCenter;
+
+        var el = document.getElementById('top-container');
+        el.style.width = newWidth + 'px';
+        el.style.height = newHeight + 'px';
+        el.style.top = newTop + 'px';
+      }
+
+      window.addEventListener('DOMContentLoaded', (event) => {
+        window.addEventListener('resize', onResize);
+        onResize();
+
+        document.body.style.overflow = 'hidden';
+
+        if (window.innerHeight > window.innerWidth) {
+          document.getElementsByClassName('incorrect-orientation')[0].style.visibility = 'visible';
+        }
+      });
+
+    </script>
+    <script>
+      window.SHOWED_START_ADS = false;
+      window.AD_SDK_CANCELED = false;
+
+      window['GD_OPTIONS'] = {
+        // gameId: '47a1346a229a4c4f9bcf2786cb1b9f66', // BombIt Test (internal)
+        // gameId: '1ccc80fdab0d4001afc4600fb5eadeea', // BombIt (shared)
+        gameId: '71efafa4f70e4db784ef046453e147f3', // BombIt
+        advertisementSettings: {
+          "autoplay": false, // Don't use this because of browser video autoplay restrictions.
+        },
+        onEvent: function (event) {
+          switch (event.name) {
+            case 'SDK_GAME_START':
+              // advertisement done, resume game logic and unmute audio
+              window.focus();
+              break;
+            case 'SDK_GAME_PAUSE':
+              window.blur();
+              // pause game logic / mute audio
+              break;
+            case 'AD_SDK_CANCELED':
+              window.AD_SDK_CANCELED = true;
+              window.dispatchEvent(new CustomEvent('AD_SDK_CANCELED'));
+              break;
+
+            case 'COMPLETE':
+              console.log('COMPLETE ADS');
+              window.focus();
+              window.dispatchEvent(new CustomEvent("ADS_COMPLETE"));
+
+              break;
+
+            case 'ALL_ADS_COMPLETED':
+              window.focus();
+              console.log('ALL_ADS_COMPLETED ADS');
+
+              break;
+
+            case 'SKIPPED':
+              console.log('SKIPPED ADS');
+              window.focus();
+              window.dispatchEvent(new CustomEvent("ADS_SKIPPED"));
+
+              break;
+
+            case 'STARTED':
+              console.log('STARTED ADS');
+              window.blur();
+              window.dispatchEvent(new CustomEvent("ADS_STARTED"));
+
+              break;
+
+            case 'SDK_REWARDED_WATCH_COMPLETE':
+              window.SDK_REWARDED_WATCH_COMPLETE = true;
+              // this event is triggered when your user completely watched rewarded ad
+              break;
+
+            case 'SDK_READY':
+              if (typeof gdsdk !== 'undefined' && gdsdk.showAd !== 'undefined') {
+                window.SHOWED_START_ADS = false;
+
+                gdsdk
+                  .showAd("interstitial")
+                  .then(() => {
+                    window.SHOWED_START_ADS = true;
+                    window.dispatchEvent(new CustomEvent('SHOWED_START_ADS'));
+                  })
+                  .catch(() => {
+                    window.SHOWED_START_ADS = true;
+                    window.dispatchEvent(new CustomEvent('SHOWED_START_ADS'));
+                  })
+              } else {
+                window.SHOWED_START_ADS = false;
+              }
+              break;
+          }
+        },
+      };
+      (function (d, s, id) {
+        var js,
+          fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = '/main.min.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      })(document, 'script', 'gamedistribution-jssdk');
+    </script>
+    <style>
+      body,
+      html {
+        width: 100%;
+        height: 100%;
+        user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        -webkit-user-select: none;
+        overflow: hidden;
+        margin: 0 0 1px 0;
+        padding: 0;
+        background-color: #000;
+      }
+
+      #container {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        touch-action: none;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        cursor: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      #playcanvas-container {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        touch-action: none;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        cursor: auto;
+        position: absolute;
+        top: 0;
+        left: 0
+      }
+
+      #splash-screen {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        background: #000;
+        overflow: hidden;
+        display: none
+      }
+
+      #loading-text {
+        position: absolute;
+        width: 256px;
+        top: 300px;
+        height: 40px;
+        font-family: monospace;
+        text-align: center;
+        font-size: 1.8em;
+        overflow: visible;
+        white-space: nowrap;
+        text-transform: uppercase;
+        color: #FFD700;
+      }
+
+      #top-container {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        min-width: 100px;
+        min-height: 100px;
+      }
+
+      #icon {
+        width: 100%;
+        height: 100%;
+        border-radius: 25%;
+
+        border: 5px solid #FFD700;
+        background-image: url("assets/icon.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: absolute;
+        box-sizing: border-box;
+        -webkit-box-shadow: 0px 8px 14px 0px rgba(0, 0, 0, 0.4);
+        box-shadow: 0px 8px 14px 0px rgba(0, 0, 0, 0.4);
+      }
+
+      #loading-screen_bg {
+        height: 100%;
+        background-image: url("assets/loading_screen_bg.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      #loading-screen_logo {
+        margin: auto;
+        height: 30%;
+        width: 500px;
+        max-width: 80%;
+        background-image: url("assets/logo2.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+
+      #loading-screen_gear_wrapper {
+        height: 40%;
+      }
+
+      #loading-screen_gear {
+        margin: 0 auto;
+        height: 100%;
+        width: 300px;
+        max-width: 60%;
+
+        background-image: url("assets/gear03.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+
+        -webkit-animation: spin 12s linear infinite;
+        -moz-animation: spin 12s linear infinite;
+        animation: spin 12s linear infinite;
+      }
+
+      #loading-screen_bomb {
+        margin: 0 auto;
+        height: 30%;
+        width: 200px;
+        max-width: 40%;
+
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, -50%);
+
+        background-image: url("assets/icon_bomb2.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+
+      #loading-screen_progress {
+        display: table;
+        margin: auto;
+        height: 30%;
+
+        text-align: center;
+      }
+
+      #loading-screen_progress-text {
+        display: table-cell;
+        vertical-align: middle;
+
+        margin: 0;
+        height: 100%;
+
+        color: #fff;
+        font-size: 50px;
+        font-family: 'RobotoCondensed', RobotoCondensed;
+      }
+
+      .loading-screen {
+        margin: 0;
+        background-color: black;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        background-attachment: fixed;
+        z-index: 1000;
+
+        -webkit-animation-fill-mode: forwards;
+        -moz-animation-fill-mode: forwards;
+        -o-animation-fill-mode: forwards;
+        animation-fill-mode: forwards;
+      }
+
+      .icon_blur {
+        position: absolute;
+        filter: blur(96px);
+        animation: pulse 2s infinite;
+      }
+
+      .incorrect-orientation {
+        margin: 0;
+        background-color: rgb(0, 0, 0);
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        background-attachment: fixed;
+        background-image: url("assets/orientation.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        visibility: hidden;
+        z-index: 1001;
+      }
+
+      @-moz-keyframes spin {
+        100% {
+          -moz-transform: rotate(360deg);
+          transform: rotate(360deg);
+        }
+      }
+
+      @-webkit-keyframes spin {
+        100% {
+          -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+        }
+      }
+
+      @keyframes spin {
+        100% {
+          -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+        }
+      }
+
+      @keyframes pulse {
+        0% {
+          transform: scale(0.8);
+        }
+
+        50% {
+          transform: scale(1.5);
+        }
+
+        100% {
+          transform: scale(0.8);
+        }
+      }
+
+      .anim-hide {
+        animation: anim-in 0.5s ease-in forwards;
+      }
+
+      @keyframes anim-in {
+        0% {}
+
+        1% {
+          opacity: 1;
+        }
+
+        100% {
+          opacity: 0;
+        }
+      }
+
+      #borna {
+        display: inline-block;
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        bottom: 0;
+        right: 0;
+
+        background-image: url("assets/borna.svg");
+        background-size: 18px 18px;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        opacity: 0.62;
+      }
+
+      .pb-wrapper {
+        position: absolute;
+        bottom: -45px;
+        left: 33%;
+        right: 33%;
+        box-sizing: border-box;
+      }
+
+      .progress-bar {
+        box-sizing: border-box;
+        width: 100%;
+        background-color: black;
+        border: 2px solid #FFD700;
+        padding: 3px;
+        border-radius: 16px;
+      }
+
+      #progress-bar-fill {
+        box-sizing: border-box;
+        display: block;
+        height: 8px;
+        border-radius: 16px;
+        background-color: #FFD700;
+        transition: width 500ms ease-in;
+      }
+
+    </style>
+  </head>
+
+  <body>
+
+
+    <canvas id="playcanvas-container">
+    </canvas>
+    <div id="container">
+    </div>
+
+    <div class="loading-screen" id="loading-screen">
+      <div id="loading-screen_bg">
+        <div id="loading-screen_logo"></div>
+        <div id="loading-screen_gear_wrapper">
+          <div id="loading-screen_gear"></div>
+          <div id="loading-screen_bomb"></div>
+        </div>
+        <div id="loading-screen_progress">
+          <span id="loading-screen_progress-text"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class=" incorrect-orientation">
+    </div>
+
+    <div id="splash-screen">
+      <div id="top-container">
+        <div id="icon" class="icon_blur"></div>
+        <div id="icon"></div>
+        <div class="pb-wrapper">
+          <div class="progress-bar">
+            <span id="progress-bar-fill" style="width: 0%;"></span>
+          </div>
+        </div>
+      </div>
+      <div id="borna"></div>
+    </div>
+    <script>
+      const loadingScreen = document.getElementById('loading-screen');
+      loadingScreen.addEventListener("webkitAnimationEnd", onHideAnimationComplete, false);
+      loadingScreen.addEventListener("animationend", onHideAnimationComplete, false);
+      loadingScreen.addEventListener("oanimationend", onHideAnimationComplete, false);
+
+      function onHideAnimationComplete() {
+        loadingScreen.style.visibility = 'hidden';
+      }
+
+      function onCompleteLoad() {
+        loadingScreen.classList.add('anim-hide');
+      }
+
+      window.addEventListener('onLoadProgress', function (e) {
+        const percent = e.detail > 100 ? 100 : e.detail;
+        const prg = document.getElementById('loading-screen_progress-text');
+        prg.textContent = ~~percent + '%';
+      });
+
+      window.addEventListener('onLoadComplete', () => {
+        onCompleteLoad();
+      });
+
+      (function () {
+        if (typeof window.CustomEvent === 'function') return false; //If not IE
+
+        function CustomEvent(event, params) {
+          params = params || {
+            bubbles: false,
+            cancelable: false,
+            detail: undefined,
+          };
+          var evt = document.createEvent('CustomEvent');
+          evt.initCustomEvent(
+            event,
+            params.bubbles,
+            params.cancelable,
+            params.detail
+          );
+          return evt;
+        }
+
+        CustomEvent.prototype = window.Event.prototype;
+
+        window.CustomEvent = CustomEvent;
+      })();
+    </script>
+  <script defer src="code.js?v=3"></script></body>
+
+</html>

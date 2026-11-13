@@ -1,0 +1,1505 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "container_mode",
+                        "children": [
+                            {
+                                "name": "arcade_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "battle_royale_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "coin_collector_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "tile_tag_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_buttons",
+                        "children": [
+                            {
+                                "name": "container_player",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "1player_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2player_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "container_enemies",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "3enemies_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2enemies_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "1enemies_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "0enemies_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "container_levels",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "20levels_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "15levels_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "10levels_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "5levels_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "container_arena",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "container_buttons",
+                                "children": [
+                                    {
+                                        "name": "pizza_restaurant",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "basketball_court",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "wedding ceremony",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "mysterious garden",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "volcano cave",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "egyptian_tomb",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "random",
+                                        "children": [
+                                            {
+                                                "name": "text"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "select"
+                            },
+                            {
+                                "name": "menu",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "container_dificulty",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "easy_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "normal_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "hard_button",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "back_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ok_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -15
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -15
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -53
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 50
+            },
+            "text": "GAME SETTINGS",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -257
+            },
+            "color": "#ffe000",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -261
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -291
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_mode": {
+            "position": {
+                "x": 0,
+                "y": -76
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -65
+                        },
+                        "scale": {
+                            "x": 0.84,
+                            "y": 0.84
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_mode/arcade_mode": {
+            "file": "collect_mode1_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode1_1.png",
+                "pressed": "collect_mode1_2.png",
+                "hover": "collect_mode1_3.png"
+            },
+            "position": {
+                "x": -294.9,
+                "y": 1
+            },
+            "type": "button"
+        },
+        "container/container_mode/arcade_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "DESTROY ALL \nENEMIES",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/arcade_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "ARCADE",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 0,
+                "y": 65.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_mode/battle_royale_mode": {
+            "file": "collect_mode2_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode2_1.png",
+                "pressed": "collect_mode2_2.png",
+                "hover": "collect_mode2_3.png"
+            },
+            "position": {
+                "x": -98,
+                "y": 1
+            },
+            "type": "button"
+        },
+        "container/container_mode/battle_royale_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "DESTROY 10\nENEMIES",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/battle_royale_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "BATTLE ROYALE",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 0,
+                "y": 65.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_mode/coin_collector_mode": {
+            "file": "collect_mode3_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode3_1.png",
+                "pressed": "collect_mode3_2.png",
+                "hover": "collect_mode3_3.png"
+            },
+            "position": {
+                "x": 102,
+                "y": 1
+            },
+            "type": "button"
+        },
+        "container/container_mode/coin_collector_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "COLLECT ALL\nCOINS",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/coin_collector_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "PAC-MAN",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 0,
+                "y": 65.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_mode/tile_tag_mode": {
+            "file": "collect_mode4_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode4_1.png",
+                "pressed": "collect_mode4_2.png",
+                "hover": "collect_mode4_3.png"
+            },
+            "position": {
+                "x": 299.4,
+                "y": 1
+            },
+            "type": "button"
+        },
+        "container/container_mode/tile_tag_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "OCCUPY THE\nGREEN ZONE",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/tile_tag_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "GREEN ZONE",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 0,
+                "y": 65.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons": {
+            "position": {
+                "x": 0,
+                "y": 155
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": 159
+                        },
+                        "scale": {
+                            "x": 0.84,
+                            "y": 0.84
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_buttons/container_player": {
+            "file": "menu.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 12,
+                "bottom": 12,
+                "left": 21,
+                "right": 21
+            },
+            "size": {
+                "width": 188,
+                "height": 46
+            },
+            "position": {
+                "x": -293.9,
+                "y": -100.8
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/container_player/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "PLAYERS",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons/1player_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -134.3,
+                "y": -100.9
+            },
+            "type": "button"
+        },
+        "container/container_buttons/1player_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/2player_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -43.2,
+                "y": -100.9
+            },
+            "type": "button"
+        },
+        "container/container_buttons/2player_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "2",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_enemies": {
+            "file": "menu.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 12,
+                "bottom": 12,
+                "left": 21,
+                "right": 21
+            },
+            "size": {
+                "width": 188,
+                "height": 46
+            },
+            "position": {
+                "x": -293.9,
+                "y": -48.6
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/container_enemies/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "ENEMIES",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons/3enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -134.3,
+                "y": -49.8
+            },
+            "type": "button"
+        },
+        "container/container_buttons/3enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "3",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/2enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -43.2,
+                "y": -49.8
+            },
+            "type": "button"
+        },
+        "container/container_buttons/2enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "2",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/1enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 47.8,
+                "y": -49.8
+            },
+            "type": "button"
+        },
+        "container/container_buttons/1enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/0enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 138.9,
+                "y": -49.8
+            },
+            "type": "button"
+        },
+        "container/container_buttons/0enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "0",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_levels": {
+            "file": "menu.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 12,
+                "bottom": 12,
+                "left": 21,
+                "right": 21
+            },
+            "size": {
+                "width": 188,
+                "height": 46
+            },
+            "position": {
+                "x": -293.9,
+                "y": 2.9
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/container_levels/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "LEVELS",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons/20levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 138.9,
+                "y": 1.4
+            },
+            "type": "button"
+        },
+        "container/container_buttons/20levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "20",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/15levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 47.8,
+                "y": 1.4
+            },
+            "type": "button"
+        },
+        "container/container_buttons/15levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "15",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/10levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -43.2,
+                "y": 1.4
+            },
+            "type": "button"
+        },
+        "container/container_buttons/10levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "10",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/5levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -134.3,
+                "y": 1.4
+            },
+            "type": "button"
+        },
+        "container/container_buttons/5levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "5",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_arena": {
+            "file": "menu.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 12,
+                "bottom": 12,
+                "left": 21,
+                "right": 21
+            },
+            "size": {
+                "width": 188,
+                "height": 46
+            },
+            "position": {
+                "x": -293.9,
+                "y": 55.3
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/container_arena/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "ARENA",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons": {
+            "file": "button_menu_open.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -29.3,
+                "y": -72.2
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/container_buttons/pizza_restaurant": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -89.9
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/pizza_restaurant/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "PIZZA RESTAURANT",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons/basketball_court": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_2.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -60.1
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/basketball_court/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "BASKETBALL COURT",
+            "align": "center",
+            "stroke": "#e64600",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons/wedding ceremony": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -30.2
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/wedding ceremony/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "WEDDING CEREMONY",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons/mysterious garden": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_2.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -0.5
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/mysterious garden/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "MYSTERIOUS GARDEN",
+            "align": "center",
+            "stroke": "#e64600",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons/volcano cave": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": 29.4
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/volcano cave/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "VOLCANO TOMB",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons/egyptian_tomb": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_2.png"
+            },
+            "position": {
+                "x": 0,
+                "y": 59.6
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/egyptian_tomb/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "EGYPTIAN TOMB",
+            "align": "center",
+            "stroke": "#e64600",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.2
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_buttons/random": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": 89.9
+            },
+            "type": "button"
+        },
+        "container/container_buttons/container_buttons/random/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "RANDOM",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.2
+            },
+            "type": "text"
+        },
+        "container/container_buttons/select": {
+            "file": "button.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 154.9,
+                "y": 54.5
+            },
+            "type": "button"
+        },
+        "container/container_buttons/menu": {
+            "file": "button_menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -29.2,
+                "y": 54.9
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/menu/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "RANDOM",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.5
+            },
+            "type": "text"
+        },
+        "container/container_buttons/container_dificulty": {
+            "file": "menu.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 12,
+                "bottom": 12,
+                "left": 21,
+                "right": 21
+            },
+            "size": {
+                "width": 188,
+                "height": 46
+            },
+            "position": {
+                "x": -293.9,
+                "y": 107.7
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/container_dificulty/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "DIFFICULTY",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons/easy_button": {
+            "file": "button_dificulty_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_dificulty_1.png",
+                "pressed": "button_dificulty_2.png",
+                "hover": "button_dificulty_3.png"
+            },
+            "position": {
+                "x": -93.5,
+                "y": 109
+            },
+            "type": "button"
+        },
+        "container/container_buttons/easy_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "EASY",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/normal_button": {
+            "file": "button_dificulty_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_dificulty_1.png",
+                "pressed": "button_dificulty_2.png",
+                "hover": "button_dificulty_3.png"
+            },
+            "position": {
+                "x": 85.9,
+                "y": 109
+            },
+            "type": "button"
+        },
+        "container/container_buttons/normal_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "NORMAL",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/container_buttons/hard_button": {
+            "file": "button_dificulty_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_dificulty_1.png",
+                "pressed": "button_dificulty_2.png",
+                "hover": "button_dificulty_3.png"
+            },
+            "position": {
+                "x": 265.3,
+                "y": 109
+            },
+            "type": "button"
+        },
+        "container/container_buttons/hard_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "HARD",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/back_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "position": {
+                "x": -254,
+                "y": 331.8
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -142.2,
+                            "y": 408.5
+                        }
+                    }
+                }
+            }
+        },
+        "container/back_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "MAIN MENU",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/ok_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "position": {
+                "x": 247.8,
+                "y": 331.6
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 139.5,
+                            "y": 408.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/ok_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "RESUME",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        }
+    }
+}

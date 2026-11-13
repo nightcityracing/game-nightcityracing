@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "clock.png",
+	"frame": {"x":1592,"y":347,"w":169,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":169,"h":191},
+	"sourceSize": {"w":183,"h":199}
+},
+{
+	"filename": "message1_dutch.png",
+	"frame": {"x":2,"y":682,"w":395,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":395,"h":66},
+	"sourceSize": {"w":395,"h":66}
+},
+{
+	"filename": "message2_blur.png",
+	"frame": {"x":547,"y":347,"w":565,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":7,"w":565,"h":231},
+	"sourceSize": {"w":644,"h":251}
+},
+{
+	"filename": "message2_dutch.png",
+	"frame": {"x":547,"y":580,"w":476,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":230},
+	"sourceSize": {"w":476,"h":230}
+},
+{
+	"filename": "message2_esp.png",
+	"frame": {"x":1025,"y":580,"w":476,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":230},
+	"sourceSize": {"w":476,"h":230}
+},
+{
+	"filename": "message3.png",
+	"frame": {"x":1180,"y":2,"w":542,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":30,"w":542,"h":343},
+	"sourceSize": {"w":742,"h":493}
+},
+{
+	"filename": "message3_blur.png",
+	"frame": {"x":2,"y":2,"w":631,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":41,"w":631,"h":332},
+	"sourceSize": {"w":742,"h":493}
+},
+{
+	"filename": "message3_dutch.png",
+	"frame": {"x":635,"y":2,"w":543,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":30,"w":543,"h":343},
+	"sourceSize": {"w":742,"h":493}
+},
+{
+	"filename": "message3_esp.png",
+	"frame": {"x":2,"y":336,"w":543,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":29,"w":543,"h":344},
+	"sourceSize": {"w":742,"h":493}
+},
+{
+	"filename": "messege1.png",
+	"frame": {"x":1503,"y":580,"w":304,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":304,"h":75},
+	"sourceSize": {"w":321,"h":112}
+},
+{
+	"filename": "messege1_esp.png",
+	"frame": {"x":1503,"y":657,"w":236,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":76},
+	"sourceSize": {"w":236,"h":76}
+},
+{
+	"filename": "messege2.png",
+	"frame": {"x":1114,"y":347,"w":476,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":7,"w":476,"h":231},
+	"sourceSize": {"w":644,"h":251}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_message.png",
+	"format": "RGBA8888",
+	"size": {"w":1809,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f87da5a57fdc3debcd80eccfb64833fd:2229aaf0761da64b8d7b3b4d912bfdb0:5e1cd290f061042c45a1588bdbb6b105$"
+}
+}

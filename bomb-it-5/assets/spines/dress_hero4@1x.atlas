@@ -1,0 +1,146 @@
+
+dress_hero4.png
+size: 620,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frente/eye_3
+  rotate: false
+  xy: 332, 117
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_1
+  rotate: false
+  xy: 2, 12
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: false
+  xy: 102, 37
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_4
+  rotate: false
+  xy: 520, 170
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 284, 78
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: true
+  xy: 458, 145
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 458, 353
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front2
+  rotate: false
+  xy: 102, 60
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front3
+  rotate: false
+  xy: 458, 273
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front4
+  rotate: false
+  xy: 193, 60
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front5
+  rotate: false
+  xy: 458, 193
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 2, 35
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+frente/robot_face_front2
+  rotate: false
+  xy: 2, 380
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+frente/robot_face_front3
+  rotate: false
+  xy: 2, 140
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+frente/robot_face_front4
+  rotate: false
+  xy: 230, 380
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+frente/robot_face_front5
+  rotate: false
+  xy: 230, 140
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: true
+  xy: 458, 433
+  size: 185, 160
+  orig: 185, 160
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: false
+  xy: 549, 308
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: false
+  xy: 588, 393
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 549, 348
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

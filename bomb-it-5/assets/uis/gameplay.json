@@ -1,0 +1,1422 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "edge",
+                "children": [
+                    {
+                        "name": "edge_bottom"
+                    },
+                    {
+                        "name": "edge_right"
+                    },
+                    {
+                        "name": "edge_left"
+                    },
+                    {
+                        "name": "edge_top"
+                    },
+                    {
+                        "name": "decor3"
+                    },
+                    {
+                        "name": "decor6"
+                    },
+                    {
+                        "name": "decor9"
+                    },
+                    {
+                        "name": "decor10"
+                    }
+                ]
+            },
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "edge_top"
+                    },
+                    {
+                        "name": "edge_bottom"
+                    },
+                    {
+                        "name": "edge_left"
+                    },
+                    {
+                        "name": "decor1"
+                    },
+                    {
+                        "name": "decor2"
+                    },
+                    {
+                        "name": "decor4"
+                    },
+                    {
+                        "name": "decor5"
+                    },
+                    {
+                        "name": "avatar1_container",
+                        "children": [
+                            {
+                                "name": "avatar1_player"
+                            },
+                            {
+                                "name": "avatar1_life"
+                            },
+                            {
+                                "name": "avatar1_bomb"
+                            },
+                            {
+                                "name": "avatar1_power_blast"
+                            },
+                            {
+                                "name": "avatar1_speed"
+                            },
+                            {
+                                "name": "avatar1_icon_mode"
+                            },
+                            {
+                                "name": "avatar1_score"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "avatar2_container",
+                        "children": [
+                            {
+                                "name": "avatar1_player"
+                            },
+                            {
+                                "name": "avatar1_life"
+                            },
+                            {
+                                "name": "avatar1_bomb"
+                            },
+                            {
+                                "name": "avatar1_power_blast"
+                            },
+                            {
+                                "name": "avatar1_speed"
+                            },
+                            {
+                                "name": "avatar2_icon_mode"
+                            },
+                            {
+                                "name": "avatar1_score"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "avatar3_container",
+                        "children": [
+                            {
+                                "name": "avatar1_player"
+                            },
+                            {
+                                "name": "avatar1_life"
+                            },
+                            {
+                                "name": "avatar1_bomb"
+                            },
+                            {
+                                "name": "avatar1_power_blast"
+                            },
+                            {
+                                "name": "avatar1_speed"
+                            },
+                            {
+                                "name": "avatar3_icon_mode"
+                            },
+                            {
+                                "name": "avatar1_score"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "avatar4_container",
+                        "children": [
+                            {
+                                "name": "avatar1_player"
+                            },
+                            {
+                                "name": "avatar1_life"
+                            },
+                            {
+                                "name": "avatar1_bomb"
+                            },
+                            {
+                                "name": "avatar1_power_blast"
+                            },
+                            {
+                                "name": "avatar1_speed"
+                            },
+                            {
+                                "name": "avatar4_icon_mode"
+                            },
+                            {
+                                "name": "avatar1_score"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "level_container",
+                        "children": [
+                            {
+                                "name": "level_text"
+                            },
+                            {
+                                "name": "level"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "time_container",
+                        "children": [
+                            {
+                                "name": "time_text"
+                            },
+                            {
+                                "name": "time"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pause_button",
+                        "children": [
+                            {
+                                "name": "pause_text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "edge": {
+            "scale": {
+                "x": 0.97,
+                "y": 0.97
+            },
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 109,
+                    "y": 0
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 109,
+                            "y": 0
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "scale": {
+                            "x": 0.86,
+                            "y": 0.86
+                        }
+                    },
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 2,
+                            "y": 69
+                        }
+                    }
+                }
+            }
+        },
+        "edge/edge_bottom": {
+            "file": "frame_bottom.png",
+            "image": "TILED",
+            "size": {
+                "width": 808,
+                "height": 28
+            },
+            "position": {
+                "x": 0,
+                "y": 366.9
+            },
+            "type": "sprite"
+        },
+        "edge/edge_right": {
+            "file": "frame_r.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 10,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 15,
+                "height": 717.4
+            },
+            "position": {
+                "x": 409.4,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "edge/edge_left": {
+            "file": "frame_r.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 10,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 4.4,
+                "height": 716.4
+            },
+            "position": {
+                "x": -412,
+                "y": 5.4
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -414.7,
+                            "y": 0
+                        }
+                    }
+                }
+            }
+        },
+        "edge/edge_top": {
+            "file": "frame_top.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 826.3,
+                "height": 15
+            },
+            "position": {
+                "x": -6.7,
+                "y": -349.1
+            },
+            "type": "sprite"
+        },
+        "edge/decor3": {
+            "file": "gp_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -410,
+                "y": 367.9
+            },
+            "angle": -88,
+            "alpha": 0,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "alpha": 1
+                    }
+                }
+            }
+        },
+        "edge/decor6": {
+            "file": "gp_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -412.6,
+                "y": -349
+            },
+            "angle": -88,
+            "alpha": 0,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -415.8,
+                            "y": -349.4
+                        },
+                        "alpha": 1
+                    }
+                }
+            }
+        },
+        "edge/decor9": {
+            "file": "gp_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 404,
+                "y": 367.2
+            },
+            "angle": -88,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {}
+                }
+            }
+        },
+        "edge/decor10": {
+            "file": "gp_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 407.2,
+                "y": -348.5
+            },
+            "angle": -88,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {}
+                }
+            }
+        },
+        "container": {
+            "file": "container_gp_land.png",
+            "image": "SIMPLE",
+            "scale": {
+                "x": 0.97,
+                "y": 0.97
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -396,
+                    "y": 0
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -396,
+                            "y": 0
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "scale": {
+                            "x": 1,
+                            "y": 1
+                        }
+                    },
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -339.1
+                        }
+                    }
+                }
+            }
+        },
+        "container/edge_top": {
+            "file": "frame_top.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 245.6,
+                "height": 15
+            },
+            "position": {
+                "x": 1.8,
+                "y": -358.7
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -352.7,
+                            "y": 0
+                        },
+                        "angle": -90
+                    }
+                }
+            }
+        },
+        "container/edge_bottom": {
+            "file": "frame_bottom.png",
+            "image": "TILED",
+            "size": {
+                "width": 216,
+                "height": 28
+            },
+            "position": {
+                "x": 25.5,
+                "y": 357.3
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 352.4,
+                            "y": 1.2
+                        },
+                        "angle": 90
+                    }
+                }
+            }
+        },
+        "container/edge_left": {
+            "file": "frame_l.png",
+            "image": "TILED",
+            "size": {
+                "width": 26,
+                "height": 676
+            },
+            "position": {
+                "x": -120.3,
+                "y": -0.5
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -1.4,
+                            "y": -109.6
+                        },
+                        "angle": 90
+                    }
+                }
+            }
+        },
+        "container/decor1": {
+            "file": "gp_decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -104.5,
+                "y": -343.8
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 340.8,
+                            "y": -97.8
+                        },
+                        "angle": 90
+                    }
+                }
+            }
+        },
+        "container/decor2": {
+            "file": "gp_decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -104.4,
+                "y": 338.8
+            },
+            "scale": {
+                "x": 1,
+                "y": -1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -341.08,
+                            "y": -97.8
+                        },
+                        "angle": 90
+                    }
+                }
+            }
+        },
+        "container/decor4": {
+            "file": "gp_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 919.7,
+                "y": -354.7
+            },
+            "alpha": 0,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 351.8,
+                            "y": 107.9
+                        },
+                        "scale": {
+                            "x": 0.86,
+                            "y": 0.86
+                        },
+                        "alpha": 1
+                    }
+                }
+            }
+        },
+        "container/decor5": {
+            "file": "gp_decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -407.6,
+                "y": -352
+            },
+            "alpha": 0,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -353.6,
+                            "y": 107.2
+                        },
+                        "scale": {
+                            "x": 0.86,
+                            "y": 0.86
+                        },
+                        "alpha": 1
+                    }
+                }
+            }
+        },
+        "container/avatar1_container": {
+            "file": "avatar_container1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.2,
+                "y": -282
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -259,
+                            "y": 27
+                        }
+                    }
+                }
+            }
+        },
+        "container/avatar1_container/avatar1_player": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -73,
+                "y": -52
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/avatar1_container/avatar1_life": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": -32.6
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar1_container/avatar1_bomb": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": -10.7
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar1_container/avatar1_power_blast": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": 11.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar1_container/avatar1_speed": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": 35.5
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar1_container/avatar1_icon_mode": {
+            "file": "icon5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -65.7,
+                "y": 35.8
+            },
+            "type": "sprite"
+        },
+        "container/avatar1_container/avatar1_score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -7,
+                "y": 40.9
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar2_container": {
+            "file": "avatar_container1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -151.3
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -86,
+                            "y": 27
+                        }
+                    }
+                }
+            }
+        },
+        "container/avatar2_container/avatar1_player": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -73,
+                "y": -52
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/avatar2_container/avatar1_life": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": -32.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar2_container/avatar1_bomb": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": -10.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar2_container/avatar1_power_blast": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": 11.4
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar2_container/avatar1_speed": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": 35.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar2_container/avatar2_icon_mode": {
+            "file": "icon5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -65.7,
+                "y": 35.8
+            },
+            "type": "sprite"
+        },
+        "container/avatar2_container/avatar1_score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -7.2,
+                "y": 40.4
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar3_container": {
+            "file": "avatar_container1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -20.5
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 88,
+                            "y": 27
+                        }
+                    }
+                }
+            }
+        },
+        "container/avatar3_container/avatar1_player": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -73,
+                "y": -52
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/avatar3_container/avatar1_life": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": -33
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar3_container/avatar1_bomb": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": -10.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar3_container/avatar1_power_blast": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": 11.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar3_container/avatar1_speed": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 65.8,
+                "y": 35.9
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar3_container/avatar3_icon_mode": {
+            "file": "icon5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -65.7,
+                "y": 35.8
+            },
+            "type": "sprite"
+        },
+        "container/avatar3_container/avatar1_score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -7.2,
+                "y": 41.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar4_container": {
+            "file": "avatar_container1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 108
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 261,
+                            "y": 27
+                        }
+                    }
+                }
+            }
+        },
+        "container/avatar4_container/avatar1_player": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -73,
+                "y": -52
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/avatar4_container/avatar1_life": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": -32.5
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar4_container/avatar1_bomb": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": -10.6
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar4_container/avatar1_power_blast": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": 11.7
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar4_container/avatar1_speed": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 15
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 66,
+                "y": 35.6
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/avatar4_container/avatar4_icon_mode": {
+            "file": "icon5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -65.7,
+                "y": 35.8
+            },
+            "type": "sprite"
+        },
+        "container/avatar4_container/avatar1_score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -7,
+                "y": 41.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/level_container": {
+            "file": "text_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 90,
+                "height": 22
+            },
+            "position": {
+                "x": 35.1,
+                "y": 215
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 11.4,
+                            "y": -66
+                        }
+                    }
+                }
+            }
+        },
+        "container/level_container/level_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 19
+            },
+            "text": "LEVEL",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -90,
+                "y": 0.2
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/level_container/level": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 17
+            },
+            "text": "1       /       5",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 2,
+                "y": 1.1
+            },
+            "color": "#010101",
+            "type": "text"
+        },
+        "container/time_container": {
+            "file": "text_container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 93,
+                "height": 21
+            },
+            "position": {
+                "x": 35.3,
+                "y": 240.9
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 191.1,
+                            "y": -66
+                        }
+                    }
+                }
+            }
+        },
+        "container/time_container/time_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 19
+            },
+            "text": "TIME",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -90,
+                "y": -0.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/time_container/time": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 17
+            },
+            "text": "173",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": 1.3,
+                "y": 2.2
+            },
+            "color": "#010101",
+            "type": "text"
+        },
+        "container/pause_button": {
+            "file": "button_pause.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_pause.png",
+                "pressed": "button_pause_2.png",
+                "hover": "button_pause_2.png"
+            },
+            "position": {
+                "x": 3.7,
+                "y": 316.2
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -257.8,
+                            "y": -65.4
+                        }
+                    }
+                }
+            }
+        },
+        "container/pause_button/pause_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "PAUSE",
+            "align": "center",
+            "stroke": "#fd5400",
+            "strokeThickness": 3,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        }
+    }
+}

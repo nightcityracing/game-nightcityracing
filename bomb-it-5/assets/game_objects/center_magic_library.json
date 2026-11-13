@@ -1,0 +1,106 @@
+{
+    "hierarchy": {
+        "name": "center_magic_library",
+        "children": [
+            {
+                "name": "magic_library_base"
+            },
+            {
+                "name": "magic_library_page"
+            },
+            {
+                "name": "magic_library_shine1"
+            },
+            {
+                "name": "magic_library_shine2"
+            },
+            {
+                "name": "magic_library_shine3"
+            },
+            {
+                "name": "magic_library_shine4"
+            },
+            {
+                "name": "magic_library_shine5"
+            }
+        ],
+        "animations": [
+            "center_magic_library_play",
+            "center_magic_library_stand"
+        ]
+    },
+    "properties": {
+        "magic_library_base": {
+            "file": "center_magic_library.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -3.3
+            },
+            "type": "sprite"
+        },
+        "magic_library_page": {
+            "file": "anim_center_magic_pages34.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.1,
+                "y": -40.4
+            },
+            "type": "sprite"
+        },
+        "magic_library_shine1": {
+            "file": "center_shine1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -6.8,
+                "y": -56.1
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "magic_library_shine2": {
+            "file": "center_shine2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -6.8,
+                "y": -56.1
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "magic_library_shine3": {
+            "file": "center_stars25.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -6.8,
+                "y": -56.1
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "magic_library_shine4": {
+            "file": "center_yellow.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -6.8,
+                "y": -38.2
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "magic_library_shine5": {
+            "file": "particle1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -5.1,
+                "y": -30.7
+            },
+            "scale": {
+                "x": 0.9,
+                "y": 0.9
+            },
+            "alpha": 0,
+            "type": "sprite"
+        }
+    }
+}

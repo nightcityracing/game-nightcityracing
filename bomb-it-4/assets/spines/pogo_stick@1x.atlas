@@ -1,0 +1,48 @@
+
+pogo_stick.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x1
+  rotate: false
+  xy: 88, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 54, 6
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+base2
+  rotate: false
+  xy: 54, 31
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+shadow_skate_front
+  rotate: false
+  xy: 2, 16
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+spring
+  rotate: false
+  xy: 106, 34
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 2, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1

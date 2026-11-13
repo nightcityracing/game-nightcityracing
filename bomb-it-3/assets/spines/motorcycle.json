@@ -1,0 +1,102 @@
+{
+"skeleton": { "hash": "1PVtQ9EVhj8QDQ8+U4K/4YKCflE", "spine": "2.1.27", "width": 38, "height": 84, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "body", "parent": "root", "x": -0.31, "y": -1.49 },
+	{ "name": "shadow", "parent": "root" },
+	{ "name": "player_bone", "parent": "body", "y": -3.18 }
+],
+"slots": [
+	{ "name": "motorcycle_front1", "bone": "body", "attachment": "motorcycle_front1" },
+	{ "name": "1x1", "bone": "player_bone", "attachment": "1x1" }
+],
+"skins": {
+	"default": {
+		"1x1": {
+			"1x1": { "width": 1, "height": 1 }
+		},
+		"motorcycle_front1": {
+			"motorcycle_back1": { "y": 14.23, "width": 38, "height": 87 },
+			"motorcycle_back2": { "y": 14.23, "width": 38, "height": 87 },
+			"motorcycle_front1": { "y": 6.1, "width": 38, "height": 84 },
+			"motorcycle_front2": { "y": 6.1, "width": 38, "height": 84 },
+			"motorcycle_side1": { "x": -14.57, "y": 2.71, "width": 84, "height": 59 },
+			"motorcycle_side2": { "x": -14.57, "y": 2.71, "width": 84, "height": 59 }
+		}
+	}
+},
+"animations": {
+	"back": {
+		"slots": {
+			"motorcycle_front1": {
+				"attachment": [
+					{ "time": 0, "name": "motorcycle_back1" },
+					{ "time": 0.2333, "name": "motorcycle_back2" },
+					{ "time": 0.5, "name": "motorcycle_back1" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -10.11 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 2.96 }
+				]
+			}
+		}
+	},
+	"front": {
+		"slots": {
+			"motorcycle_front1": {
+				"attachment": [
+					{ "time": 0, "name": "motorcycle_front1" },
+					{ "time": 0.2333, "name": "motorcycle_front2" },
+					{ "time": 0.5, "name": "motorcycle_front1" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0.37, "y": 0.37 }
+				]
+			}
+		}
+	},
+	"side": {
+		"slots": {
+			"motorcycle_front1": {
+				"attachment": [
+					{ "time": 0, "name": "motorcycle_side1" },
+					{ "time": 0.2333, "name": "motorcycle_side2" },
+					{ "time": 0.5, "name": "motorcycle_side1" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0, "x": 16.57, "y": -0.56 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": -5.19, "y": -2.22 }
+				]
+			}
+		}
+	}
+}
+}

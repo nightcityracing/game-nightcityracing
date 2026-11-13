@@ -1,0 +1,50 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "logo"
+            },
+            {
+                "name": "loading_text"
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "logo": {
+            "file": "mm_logo1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -256
+                }
+            }
+        },
+        "loading_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 35
+            },
+            "text": "LOADING...",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 639,
+                "y": 406
+            },
+            "color": "#f06201",
+            "type": "text"
+        }
+    }
+}

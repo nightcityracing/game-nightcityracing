@@ -1,0 +1,26 @@
+{
+    "hierarchy": {
+        "name": "water_gun",
+        "children": [
+            {
+                "name": "water_gun_base"
+            }
+        ],
+        "animations": [
+            "water_gun_down",
+            "water_gun_up",
+            "water_gun_side"
+        ]
+    },
+    "properties": {
+        "water_gun_base": {
+            "file": "watergun_up.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -15.9,
+                "y": -21.9
+            },
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "tramcar_down",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "tramcar_base": {
+            "position": [
+                {
+                    "frame": 150,
+                    "value": [
+                        0,
+                        -11.3
+                    ]
+                },
+                {
+                    "frame": 167,
+                    "value": [
+                        0.5,
+                        -5.5
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "farm_tramcar1.png"
+                },
+                {
+                    "frame": 83,
+                    "value": "farm_tramcar6.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "farm_tramcar7.png"
+                }
+            ]
+        },
+        "big_wheel": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 83,
+                    "value": 0
+                }
+            ],
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -21.2,
+                        -8.6
+                    ]
+                }
+            ]
+        },
+        "small_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        13.2,
+                        -2.1
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 83,
+                    "value": 0
+                }
+            ]
+        }
+    }
+}

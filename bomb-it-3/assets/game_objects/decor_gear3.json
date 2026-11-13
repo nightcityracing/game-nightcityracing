@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "decor_gear3",
+        "children": [
+            {
+                "name": "base"
+            }
+        ],
+        "animations": [
+            "gear_stand"
+        ]
+    },
+    "properties": {
+        "base": {
+            "file": "decor_ui.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

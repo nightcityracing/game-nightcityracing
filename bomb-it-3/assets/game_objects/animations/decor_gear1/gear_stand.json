@@ -1,0 +1,19 @@
+{
+    "name": "gear_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "base": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 3077,
+                    "value": 360
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "water_corner",
+        "children": [
+            {
+                "name": "water_corner_base"
+            }
+        ],
+        "animations": [
+            "water_corner_stand"
+        ]
+    },
+    "properties": {
+        "water_corner_base": {
+            "file": "water_corner_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 10.9,
+                "y": 13.3
+            },
+            "type": "sprite"
+        }
+    }
+}

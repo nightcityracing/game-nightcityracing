@@ -1,0 +1,28 @@
+{
+    "hierarchy": {
+        "name": "shine",
+        "children": [
+            {
+                "name": "base"
+            }
+        ],
+        "animations": [
+            "shine_stand"
+        ]
+    },
+    "properties": {
+        "base": {
+            "file": "bg_roundflash.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "scale": {
+                "x": 1.4,
+                "y": 1.4
+            },
+            "type": "sprite"
+        }
+    }
+}

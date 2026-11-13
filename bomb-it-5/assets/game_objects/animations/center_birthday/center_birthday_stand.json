@@ -1,0 +1,131 @@
+{
+    "name": "center_birthday_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "birthday_fire2": {
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 276,
+                    "value": 1
+                },
+                {
+                    "frame": 621,
+                    "value": 1.1
+                },
+                {
+                    "frame": 828,
+                    "value": 1
+                },
+                {
+                    "frame": 1172,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1414,
+                    "value": 1
+                },
+                {
+                    "frame": 1586,
+                    "value": 1
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 276,
+                    "value": 0.8
+                },
+                {
+                    "frame": 621,
+                    "value": 0.8
+                },
+                {
+                    "frame": 828,
+                    "value": 1.1
+                },
+                {
+                    "frame": 1172,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1414,
+                    "value": 1
+                },
+                {
+                    "frame": 1586,
+                    "value": 1
+                }
+            ]
+        },
+        "birthday_fire1": {
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 172,
+                    "value": 1
+                },
+                {
+                    "frame": 517,
+                    "value": 1
+                },
+                {
+                    "frame": 724,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1069,
+                    "value": 1.2
+                },
+                {
+                    "frame": 1517,
+                    "value": 1
+                },
+                {
+                    "frame": 1586,
+                    "value": 1
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 172,
+                    "value": 0.8
+                },
+                {
+                    "frame": 517,
+                    "value": 0.9
+                },
+                {
+                    "frame": 724,
+                    "value": 1.2
+                },
+                {
+                    "frame": 1069,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1517,
+                    "value": 1
+                },
+                {
+                    "frame": 1586,
+                    "value": 1
+                }
+            ]
+        }
+    }
+}

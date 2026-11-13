@@ -1,0 +1,85 @@
+{
+    "name": "lasergun_down_play",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "lasergun_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        15.8,
+                        -24.3
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "lasergun_down.png"
+                }
+            ]
+        },
+        "lasergun_fx": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        25.3,
+                        -23.7
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "lasergun_play12.png"
+                },
+                {
+                    "frame": 33,
+                    "value": "lasergun_play1.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "lasergun_play2.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "lasergun_play3.png"
+                },
+                {
+                    "frame": 133,
+                    "value": "lasergun_play4.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "lasergun_play5.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "lasergun_play7.png"
+                },
+                {
+                    "frame": 233,
+                    "value": "lasergun_play8.png"
+                },
+                {
+                    "frame": 267,
+                    "value": "lasergun_play9.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "lasergun_play10.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "lasergun_play11.png"
+                },
+                {
+                    "frame": 367,
+                    "value": "lasergun_play12.png"
+                }
+            ]
+        }
+    }
+}

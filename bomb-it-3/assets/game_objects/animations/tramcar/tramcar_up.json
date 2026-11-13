@@ -1,0 +1,88 @@
+{
+    "name": "tramcar_up",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "tramcar_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -4.9
+                    ]
+                },
+                {
+                    "frame": 150,
+                    "value": [
+                        0,
+                        -4.9
+                    ]
+                },
+                {
+                    "frame": 167,
+                    "value": [
+                        -2.1,
+                        -5.5
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "farm_tramcar8.png"
+                },
+                {
+                    "frame": 83,
+                    "value": "farm_tramcar4.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "farm_tramcar2.png"
+                }
+            ]
+        },
+        "big_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        17.2,
+                        -3.1
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 83,
+                    "value": 0
+                }
+            ]
+        },
+        "small_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -18.7,
+                        3.1
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 83,
+                    "value": 0
+                }
+            ]
+        }
+    }
+}

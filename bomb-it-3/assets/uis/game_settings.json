@@ -1,0 +1,1735 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "arcade",
+                        "children": [
+                            {
+                                "name": "text"
+                            },
+                            {
+                                "name": "description"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "battle_royale",
+                        "children": [
+                            {
+                                "name": "text"
+                            },
+                            {
+                                "name": "description"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "race",
+                        "children": [
+                            {
+                                "name": "text"
+                            },
+                            {
+                                "name": "description"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "watermania",
+                        "children": [
+                            {
+                                "name": "text"
+                            },
+                            {
+                                "name": "description"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "setttings_text",
+                        "children": [
+                            {
+                                "name": "container_decor1"
+                            },
+                            {
+                                "name": "container_decor2"
+                            },
+                            {
+                                "name": "container_decor3"
+                            },
+                            {
+                                "name": "container_decor4"
+                            },
+                            {
+                                "name": "container_decor5"
+                            },
+                            {
+                                "name": "players_text"
+                            },
+                            {
+                                "name": "enemies_text"
+                            },
+                            {
+                                "name": "levels_text"
+                            },
+                            {
+                                "name": "arena_text"
+                            },
+                            {
+                                "name": "difficulty_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "1player_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2player_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "3enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "1enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "0enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "20levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "15levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "10levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "5levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "arena_select",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "arena_container",
+                        "children": [
+                            {
+                                "name": "city_at_night",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "water_park",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "shopping_centre",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "farm",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "random",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "easy_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "normal_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "hard_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "decor_edge_l"
+                    },
+                    {
+                        "name": "decor_edge_r"
+                    },
+                    {
+                        "name": "decor_edge_bottom"
+                    },
+                    {
+                        "name": "select"
+                    }
+                ]
+            },
+            {
+                "name": "back",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "next",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "base_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 91,
+                "bottom": 69,
+                "left": 142,
+                "right": 134
+            },
+            "size": {
+                "width": 840,
+                "height": 540
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": "0%",
+                    "y": -37
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": -37
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": -29
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 34
+            },
+            "text": "GAME SETTINGS",
+            "align": "center",
+            "stroke": "#0577b5",
+            "strokeThickness": 13.8,
+            "position": {
+                "x": 0,
+                "y": -231.4
+            },
+            "color": "#a7ebf6",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -314.7
+                        }
+                    }
+                }
+            }
+        },
+        "container/arcade": {
+            "file": "setting_button_arcade1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -288,
+                "y": -104
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -249.7,
+                            "y": -96.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/arcade/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 17
+            },
+            "text": "ARCADE",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 56.4
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/arcade/description": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 14
+            },
+            "text": "Kill all enemies.",
+            "align": "center",
+            "stroke": "#000000",
+            "strokeThickness": 4.8,
+            "position": {
+                "x": 0,
+                "y": -18.6
+            },
+            "type": "text"
+        },
+        "container/battle_royale": {
+            "file": "setting_button_battle1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -92,
+                "y": -104
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -82.6,
+                            "y": -96.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/battle_royale/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 17
+            },
+            "text": "BATTLE ROYALE",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 56.4
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/battle_royale/description": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 14
+            },
+            "text": "Kill 10 enemies.",
+            "align": "center",
+            "stroke": "#000000",
+            "strokeThickness": 4.8,
+            "position": {
+                "x": 0,
+                "y": -18.6
+            },
+            "type": "text"
+        },
+        "container/race": {
+            "file": "setting_button_race1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 300,
+                "y": -104
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 251.6,
+                            "y": -96.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/race/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 17
+            },
+            "text": "RACE",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 56.4
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/race/description": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 14
+            },
+            "text": "Finish 3 laps 1st!",
+            "align": "center",
+            "stroke": "#000000",
+            "strokeThickness": 4.8,
+            "position": {
+                "x": 0,
+                "y": -18.6
+            },
+            "type": "text"
+        },
+        "container/watermania": {
+            "file": "setting_button_water1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 104,
+                "y": -104
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 84.5,
+                            "y": -96.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/watermania/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 17
+            },
+            "text": "WATERMANIA",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 56.4
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/watermania/description": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 14
+            },
+            "text": "Push 10 sheep\nor enemies off\nthe map.",
+            "align": "center",
+            "stroke": "#000000",
+            "strokeThickness": 4.8,
+            "position": {
+                "x": 0,
+                "y": -18.6
+            },
+            "type": "text"
+        },
+        "container/setttings_text": {
+            "position": {
+                "x": -294.9,
+                "y": 129.7
+            },
+            "type": "container",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -259.8,
+                            "y": 112.1
+                        },
+                        "scale": {
+                            "x": 0.95,
+                            "y": 0.95
+                        }
+                    }
+                }
+            }
+        },
+        "container/setttings_text/container_decor1": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 168.7,
+                "height": 30.4
+            },
+            "position": {
+                "x": 3.1,
+                "y": -101.1
+            },
+            "type": "sprite"
+        },
+        "container/setttings_text/container_decor2": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 168.7,
+                "height": 30.4
+            },
+            "position": {
+                "x": 3.1,
+                "y": -51.4
+            },
+            "type": "sprite"
+        },
+        "container/setttings_text/container_decor3": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 168.7,
+                "height": 30.4
+            },
+            "position": {
+                "x": 3.1,
+                "y": -0.2
+            },
+            "type": "sprite"
+        },
+        "container/setttings_text/container_decor4": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 168.7,
+                "height": 30.4
+            },
+            "position": {
+                "x": 3.1,
+                "y": 49.5
+            },
+            "type": "sprite"
+        },
+        "container/setttings_text/container_decor5": {
+            "file": "container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 9,
+                "left": 10,
+                "right": 10
+            },
+            "size": {
+                "width": 168.7,
+                "height": 30.4
+            },
+            "position": {
+                "x": 3.1,
+                "y": 101.4
+            },
+            "type": "sprite"
+        },
+        "container/setttings_text/players_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 20
+            },
+            "text": "PLAYERS",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": 4.1,
+                "y": -105
+            },
+            "color": "#a4e9f8",
+            "type": "text"
+        },
+        "container/setttings_text/enemies_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 20
+            },
+            "text": "ENEMIES",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": 4.5,
+                "y": -54.4
+            },
+            "color": "#a4e9f8",
+            "type": "text"
+        },
+        "container/setttings_text/levels_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 20
+            },
+            "text": "LEVELS",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": 3.9,
+                "y": -4.4
+            },
+            "color": "#a4e9f8",
+            "type": "text"
+        },
+        "container/setttings_text/arena_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 20
+            },
+            "text": "ARENA",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": 3.3,
+                "y": 46
+            },
+            "color": "#a4e9f8",
+            "type": "text"
+        },
+        "container/setttings_text/difficulty_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 20
+            },
+            "text": "DIFFICULTY",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": 3,
+                "y": 95.6
+            },
+            "color": "#a4e9f8",
+            "type": "text"
+        },
+        "container/1player_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -125,
+                "y": 24
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -120.1,
+                            "y": 13.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/1player_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/2player_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -8.7,
+                "y": 24
+            },
+            "type": "button",
+            "visibility": "desktop",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -3.8,
+                            "y": 13.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/2player_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "2",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/3enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -125,
+                "y": 73
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -120.1,
+                            "y": 62.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/3enemies_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "3",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/2enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -8.7,
+                "y": 73
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -3.8,
+                            "y": 62.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/2enemies_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "2",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/1enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 107.7,
+                "y": 73
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 112.6,
+                            "y": 62.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/1enemies_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/0enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 224,
+                "y": 73
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 228.9,
+                            "y": 62.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/0enemies_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "0",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#23b8fa",
+            "type": "text"
+        },
+        "container/20levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 224,
+                "y": 124
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 228.9,
+                            "y": 113.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/20levels_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "20",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/15levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 107.7,
+                "y": 124
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 112.6,
+                            "y": 113.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/15levels_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "15",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/10levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -8.7,
+                "y": 124
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -3.8,
+                            "y": 113.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/10levels_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "10",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/5levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -125,
+                "y": 124
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -120.1,
+                            "y": 113.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/5levels_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "5",
+            "align": "center",
+            "position": {
+                "x": -3.8,
+                "y": 3.2
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/arena_select": {
+            "file": "menu_gs.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 28.7,
+                "y": 173.5
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 37.2,
+                            "y": 164.2
+                        }
+                    }
+                }
+            }
+        },
+        "container/arena_select/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "RANDOM",
+            "align": "center",
+            "position": {
+                "x": 2.7,
+                "y": 2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/arena_container": {
+            "file": "menu_list.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 28.6,
+                "y": 71.4
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 36.8,
+                            "y": 62.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/arena_container/city_at_night": {
+            "file": "menu0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "menu0.png",
+                "pressed": "menu_selec_1.png",
+                "hover": "menu_selec_1.png"
+            },
+            "position": {
+                "x": -0.2,
+                "y": -63.7
+            },
+            "type": "button"
+        },
+        "container/arena_container/city_at_night/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "CITY AT NIGHT",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 1.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/arena_container/water_park": {
+            "file": "menu0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "menu0.png",
+                "pressed": "menu_selec_2.png",
+                "hover": "menu_selec_2.png"
+            },
+            "position": {
+                "x": -0.2,
+                "y": -32.3
+            },
+            "type": "button"
+        },
+        "container/arena_container/water_park/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "WATER PARK",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 1.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/arena_container/shopping_centre": {
+            "file": "menu0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "menu0.png",
+                "pressed": "menu_selec_1.png",
+                "hover": "menu_selec_1.png"
+            },
+            "position": {
+                "x": -0.2,
+                "y": -0.3
+            },
+            "type": "button"
+        },
+        "container/arena_container/shopping_centre/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "SHOPPING CENTRE",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 1.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/arena_container/farm": {
+            "file": "menu0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "menu0.png",
+                "pressed": "menu_selec_2.png",
+                "hover": "menu_selec_2.png"
+            },
+            "position": {
+                "x": -0.2,
+                "y": 32.1
+            },
+            "type": "button"
+        },
+        "container/arena_container/farm/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "FARM",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 1.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/arena_container/random": {
+            "file": "menu0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "menu0.png",
+                "pressed": "menu_selec_1.png",
+                "hover": "menu_selec_1.png"
+            },
+            "position": {
+                "x": -0.2,
+                "y": 63.8
+            },
+            "type": "button"
+        },
+        "container/arena_container/random/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "RANDOM",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 1.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/easy_button": {
+            "file": "big_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "big_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -91,
+                "y": 225
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -84,
+                            "y": 214
+                        }
+                    }
+                }
+            }
+        },
+        "container/easy_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "EASY",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 3.2
+            },
+            "color": "#003055",
+            "type": "text"
+        },
+        "container/normal_button": {
+            "file": "big_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "big_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 95.2,
+                "y": 225
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -84,
+                            "y": 255.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/normal_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "NORMAL",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/hard_button": {
+            "file": "big_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "big_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 282.3,
+                "y": 225
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -84,
+                            "y": 297.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/hard_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 24
+            },
+            "text": "HARD",
+            "align": "center",
+            "position": {
+                "x": 0.8,
+                "y": 3.2
+            },
+            "color": "#affaff",
+            "type": "text"
+        },
+        "container/decor_edge_l": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": -409.4,
+                "y": 13.4
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -348,
+                            "y": 7
+                        }
+                    }
+                }
+            }
+        },
+        "container/decor_edge_r": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 428.1
+            },
+            "position": {
+                "x": 411.5,
+                "y": 13
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 348,
+                            "y": 13
+                        }
+                    }
+                }
+            }
+        },
+        "container/decor_edge_bottom": {
+            "file": "point_decor.png",
+            "image": "TILED",
+            "size": {
+                "width": 19,
+                "height": 745
+            },
+            "position": {
+                "x": 2,
+                "y": 259.3
+            },
+            "angle": 90,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -3,
+                            "y": 326
+                        }
+                    }
+                }
+            }
+        },
+        "container/select": {
+            "file": "button_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_1.png",
+                "pressed": "button_2.png",
+                "hover": "button_3.png"
+            },
+            "position": {
+                "x": 268.4,
+                "y": 174.1
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 276.9,
+                            "y": 164.8
+                        }
+                    }
+                }
+            }
+        },
+        "back": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -274.6,
+                    "y": 277.2
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -274.6,
+                            "y": 277.2
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -198.5,
+                            "y": 353
+                        }
+                    }
+                }
+            }
+        },
+        "back/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -5.3,
+                "y": -5.3
+            },
+            "type": "text"
+        },
+        "next": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 288.9,
+                    "y": 277.2
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 288.9,
+                            "y": 277.2
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 197.8,
+                            "y": 353
+                        }
+                    }
+                }
+            }
+        },
+        "next/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "NEXT",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -5.3,
+                "y": -5.3
+            },
+            "type": "text"
+        }
+    }
+}

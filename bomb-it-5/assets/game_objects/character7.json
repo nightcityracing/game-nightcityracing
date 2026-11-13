@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "character7",
+        "children": [
+            {
+                "name": "eyes"
+            }
+        ],
+        "animations": [
+            "character7_stand"
+        ]
+    },
+    "properties": {
+        "eyes": {
+            "file": "face7_eye0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.5,
+                "y": 9.2
+            },
+            "type": "sprite"
+        }
+    }
+}

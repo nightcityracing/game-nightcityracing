@@ -1,0 +1,98 @@
+{
+    "name": "hammer_side_play",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "hammer_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -27.2,
+                        -46.7
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "hammer_left_play1.png"
+                },
+                {
+                    "frame": 25,
+                    "value": "hammer_left_play2.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "hammer_left_play3.png"
+                },
+                {
+                    "frame": 75,
+                    "value": "hammer_left_play4.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "hammer_left_play5.png"
+                },
+                {
+                    "frame": 125,
+                    "value": "hammer_left_play6.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "hammer_left_play7.png"
+                },
+                {
+                    "frame": 175,
+                    "value": "hammer_left_play8.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "hammer_left_play9.png"
+                },
+                {
+                    "frame": 225,
+                    "value": "hammer_left_play10.png"
+                },
+                {
+                    "frame": 250,
+                    "value": "hammer_left_play11.png"
+                },
+                {
+                    "frame": 275,
+                    "value": "hammer_left_play12.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "hammer_left_play13.png"
+                },
+                {
+                    "frame": 325,
+                    "value": "hammer_left_play14.png"
+                },
+                {
+                    "frame": 350,
+                    "value": "hammer_left_play15.png"
+                },
+                {
+                    "frame": 463,
+                    "value": "hammer_left_play23.png"
+                },
+                {
+                    "frame": 488,
+                    "value": "hammer_left_play24.png"
+                },
+                {
+                    "frame": 513,
+                    "value": "hammer_left_play25.png"
+                }
+            ]
+        }
+    },
+    "events": [
+        {
+            "frame": 350,
+            "name": ""
+        }
+    ]
+}

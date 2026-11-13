@@ -1,0 +1,258 @@
+
+gp_hero6.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atras/robot_body_back1
+  rotate: false
+  xy: 284, 122
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+atras/robot_head_back1
+  rotate: false
+  xy: 248, 255
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+atras/robot_leg_back1
+  rotate: false
+  xy: 266, 41
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+atras/robot_leg_back2
+  rotate: false
+  xy: 251, 21
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+frente/eye_3
+  rotate: true
+  xy: 244, 3
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+frente/eyes_1
+  rotate: false
+  xy: 248, 182
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: true
+  xy: 266, 59
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+frente/eyes_4
+  rotate: true
+  xy: 263, 24
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 280, 61
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: true
+  xy: 202, 16
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 284, 90
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: true
+  xy: 284, 154
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 248, 196
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: true
+  xy: 202, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+lado/robot_leg_side
+  rotate: true
+  xy: 202, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: true
+  xy: 223, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+lado/robot_arm_side
+  rotate: false
+  xy: 303, 66
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+lado/robot_body_side1
+  rotate: false
+  xy: 151, 13
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+lado/robot_face_side1
+  rotate: false
+  xy: 179, 13
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+lado/robot_head_side1
+  rotate: true
+  xy: 207, 39
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+muerte/ghost34
+  rotate: false
+  xy: 2, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost36
+  rotate: false
+  xy: 2, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost38
+  rotate: false
+  xy: 43, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost40
+  rotate: false
+  xy: 43, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost42
+  rotate: false
+  xy: 84, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost44
+  rotate: false
+  xy: 84, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost46
+  rotate: false
+  xy: 125, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost48
+  rotate: false
+  xy: 125, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost50
+  rotate: true
+  xy: 2, 5
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost52
+  rotate: false
+  xy: 166, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost54
+  rotate: false
+  xy: 166, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost56
+  rotate: false
+  xy: 207, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost57
+  rotate: false
+  xy: 207, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/hero_death1
+  rotate: false
+  xy: 207, 94
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+muerte/hero_eye
+  rotate: false
+  xy: 231, 18
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 137, 2
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1

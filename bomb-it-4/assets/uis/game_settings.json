@@ -1,0 +1,1418 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "container_mode",
+                        "children": [
+                            {
+                                "name": "arcade_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "battle_royale_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "coin_collector_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "tile_tag_mode",
+                                "children": [
+                                    {
+                                        "name": "description"
+                                    },
+                                    {
+                                        "name": "title"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_player",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "1player_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2player_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_enemies",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "3enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "1enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "0enemies_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_levels",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "20levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "15levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "10levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "5levels_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_arena",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_buttons",
+                        "children": [
+                            {
+                                "name": "pizza_restaurant",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "basketball_court",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "wedding ceremony",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "mysterious garden",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "volcano cave",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "egyptian_tomb",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "random",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "select"
+                    },
+                    {
+                        "name": "menu",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_dificulty",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "easy_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "normal_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "hard_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "back_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ok_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -17.8
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -17.8
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -60
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 39
+            },
+            "text": "GAME SETTINGS",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 11,
+                "y": -181.3
+            },
+            "color": "#fea367",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -183
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -280.1
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_mode": {
+            "file": "container_mode.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 10,
+                "left": 14,
+                "right": 14
+            },
+            "size": {
+                "width": 591.4,
+                "height": 156.4
+            },
+            "position": {
+                "x": 0,
+                "y": -57
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -106.9
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_mode/arcade_mode": {
+            "file": "collect_mode1_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode1_1.png",
+                "pressed": "collect_mode1_2.png",
+                "hover": "collect_mode1_3.png"
+            },
+            "position": {
+                "x": -217,
+                "y": 1.2
+            },
+            "type": "button"
+        },
+        "container/container_mode/arcade_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "KILL ALL\nENEMIES.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/arcade_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "ARCADE",
+            "align": "center",
+            "position": {
+                "x": -3.4,
+                "y": 45.5
+            },
+            "type": "text"
+        },
+        "container/container_mode/battle_royale_mode": {
+            "file": "collect_mode2_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode2_1.png",
+                "pressed": "collect_mode2_2.png",
+                "hover": "collect_mode2_3.png"
+            },
+            "position": {
+                "x": -72.3,
+                "y": 1.2
+            },
+            "type": "button"
+        },
+        "container/container_mode/battle_royale_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "KILL 10\nENEMIES.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/battle_royale_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "BATTLE ROYALE",
+            "align": "center",
+            "position": {
+                "x": -3.4,
+                "y": 45.5
+            },
+            "type": "text"
+        },
+        "container/container_mode/coin_collector_mode": {
+            "file": "collect_mode3_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode3_1.png",
+                "pressed": "collect_mode3_2.png",
+                "hover": "collect_mode3_3.png"
+            },
+            "position": {
+                "x": 72.3,
+                "y": 1.2
+            },
+            "type": "button"
+        },
+        "container/container_mode/coin_collector_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "COLLECT 10\nCOINS.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/coin_collector_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "COIN COLLECTOR",
+            "align": "center",
+            "position": {
+                "x": -3.4,
+                "y": 45.5
+            },
+            "type": "text"
+        },
+        "container/container_mode/tile_tag_mode": {
+            "file": "collect_mode4_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "collect_mode4_1.png",
+                "pressed": "collect_mode4_2.png",
+                "hover": "collect_mode4_3.png"
+            },
+            "position": {
+                "x": 217,
+                "y": 1.2
+            },
+            "type": "button"
+        },
+        "container/container_mode/tile_tag_mode/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "COLOR 50\nTILES.",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": -10.8
+            },
+            "type": "text"
+        },
+        "container/container_mode/tile_tag_mode/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 16
+            },
+            "text": "TILE TAG",
+            "align": "center",
+            "position": {
+                "x": -3.4,
+                "y": 45.5
+            },
+            "type": "text"
+        },
+        "container/container_player": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -209.5,
+                "y": 42.7
+            },
+            "type": "sprite"
+        },
+        "container/container_player/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "PLAYERS",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 0.7
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/1player_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -88.6,
+                "y": 42.7
+            },
+            "type": "button"
+        },
+        "container/1player_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/2player_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -19.9,
+                "y": 42.7
+            },
+            "type": "button"
+        },
+        "container/2player_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "2",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/container_enemies": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -209.5,
+                "y": 81.3
+            },
+            "type": "sprite"
+        },
+        "container/container_enemies/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "ENEMIES",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 1.2
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/3enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -88.6,
+                "y": 81.3
+            },
+            "type": "button"
+        },
+        "container/3enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "3",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/2enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -19.9,
+                "y": 81.3
+            },
+            "type": "button"
+        },
+        "container/2enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "2",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/1enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 48.9,
+                "y": 81.3
+            },
+            "type": "button"
+        },
+        "container/1enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/0enemies_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 117.6,
+                "y": 81.3
+            },
+            "type": "button"
+        },
+        "container/0enemies_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "0",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/container_levels": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -209.5,
+                "y": 119.9
+            },
+            "type": "sprite"
+        },
+        "container/container_levels/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "LEVELS",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 1.6
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/20levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 117.6,
+                "y": 119.9
+            },
+            "type": "button"
+        },
+        "container/20levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "20",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/15levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": 48.9,
+                "y": 119.9
+            },
+            "type": "button"
+        },
+        "container/15levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "15",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/10levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -19.9,
+                "y": 119.9
+            },
+            "type": "button"
+        },
+        "container/10levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "10",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/5levels_button": {
+            "file": "small_button_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "small_button_normal.png",
+                "pressed": "small_button_select.png",
+                "hover": "small_button_hover.png"
+            },
+            "position": {
+                "x": -88.6,
+                "y": 119.9
+            },
+            "type": "button"
+        },
+        "container/5levels_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "5",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 1.5
+            },
+            "type": "text"
+        },
+        "container/container_arena": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -209.5,
+                "y": 160.8
+            },
+            "type": "sprite"
+        },
+        "container/container_arena/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "ARENA",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 1.2
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/container_buttons": {
+            "file": "button_menu_open.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -7.1,
+                "y": 38.7
+            },
+            "type": "sprite"
+        },
+        "container/container_buttons/pizza_restaurant": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -87.7
+            },
+            "type": "button"
+        },
+        "container/container_buttons/pizza_restaurant/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "PIZZA RESTAURANT",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 1.7
+            },
+            "type": "text"
+        },
+        "container/container_buttons/basketball_court": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_2.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -60.1
+            },
+            "type": "button"
+        },
+        "container/container_buttons/basketball_court/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "BASKETBALL COURT",
+            "align": "center",
+            "stroke": "#e64600",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.2
+            },
+            "type": "text"
+        },
+        "container/container_buttons/wedding ceremony": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -30.2
+            },
+            "type": "button"
+        },
+        "container/container_buttons/wedding ceremony/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "WEDDING CEREMONY",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/container_buttons/mysterious garden": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_2.png"
+            },
+            "position": {
+                "x": 0,
+                "y": -0.5
+            },
+            "type": "button"
+        },
+        "container/container_buttons/mysterious garden/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "MYSTERIOUS GARDEN",
+            "align": "center",
+            "stroke": "#e64600",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 4.3
+            },
+            "type": "text"
+        },
+        "container/container_buttons/volcano cave": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": 29.4
+            },
+            "type": "button"
+        },
+        "container/container_buttons/volcano cave/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "VOLCANO TOMB",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.9
+            },
+            "type": "text"
+        },
+        "container/container_buttons/egyptian_tomb": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_2.png"
+            },
+            "position": {
+                "x": 0,
+                "y": 59.6
+            },
+            "type": "button"
+        },
+        "container/container_buttons/egyptian_tomb/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "EGYPTIAN TOMB",
+            "align": "center",
+            "stroke": "#e64600",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 4.3
+            },
+            "type": "text"
+        },
+        "container/container_buttons/random": {
+            "file": "button_choose_0.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_choose_0.png",
+                "pressed": "button_choose_0.png",
+                "hover": "button_choose_1.png"
+            },
+            "position": {
+                "x": 0,
+                "y": 89.9
+            },
+            "type": "button"
+        },
+        "container/container_buttons/random/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "RANDOM",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0.8,
+                "y": 3.9
+            },
+            "type": "text"
+        },
+        "container/select": {
+            "file": "button_arrow_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_arrow_1.png",
+                "pressed": "button_arrow_1.png",
+                "hover": "button_arrow_2.png"
+            },
+            "position": {
+                "x": 128.4,
+                "y": 161.1
+            },
+            "type": "button"
+        },
+        "container/menu": {
+            "file": "button_menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -6.3,
+                "y": 160.8
+            },
+            "type": "sprite"
+        },
+        "container/menu/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "RANDOM",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.5
+            },
+            "type": "text"
+        },
+        "container/container_dificulty": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -209.5,
+                "y": 201.7
+            },
+            "type": "sprite"
+        },
+        "container/container_dificulty/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "DIFFICULTY",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 1.1
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/easy_button": {
+            "file": "button_dificulty_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_dificulty_1.png",
+                "pressed": "button_dificulty_2.png",
+                "hover": "button_dificulty_3.png"
+            },
+            "position": {
+                "x": -58.9,
+                "y": 201.7
+            },
+            "type": "button"
+        },
+        "container/easy_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "EASY",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/normal_button": {
+            "file": "button_dificulty_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_dificulty_1.png",
+                "pressed": "button_dificulty_2.png",
+                "hover": "button_dificulty_3.png"
+            },
+            "position": {
+                "x": 69,
+                "y": 201.7
+            },
+            "type": "button"
+        },
+        "container/normal_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "NORMAL",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/hard_button": {
+            "file": "button_dificulty_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_dificulty_1.png",
+                "pressed": "button_dificulty_2.png",
+                "hover": "button_dificulty_3.png"
+            },
+            "position": {
+                "x": 196.8,
+                "y": 201.7
+            },
+            "type": "button"
+        },
+        "container/hard_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "HARD",
+            "align": "center",
+            "stroke": "#34aeae",
+            "strokeThickness": 3.4,
+            "position": {
+                "x": 0,
+                "y": 3.6
+            },
+            "type": "text"
+        },
+        "container/back_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "position": {
+                "x": -123.4,
+                "y": 310.3
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -123,
+                            "y": 412
+                        }
+                    }
+                }
+            }
+        },
+        "container/back_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 2.8,
+            "position": {
+                "x": 10.9,
+                "y": -1.2
+            },
+            "type": "text"
+        },
+        "container/ok_button": {
+            "file": "button_next_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_next_1.png",
+                "pressed": "button_next_3.png",
+                "hover": "button_next_2.png"
+            },
+            "position": {
+                "x": 112.2,
+                "y": 307.2
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 112.2,
+                            "y": 412
+                        }
+                    }
+                }
+            }
+        },
+        "container/ok_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "OK",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 2.8,
+            "position": {
+                "x": 10.1,
+                "y": 1.1
+            },
+            "type": "text"
+        }
+    }
+}

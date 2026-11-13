@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "button_back_1.png",
+	"frame": {"x":2,"y":630,"w":192,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":192,"h":65},
+	"sourceSize": {"w":197,"h":70}
+},
+{
+	"filename": "button_back_2.png",
+	"frame": {"x":213,"y":628,"w":194,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":194,"h":69},
+	"sourceSize": {"w":197,"h":70}
+},
+{
+	"filename": "button_back_3.png",
+	"frame": {"x":2,"y":697,"w":191,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":191,"h":65},
+	"sourceSize": {"w":197,"h":70}
+},
+{
+	"filename": "button_options_1.png",
+	"frame": {"x":213,"y":552,"w":209,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":209,"h":74},
+	"sourceSize": {"w":210,"h":77}
+},
+{
+	"filename": "button_options_2.png",
+	"frame": {"x":2,"y":552,"w":209,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":76},
+	"sourceSize": {"w":210,"h":77}
+},
+{
+	"filename": "button_options_3.png",
+	"frame": {"x":424,"y":552,"w":209,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":209,"h":74},
+	"sourceSize": {"w":210,"h":77}
+},
+{
+	"filename": "container_gameover.png",
+	"frame": {"x":2,"y":2,"w":751,"h":548},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":751,"h":548},
+	"sourceSize": {"w":751,"h":572}
+},
+{
+	"filename": "container_go_score.png",
+	"frame": {"x":409,"y":628,"w":82,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":72},
+	"sourceSize": {"w":82,"h":72}
+},
+{
+	"filename": "face1_normal.png",
+	"frame": {"x":195,"y":699,"w":78,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":23,"w":78,"h":65},
+	"sourceSize": {"w":102,"h":111}
+},
+{
+	"filename": "face2_normal.png",
+	"frame": {"x":493,"y":628,"w":81,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":13,"w":81,"h":78},
+	"sourceSize": {"w":102,"h":111}
+},
+{
+	"filename": "face3_normal.png",
+	"frame": {"x":635,"y":552,"w":93,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":9,"w":93,"h":79},
+	"sourceSize": {"w":102,"h":111}
+},
+{
+	"filename": "face4_normal.png",
+	"frame": {"x":660,"y":701,"w":78,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":27,"w":78,"h":61},
+	"sourceSize": {"w":102,"h":111}
+},
+{
+	"filename": "face5_normal.png",
+	"frame": {"x":576,"y":633,"w":82,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":19,"w":82,"h":70},
+	"sourceSize": {"w":102,"h":111}
+},
+{
+	"filename": "face6_normal.png",
+	"frame": {"x":660,"y":633,"w":75,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":22,"w":75,"h":66},
+	"sourceSize": {"w":102,"h":111}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_gameover.png",
+	"format": "RGBA8888",
+	"size": {"w":755,"h":766},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f6e4629cb162f7264890ff49b80658f:68bc22e8b04e17f2d89e630bd2f553ff:b62ff9f9134c324d2072ddea5cf88fad$"
+}
+}

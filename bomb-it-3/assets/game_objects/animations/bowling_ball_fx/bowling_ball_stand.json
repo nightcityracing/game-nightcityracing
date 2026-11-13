@@ -1,0 +1,79 @@
+{
+    "name": "bowling_ball_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "bowling_ball_play1.png"
+                },
+                {
+                    "frame": 20,
+                    "value": "bowling_ball_play2.png"
+                },
+                {
+                    "frame": 40,
+                    "value": "bowling_ball_play3.png"
+                },
+                {
+                    "frame": 60,
+                    "value": "bowling_ball_play4.png"
+                },
+                {
+                    "frame": 80,
+                    "value": "bowling_ball_play5.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "bowling_ball_play6.png"
+                },
+                {
+                    "frame": 120,
+                    "value": "bowling_ball_play7.png"
+                },
+                {
+                    "frame": 140,
+                    "value": "bowling_ball_play8.png"
+                },
+                {
+                    "frame": 160,
+                    "value": "bowling_ball_play9.png"
+                },
+                {
+                    "frame": 180,
+                    "value": "bowling_ball_play10.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "bowling_ball_play11.png"
+                },
+                {
+                    "frame": 220,
+                    "value": "bowling_ball_play12.png"
+                },
+                {
+                    "frame": 240,
+                    "value": "bowling_ball_play13.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "bowling_ball_play16.png"
+                },
+                {
+                    "frame": 320,
+                    "value": "bowling_ball_play17.png"
+                },
+                {
+                    "frame": 340,
+                    "value": "bowling_ball_play18.png"
+                },
+                {
+                    "frame": 360,
+                    "value": "bowling_ball_play1.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,577 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "base",
+                        "children": [
+                            {
+                                "name": "power_ups_text"
+                            },
+                            {
+                                "name": "bomb_text"
+                            },
+                            {
+                                "name": "power_blast_text"
+                            },
+                            {
+                                "name": "speed_text"
+                            },
+                            {
+                                "name": "life_text"
+                            },
+                            {
+                                "name": "shield_text"
+                            },
+                            {
+                                "name": "push_the_bomb_text"
+                            },
+                            {
+                                "name": "invincibility_text"
+                            },
+                            {
+                                "name": "weapons_text"
+                            },
+                            {
+                                "name": "boxing_gloves_text"
+                            },
+                            {
+                                "name": "rocket_launcher_text"
+                            },
+                            {
+                                "name": "flamethrower_text"
+                            },
+                            {
+                                "name": "laser_gun_text"
+                            },
+                            {
+                                "name": "hammer_text"
+                            },
+                            {
+                                "name": "ninja_stars_text"
+                            },
+                            {
+                                "name": "grenade_text"
+                            },
+                            {
+                                "name": "vehicles_text"
+                            },
+                            {
+                                "name": "pogo_stick_text"
+                            },
+                            {
+                                "name": "magic_carpet_text"
+                            },
+                            {
+                                "name": "snowmobile_text"
+                            },
+                            {
+                                "name": "dinosaur_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "back_button",
+                        "children": [
+                            {
+                                "name": "back_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "controls_button",
+                        "children": [
+                            {
+                                "name": "control_text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -16
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -16
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -60
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 43
+            },
+            "text": "POWER-UPS",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 9.1,
+                "y": -184
+            },
+            "color": "#fea367",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 9.1,
+                            "y": -279.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/base": {
+            "file": "power-up.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 41
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": 36
+                        },
+                        "scale": {
+                            "x": 1.13,
+                            "y": 1.13
+                        }
+                    }
+                }
+            }
+        },
+        "container/base/power_ups_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "POWER-UPS",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": -176.7
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/base/bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "BOMB +1",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": -143.2
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/power_blast_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "POWER BLAST +1",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": -109.5
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/speed_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "SPEED +10%",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": -77.4
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/life_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "LIFE +1",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": -45
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/shield_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "SHIELD",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": -11.3
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/push_the_bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "PUSH THE BOMB",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": 21.7
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/invincibility_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "INVINCIBILITY",
+            "align": "center",
+            "position": {
+                "x": -131,
+                "y": 54.2
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/weapons_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "WEAPONS",
+            "align": "center",
+            "position": {
+                "x": 151.1,
+                "y": -176.1
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/base/boxing_gloves_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "BOXING GLOVE",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": -142.7
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/rocket_launcher_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "ROCKET LAUNCHER",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": -110.6
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/flamethrower_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "FLAMETHROWER",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": -78
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/laser_gun_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "LASER GUN",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": -44.4
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/hammer_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "HAMMER",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": -11.9
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/ninja_stars_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "NINJA STARS",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": 20.7
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/grenade_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "GRENADE",
+            "align": "center",
+            "position": {
+                "x": 160.9,
+                "y": 54.2
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/vehicles_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "VEHICLES",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 98.7
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/base/pogo_stick_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "POGO STICK",
+            "align": "center",
+            "position": {
+                "x": -128.3,
+                "y": 136.9
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/magic_carpet_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "MAGIC CARPET",
+            "align": "center",
+            "position": {
+                "x": -128.3,
+                "y": 177.2
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/snowmobile_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "SNOWMOBILE",
+            "align": "center",
+            "position": {
+                "x": 161,
+                "y": 137
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/base/dinosaur_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "DINOSAUR",
+            "align": "center",
+            "position": {
+                "x": 161,
+                "y": 173
+            },
+            "color": "#06316e",
+            "type": "text"
+        },
+        "container/back_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "position": {
+                "x": -123.4,
+                "y": 310.1
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -123.4,
+                            "y": 411.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/back_button/back_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 2.8,
+            "position": {
+                "x": 9,
+                "y": -1.5
+            },
+            "type": "text"
+        },
+        "container/controls_button": {
+            "file": "button_powerup_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_powerup_1.png",
+                "pressed": "button_powerup_3.png",
+                "hover": "button_powerup_2.png"
+            },
+            "position": {
+                "x": 116.6,
+                "y": 310.1
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 116.6,
+                            "y": 411.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/controls_button/control_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "CONTROLS",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 2.8,
+            "position": {
+                "x": 12.9,
+                "y": -1
+            },
+            "type": "text"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "hierarchy": {
+        "name": "firework_white",
+        "children": [
+            {
+                "name": "white_base"
+            }
+        ],
+        "animations": [
+            "firework_white_anim"
+        ]
+    },
+    "properties": {
+        "white_base": {
+            "file": "anim_star_base34.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            },
+            "type": "sprite"
+        }
+    }
+}

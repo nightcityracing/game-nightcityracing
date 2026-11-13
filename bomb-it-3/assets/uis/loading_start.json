@@ -1,0 +1,212 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container2",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "image"
+                    },
+                    {
+                        "name": "description"
+                    }
+                ]
+            },
+            {
+                "name": "decor_gear1"
+            },
+            {
+                "name": "decor_gear2"
+            },
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "bomb1"
+                    },
+                    {
+                        "name": "bomb2"
+                    },
+                    {
+                        "name": "bomb3"
+                    },
+                    {
+                        "name": "bomb4"
+                    },
+                    {
+                        "name": "bomb5"
+                    },
+                    {
+                        "name": "bomb6"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container2": {
+            "file": "loading_container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 21,
+                "bottom": 23,
+                "left": 26,
+                "right": 26
+            },
+            "size": {
+                "width": 527.5,
+                "height": 307.7
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -90.6
+                }
+            }
+        },
+        "container2/title": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 34
+            },
+            "text": "ARCADE MODE",
+            "align": "center",
+            "stroke": "#0577b5",
+            "strokeThickness": 13.8,
+            "position": {
+                "x": 0,
+                "y": -152.8
+            },
+            "color": "#a7ebf6",
+            "type": "text"
+        },
+        "container2/image": {
+            "file": "loading_image1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.1,
+                "y": -18.3
+            },
+            "type": "sprite"
+        },
+        "container2/description": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "Place your bombs tactically to kill all\nenemies!",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 118.6
+            },
+            "color": "#004f94",
+            "type": "text"
+        },
+        "decor_gear1": {
+            "file": "point_decor.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 200.8,
+                    "y": 175.5
+                }
+            }
+        },
+        "decor_gear2": {
+            "file": "point_decor.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -196.3,
+                    "y": 115.5
+                }
+            }
+        },
+        "container": {
+            "file": "loading_container.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": 146.6
+                }
+            }
+        },
+        "container/bomb1": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -148.4,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb2": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -89,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb3": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -29.3,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb4": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 31.3,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb5": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 89.4,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb6": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 149.5,
+                "y": -2
+            },
+            "type": "sprite"
+        }
+    }
+}

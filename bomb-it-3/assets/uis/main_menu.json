@@ -1,0 +1,570 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "shine"
+            },
+            {
+                "name": "decor"
+            },
+            {
+                "name": "hero1"
+            },
+            {
+                "name": "hero2"
+            },
+            {
+                "name": "logo"
+            },
+            {
+                "name": "container_flag",
+                "children": [
+                    {
+                        "name": "flag2"
+                    },
+                    {
+                        "name": "flag1"
+                    }
+                ]
+            },
+            {
+                "name": "container_select",
+                "children": [
+                    {
+                        "name": "flag_select"
+                    }
+                ]
+            },
+            {
+                "name": "agame"
+            },
+            {
+                "name": "settings_buttons_container",
+                "children": [
+                    {
+                        "name": "start_game",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "how_to_play_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "highscore_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "audio_buttons_container",
+                "children": [
+                    {
+                        "name": "audio_button"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "shine": {
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -180,
+                    "y": -215
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -180,
+                            "y": -215
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -201,
+                            "y": -393
+                        }
+                    }
+                }
+            }
+        },
+        "decor": {
+            "file": "mm_window.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -20.3,
+                    "y": 166.8
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -20.3,
+                            "y": 166.8
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -20,
+                            "y": 89
+                        }
+                    }
+                }
+            }
+        },
+        "hero1": {
+            "file": "mm_hero1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -232,
+                    "y": 40
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -232,
+                            "y": 40
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -195,
+                            "y": 283
+                        }
+                    }
+                }
+            }
+        },
+        "hero2": {
+            "file": "mm_hero2.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 253,
+                    "y": 41
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 253,
+                            "y": 41
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 198,
+                            "y": 285
+                        }
+                    }
+                }
+            }
+        },
+        "logo": {
+            "file": "mm_logo.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "TOP_CENTER",
+                "offset": {
+                    "x": "0%",
+                    "y": "-10%"
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "TOP_CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": "-10%"
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "TOP_CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": -166.7
+                        }
+                    }
+                }
+            }
+        },
+        "container_flag": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_CENTER",
+                "offset": {
+                    "x": -379.6,
+                    "y": -67.9
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -379.6,
+                            "y": -67.9
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -270,
+                            "y": -146
+                        }
+                    }
+                }
+            }
+        },
+        "container_flag/flag2": {
+            "file": "hol.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -72
+            },
+            "type": "sprite"
+        },
+        "container_flag/flag1": {
+            "file": "esp.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 23.2
+            },
+            "type": "sprite"
+        },
+        "container_select": {
+            "file": "select.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_CENTER",
+                "offset": {
+                    "x": -379.7,
+                    "y": -21.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -379.7,
+                            "y": -21.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -270,
+                            "y": -97.5
+                        }
+                    }
+                }
+            }
+        },
+        "container_select/flag_select": {
+            "file": "eng.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "agame": {
+            "file": "Agame.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 226,
+                    "y": 311
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 226,
+                            "y": 311
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 208,
+                            "y": 605.7
+                        }
+                    }
+                }
+            }
+        },
+        "settings_buttons_container": {
+            "file": "menu.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 64,
+                "height": 22
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": 121.6
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": 121.6
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -20.5,
+                            "y": 38.7
+                        }
+                    }
+                }
+            }
+        },
+        "settings_buttons_container/start_game": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "position": {
+                "x": 21,
+                "y": -63.8
+            },
+            "type": "button"
+        },
+        "settings_buttons_container/start_game/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "PLAY",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -3.9
+            },
+            "type": "text"
+        },
+        "settings_buttons_container/how_to_play_button": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "position": {
+                "x": 21,
+                "y": -3
+            },
+            "type": "button"
+        },
+        "settings_buttons_container/how_to_play_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "HOW TO PLAY",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -3.9
+            },
+            "type": "text"
+        },
+        "settings_buttons_container/highscore_button": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "position": {
+                "x": 21,
+                "y": 57.9
+            },
+            "type": "button"
+        },
+        "settings_buttons_container/highscore_button/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "MORE GAMES",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -3.9
+            },
+            "type": "text"
+        },
+        "audio_buttons_container": {
+            "file": "mm_button.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_LEFT",
+                "offset": {
+                    "x": -914.4,
+                    "y": -91.2
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_LEFT",
+                        "offset": {
+                            "x": -914.4,
+                            "y": -91.2
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_LEFT",
+                        "offset": {
+                            "x": -617.5,
+                            "y": -90
+                        }
+                    }
+                }
+            }
+        },
+        "audio_buttons_container/audio_button": {
+            "file": "audio.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "audio.png",
+                "pressed": "audio.png",
+                "hover": "audio_press.png"
+            },
+            "position": {
+                "x": 1.7,
+                "y": -6.8
+            },
+            "type": "button"
+        }
+    }
+}

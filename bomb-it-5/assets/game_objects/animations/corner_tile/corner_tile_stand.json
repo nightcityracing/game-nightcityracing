@@ -1,0 +1,23 @@
+{
+    "name": "corner_tile_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "corner_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "corner_anim1.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "corner_anim2.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "corner_anim1.png"
+                }
+            ]
+        }
+    }
+}

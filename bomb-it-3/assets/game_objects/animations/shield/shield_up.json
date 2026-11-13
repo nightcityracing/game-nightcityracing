@@ -1,0 +1,72 @@
+{
+    "name": "shield_up",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "shield_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -22.9,
+                        -16.9
+                    ]
+                },
+                {
+                    "frame": 286,
+                    "value": [
+                        -20.7,
+                        -12.5
+                    ]
+                },
+                {
+                    "frame": 571,
+                    "value": [
+                        -22.89,
+                        -16.95
+                    ]
+                }
+            ],
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 286,
+                    "value": 0.8
+                },
+                {
+                    "frame": 571,
+                    "value": 1
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 286,
+                    "value": 0.8
+                },
+                {
+                    "frame": 571,
+                    "value": 1
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "shield_down.png"
+                }
+            ]
+        }
+    }
+}

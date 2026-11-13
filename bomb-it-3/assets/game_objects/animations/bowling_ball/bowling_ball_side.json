@@ -1,0 +1,52 @@
+{
+    "name": "bowling_ball_side",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "bowling_ball_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -0.4,
+                        -15.8
+                    ]
+                },
+                {
+                    "frame": 133,
+                    "value": [
+                        -2.66,
+                        -16.31
+                    ]
+                },
+                {
+                    "frame": 233,
+                    "value": [
+                        -0.4,
+                        -15.8
+                    ]
+                },
+                {
+                    "frame": 317,
+                    "value": [
+                        1.3,
+                        -16.12
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        -0.4,
+                        -15.8
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "bowling_ball_left.png"
+                }
+            ]
+        }
+    }
+}

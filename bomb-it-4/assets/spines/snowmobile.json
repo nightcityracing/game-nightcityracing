@@ -1,0 +1,382 @@
+{
+"skeleton": { "hash": "rF3vVdtn6aJP2NWRwnTzSgeQ0Yc", "spine": "2.1.27", "width": 92.88, "height": 86.95, "images": "" },
+"bones": [
+	{ "name": "root", "color": "9c9c9c62" },
+	{ "name": "car", "parent": "root", "x": -0.3, "y": 15.08, "color": "9c9c9c62" },
+	{ "name": "shadow", "parent": "root", "y": 0.8, "color": "9c9c9c62" },
+	{ "name": "glass", "parent": "car", "length": 18.9, "x": -0.46, "y": -10.52, "rotation": 90, "color": "9c9c9c62" },
+	{ "name": "player_bone", "parent": "car", "x": -0.12, "y": -19.51, "color": "9c9c9c62" }
+],
+"slots": [
+	{ "name": "shadow", "bone": "shadow", "attachment": "shadow_skate_front" },
+	{ "name": "perfil/base", "bone": "car", "attachment": "base2" },
+	{ "name": "frente/glass", "bone": "glass", "attachment": "glass1" },
+	{ "name": "1x1", "bone": "player_bone", "attachment": "1x1" }
+],
+"skins": {
+	"default": {
+		"1x1": {
+			"1x1": { "width": 1, "height": 1 }
+		},
+		"frente/glass": {
+			"glass1": { "x": 8.45, "rotation": -90, "width": 25, "height": 12 },
+			"glass2": { "x": 8.45, "rotation": -90, "width": 8, "height": 26 }
+		},
+		"perfil/base": {
+			"base1": { "x": -0.18, "y": -5.67, "width": 62, "height": 59 },
+			"base2": { "x": -0.18, "y": -10.68, "width": 56, "height": 58 },
+			"base3": { "x": -0.14, "y": -1.81, "width": 70, "height": 53 }
+		},
+		"shadow": {
+			"shadow_skate_front": { "scaleX": 1.857, "scaleY": 1.976, "width": 50, "height": 44 }
+		}
+	}
+},
+"animations": {
+	"stand_back": {
+		"slots": {
+			"frente/glass": {
+				"attachment": [
+					{ "time": 0, "name": "glass1" }
+				]
+			},
+			"perfil/base": {
+				"attachment": [
+					{ "time": 0, "name": "base1" }
+				]
+			}
+		},
+		"bones": {
+			"car": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -10.58 }
+				]
+			},
+			"glass": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 6.29 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"shadow": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -0.37 }
+				]
+			}
+		}
+	},
+	"stand_front": {
+		"bones": {
+			"car": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"glass": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"shadow": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0.2, "y": 1.01 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "frente/glass", "offset": 1 }
+				]
+			}
+		]
+	},
+	"stand_side": {
+		"slots": {
+			"frente/glass": {
+				"attachment": [
+					{ "time": 0, "name": "glass2" }
+				]
+			},
+			"perfil/base": {
+				"attachment": [
+					{ "time": 0, "name": "base3" }
+				]
+			}
+		},
+		"bones": {
+			"glass": {
+				"translate": [
+					{ "time": 0, "x": 6.49, "y": 14.2 }
+				]
+			},
+			"car": {
+				"translate": [
+					{ "time": 0, "x": -3.78, "y": -6.14 }
+				]
+			},
+			"shadow": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -1.72 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.44 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": -2.55, "y": 0.69 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "frente/glass", "offset": 1 }
+				]
+			}
+		]
+	},
+	"walk_back": {
+		"slots": {
+			"frente/glass": {
+				"attachment": [
+					{ "time": 0, "name": "glass1" }
+				]
+			},
+			"perfil/base": {
+				"attachment": [
+					{ "time": 0, "name": "base1" }
+				]
+			}
+		},
+		"bones": {
+			"car": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -10.58 },
+					{ "time": 0.1, "x": 0, "y": -9.11 },
+					{ "time": 0.2666, "x": 0, "y": -12.05 },
+					{ "time": 0.3333, "x": 0, "y": -10.58 }
+				]
+			},
+			"glass": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 6.29 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"shadow": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -0.37 }
+				]
+			}
+		}
+	},
+	"walk_front": {
+		"bones": {
+			"car": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 1.31 },
+					{ "time": 0.2666, "x": 0, "y": -0.63 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"glass": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"shadow": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0.2, "y": 1.01 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "frente/glass", "offset": 1 }
+				]
+			}
+		]
+	},
+	"walk_side": {
+		"slots": {
+			"frente/glass": {
+				"attachment": [
+					{ "time": 0, "name": "glass2" }
+				]
+			},
+			"perfil/base": {
+				"attachment": [
+					{ "time": 0, "name": "base3" }
+				]
+			}
+		},
+		"bones": {
+			"glass": {
+				"translate": [
+					{ "time": 0, "x": 6.49, "y": 14.2 }
+				]
+			},
+			"car": {
+				"translate": [
+					{ "time": 0, "x": -3.78, "y": -6.14 },
+					{ "time": 0.1666, "x": -3.78, "y": -3.84 },
+					{ "time": 0.3333, "x": -3.78, "y": -6.14 }
+				]
+			},
+			"shadow": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -1.72 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.44 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": -2.55, "y": 0.69 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "frente/glass", "offset": 1 }
+				]
+			}
+		]
+	}
+}
+}

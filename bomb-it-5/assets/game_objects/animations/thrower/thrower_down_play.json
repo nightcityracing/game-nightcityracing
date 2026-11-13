@@ -1,0 +1,128 @@
+{
+    "name": "thrower_down_play",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "thrower_fire": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        14.3,
+                        -41
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 90
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "thrower_fire25.png"
+                },
+                {
+                    "frame": 17,
+                    "value": "thrower_fire1.png"
+                },
+                {
+                    "frame": 33,
+                    "value": "thrower_fire2.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "thrower_fire3.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "thrower_fire4.png"
+                },
+                {
+                    "frame": 83,
+                    "value": "thrower_fire5.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "thrower_fire6.png"
+                },
+                {
+                    "frame": 117,
+                    "value": "thrower_fire7.png"
+                },
+                {
+                    "frame": 133,
+                    "value": "thrower_fire8.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "thrower_fire9.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "thrower_fire10.png"
+                },
+                {
+                    "frame": 183,
+                    "value": "thrower_fire11.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "thrower_fire12.png"
+                },
+                {
+                    "frame": 217,
+                    "value": "thrower_fire13.png"
+                },
+                {
+                    "frame": 233,
+                    "value": "thrower_fire14.png"
+                },
+                {
+                    "frame": 250,
+                    "value": "thrower_fire15.png"
+                },
+                {
+                    "frame": 267,
+                    "value": "thrower_fire16.png"
+                },
+                {
+                    "frame": 283,
+                    "value": "thrower_fire17.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "thrower_fire18.png"
+                },
+                {
+                    "frame": 317,
+                    "value": "thrower_fire19.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "thrower_fire20.png"
+                },
+                {
+                    "frame": 350,
+                    "value": "thrower_fire21.png"
+                },
+                {
+                    "frame": 367,
+                    "value": "thrower_fire22.png"
+                },
+                {
+                    "frame": 417,
+                    "value": "thrower_fire25.png"
+                }
+            ]
+        }
+    },
+    "events": [
+        {
+            "frame": 183,
+            "name": ""
+        }
+    ]
+}

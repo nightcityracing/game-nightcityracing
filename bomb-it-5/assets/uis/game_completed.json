@@ -1,0 +1,450 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "base"
+                    },
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "bg"
+                    },
+                    {
+                        "name": "score_p1_p1",
+                        "children": [
+                            {
+                                "name": "total_score_p1"
+                            },
+                            {
+                                "name": "hero1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "score_p2_p1",
+                        "children": [
+                            {
+                                "name": "total_score_p1"
+                            },
+                            {
+                                "name": "hero1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "score_p2_p2",
+                        "children": [
+                            {
+                                "name": "total_score_p1"
+                            },
+                            {
+                                "name": "hero1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "total_score_text"
+                    }
+                ]
+            },
+            {
+                "name": "more_games_button",
+                "children": [
+                    {
+                        "name": "more_games_text"
+                    }
+                ]
+            },
+            {
+                "name": "back_button",
+                "children": [
+                    {
+                        "name": "back_text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -14
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -14
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -51
+                        }
+                    }
+                }
+            }
+        },
+        "container/base": {
+            "file": "characters.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 5,
+                "y": -42
+            },
+            "scale": {
+                "x": 0.9,
+                "y": 0.9
+            },
+            "type": "sprite"
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 50
+            },
+            "text": "GAME COMPLETED!",
+            "align": "center",
+            "stroke": "#660000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -256
+            },
+            "color": "#ffe000",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -262
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -283.1
+                        }
+                    }
+                }
+            }
+        },
+        "container/bg": {
+            "file": "gc_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 26,
+                "bottom": 26,
+                "left": 40,
+                "right": 40
+            },
+            "size": {
+                "width": 683.3,
+                "height": 102.6
+            },
+            "position": {
+                "x": -6.3,
+                "y": 183.3
+            },
+            "type": "sprite"
+        },
+        "container/score_p1_p1": {
+            "file": "gc_container_score.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 14,
+                "bottom": 16,
+                "left": 20,
+                "right": 19
+            },
+            "size": {
+                "width": 220,
+                "height": 41
+            },
+            "position": {
+                "x": 200,
+                "y": 198
+            },
+            "type": "sprite"
+        },
+        "container/score_p1_p1/total_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 86.3,
+                "y": 0.9
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#004ce0",
+            "type": "text"
+        },
+        "container/score_p1_p1/hero1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 1.5,
+                "y": -64.6
+            },
+            "type": "sprite"
+        },
+        "container/score_p2_p1": {
+            "file": "gc_container_score.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 14,
+                "bottom": 16,
+                "left": 20,
+                "right": 19
+            },
+            "size": {
+                "width": 170,
+                "height": 41
+            },
+            "position": {
+                "x": 48,
+                "y": 197.7
+            },
+            "type": "sprite",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/score_p2_p1/total_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 68.9,
+                "y": 0.9
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#004ce0",
+            "type": "text"
+        },
+        "container/score_p2_p1/hero1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 1.5,
+                "y": -64.6
+            },
+            "type": "sprite"
+        },
+        "container/score_p2_p2": {
+            "file": "gc_container_score.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 14,
+                "bottom": 16,
+                "left": 20,
+                "right": 19
+            },
+            "size": {
+                "width": 170,
+                "height": 41
+            },
+            "position": {
+                "x": 235,
+                "y": 197.7
+            },
+            "type": "sprite",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/score_p2_p2/total_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 23
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 68.9,
+                "y": 0.9
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#004ce0",
+            "type": "text"
+        },
+        "container/score_p2_p2/hero1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 1.5,
+                "y": -64.6
+            },
+            "type": "sprite"
+        },
+        "container/total_score_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "TOTAL\nSCORE",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 2.6,
+            "position": {
+                "x": -213.3,
+                "y": 184.5
+            },
+            "color": "#b65001",
+            "type": "text"
+        },
+        "more_games_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "button_back_3.png",
+                "hover": "orange_button02.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -271.3,
+                    "y": 256.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -271.3,
+                            "y": 256.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -141.4,
+                            "y": 348.4
+                        }
+                    }
+                }
+            }
+        },
+        "more_games_button/more_games_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "MAIN MENU",
+            "align": "center",
+            "stroke": "#b74f00",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "back_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 244.8,
+                    "y": 256.2
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 244.8,
+                            "y": 256.2
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 140,
+                            "y": 347.4
+                        }
+                    }
+                }
+            }
+        },
+        "back_button/back_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "RESUME",
+            "align": "center",
+            "stroke": "#b74f00",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "name": "center_volacano_cave_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "volcano_base": {
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 133,
+                    "value": 1.11
+                },
+                {
+                    "frame": 1033,
+                    "value": 1.03
+                },
+                {
+                    "frame": 1300,
+                    "value": 1.03
+                },
+                {
+                    "frame": 1400,
+                    "value": 1
+                }
+            ]
+        },
+        "smoke": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 167,
+                    "value": 0.98
+                },
+                {
+                    "frame": 500,
+                    "value": 0.39
+                },
+                {
+                    "frame": 833,
+                    "value": 0
+                },
+                {
+                    "frame": 1400,
+                    "value": 0
+                }
+            ],
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 0.7
+                },
+                {
+                    "frame": 167,
+                    "value": 0.9
+                },
+                {
+                    "frame": 500,
+                    "value": 1.2
+                },
+                {
+                    "frame": 833,
+                    "value": 1.6
+                },
+                {
+                    "frame": 1400,
+                    "value": 0.7
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 0.7
+                },
+                {
+                    "frame": 167,
+                    "value": 0.9
+                },
+                {
+                    "frame": 500,
+                    "value": 1.2
+                },
+                {
+                    "frame": 833,
+                    "value": 1.6
+                },
+                {
+                    "frame": 1400,
+                    "value": 0.7
+                }
+            ],
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -0.4,
+                        -83
+                    ]
+                },
+                {
+                    "frame": 167,
+                    "value": [
+                        4,
+                        -141.2
+                    ]
+                },
+                {
+                    "frame": 500,
+                    "value": [
+                        7.2,
+                        -155.7
+                    ]
+                },
+                {
+                    "frame": 833,
+                    "value": [
+                        9.5,
+                        -173
+                    ]
+                },
+                {
+                    "frame": 1400,
+                    "value": [
+                        -0.4,
+                        -83
+                    ]
+                }
+            ]
+        }
+    }
+}

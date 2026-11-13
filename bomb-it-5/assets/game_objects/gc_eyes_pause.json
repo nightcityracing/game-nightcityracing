@@ -1,0 +1,60 @@
+{
+    "hierarchy": {
+        "name": "gc_eyes_pause",
+        "children": [
+            {
+                "name": "hero1_hear1"
+            },
+            {
+                "name": "hero1_heart2"
+            },
+            {
+                "name": "hero2_eye"
+            }
+        ],
+        "animations": [
+            "gc_eyes_stand"
+        ]
+    },
+    "properties": {
+        "hero1_hear1": {
+            "file": "gc_heart1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -187.4,
+                "y": -47
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "type": "sprite"
+        },
+        "hero1_heart2": {
+            "file": "gc_heart2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -157.1,
+                "y": -55
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "type": "sprite"
+        },
+        "hero2_eye": {
+            "file": "gc_hero2_0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 99.1,
+                "y": 2.8
+            },
+            "scale": {
+                "x": 0.85,
+                "y": 0.85
+            },
+            "type": "sprite"
+        }
+    }
+}

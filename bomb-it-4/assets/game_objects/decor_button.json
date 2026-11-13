@@ -1,0 +1,40 @@
+{
+    "hierarchy": {
+        "name": "decor_button",
+        "children": [
+            {
+                "name": "base1"
+            },
+            {
+                "name": "base2"
+            }
+        ],
+        "animations": [
+            "decor_button_stand"
+        ]
+    },
+    "properties": {
+        "base1": {
+            "file": "gear_gs.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -61.8,
+                "y": -64.8
+            },
+            "type": "sprite"
+        },
+        "base2": {
+            "file": "gear_gs.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -19.2,
+                "y": -69.2
+            },
+            "scale": {
+                "x": 0.71,
+                "y": 0.71
+            },
+            "type": "sprite"
+        }
+    }
+}

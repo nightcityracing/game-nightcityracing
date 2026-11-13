@@ -1,0 +1,434 @@
+{
+    "hierarchy": {
+        "name": "confeti",
+        "children": [
+            {
+                "name": "base",
+                "children": [
+                    {
+                        "name": "image_1"
+                    },
+                    {
+                        "name": "image_2"
+                    },
+                    {
+                        "name": "image_3"
+                    },
+                    {
+                        "name": "image_4"
+                    },
+                    {
+                        "name": "image_5"
+                    },
+                    {
+                        "name": "image_6"
+                    },
+                    {
+                        "name": "image_7"
+                    },
+                    {
+                        "name": "image_8"
+                    },
+                    {
+                        "name": "image_9"
+                    },
+                    {
+                        "name": "image_10"
+                    },
+                    {
+                        "name": "image_11"
+                    },
+                    {
+                        "name": "image_12"
+                    },
+                    {
+                        "name": "image_13"
+                    },
+                    {
+                        "name": "image_14"
+                    },
+                    {
+                        "name": "image_15"
+                    },
+                    {
+                        "name": "image_16"
+                    },
+                    {
+                        "name": "image_17"
+                    },
+                    {
+                        "name": "image_18"
+                    },
+                    {
+                        "name": "image_19"
+                    },
+                    {
+                        "name": "image_20"
+                    },
+                    {
+                        "name": "image_21"
+                    },
+                    {
+                        "name": "image_22"
+                    },
+                    {
+                        "name": "image_23"
+                    },
+                    {
+                        "name": "image_24"
+                    },
+                    {
+                        "name": "image_25"
+                    },
+                    {
+                        "name": "image_26"
+                    },
+                    {
+                        "name": "image_27"
+                    },
+                    {
+                        "name": "image_28"
+                    },
+                    {
+                        "name": "image_29"
+                    },
+                    {
+                        "name": "image_30"
+                    },
+                    {
+                        "name": "image_31"
+                    },
+                    {
+                        "name": "image_32"
+                    },
+                    {
+                        "name": "image_33"
+                    }
+                ]
+            }
+        ],
+        "animations": [
+            "confeti_anim_h",
+            "confeti_anim_v"
+        ]
+    },
+    "properties": {
+        "base": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "container"
+        },
+        "base/image_1": {
+            "file": "image_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -372,
+                "y": -486
+            },
+            "type": "sprite"
+        },
+        "base/image_2": {
+            "file": "image_2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -295,
+                "y": -438
+            },
+            "type": "sprite"
+        },
+        "base/image_3": {
+            "file": "image_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -170,
+                "y": -477
+            },
+            "type": "sprite"
+        },
+        "base/image_4": {
+            "file": "image_4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 122,
+                "y": -497
+            },
+            "type": "sprite"
+        },
+        "base/image_5": {
+            "file": "image_5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 188,
+                "y": -482
+            },
+            "type": "sprite"
+        },
+        "base/image_6": {
+            "file": "image_6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 261,
+                "y": -493
+            },
+            "type": "sprite"
+        },
+        "base/image_7": {
+            "file": "image_7.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 307,
+                "y": -442
+            },
+            "type": "sprite"
+        },
+        "base/image_8": {
+            "file": "image_8.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -76,
+                "y": -503
+            },
+            "type": "sprite"
+        },
+        "base/image_9": {
+            "file": "image_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 339,
+                "y": -505
+            },
+            "type": "sprite"
+        },
+        "base/image_10": {
+            "file": "image_2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -104,
+                "y": -485
+            },
+            "angle": 103,
+            "type": "sprite"
+        },
+        "base/image_11": {
+            "file": "image_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 235,
+                "y": -436
+            },
+            "angle": 87,
+            "type": "sprite"
+        },
+        "base/image_12": {
+            "file": "image_6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -458,
+                "y": -514
+            },
+            "angle": 136,
+            "type": "sprite"
+        },
+        "base/image_13": {
+            "file": "image_8.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 433,
+                "y": -526
+            },
+            "type": "sprite"
+        },
+        "base/image_14": {
+            "file": "image_5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -257,
+                "y": -510
+            },
+            "angle": 167,
+            "type": "sprite"
+        },
+        "base/image_15": {
+            "file": "image_4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -436,
+                "y": -439
+            },
+            "type": "sprite"
+        },
+        "base/image_16": {
+            "file": "image_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 423,
+                "y": -460
+            },
+            "angle": -45,
+            "type": "sprite"
+        },
+        "base/image_17": {
+            "file": "image_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 423,
+                "y": -460
+            },
+            "angle": -45,
+            "type": "sprite"
+        },
+        "base/image_18": {
+            "file": "image_4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 122,
+                "y": -497
+            },
+            "type": "sprite"
+        },
+        "base/image_19": {
+            "file": "image_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -372,
+                "y": -486
+            },
+            "type": "sprite"
+        },
+        "base/image_20": {
+            "file": "image_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 339,
+                "y": -505
+            },
+            "type": "sprite"
+        },
+        "base/image_21": {
+            "file": "image_5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -257,
+                "y": -510
+            },
+            "angle": 167,
+            "type": "sprite"
+        },
+        "base/image_22": {
+            "file": "image_8.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 433,
+                "y": -526
+            },
+            "type": "sprite"
+        },
+        "base/image_23": {
+            "file": "image_6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -458,
+                "y": -514
+            },
+            "angle": 136,
+            "type": "sprite"
+        },
+        "base/image_24": {
+            "file": "image_5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 422,
+                "y": -497
+            },
+            "type": "sprite"
+        },
+        "base/image_25": {
+            "file": "image_4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 383,
+                "y": -487
+            },
+            "angle": 189,
+            "type": "sprite"
+        },
+        "base/image_26": {
+            "file": "image_3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -409,
+                "y": -521
+            },
+            "angle": -45,
+            "type": "sprite"
+        },
+        "base/image_27": {
+            "file": "image_4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -127,
+                "y": -544
+            },
+            "angle": 160,
+            "type": "sprite"
+        },
+        "base/image_28": {
+            "file": "image_6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -268,
+                "y": -535
+            },
+            "type": "sprite"
+        },
+        "base/image_29": {
+            "file": "image_8.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 84,
+                "y": -530
+            },
+            "type": "sprite"
+        },
+        "base/image_30": {
+            "file": "image_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 24,
+                "y": -538
+            },
+            "type": "sprite"
+        },
+        "base/image_31": {
+            "file": "image_2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 393,
+                "y": -541
+            },
+            "angle": -76,
+            "type": "sprite"
+        },
+        "base/image_32": {
+            "file": "image_6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 132,
+                "y": -552
+            },
+            "angle": 136,
+            "type": "sprite"
+        },
+        "base/image_33": {
+            "file": "image_5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -65,
+                "y": -549
+            },
+            "type": "sprite"
+        }
+    }
+}

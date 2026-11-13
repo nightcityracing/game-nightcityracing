@@ -1,0 +1,218 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "decor_gear1"
+            },
+            {
+                "name": "decor_gear2"
+            },
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "bomb1"
+                    },
+                    {
+                        "name": "bomb2"
+                    },
+                    {
+                        "name": "bomb3"
+                    },
+                    {
+                        "name": "bomb4"
+                    },
+                    {
+                        "name": "bomb5"
+                    },
+                    {
+                        "name": "bomb6"
+                    }
+                ]
+            },
+            {
+                "name": "more_games",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "loading_text"
+            },
+            {
+                "name": "loading"
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "decor_gear1": {
+            "file": "point_decor.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 200.8,
+                    "y": -19.6
+                }
+            }
+        },
+        "decor_gear2": {
+            "file": "point_decor.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -196.3,
+                    "y": -79.67
+                }
+            }
+        },
+        "container": {
+            "file": "loading_container.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -48.5
+                }
+            }
+        },
+        "container/bomb1": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -148.4,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb2": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -89,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb3": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -29.3,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb4": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 31.3,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb5": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 89.4,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "container/bomb6": {
+            "file": "bomb_loading.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 149.5,
+                "y": -2
+            },
+            "type": "sprite"
+        },
+        "more_games": {
+            "file": "pink_button.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pink_button.png",
+                "pressed": "pink_button.png",
+                "hover": "pink_button_over.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 6.1,
+                    "y": 135
+                }
+            }
+        },
+        "more_games/text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 19
+            },
+            "text": "MORE GAMES",
+            "align": "center",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -5.8,
+                "y": -6.5
+            },
+            "type": "text"
+        },
+        "loading_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "LOADING...",
+            "align": "center",
+            "stroke": "#105dad",
+            "strokeThickness": 6,
+            "type": "text",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": 17.2
+                }
+            }
+        },
+        "loading": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 23
+            },
+            "text": "100%",
+            "align": "center",
+            "stroke": "#105dad",
+            "strokeThickness": 6,
+            "type": "text",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": 55.2
+                }
+            }
+        }
+    }
+}

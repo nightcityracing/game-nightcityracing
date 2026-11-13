@@ -1,0 +1,139 @@
+
+dress_hero2.png
+size: 480,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frente/eyes_1
+  rotate: true
+  xy: 305, 83
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: false
+  xy: 338, 142
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 428, 434
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: false
+  xy: 229, 26
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 153, 72
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front2
+  rotate: false
+  xy: 338, 344
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front3
+  rotate: false
+  xy: 229, 72
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front4
+  rotate: false
+  xy: 338, 274
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front5
+  rotate: false
+  xy: 338, 204
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front6
+  rotate: false
+  xy: 153, 2
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 338, 414
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 2, 311
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+frente/robot_head_front2
+  rotate: false
+  xy: 2, 142
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+frente/robot_head_front3
+  rotate: false
+  xy: 170, 311
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+frente/robot_head_front4
+  rotate: false
+  xy: 170, 142
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: false
+  xy: 266, 30
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: false
+  xy: 328, 100
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 2, 3
+  size: 149, 137
+  orig: 149, 137
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 338, 165
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

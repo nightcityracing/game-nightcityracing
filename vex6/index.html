@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta id="viewport" name="viewport"
+		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui, shrink-to-fit=no" />
+	<meta name="mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="robots" content="noindex,nofollow" />
+
+
+	<title>Vex 6</title>
+
+
+	<script type="text/javascript">
+	</script>
+
+	<link rel="icon" type="image/png" href="assets/icon.png">
+	<!-- For apple devices -->
+	<link rel="apple-touch-icon" type="image/png" href="assets/icon.png" />
+	<link rel="stylesheet" href="assets/css/app.css" type="text/css" />
+
+<meta name="robots" content="noindex,nofollow" />
+
+
+</head>
+
+<body>
+
+<div style="width: 100%; text-align: center; position: absolute; top: 0px; z-index: 999; background: rgb(119, 119, 255); opacity: 0.8;" id="listLink">
+
+<ul style="color: #ffffff; padding: 0px; margin: 0px; font-size: 20px;">
+  <li style="padding: 5px; display: inline-block; float: left;">
+    <a href="https://eggycaronline.io/" style="color: #ffffff; text-decoration: none;">Eggy Car</a>
+  </li>
+  <li style="padding: 5px; display: inline-block;">
+        <a style="color: #ffffff;" href="https://eggycaronline.io/vex-game" title="Vex Games">Vex Games</a>
+      </li><li style="padding: 5px; display: inline-block;">
+      </li>
+       <li style="padding: 5px; display: inline-block;">
+        <a style="color: #ffffff;" href="https://eggycaronline.io/eggy-car-unblocked" title="Eggy Car">Eggy Car Unblocked</a>
+      </li><li style="padding: 5px; display: inline-block;">
+      </li>
+  <li style="padding: 5px; display: inline-block; float: right;">
+    <a onclick="return document.querySelector('#listLink').style.display = 'none';" style="color: #ffffff; text-decoration: none;">❌</a>
+  </li>
+</ul>
+</div>
+
+	<div id="content"> </div>
+	<div id="orientation"></div>
+
+	<script type="text/javascript">
+		var gtag;
+
+
+        var _azerionIntegration = {
+            "af": false,
+            "sa": false,
+            "la": false,
+            "bd": 0,
+            "playBtn": true,
+            "cp": false
+        }
+
+
+        var libs = [];
+
+
+        var gameName = "vex6.min.js";
+
+
+
+
+
+
+        //This all here is for cache busting;
+        function addScript(src, buster, callback) {
+            var s = document.createElement('script');
+            s.setAttribute('src', src + '?v=' + buster);
+            if (typeof callback === 'function') {
+                s.onload = callback;
+            }
+            document.body.appendChild(s);
+        }
+
+
+
+        addScript('version.js', Date.now(), function() {
+
+            addScript(gameName, version, function() {});
+
+        });
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,244 @@
+
+gp_hero1.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atras/robot_body_back1
+  rotate: false
+  xy: 207, 58
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 207, 58
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+atras/robot_leg_back1
+  rotate: false
+  xy: 303, 164
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+atras/robot_leg_back2
+  rotate: false
+  xy: 303, 146
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+frente/eye_3
+  rotate: false
+  xy: 208, 33
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+frente/eyes_1
+  rotate: true
+  xy: 301, 223
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: true
+  xy: 194, 10
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+frente/eyes_4
+  rotate: false
+  xy: 301, 209
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 267, 61
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: true
+  xy: 280, 182
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 137, 10
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 248, 259
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: false
+  xy: 283, 140
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: false
+  xy: 283, 119
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+lado/robot_arm_side
+  rotate: true
+  xy: 207, 47
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+lado/robot_body_side1
+  rotate: false
+  xy: 237, 59
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+lado/robot_face_side1
+  rotate: true
+  xy: 248, 182
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+lado/robot_head_side1
+  rotate: false
+  xy: 248, 206
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+lado/robot_leg_side
+  rotate: false
+  xy: 283, 101
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+muerte/ghost34
+  rotate: false
+  xy: 2, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost36
+  rotate: false
+  xy: 2, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost38
+  rotate: false
+  xy: 43, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost40
+  rotate: false
+  xy: 43, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost42
+  rotate: false
+  xy: 84, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost44
+  rotate: false
+  xy: 84, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost46
+  rotate: false
+  xy: 125, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost48
+  rotate: false
+  xy: 125, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost50
+  rotate: true
+  xy: 2, 5
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost52
+  rotate: false
+  xy: 166, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost54
+  rotate: false
+  xy: 166, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/ghost56
+  rotate: false
+  xy: 207, 181
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+muerte/hero_death1
+  rotate: false
+  xy: 207, 91
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+muerte/hero_eye
+  rotate: false
+  xy: 283, 161
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 180, 2
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1

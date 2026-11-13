@@ -1,0 +1,132 @@
+{
+    "hierarchy": {
+        "name": "anim_stars",
+        "children": [
+            {
+                "name": "star1",
+                "children": [
+                    {
+                        "name": "base"
+                    }
+                ]
+            },
+            {
+                "name": "star2",
+                "children": [
+                    {
+                        "name": "base"
+                    }
+                ]
+            },
+            {
+                "name": "star3",
+                "children": [
+                    {
+                        "name": "base"
+                    }
+                ]
+            },
+            {
+                "name": "star4",
+                "children": [
+                    {
+                        "name": "base"
+                    }
+                ]
+            },
+            {
+                "name": "star5",
+                "children": [
+                    {
+                        "name": "base"
+                    }
+                ]
+            }
+        ],
+        "animations": [
+            "stars_loop"
+        ]
+    },
+    "properties": {
+        "star1": {
+            "position": {
+                "x": -353,
+                "y": -709
+            },
+            "type": "container"
+        },
+        "star1/base": {
+            "file": "star_bg_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -38
+            },
+            "type": "sprite"
+        },
+        "star2": {
+            "position": {
+                "x": -267,
+                "y": -709
+            },
+            "type": "container"
+        },
+        "star2/base": {
+            "file": "star_bg_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -38
+            },
+            "type": "sprite"
+        },
+        "star3": {
+            "position": {
+                "x": 21,
+                "y": -709
+            },
+            "type": "container"
+        },
+        "star3/base": {
+            "file": "star_bg_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -38
+            },
+            "type": "sprite"
+        },
+        "star4": {
+            "position": {
+                "x": 171,
+                "y": -709
+            },
+            "type": "container"
+        },
+        "star4/base": {
+            "file": "star_bg_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -38
+            },
+            "type": "sprite"
+        },
+        "star5": {
+            "position": {
+                "x": 360,
+                "y": -709
+            },
+            "type": "container"
+        },
+        "star5/base": {
+            "file": "star_bg_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -38
+            },
+            "type": "sprite"
+        }
+    }
+}

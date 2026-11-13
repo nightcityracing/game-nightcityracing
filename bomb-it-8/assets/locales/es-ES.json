@@ -1,0 +1,107 @@
+{
+  "header": {
+    "version": 1
+  },
+  "data": [
+    {
+      "info": {
+        "locale": "es-ES"
+      },
+      "messages": {
+        "play_now": "JUGAR",
+        "next": "SIGUIENTE",
+        "daily_reward": "Recompensa diaria",
+        "daily_reward_top_text": "¡Vuelve para desbloquear nuevas recompensas!",
+        "Reward": "Recompensa",
+        "Claim from missions": "Solicitar",
+        "Claim from daily": "Solicitar",
+        "BOMB": "BOMBA",
+        "VEHICLE": "VEHÍCULO",
+        "Settings": "Ajustes",
+        "SOUND": "SONIDO",
+        "on": "Encendido",
+        "off": "Apagado",
+        "Missions": "Misiones",
+        "Statistics": "Estadísticas",
+        "missions_text": "¡Vuelve para desbloquear nuevos retos!",
+        "statistics_text": "¡Vuelve para desbloquear nuevos retos!",
+        "You win!": "¡Has ganado!",
+        "It's a tie!": "¡Empate!",
+        "Good luck next time!": "¡Suerte para la próxima!",
+        "CONTINUE": "CONTINUAR",
+        "BACK TO GAME": "VOLVER AL JUEGO",
+        "MAIN MENU": "MENÚ PRINCIPAL",
+        "Location": "Ubicación",
+        "Beach": "Playa",
+        "Train station": "Estación de tren",
+        "Music concert": "Concierto",
+        "Pizza restaurant": "Pizzería",
+        "Parking": "Aparcamiento",
+        "Enemies": "Enemigos",
+        "Mods": "Modos",
+        "Arcade": "Arcade",
+        "Weapons only": "Solo\narmas",
+        "Coin collection": "Recolección\nde monedas",
+        "Capture the flag": "Atrapa\nla bandera",
+        "START": "EMPEZAR",
+        "head": "cabeza",
+        "face": "cara",
+        "body": "cuerpo",
+        "Kills": "Muertes originadas",
+        "Deaths": "Muertes sufridas",
+        "Scored 1rd Place": "Logrado el puesto 1",
+        "Scored 2nd Place": "Logrado el puesto 2",
+        "Scored 3nd Place": "Logrado el puesto 3",
+        "Fails": "Fallos",
+        "Game Over": "FIN DEL JUEGO",
+        "Time Is Up": "SE ACABÓ EL TIEMPO",
+        "Bomb It!": "¡Bombardea!",
+        "You win in game": "¡HAS GANADO!",
+        "LANGUAGES": "IDIOMAS",
+        "tutorial_move": "~{def}¡Usa las ~{blue}FLECHAS DEL JOYSTICK\n~{def}para moverte!",
+        "tutorial_bomb": "~{def}¡Usa el ~{blue}BOTÓN BOMBA ~{def}o ~{blue}ESPACIO\n~{def}para tirar la bomba!",
+        "tutorial_move_mobile": "~{def}¡Usa el ~{blue}JOYSTICK\n~{def}para moverte!",
+        "tutorial_bomb_mobile": "~{def}¡Usa el ~{blue}BOTÓN BOMBA\n~{def}para tirar la bomba!",
+        "tutorial_end": "~{def}¡Ahora tienes\nque ~{blue}ESCONDERTE~{def}!",
+        "SPACEBAR": "BARRA ESPACIADORA",
+        "Achieve {g} kills":[
+          "Consigue {g} muerte",
+          "Consigue {g} muertes"
+        ],
+        "collect {g} coins":[
+          "Hazte con {g} moneda",
+          "Reúne {g} monedas"
+          ],
+        "Die {g} times":[
+          "Muere {g} vez",
+          "Muere {g} veces"
+        ],
+        "Use {g} bombs":[
+          "Usa {g} bomba",
+          "Emplea {g} bombas"
+        ],
+        "Complete {g} matches":[
+          "Completa {g}\ncombinación",
+          "Completa {g}\ncombinaciones"
+        ],
+        "Collect {g} coins in coin collect mode":[
+          "Hazte {g} moneda",
+          "Hazte {g} monedas"
+        ],
+        "Capture {g} flags":[
+          "Atrapa {g} bandera",
+          "Atrapa {g} banderas"
+        ],
+        "Complete {g} matches without dying":[
+          "Completa {g}\ncombinación sin morir",
+          "Completa {g}\ncombinaciones sin morir"
+        ],
+        "you_are_here": "¡TÚ!",
+        "arcade_mode": "¡Coloca estratégicamente tus\nbombas para destruir\na todos tus enemigos!",
+        "weapons_only_mode_{x}": "¡Destruye a {x} enemigos\nantes que nadie!",
+        "coin_collection_mode_{x}": "¡Destruye enemigos para\nconseguir {x} monedas!",
+        "capture_the_flag_mode_{x}": "¡Atrapa {x} banderas\nantes que nadie!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "big_container1.png",
+	"frame": {"x":2,"y":2,"w":959,"h":662},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":959,"h":662},
+	"sourceSize": {"w":959,"h":662}
+},
+{
+	"filename": "big_container2.png",
+	"frame": {"x":2,"y":666,"w":810,"h":715},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":715},
+	"sourceSize": {"w":810,"h":715}
+},
+{
+	"filename": "orange_button01.png",
+	"frame": {"x":651,"y":1460,"w":233,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":71},
+	"sourceSize": {"w":233,"h":71}
+},
+{
+	"filename": "orange_button02.png",
+	"frame": {"x":651,"y":1383,"w":253,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":75},
+	"sourceSize": {"w":253,"h":75}
+},
+{
+	"filename": "power-up.png",
+	"frame": {"x":2,"y":1383,"w":647,"h":465},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":465},
+	"sourceSize": {"w":647,"h":468}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_powerups.png",
+	"format": "RGBA8888",
+	"size": {"w":963,"h":1850},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:05f993a02b8bd3237cf876244cfe0105:3c8755aa7b3e3e8376d55bc5161bc3fc:7955e5d3ef54cc41e9852d64e344a27c$"
+}
+}

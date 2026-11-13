@@ -1,0 +1,50 @@
+{
+    "hierarchy": {
+        "name": "launcher",
+        "children": [
+            {
+                "name": "launcher_base"
+            },
+            {
+                "name": "launcher_fx"
+            },
+            {
+                "name": "launcher_fx2"
+            }
+        ],
+        "animations": [
+            "launcher_up_play",
+            "launcher_side_play",
+            "launcher_down_play"
+        ]
+    },
+    "properties": {
+        "launcher_base": {
+            "file": "launcher_side.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.3,
+                "y": -27.8
+            },
+            "type": "sprite"
+        },
+        "launcher_fx": {
+            "file": "launcher_down_play14.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -24.7,
+                "y": -33.4
+            },
+            "type": "sprite"
+        },
+        "launcher_fx2": {
+            "file": "launcher_up_play1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 25.2,
+                "y": -22.7
+            },
+            "type": "sprite"
+        }
+    }
+}

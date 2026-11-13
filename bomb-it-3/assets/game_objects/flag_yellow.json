@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "flag_yellow",
+        "children": [
+            {
+                "name": "flag_yellow_base"
+            }
+        ],
+        "animations": [
+            "flag_yellow_anim"
+        ]
+    },
+    "properties": {
+        "flag_yellow_base": {
+            "file": "flag_yellow_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

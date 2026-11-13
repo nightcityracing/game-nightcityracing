@@ -1,0 +1,52 @@
+{
+    "name": "water_gun_down",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "water_gun_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        15.8,
+                        -24.3
+                    ]
+                },
+                {
+                    "frame": 117,
+                    "value": [
+                        14,
+                        -25.6
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        15.8,
+                        -24.3
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        17.5,
+                        -22.6
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        15.8,
+                        -24.3
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "watergun_down.png"
+                }
+            ]
+        }
+    }
+}

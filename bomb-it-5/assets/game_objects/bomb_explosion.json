@@ -1,0 +1,26 @@
+{
+    "hierarchy": {
+        "name": "bomb_explosion",
+        "children": [
+            {
+                "name": "bomb_exp_base"
+            }
+        ],
+        "animations": [
+            "bomb_explosion3",
+            "bomb_explosion2",
+            "bomb_explosion1"
+        ]
+    },
+    "properties": {
+        "bomb_exp_base": {
+            "file": "exp3_10.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,1240 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container_avatars",
+                "children": [
+                    {
+                        "name": "edge_right"
+                    },
+                    {
+                        "name": "edge_top"
+                    },
+                    {
+                        "name": "edge_bottom"
+                    },
+                    {
+                        "name": "decor1"
+                    },
+                    {
+                        "name": "decor2"
+                    },
+                    {
+                        "name": "container_player4",
+                        "children": [
+                            {
+                                "name": "player"
+                            },
+                            {
+                                "name": "life"
+                            },
+                            {
+                                "name": "bomb"
+                            },
+                            {
+                                "name": "power"
+                            },
+                            {
+                                "name": "speed"
+                            },
+                            {
+                                "name": "score"
+                            },
+                            {
+                                "name": "icon"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_player3",
+                        "children": [
+                            {
+                                "name": "player"
+                            },
+                            {
+                                "name": "life"
+                            },
+                            {
+                                "name": "bomb"
+                            },
+                            {
+                                "name": "power"
+                            },
+                            {
+                                "name": "speed"
+                            },
+                            {
+                                "name": "score"
+                            },
+                            {
+                                "name": "icon"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_player2",
+                        "children": [
+                            {
+                                "name": "player"
+                            },
+                            {
+                                "name": "life"
+                            },
+                            {
+                                "name": "bomb"
+                            },
+                            {
+                                "name": "power"
+                            },
+                            {
+                                "name": "speed"
+                            },
+                            {
+                                "name": "score"
+                            },
+                            {
+                                "name": "icon"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_player1",
+                        "children": [
+                            {
+                                "name": "player"
+                            },
+                            {
+                                "name": "life"
+                            },
+                            {
+                                "name": "bomb"
+                            },
+                            {
+                                "name": "power"
+                            },
+                            {
+                                "name": "speed"
+                            },
+                            {
+                                "name": "score"
+                            },
+                            {
+                                "name": "icon"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_level",
+                        "children": [
+                            {
+                                "name": "level_text"
+                            },
+                            {
+                                "name": "level"
+                            },
+                            {
+                                "name": "level_space"
+                            },
+                            {
+                                "name": "level_total"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_time",
+                        "children": [
+                            {
+                                "name": "time_text"
+                            },
+                            {
+                                "name": "time"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pause_button",
+                        "children": [
+                            {
+                                "name": "button_text"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "edge",
+                "children": [
+                    {
+                        "name": "edge_left"
+                    },
+                    {
+                        "name": "edge_right"
+                    },
+                    {
+                        "name": "edge_top"
+                    },
+                    {
+                        "name": "edge_bottom"
+                    },
+                    {
+                        "name": "decor1"
+                    },
+                    {
+                        "name": "decor2"
+                    },
+                    {
+                        "name": "decor3"
+                    },
+                    {
+                        "name": "decor3_2"
+                    },
+                    {
+                        "name": "decor4"
+                    },
+                    {
+                        "name": "decor4_2"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container_avatars": {
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -369,
+                    "y": 0
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -369,
+                            "y": 0
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -313
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/edge_right": {
+            "file": "frame_vertical.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 6,
+                "bottom": 6,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 8,
+                "height": 706
+            },
+            "position": {
+                "x": -100.9,
+                "y": -3
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {
+                        "position": {
+                            "x": -105.8,
+                            "y": -3
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -105.8,
+                            "y": -3
+                        },
+                        "alpha": 0
+                    }
+                }
+            }
+        },
+        "container_avatars/edge_top": {
+            "file": "frame_horizontal.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 6,
+                "right": 6
+            },
+            "size": {
+                "width": 200,
+                "height": 8
+            },
+            "position": {
+                "x": -1.1,
+                "y": -356
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -1.1,
+                            "y": -358
+                        },
+                        "alpha": 0
+                    }
+                }
+            }
+        },
+        "container_avatars/edge_bottom": {
+            "file": "frame_horizontal.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 6,
+                "right": 6
+            },
+            "size": {
+                "width": 200,
+                "height": 8
+            },
+            "position": {
+                "x": -4.4,
+                "y": 356.1
+            },
+            "scale": {
+                "x": 1,
+                "y": -1
+            },
+            "alpha": 10,
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -4.4,
+                            "y": 358
+                        },
+                        "alpha": 0
+                    }
+                }
+            }
+        },
+        "container_avatars/decor1": {
+            "file": "decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -91.9,
+                "y": 344
+            },
+            "scale": {
+                "x": 1,
+                "y": -1
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "alpha": 0
+                    }
+                }
+            }
+        },
+        "container_avatars/decor2": {
+            "file": "decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -92,
+                "y": -343.5
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "alpha": 0
+                    }
+                }
+            }
+        },
+        "container_avatars/container_player4": {
+            "file": "avatar4_frame1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1,
+                "y": 109.8
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 260.2,
+                            "y": 1
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/container_player4/player": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 35
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -50.2,
+                "y": -40.9
+            },
+            "color": "#2bb3ef",
+            "type": "text"
+        },
+        "container_avatars/container_player4/life": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "3",
+            "align": "center",
+            "position": {
+                "x": 54.4,
+                "y": -34.3
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player4/bomb": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": -9.4
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player4/power": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": 16.2
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player4/speed": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": 39.7
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player4/score": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": 42.5
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#673401",
+            "type": "text"
+        },
+        "container_avatars/container_player4/icon": {
+            "position": {
+                "x": -57.5,
+                "y": 38.4
+            },
+            "type": "container"
+        },
+        "container_avatars/container_player3": {
+            "file": "avatar3_frame1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1,
+                "y": -20.4
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 87.4,
+                            "y": 1.5
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/container_player3/player": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 35
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -50.2,
+                "y": -40.9
+            },
+            "color": "#2bb3ef",
+            "type": "text"
+        },
+        "container_avatars/container_player3/life": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "3",
+            "align": "center",
+            "position": {
+                "x": 54,
+                "y": -33.9
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player3/bomb": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 54,
+                "y": -8.9
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player3/power": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 54,
+                "y": 17.1
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player3/speed": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 54,
+                "y": 40.1
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player3/score": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": 43.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#005527",
+            "type": "text"
+        },
+        "container_avatars/container_player3/icon": {
+            "position": {
+                "x": -57.5,
+                "y": 38.4
+            },
+            "type": "container"
+        },
+        "container_avatars/container_player2": {
+            "file": "avatar2_frame1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1,
+                "y": -150.5
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -85.5,
+                            "y": 0.9
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/container_player2/player": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 35
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -50.2,
+                "y": -40.9
+            },
+            "color": "#2bb3ef",
+            "type": "text"
+        },
+        "container_avatars/container_player2/life": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "3",
+            "align": "center",
+            "position": {
+                "x": 54.4,
+                "y": -34.6
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player2/bomb": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": -9.7
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player2/power": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": 15.9
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player2/speed": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": 39.4
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player2/score": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": 42.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#740f28",
+            "type": "text"
+        },
+        "container_avatars/container_player2/icon": {
+            "position": {
+                "x": -57.5,
+                "y": 38.4
+            },
+            "type": "container"
+        },
+        "container_avatars/container_player1": {
+            "file": "avatar1_frame1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1,
+                "y": -280.9
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -258.2,
+                            "y": 1.5
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/container_player1/player": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 35
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#003055",
+            "strokeThickness": 6,
+            "position": {
+                "x": -50.2,
+                "y": -40.9
+            },
+            "color": "#2bb3ef",
+            "type": "text"
+        },
+        "container_avatars/container_player1/life": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "3",
+            "align": "center",
+            "position": {
+                "x": 54.4,
+                "y": -33.6
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player1/bomb": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": -8.7
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player1/power": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": 16.9
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player1/speed": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "center",
+            "position": {
+                "x": 53.5,
+                "y": 40.4
+            },
+            "type": "text"
+        },
+        "container_avatars/container_player1/score": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "100",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": 43.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#1a1a66",
+            "type": "text"
+        },
+        "container_avatars/container_player1/icon": {
+            "position": {
+                "x": -57.5,
+                "y": 38.4
+            },
+            "type": "container"
+        },
+        "container_avatars/container_level": {
+            "file": "level.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 20,
+                "bottom": 24,
+                "left": 20,
+                "right": 24
+            },
+            "size": {
+                "width": 151.5,
+                "height": 62.4
+            },
+            "position": {
+                "x": 0.5,
+                "y": 213.3
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -21,
+                            "y": -89.9
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/container_level/level_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "LEVEL",
+            "align": "left",
+            "stroke": "#340101",
+            "strokeThickness": 4,
+            "position": {
+                "x": -1.4,
+                "y": -22
+            },
+            "color": "#00fefe",
+            "type": "text"
+        },
+        "container_avatars/container_level/level": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "1",
+            "align": "left",
+            "position": {
+                "x": -24,
+                "y": -0.5
+            },
+            "color": "#340101",
+            "type": "text"
+        },
+        "container_avatars/container_level/level_space": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "/",
+            "align": "left",
+            "position": {
+                "x": -1.3,
+                "y": -0.5
+            },
+            "color": "#340101",
+            "type": "text"
+        },
+        "container_avatars/container_level/level_total": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "3",
+            "align": "left",
+            "position": {
+                "x": 21,
+                "y": -0.5
+            },
+            "color": "#340101",
+            "type": "text"
+        },
+        "container_avatars/container_time": {
+            "file": "time.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 20,
+                "bottom": 24,
+                "left": 20,
+                "right": 24
+            },
+            "size": {
+                "width": 151.5,
+                "height": 62.4
+            },
+            "position": {
+                "x": 0.5,
+                "y": 254.3
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 156.1,
+                            "y": -89.1
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/container_time/time_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "TIME",
+            "align": "left",
+            "stroke": "#340101",
+            "strokeThickness": 4,
+            "position": {
+                "x": 1.6,
+                "y": -22.2
+            },
+            "color": "#98fe00",
+            "type": "text"
+        },
+        "container_avatars/container_time/time": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 16
+            },
+            "text": "176",
+            "align": "left",
+            "position": {
+                "x": 0,
+                "y": 3.8
+            },
+            "color": "#340101",
+            "type": "text"
+        },
+        "container_avatars/pause_button": {
+            "file": "pause.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "pause.png",
+                "pressed": "pause_press.png",
+                "hover": "pause_press.png"
+            },
+            "position": {
+                "x": -2.3,
+                "y": 323.3
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -255.5,
+                            "y": -88
+                        }
+                    }
+                }
+            }
+        },
+        "container_avatars/pause_button/button_text": {
+            "font": {
+                "name": "ArialBlack",
+                "fontSize": 18
+            },
+            "text": "PAUSE",
+            "align": "left",
+            "stroke": "#7b4201",
+            "strokeThickness": 5,
+            "position": {
+                "x": -1.8,
+                "y": -0.5
+            },
+            "type": "text"
+        },
+        "edge": {
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": "9%",
+                    "y": "0%"
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "9%",
+                            "y": "0%"
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "scale": {
+                            "x": 0.88,
+                            "y": 0.88
+                        }
+                    },
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": "0%",
+                            "y": "6%"
+                        }
+                    }
+                }
+            }
+        },
+        "edge/edge_left": {
+            "file": "frame_vertical.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 6,
+                "bottom": 6,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 8,
+                "height": 716
+            },
+            "position": {
+                "x": -386.6,
+                "y": -1.7
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "edge/edge_right": {
+            "file": "frame_vertical.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 6,
+                "bottom": 6,
+                "left": 0,
+                "right": 0
+            },
+            "size": {
+                "width": 8,
+                "height": 700
+            },
+            "position": {
+                "x": 386,
+                "y": -2.8
+            },
+            "type": "sprite"
+        },
+        "edge/edge_top": {
+            "file": "frame_horizontal.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 6,
+                "right": 6
+            },
+            "size": {
+                "width": 772,
+                "height": 8
+            },
+            "position": {
+                "x": -0.8,
+                "y": -355.8
+            },
+            "type": "sprite"
+        },
+        "edge/edge_bottom": {
+            "file": "frame_horizontal.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 6,
+                "right": 6
+            },
+            "size": {
+                "width": 764,
+                "height": 8
+            },
+            "position": {
+                "x": -2.2,
+                "y": 356.5
+            },
+            "scale": {
+                "x": 1,
+                "y": -1
+            },
+            "type": "sprite"
+        },
+        "edge/decor1": {
+            "file": "decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 376.3,
+                "y": -343.5
+            },
+            "scale": {
+                "x": -1,
+                "y": 1
+            },
+            "type": "sprite"
+        },
+        "edge/decor2": {
+            "file": "decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 376.5,
+                "y": 343.6
+            },
+            "scale": {
+                "x": -1,
+                "y": -1
+            },
+            "type": "sprite"
+        },
+        "edge/decor3": {
+            "file": "decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -386.3,
+                "y": -341.3
+            },
+            "type": "sprite"
+        },
+        "edge/decor3_2": {
+            "file": "decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -378.2,
+                "y": -344.1
+            },
+            "type": "sprite"
+        },
+        "edge/decor4": {
+            "file": "decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -386.5,
+                "y": 341.1
+            },
+            "scale": {
+                "x": 1,
+                "y": -1
+            },
+            "type": "sprite"
+        },
+        "edge/decor4_2": {
+            "file": "decor.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -378.4,
+                "y": 344.8
+            },
+            "scale": {
+                "x": 1,
+                "y": -1
+            },
+            "type": "sprite"
+        }
+    }
+}

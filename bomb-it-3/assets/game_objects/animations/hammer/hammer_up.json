@@ -1,0 +1,52 @@
+{
+    "name": "hammer_up",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "hammer_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        21.7,
+                        -28.6
+                    ]
+                },
+                {
+                    "frame": 117,
+                    "value": [
+                        21.2,
+                        -31.9
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        21.7,
+                        -28.6
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        24.2,
+                        -25
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        21.7,
+                        -28.6
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "hammer_up.png"
+                }
+            ]
+        }
+    }
+}

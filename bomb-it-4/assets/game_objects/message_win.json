@@ -1,0 +1,51 @@
+{
+    "hierarchy": {
+        "name": "message_win",
+        "children": [
+            {
+                "name": "base"
+            },
+            {
+                "name": "base2"
+            },
+            {
+                "name": "base3"
+            }
+        ],
+        "animations": [
+            "message"
+        ]
+    },
+    "properties": {
+        "base": {
+            "file": "message3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "base2": {
+            "file": "message3_blur.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -80,
+                "y": 0
+            },
+            "alpha": 0.39,
+            "type": "sprite"
+        },
+        "base3": {
+            "file": "message3_blur.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 80,
+                "y": 0
+            },
+            "alpha": 0.39,
+            "type": "sprite"
+        }
+    }
+}

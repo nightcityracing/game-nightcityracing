@@ -1,0 +1,51 @@
+{
+    "hierarchy": {
+        "name": "message_lose",
+        "children": [
+            {
+                "name": "base"
+            },
+            {
+                "name": "base2"
+            },
+            {
+                "name": "base3"
+            }
+        ],
+        "animations": [
+            "message"
+        ]
+    },
+    "properties": {
+        "base": {
+            "file": "messege2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "base2": {
+            "file": "message2_blur.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -80,
+                "y": 0
+            },
+            "alpha": 0.39,
+            "type": "sprite"
+        },
+        "base3": {
+            "file": "message2_blur.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 80,
+                "y": 0
+            },
+            "alpha": 0.39,
+            "type": "sprite"
+        }
+    }
+}

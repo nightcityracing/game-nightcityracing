@@ -1,0 +1,31 @@
+{
+    "hierarchy": {
+        "name": "thrower",
+        "children": [
+            {
+                "name": "thrower_fire"
+            }
+        ],
+        "animations": [
+            "thrower_down_play",
+            "thrower_side_play",
+            "thrower_up_play"
+        ]
+    },
+    "properties": {
+        "thrower_fire": {
+            "file": "thrower_fire25.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 7.2,
+                "y": -37.7
+            },
+            "angle": -90,
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "crocodile_tile_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "crocodile": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "crocodile_top1.png"
+                }
+            ]
+        },
+        "crocodile_bottom": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "crocodile_bottom1.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "crocodile_bottom2.png"
+                },
+                {
+                    "frame": 133,
+                    "value": "crocodile_bottom3.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "crocodile_bottom4.png"
+                },
+                {
+                    "frame": 267,
+                    "value": "crocodile_bottom5.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "crocodile_bottom6.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "crocodile_bottom7.png"
+                },
+                {
+                    "frame": 467,
+                    "value": "crocodile_bottom8.png"
+                },
+                {
+                    "frame": 533,
+                    "value": "crocodile_bottom9.png"
+                },
+                {
+                    "frame": 600,
+                    "value": "crocodile_bottom10.png"
+                },
+                {
+                    "frame": 667,
+                    "value": "crocodile_bottom11.png"
+                },
+                {
+                    "frame": 733,
+                    "value": "crocodile_bottom1.png"
+                }
+            ]
+        }
+    }
+}

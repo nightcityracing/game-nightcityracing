@@ -1,0 +1,78 @@
+{
+    "name": "tramcar_right_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "tramcar_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -11.3
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "farm_tramcar1.png"
+                }
+            ]
+        },
+        "big_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -21.2,
+                        -8.6
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 750,
+                    "value": 360
+                }
+            ]
+        },
+        "small_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        13.2,
+                        -2.1
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 750,
+                    "value": 360
+                }
+            ]
+        }
+    }
+}

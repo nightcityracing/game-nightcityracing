@@ -1,0 +1,165 @@
+{
+    "hierarchy": {
+        "name": "decor_bg",
+        "children": [
+            {
+                "name": "decor10"
+            },
+            {
+                "name": "decor9"
+            },
+            {
+                "name": "decor1"
+            },
+            {
+                "name": "decor2"
+            },
+            {
+                "name": "decor3"
+            },
+            {
+                "name": "decor4"
+            },
+            {
+                "name": "decor5"
+            },
+            {
+                "name": "decor6"
+            },
+            {
+                "name": "decor7"
+            },
+            {
+                "name": "decor8"
+            },
+            {
+                "name": "decor0"
+            }
+        ],
+        "animations": [
+            "decor_bg_loop"
+        ]
+    },
+    "properties": {
+        "decor10": {
+            "file": "mm_decor6.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -143
+            },
+            "scale": {
+                "x": 3.5,
+                "y": 3.5
+            },
+            "type": "sprite"
+        },
+        "decor9": {
+            "file": "mm_decor7.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -143
+            },
+            "scale": {
+                "x": 3.5,
+                "y": 3.5
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "decor1": {
+            "file": "mm_decor1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -27,
+                "y": -151
+            },
+            "type": "sprite"
+        },
+        "decor2": {
+            "file": "mm_decor2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -448,
+                "y": -119
+            },
+            "type": "sprite"
+        },
+        "decor3": {
+            "file": "mm_decor3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 266,
+                "y": -130
+            },
+            "type": "sprite"
+        },
+        "decor4": {
+            "file": "mm_decor3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -409,
+                "y": -325
+            },
+            "angle": -31,
+            "scale": {
+                "x": 0.7,
+                "y": 0.7
+            },
+            "alpha": 0.59,
+            "type": "sprite"
+        },
+        "decor5": {
+            "file": "mm_decor3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 327,
+                "y": -302
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "alpha": 0.59,
+            "type": "sprite"
+        },
+        "decor6": {
+            "file": "mm_decor4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -285,
+                "y": -280
+            },
+            "type": "sprite"
+        },
+        "decor7": {
+            "file": "mm_decor4.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 444,
+                "y": -66
+            },
+            "type": "sprite"
+        },
+        "decor8": {
+            "file": "mm_decor5.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 447,
+                "y": -288
+            },
+            "angle": 10,
+            "type": "sprite"
+        },
+        "decor0": {
+            "file": "mm_decor1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -192,
+                "y": -205
+            },
+            "type": "sprite"
+        }
+    }
+}

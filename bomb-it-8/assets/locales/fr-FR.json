@@ -1,0 +1,107 @@
+{
+  "header": {
+    "version": 1
+  },
+  "data": [
+    {
+      "info": {
+        "locale": "fr-FR"
+      },
+      "messages": {
+        "play_now": "JOUER MAINTENANT",
+        "next": "SUIVANT",
+        "daily_reward": "Récompense quotidienne",
+        "daily_reward_top_text": "Reviens plus tard pour débloquer de nouvelles récompenses !",
+        "Reward": "Récompense",
+        "Claim from missions": "Récupérer",
+        "Claim from daily": "Récupérer",
+        "BOMB": "BOMBE",
+        "VEHICLE": "VÉHICULE",
+        "Settings": "Paramètres",
+        "SOUND": "SON",
+        "on": "on",
+        "off": "off",
+        "Missions": "Missions",
+        "Statistics": "Statistiques",
+        "missions_text": "Reviens plus tard pour\ndébloquer de nouveaux défis !",
+        "statistics_text": "Reviens plus tard pour\ndébloquer de nouveaux défis !",
+        "You win!": "Tu as gagné !",
+        "It's a tie!": "Égalité !",
+        "Good luck next time!": "Tu auras plus de chance la prochaine fois !",
+        "CONTINUE": "CONTINUER",
+        "BACK TO GAME": "RETOUR AU JEU",
+        "MAIN MENU": "MENU PRINCIPAL",
+        "Location": "Endroit",
+        "Beach": "La plage",
+        "Train station": "La gare",
+        "Music concert": "Le concert",
+        "Pizza restaurant": "Le restaurant de pizza",
+        "Parking": "Le parking",
+        "Enemies": "Ennemis",
+        "Mods": "Modes",
+        "Arcade": "Arcade",
+        "Weapons only": "Armes\nuniquement",
+        "Coin collection": "Collection\nde pièces",
+        "Capture the flag": "Capture\nle drapeau",
+        "START": "COMMENCER",
+        "head": "tête",
+        "face": "face",
+        "body": "corps",
+        "Kills": "Tués",
+        "Deaths": "Morts",
+        "Scored 1rd Place": "Tu as terminé à la 1ère place",
+        "Scored 2nd Place": "Tu as terminé à la 2ème place",
+        "Scored 3nd Place": "Tu as terminé à la 3ème place",
+        "Fails": "Manqués",
+        "Game Over": "GAME OVER",
+        "Time Is Up": "TEMPS ÉCOULÉ",
+        "Bomb It!": "Fais tout exploser !",
+        "You win in game": "TU AS GAGNÉ !",
+        "LANGUAGES": "LANGUES",
+        "tutorial_move": "~{def}Utilise les ~{blue}FLÈCHES\n~{def}pour bouger !",
+        "tutorial_bomb": "~{def}Appuie sur le ~{blue}BOUTON BOMBE\n~{def}ou ~{blue}LA BARRE ESPACE\n~{def}pour lâcher la bombe !",
+        "tutorial_move_mobile": "~{def}Utilise le ~{blue}JOYSTICK\n~{def}pour bouger !",
+        "tutorial_bomb_mobile": "~{def}Appuie sur le ~{blue}BOUTON BOMBE\n~{def}pour lâcher la bombe !",
+        "tutorial_end": "~{def}Maintenant, tu\ndois te ~{blue}CACHER ~{def}!",
+        "SPACEBAR": "BARRE ESPACE",
+        "Achieve {g} kills":[
+          "Tue {g} fois",
+          "Tue {g} fois"
+        ],
+        "collect {g} coins":[
+          "Ramasse {g} pièce",
+          "Ramasse {g} pièces"
+        ],
+        "Die {g} times":[
+          "Meurs {g} fois",
+          "Meurs {g} fois"
+        ],
+        "Use {g} bombs":[
+          "Utilise {g} bombe",
+          "Utilise {g} bombes"
+        ],
+        "Complete {g} matches":[
+          "Termine {g} match",
+          "Termine {g} matchs"
+        ],
+        "Collect {g} coins in coin collect mode":[
+          "Ramasse {g} pièce",
+          "Ramasse {g} pièces"
+        ],
+        "Capture {g} flags":[
+          "Capture {g} drapeau",
+          "Capture {g} drapeaux"
+        ],
+        "Complete {g} matches without dying":[
+          "Termine {g} match\nsans mourir",
+          "Termine {g} matchs\nsans mourir"
+        ],
+        "you_are_here": "TOI !",
+        "arcade_mode": "Pose tes bombes de manière\nstratégique pour détruire\ntous tes ennemis !",
+        "weapons_only_mode_{x}": "Sois le premier\nà détruire {x} !",
+        "coin_collection_mode_{x}": "Détruis des ennemis\npour récupérer {x} pièces !",
+        "capture_the_flag_mode_{x}": "Sois le premier à\nrécupérer {x} drapeaux !"
+      }
+    }
+  ]
+}

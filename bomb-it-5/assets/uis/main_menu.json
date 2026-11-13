@@ -1,0 +1,694 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "decor_bg"
+            },
+            {
+                "name": "mm_hero"
+            },
+            {
+                "name": "sound_container",
+                "children": [
+                    {
+                        "name": "audio"
+                    },
+                    {
+                        "name": "music"
+                    }
+                ]
+            },
+            {
+                "name": "buttons_container",
+                "children": [
+                    {
+                        "name": "start_button",
+                        "children": [
+                            {
+                                "name": "start_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "how_to_play_button",
+                        "children": [
+                            {
+                                "name": "how_to_play_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "more_games_button",
+                        "children": [
+                            {
+                                "name": "more_games_text"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "container_flag",
+                "children": [
+                    {
+                        "name": "flag2"
+                    },
+                    {
+                        "name": "flag1"
+                    }
+                ]
+            },
+            {
+                "name": "container_select",
+                "children": [
+                    {
+                        "name": "flag_select"
+                    }
+                ]
+            },
+            {
+                "name": "bomb_it_image",
+                "children": [
+                    {
+                        "name": "bomb_it1",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bomb_it2",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bomb_it3",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bomb_it4",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "logo"
+            },
+            {
+                "name": "agame"
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "decor_bg": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": 21
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": 21
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": 242
+                        }
+                    }
+                }
+            }
+        },
+        "mm_hero": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -1,
+                    "y": -2
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -1,
+                            "y": -2
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 68,
+                            "y": 250
+                        }
+                    }
+                }
+            }
+        },
+        "sound_container": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 407,
+                    "y": -247.7
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 407,
+                            "y": -247.7
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 315,
+                            "y": -305
+                        }
+                    }
+                }
+            }
+        },
+        "sound_container/audio": {
+            "file": "mm_audio.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -4
+            },
+            "type": "button"
+        },
+        "sound_container/music": {
+            "file": "mm_music.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 66
+            },
+            "type": "button"
+        },
+        "buttons_container": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "scale": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 264,
+                    "y": -9
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 264,
+                            "y": -9
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "scale": {
+                            "x": 1,
+                            "y": 1
+                        }
+                    },
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 7,
+                            "y": 42
+                        }
+                    }
+                }
+            }
+        },
+        "buttons_container/start_button": {
+            "file": "button_start_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_start_1.png",
+                "pressed": "button_start_2.png",
+                "hover": "button_start_2.png"
+            },
+            "position": {
+                "x": -1.7,
+                "y": -101.8
+            },
+            "type": "button"
+        },
+        "buttons_container/start_button/start_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "START GAME",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4.6,
+            "position": {
+                "x": 29.2,
+                "y": 6.1
+            },
+            "type": "text"
+        },
+        "buttons_container/how_to_play_button": {
+            "file": "button_howto_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_howto_1.png",
+                "pressed": "button_howto_2.png",
+                "hover": "button_howto_2.png"
+            },
+            "position": {
+                "x": -4.5,
+                "y": 5.5
+            },
+            "type": "button"
+        },
+        "buttons_container/how_to_play_button/how_to_play_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "HOW TO PLAY",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4.6,
+            "position": {
+                "x": 29.2,
+                "y": 6.1
+            },
+            "type": "text"
+        },
+        "buttons_container/more_games_button": {
+            "file": "button_moregames_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_moregames_1.png",
+                "pressed": "button_moregames_2.png",
+                "hover": "button_moregames_2.png"
+            },
+            "position": {
+                "x": -2.3,
+                "y": 113
+            },
+            "type": "button"
+        },
+        "buttons_container/more_games_button/more_games_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 30
+            },
+            "text": "MORE GAMES",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4.6,
+            "position": {
+                "x": 29.2,
+                "y": 6.1
+            },
+            "type": "text"
+        },
+        "container_flag": {
+            "file": "menu.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_CENTER",
+                "offset": {
+                    "x": -380,
+                    "y": -60
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -380,
+                            "y": -60
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -270,
+                            "y": -146
+                        }
+                    }
+                }
+            }
+        },
+        "container_flag/flag2": {
+            "file": "hol.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -72
+            },
+            "type": "sprite"
+        },
+        "container_flag/flag1": {
+            "file": "esp.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 23.2
+            },
+            "type": "sprite"
+        },
+        "container_select": {
+            "file": "select.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "BOTTOM_CENTER",
+                "offset": {
+                    "x": -380,
+                    "y": -13.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -380,
+                            "y": -13.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "BOTTOM_CENTER",
+                        "offset": {
+                            "x": -270,
+                            "y": -97.5
+                        }
+                    }
+                }
+            }
+        },
+        "container_select/flag_select": {
+            "file": "eng.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "bomb_it_image": {
+            "file": "bomb_it1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 279.6,
+                    "y": 190.4
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 279.6,
+                            "y": 190.4
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 282.3,
+                            "y": 459.4
+                        }
+                    }
+                }
+            }
+        },
+        "bomb_it_image/bomb_it1": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "mm_button_bombit.png",
+                "pressed": "mm_button_bombit.png",
+                "hover": "mm_button_bombit.png"
+            },
+            "position": {
+                "x": -49.3,
+                "y": 72.6
+            },
+            "type": "button"
+        },
+        "bomb_it_image/bomb_it1/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1",
+            "align": "center",
+            "stroke": "#340101",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 2.5
+            },
+            "type": "text"
+        },
+        "bomb_it_image/bomb_it2": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "mm_button_bombit.png",
+                "pressed": "mm_button_bombit.png",
+                "hover": "mm_button_bombit.png"
+            },
+            "position": {
+                "x": -16.4,
+                "y": 72.6
+            },
+            "type": "button"
+        },
+        "bomb_it_image/bomb_it2/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "2",
+            "align": "center",
+            "stroke": "#340101",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 2.5
+            },
+            "type": "text"
+        },
+        "bomb_it_image/bomb_it3": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "mm_button_bombit.png",
+                "pressed": "mm_button_bombit.png",
+                "hover": "mm_button_bombit.png"
+            },
+            "position": {
+                "x": 16.6,
+                "y": 72.6
+            },
+            "type": "button"
+        },
+        "bomb_it_image/bomb_it3/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "3",
+            "align": "center",
+            "stroke": "#340101",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 2.5
+            },
+            "type": "text"
+        },
+        "bomb_it_image/bomb_it4": {
+            "file": "mm_button_bombit.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "mm_button_bombit.png",
+                "pressed": "mm_button_bombit.png",
+                "hover": "mm_button_bombit.png"
+            },
+            "position": {
+                "x": 49.5,
+                "y": 72.6
+            },
+            "type": "button"
+        },
+        "bomb_it_image/bomb_it4/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "4",
+            "align": "center",
+            "stroke": "#340101",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 2.5
+            },
+            "type": "text"
+        },
+        "logo": {
+            "file": "mm_logo1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "TOP_CENTER",
+                "offset": {
+                    "x": 1,
+                    "y": -27.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "TOP_CENTER",
+                        "offset": {
+                            "x": 1,
+                            "y": -27.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "TOP_CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -161.4
+                        }
+                    }
+                }
+            }
+        },
+        "agame": {
+            "file": "Agame.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 206,
+                    "y": 319
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 206,
+                            "y": 319
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 208,
+                            "y": 605.7
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

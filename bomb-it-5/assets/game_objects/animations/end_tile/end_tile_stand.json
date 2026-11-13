@@ -1,0 +1,23 @@
+{
+    "name": "end_tile_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "end_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "bottom_anim1.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "bottom_anim2.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "bottom_anim1.png"
+                }
+            ]
+        }
+    }
+}

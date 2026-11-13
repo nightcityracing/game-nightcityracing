@@ -1,0 +1,553 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "controls_mobile",
+                        "children": [
+                            {
+                                "name": "move_text"
+                            },
+                            {
+                                "name": "move"
+                            },
+                            {
+                                "name": "bomb_text"
+                            },
+                            {
+                                "name": "bomb"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "controls_desktop",
+                        "children": [
+                            {
+                                "name": "1player_p1",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2players_p1",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2players_p2",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "keys",
+                                "children": [
+                                    {
+                                        "name": "move_text"
+                                    },
+                                    {
+                                        "name": "bomb_text"
+                                    },
+                                    {
+                                        "name": "2players_p1_bomb_text"
+                                    },
+                                    {
+                                        "name": "2players_p2_bomb_text"
+                                    },
+                                    {
+                                        "name": "2players_p1_up_text"
+                                    },
+                                    {
+                                        "name": "2players_p1_down_text"
+                                    },
+                                    {
+                                        "name": "2players_p1_left_text"
+                                    },
+                                    {
+                                        "name": "2players_p1_right_text"
+                                    },
+                                    {
+                                        "name": "1player_bomb_text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "back_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "power_ups_button",
+                        "children": [
+                            {
+                                "name": "text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container3.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -12.1
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -12.1
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -48
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 50
+            },
+            "text": "CONTROLS",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -245
+            },
+            "color": "#ffe000",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -287
+                        }
+                    }
+                }
+            }
+        },
+        "container/controls_mobile": {
+            "position": {
+                "x": 0,
+                "y": 36
+            },
+            "type": "container",
+            "visibility": "mobile",
+            "orientation": {}
+        },
+        "container/controls_mobile/move_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 35
+            },
+            "text": "MOVE",
+            "align": "center",
+            "position": {
+                "x": -157,
+                "y": -182
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/controls_mobile/move": {
+            "file": "setting_move_image.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -181,
+                "y": -13
+            },
+            "scale": {
+                "x": 0.9,
+                "y": 0.9
+            },
+            "type": "sprite"
+        },
+        "container/controls_mobile/bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 35
+            },
+            "text": "BOMB",
+            "align": "center",
+            "position": {
+                "x": 151,
+                "y": -183
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/controls_mobile/bomb": {
+            "file": "setting_bomb_image.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 175,
+                "y": -13
+            },
+            "scale": {
+                "x": 0.9,
+                "y": 0.9
+            },
+            "type": "sprite"
+        },
+        "container/controls_desktop": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "container",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/controls_desktop/1player_p1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -124,
+                "y": -95
+            },
+            "type": "sprite"
+        },
+        "container/controls_desktop/1player_p1/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#256483",
+            "strokeThickness": 6,
+            "position": {
+                "x": 68.6,
+                "y": 8.2
+            },
+            "color": "#d0feff",
+            "type": "text"
+        },
+        "container/controls_desktop/2players_p1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 111,
+                "y": -95
+            },
+            "type": "sprite"
+        },
+        "container/controls_desktop/2players_p1/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#256483",
+            "strokeThickness": 6,
+            "position": {
+                "x": 68.6,
+                "y": 8.2
+            },
+            "color": "#d0feff",
+            "type": "text"
+        },
+        "container/controls_desktop/2players_p2": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 280,
+                "y": -95
+            },
+            "type": "sprite"
+        },
+        "container/controls_desktop/2players_p2/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "P1",
+            "align": "center",
+            "stroke": "#ab3e18",
+            "strokeThickness": 6,
+            "position": {
+                "x": 68.6,
+                "y": 8.2
+            },
+            "color": "#ffbf02",
+            "type": "text"
+        },
+        "container/controls_desktop/keys": {
+            "file": "setting_keys.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 41
+            },
+            "type": "sprite"
+        },
+        "container/controls_desktop/keys/move_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 35
+            },
+            "text": "MOVE",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -306.4,
+                "y": -35.4
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 35
+            },
+            "text": "BOMB",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 3,
+            "position": {
+                "x": -304.4,
+                "y": 35.6
+            },
+            "color": "#f06201",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/2players_p1_bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 14
+            },
+            "text": "Space",
+            "align": "center",
+            "position": {
+                "x": 114.3,
+                "y": 38.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/2players_p2_bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 14
+            },
+            "text": "ENTER",
+            "align": "center",
+            "position": {
+                "x": 280.3,
+                "y": 41.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/2players_p1_up_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 18
+            },
+            "text": "W",
+            "align": "center",
+            "position": {
+                "x": 113.1,
+                "y": -47.8
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/2players_p1_down_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 18
+            },
+            "text": "S",
+            "align": "center",
+            "position": {
+                "x": 113.5,
+                "y": -13.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/2players_p1_left_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 18
+            },
+            "text": "A",
+            "align": "center",
+            "position": {
+                "x": 78.5,
+                "y": -13.9
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/2players_p1_right_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 18
+            },
+            "text": "D",
+            "align": "center",
+            "position": {
+                "x": 147.8,
+                "y": -13.5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/controls_desktop/keys/1player_bomb_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 14
+            },
+            "text": "Space",
+            "align": "center",
+            "position": {
+                "x": -123.3,
+                "y": 40.1
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/back_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "position": {
+                "x": -249,
+                "y": 259
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -140.3,
+                            "y": 397.5
+                        }
+                    }
+                }
+            }
+        },
+        "container/back_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "container/power_ups_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "position": {
+                "x": 247,
+                "y": 258
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 140.7,
+                            "y": 396.5
+                        }
+                    }
+                }
+            }
+        },
+        "container/power_ups_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "POWER-UPS",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        }
+    }
+}

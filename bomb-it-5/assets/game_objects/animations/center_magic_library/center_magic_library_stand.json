@@ -1,0 +1,89 @@
+{
+    "name": "center_magic_library_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "magic_library_shine5": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 250,
+                    "value": 0.39
+                },
+                {
+                    "frame": 1000,
+                    "value": 0
+                }
+            ]
+        },
+        "magic_library_shine3": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 750,
+                    "value": 0.39
+                },
+                {
+                    "frame": 1000,
+                    "value": 0
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "center_stars25.png"
+                }
+            ]
+        },
+        "magic_library_shine4": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                }
+            ],
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                }
+            ]
+        },
+        "magic_library_shine2": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                }
+            ]
+        },
+        "magic_library_shine1": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                }
+            ]
+        },
+        "magic_library_page": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "anim_center_magic_pages34.png"
+                }
+            ]
+        }
+    }
+}

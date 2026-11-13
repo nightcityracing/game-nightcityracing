@@ -1,0 +1,52 @@
+{
+    "hierarchy": {
+        "name": "water_gun_fx",
+        "children": [
+            {
+                "name": "water_fx_base",
+                "children": [
+                    {
+                        "name": "water_fx_top"
+                    }
+                ]
+            }
+        ],
+        "animations": [
+            "water_gun_down_stand",
+            "water_gun_side_stand",
+            "water_gun_up_stand"
+        ]
+    },
+    "properties": {
+        "water_fx_base": {
+            "file": "water_base1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 14.2,
+                "y": -29.7
+            },
+            "scale": {
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.97
+            },
+            "type": "sprite"
+        },
+        "water_fx_base/water_fx_top": {
+            "file": "water_top1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.3,
+                "y": -226.1
+            },
+            "scale": {
+                "x": 1.9,
+                "y": 1.3
+            },
+            "type": "sprite"
+        }
+    }
+}

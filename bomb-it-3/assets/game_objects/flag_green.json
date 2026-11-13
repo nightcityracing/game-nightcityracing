@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "flag_green",
+        "children": [
+            {
+                "name": "flag_green_base"
+            }
+        ],
+        "animations": [
+            "flag_green_anim"
+        ]
+    },
+    "properties": {
+        "flag_green_base": {
+            "file": "flag_green_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

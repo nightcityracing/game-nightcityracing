@@ -1,0 +1,41 @@
+{
+    "hierarchy": {
+        "name": "decor_buttton_small",
+        "children": [
+            {
+                "name": "base2"
+            },
+            {
+                "name": "base1"
+            }
+        ],
+        "animations": [
+            "decor_button_stand"
+        ]
+    },
+    "properties": {
+        "base2": {
+            "file": "anim_-button.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -10.9,
+                "y": -32.3
+            },
+            "angle": 15,
+            "scale": {
+                "x": 0.7,
+                "y": 0.7
+            },
+            "type": "sprite"
+        },
+        "base1": {
+            "file": "anim_-button.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -28.1,
+                "y": -32.2
+            },
+            "type": "sprite"
+        }
+    }
+}

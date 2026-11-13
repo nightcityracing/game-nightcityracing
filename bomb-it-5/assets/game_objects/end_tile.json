@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "end_tile",
+        "children": [
+            {
+                "name": "end_base"
+            }
+        ],
+        "animations": [
+            "end_tile_stand"
+        ]
+    },
+    "properties": {
+        "end_base": {
+            "file": "bottom_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

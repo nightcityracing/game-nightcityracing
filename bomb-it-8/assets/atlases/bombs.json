@@ -1,0 +1,28 @@
+{
+  "frames": {
+    "bomb_icons/Acid Cow": [1,1,246,266,0,0,246,266],
+    "bomb_icons/Bandaged": [249,1,246,266,0,0,246,266],
+    "bomb_icons/Beach Ball": [497,1,246,266,0,0,246,266],
+    "bomb_icons/Blackberry Dragon": [745,1,246,266,0,0,246,266],
+    "bomb_icons/Bloodshot Eye": [993,1,246,266,0,0,246,266],
+    "bomb_icons/Bronze Dragon": [1241,1,246,266,0,0,246,266],
+    "bomb_icons/Cannonball": [1489,1,246,266,0,0,246,266],
+    "bomb_icons/Comedian": [1737,1,246,266,0,0,246,266],
+    "bomb_icons/Cow": [1,269,246,266,0,0,246,266],
+    "bomb_icons/Default": [249,269,246,266,0,0,246,266],
+    "bomb_icons/Dr Home": [497,269,246,266,0,0,246,266],
+    "bomb_icons/Elf Orange": [745,269,246,266,0,0,246,266],
+    "bomb_icons/Grenade": [993,269,246,266,0,0,246,266],
+    "bomb_icons/Ice Cream": [1241,269,246,266,0,0,246,266],
+    "bomb_icons/Jack-O-Lantern": [1489,269,246,266,0,0,246,266],
+    "bomb_icons/Jar": [1737,269,246,266,0,0,246,266],
+    "bomb_icons/Lemon": [1,537,246,266,0,0,246,266],
+    "bomb_icons/Master of Puppets": [249,537,246,266,0,0,246,266],
+    "bomb_icons/Moon": [497,537,246,266,0,0,246,266],
+    "bomb_icons/Patched": [745,537,246,266,0,0,246,266],
+    "bomb_icons/Piggy": [993,537,246,266,0,0,246,266],
+    "bomb_icons/Polka": [1241,537,246,266,0,0,246,266],
+    "bomb_icons/Uranus": [1489,537,246,266,0,0,246,266],
+    "bomb_icons/Watermelon": [1737,537,246,266,0,0,246,266]
+  }
+}

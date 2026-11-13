@@ -1,0 +1,71 @@
+{
+    "name": "invincibility_anim",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "fx_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -53
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        0,
+                        -116
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "invincibity_play11.png"
+                },
+                {
+                    "frame": 33,
+                    "value": "invincibity_play1.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "invincibity_play3.png"
+                },
+                {
+                    "frame": 117,
+                    "value": "invincibity_play4.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "invincibity_play5.png"
+                },
+                {
+                    "frame": 217,
+                    "value": "invincibity_play6.png"
+                },
+                {
+                    "frame": 267,
+                    "value": "invincibity_play7.png"
+                },
+                {
+                    "frame": 317,
+                    "value": "invincibity_play8.png"
+                },
+                {
+                    "frame": 367,
+                    "value": "invincibity_play9.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "invincibity_play10.png"
+                },
+                {
+                    "frame": 433,
+                    "value": "invincibity_play11.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "hierarchy": {
+        "name": "tramcar",
+        "children": [
+            {
+                "name": "tramcar_base"
+            },
+            {
+                "name": "big_wheel"
+            },
+            {
+                "name": "small_wheel"
+            }
+        ],
+        "animations": [
+            "tramcar_down",
+            "tramcar_left",
+            "tramcar_right",
+            "tramcar_up",
+            "tramcar_right_stand",
+            "tramcar_left_stand"
+        ]
+    },
+    "properties": {
+        "tramcar_base": {
+            "file": "farm_tramcar1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -11.3
+            },
+            "type": "sprite"
+        },
+        "big_wheel": {
+            "file": "farm_tramcar_wheel1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -21.2,
+                "y": -8.6
+            },
+            "type": "sprite"
+        },
+        "small_wheel": {
+            "file": "farm_tramcar_wheel2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 13.2,
+                "y": -2.1
+            },
+            "type": "sprite"
+        }
+    }
+}

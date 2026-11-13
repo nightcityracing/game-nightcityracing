@@ -1,0 +1,521 @@
+{
+    "name": "stars_loop",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "star1": {
+            "y": [
+                {
+                    "frame": 0,
+                    "value": -709
+                },
+                {
+                    "frame": 1500,
+                    "value": 274
+                },
+                {
+                    "frame": 2200,
+                    "value": 274
+                },
+                {
+                    "frame": 2500,
+                    "value": -709
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 1500,
+                    "value": 1
+                },
+                {
+                    "frame": 2200,
+                    "value": 0
+                },
+                {
+                    "frame": 2500,
+                    "value": 0
+                },
+                {
+                    "frame": 2550,
+                    "value": 1
+                }
+            ]
+        },
+        "star2": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 3000,
+                    "value": 1
+                },
+                {
+                    "frame": 3750,
+                    "value": 0
+                },
+                {
+                    "frame": 3800,
+                    "value": 0
+                },
+                {
+                    "frame": 3850,
+                    "value": 1
+                }
+            ],
+            "y": [
+                {
+                    "frame": 0,
+                    "value": -709
+                },
+                {
+                    "frame": 1500,
+                    "value": -444
+                },
+                {
+                    "frame": 3000,
+                    "value": 303
+                },
+                {
+                    "frame": 3750,
+                    "value": 303
+                },
+                {
+                    "frame": 3800,
+                    "value": -709
+                }
+            ]
+        },
+        "star3": {
+            "y": [
+                {
+                    "frame": 0,
+                    "value": -709
+                },
+                {
+                    "frame": 250,
+                    "value": -444
+                },
+                {
+                    "frame": 1850,
+                    "value": 304
+                },
+                {
+                    "frame": 2600,
+                    "value": 304
+                },
+                {
+                    "frame": 2850,
+                    "value": -709
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 250,
+                    "value": 1
+                },
+                {
+                    "frame": 1850,
+                    "value": 1
+                },
+                {
+                    "frame": 2600,
+                    "value": 0
+                },
+                {
+                    "frame": 2850,
+                    "value": 0
+                },
+                {
+                    "frame": 2900,
+                    "value": 1
+                }
+            ]
+        },
+        "star4": {
+            "y": [
+                {
+                    "frame": 0,
+                    "value": -709
+                },
+                {
+                    "frame": 2350,
+                    "value": -444
+                },
+                {
+                    "frame": 3250,
+                    "value": 17.57
+                },
+                {
+                    "frame": 3500,
+                    "value": -709
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 2900,
+                    "value": 1
+                },
+                {
+                    "frame": 3250,
+                    "value": 0
+                },
+                {
+                    "frame": 3500,
+                    "value": 0
+                },
+                {
+                    "frame": 3550,
+                    "value": 1
+                }
+            ]
+        },
+        "star5": {
+            "y": [
+                {
+                    "frame": 0,
+                    "value": -709
+                },
+                {
+                    "frame": 1250,
+                    "value": -444
+                },
+                {
+                    "frame": 2750,
+                    "value": 319
+                },
+                {
+                    "frame": 3500,
+                    "value": 319
+                },
+                {
+                    "frame": 3600,
+                    "value": -709
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 1250,
+                    "value": 1
+                },
+                {
+                    "frame": 2750,
+                    "value": 1
+                },
+                {
+                    "frame": 3500,
+                    "value": 0
+                }
+            ]
+        },
+        "star1/base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 1450,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 1500,
+                    "value": "star_bg_anim2.png"
+                },
+                {
+                    "frame": 1550,
+                    "value": "star_bg_anim3.png"
+                },
+                {
+                    "frame": 1600,
+                    "value": "star_bg_anim4.png"
+                },
+                {
+                    "frame": 1650,
+                    "value": "star_bg_anim5.png"
+                },
+                {
+                    "frame": 1700,
+                    "value": "star_bg_anim6.png"
+                },
+                {
+                    "frame": 1750,
+                    "value": "star_bg_anim7.png"
+                },
+                {
+                    "frame": 1800,
+                    "value": "star_bg_anim8.png"
+                },
+                {
+                    "frame": 1850,
+                    "value": "star_bg_anim9.png"
+                },
+                {
+                    "frame": 1900,
+                    "value": "star_bg_anim10.png"
+                },
+                {
+                    "frame": 1950,
+                    "value": "star_bg_anim11.png"
+                },
+                {
+                    "frame": 2000,
+                    "value": "star_bg_anim12.png"
+                },
+                {
+                    "frame": 2050,
+                    "value": "star_bg_anim13.png"
+                },
+                {
+                    "frame": 2100,
+                    "value": "star_bg_anim14.png"
+                },
+                {
+                    "frame": 2150,
+                    "value": "star_bg_anim15.png"
+                },
+                {
+                    "frame": 2200,
+                    "value": "star_bg_anim16.png"
+                }
+            ]
+        },
+        "star2/base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 3000,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 3050,
+                    "value": "star_bg_anim2.png"
+                },
+                {
+                    "frame": 3100,
+                    "value": "star_bg_anim3.png"
+                },
+                {
+                    "frame": 3150,
+                    "value": "star_bg_anim4.png"
+                },
+                {
+                    "frame": 3200,
+                    "value": "star_bg_anim5.png"
+                },
+                {
+                    "frame": 3250,
+                    "value": "star_bg_anim6.png"
+                },
+                {
+                    "frame": 3300,
+                    "value": "star_bg_anim7.png"
+                },
+                {
+                    "frame": 3350,
+                    "value": "star_bg_anim8.png"
+                },
+                {
+                    "frame": 3400,
+                    "value": "star_bg_anim9.png"
+                },
+                {
+                    "frame": 3450,
+                    "value": "star_bg_anim10.png"
+                },
+                {
+                    "frame": 3500,
+                    "value": "star_bg_anim11.png"
+                },
+                {
+                    "frame": 3550,
+                    "value": "star_bg_anim12.png"
+                },
+                {
+                    "frame": 3600,
+                    "value": "star_bg_anim13.png"
+                },
+                {
+                    "frame": 3650,
+                    "value": "star_bg_anim14.png"
+                },
+                {
+                    "frame": 3700,
+                    "value": "star_bg_anim15.png"
+                },
+                {
+                    "frame": 3750,
+                    "value": "star_bg_anim16.png"
+                }
+            ]
+        },
+        "star5/base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 2750,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 2800,
+                    "value": "star_bg_anim2.png"
+                },
+                {
+                    "frame": 2850,
+                    "value": "star_bg_anim3.png"
+                },
+                {
+                    "frame": 2900,
+                    "value": "star_bg_anim4.png"
+                },
+                {
+                    "frame": 2950,
+                    "value": "star_bg_anim5.png"
+                },
+                {
+                    "frame": 3000,
+                    "value": "star_bg_anim6.png"
+                },
+                {
+                    "frame": 3050,
+                    "value": "star_bg_anim7.png"
+                },
+                {
+                    "frame": 3100,
+                    "value": "star_bg_anim8.png"
+                },
+                {
+                    "frame": 3150,
+                    "value": "star_bg_anim9.png"
+                },
+                {
+                    "frame": 3200,
+                    "value": "star_bg_anim10.png"
+                },
+                {
+                    "frame": 3250,
+                    "value": "star_bg_anim11.png"
+                },
+                {
+                    "frame": 3300,
+                    "value": "star_bg_anim12.png"
+                },
+                {
+                    "frame": 3350,
+                    "value": "star_bg_anim13.png"
+                },
+                {
+                    "frame": 3400,
+                    "value": "star_bg_anim14.png"
+                },
+                {
+                    "frame": 3450,
+                    "value": "star_bg_anim15.png"
+                },
+                {
+                    "frame": 3500,
+                    "value": "star_bg_anim16.png"
+                }
+            ]
+        },
+        "star3/base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 1800,
+                    "value": "star_bg_anim1.png"
+                },
+                {
+                    "frame": 1850,
+                    "value": "star_bg_anim2.png"
+                },
+                {
+                    "frame": 1900,
+                    "value": "star_bg_anim3.png"
+                },
+                {
+                    "frame": 1950,
+                    "value": "star_bg_anim4.png"
+                },
+                {
+                    "frame": 2000,
+                    "value": "star_bg_anim5.png"
+                },
+                {
+                    "frame": 2050,
+                    "value": "star_bg_anim6.png"
+                },
+                {
+                    "frame": 2100,
+                    "value": "star_bg_anim7.png"
+                },
+                {
+                    "frame": 2150,
+                    "value": "star_bg_anim8.png"
+                },
+                {
+                    "frame": 2200,
+                    "value": "star_bg_anim9.png"
+                },
+                {
+                    "frame": 2250,
+                    "value": "star_bg_anim10.png"
+                },
+                {
+                    "frame": 2300,
+                    "value": "star_bg_anim11.png"
+                },
+                {
+                    "frame": 2350,
+                    "value": "star_bg_anim12.png"
+                },
+                {
+                    "frame": 2400,
+                    "value": "star_bg_anim13.png"
+                },
+                {
+                    "frame": 2450,
+                    "value": "star_bg_anim14.png"
+                },
+                {
+                    "frame": 2500,
+                    "value": "star_bg_anim15.png"
+                },
+                {
+                    "frame": 2550,
+                    "value": "star_bg_anim16.png"
+                },
+                {
+                    "frame": 2600,
+                    "value": "star_bg_anim17.png"
+                }
+            ]
+        }
+    }
+}

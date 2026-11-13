@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "bomb.png",
+	"frame": {"x":2,"y":2,"w":60,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":40},
+	"sourceSize": {"w":60,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "escape.png",
+	"frame": {"x":2,"y":44,"w":60,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":40},
+	"sourceSize": {"w":60,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "debug.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:71645e37803cf0e0b22c47c1ee4c800a:051822d9bc44c16b6a12fded9ae77295:b0b50146fa48f4a609834944a629b405$"
+}
+}

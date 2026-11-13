@@ -1,0 +1,1194 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "container_characters",
+                        "children": [
+                            {
+                                "name": "character1"
+                            },
+                            {
+                                "name": "character2"
+                            },
+                            {
+                                "name": "character3"
+                            },
+                            {
+                                "name": "character4"
+                            },
+                            {
+                                "name": "character5"
+                            },
+                            {
+                                "name": "character6"
+                            },
+                            {
+                                "name": "character7"
+                            },
+                            {
+                                "name": "character8"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character_p1_container",
+                        "children": [
+                            {
+                                "name": "player_image"
+                            },
+                            {
+                                "name": "character"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "character_p2_container",
+                        "children": [
+                            {
+                                "name": "player_image"
+                            },
+                            {
+                                "name": "character"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "container_items",
+                        "children": [
+                            {
+                                "name": "item1",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item1",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item2",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item2",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item3",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item3",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item4",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item4",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item5",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item5",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item6",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item6",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item7",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item7",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "item8",
+                                "children": [
+                                    {
+                                        "name": "image"
+                                    },
+                                    {
+                                        "name": "back"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bubble_item8",
+                                "children": [
+                                    {
+                                        "name": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "start_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "back_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -15
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -15
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -50
+                        }
+                    }
+                }
+            }
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 43
+            },
+            "text": "Dress up your characters\nhere!",
+            "align": "center",
+            "stroke": "#660000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 10.4,
+                "y": -255.9
+            },
+            "color": "#ffe000",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -287.6
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters": {
+            "file": "cc_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 26,
+                "bottom": 44,
+                "left": 96,
+                "right": 31
+            },
+            "size": {
+                "width": 801.8,
+                "height": 107.8
+            },
+            "position": {
+                "x": -0.2,
+                "y": -127.7
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 2.5,
+                            "y": -93.8
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character1": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face1_normal.png",
+                "pressed": "face1_normal_hover.png",
+                "hover": "face1_normal_hover.png"
+            },
+            "position": {
+                "x": -345,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -140.9,
+                            "y": -40.7
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character2": {
+            "file": "face2_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face2_normal.png",
+                "pressed": "face2_normal_hover.png",
+                "hover": "face2_normal_hover.png"
+            },
+            "position": {
+                "x": -247,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -41.5,
+                            "y": -42
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character3": {
+            "file": "face3_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face3_normal.png",
+                "pressed": "face3_normal_hover.png",
+                "hover": "face3_normal_hover.png"
+            },
+            "position": {
+                "x": -149,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 56.8,
+                            "y": -43.7
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character4": {
+            "file": "face4_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face4_normal.png",
+                "pressed": "face4_normal_hover.png",
+                "hover": "face4_normal_hover.png"
+            },
+            "position": {
+                "x": -51,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 154.5,
+                            "y": -35.7
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character5": {
+            "file": "face5_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face5_normal.png",
+                "pressed": "face5_normal_hover.png",
+                "hover": "face5_normal_hover.png"
+            },
+            "position": {
+                "x": 47,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -139.4,
+                            "y": 55.3
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character6": {
+            "file": "face6_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face6_normal.png",
+                "pressed": "face6_normal_hover.png",
+                "hover": "face6_normal_hover.png"
+            },
+            "position": {
+                "x": 145,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -41.8,
+                            "y": 55.7
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character7": {
+            "file": "face7_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face7_normal.png",
+                "pressed": "face7_normal_hover.png",
+                "hover": "face7_normal_hover.png"
+            },
+            "position": {
+                "x": 243,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 55.3,
+                            "y": 60.5
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_characters/character8": {
+            "file": "face8_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "face8_normal.png",
+                "pressed": "face8_normal_hover.png",
+                "hover": "face8_normal_hover.png"
+            },
+            "position": {
+                "x": 341,
+                "y": 0
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 154.6,
+                            "y": 54.9
+                        }
+                    }
+                }
+            }
+        },
+        "container/character_p1_container": {
+            "file": "character_bottom_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "character_bottom_normal.png",
+                "pressed": "character_bottom_press.png",
+                "hover": "character_bottom_hover.png"
+            },
+            "position": {
+                "x": -311,
+                "y": 106
+            },
+            "type": "button",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": -217.7,
+                            "y": 196
+                        }
+                    }
+                }
+            }
+        },
+        "container/character_p1_container/player_image": {
+            "file": "p1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 2.9,
+                "y": -149.5
+            },
+            "type": "sprite"
+        },
+        "container/character_p1_container/character": {
+            "position": {
+                "x": 0,
+                "y": 91.8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "container"
+        },
+        "container/character_p2_container": {
+            "file": "character_bottom_normal.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "character_bottom_normal.png",
+                "pressed": "character_bottom_press.png",
+                "hover": "character_bottom_hover.png"
+            },
+            "position": {
+                "x": 312.6,
+                "y": 106.3
+            },
+            "type": "button",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/character_p2_container/player_image": {
+            "file": "p2_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 3,
+                "y": -158
+            },
+            "type": "sprite"
+        },
+        "container/character_p2_container/character": {
+            "position": {
+                "x": 0,
+                "y": 91.8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "container"
+        },
+        "container/container_items": {
+            "file": "cc_container2.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 28,
+                "bottom": 28,
+                "left": 34,
+                "right": 34
+            },
+            "size": {
+                "width": 425.4,
+                "height": 254.7
+            },
+            "position": {
+                "x": 0,
+                "y": 101.8
+            },
+            "type": "sprite",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 108.9,
+                            "y": 187
+                        }
+                    }
+                }
+            }
+        },
+        "container/container_items/item1": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -155,
+                "y": -47
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item1/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item1/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item1": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -91,
+                "y": -134.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item1/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item2": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -51.7,
+                "y": -47
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item2/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item2/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item2": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 12.3,
+                "y": -134.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item2/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item3": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 51.7,
+                "y": -47
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item3/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item3/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item3": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 115.7,
+                "y": -134.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item3/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item4": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 155,
+                "y": -47
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item4/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item4/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item4": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 219,
+                "y": -134.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item4/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item5": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -155,
+                "y": 56
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item5/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item5/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item5": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -91,
+                "y": -31.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item5/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item6": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -51.7,
+                "y": 56
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item6/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item6/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item6": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 12.3,
+                "y": -31.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item6/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item7": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 51.7,
+                "y": 56
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item7/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item7/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item7": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 115.7,
+                "y": -31.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item7/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "container/container_items/item8": {
+            "file": "item_bottom.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 155,
+                "y": 56
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item8/image": {
+            "file": "item1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/item8/back": {
+            "file": "bg_black1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item8": {
+            "file": "bubble2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 219,
+                "y": -31.8
+            },
+            "type": "sprite"
+        },
+        "container/container_items/bubble_item8/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 22
+            },
+            "text": "Score (x) points to \nunlock this outfit.",
+            "align": "center",
+            "position": {
+                "x": 3,
+                "y": -5
+            },
+            "color": "#000000",
+            "type": "text"
+        },
+        "start_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 247.8,
+                    "y": 315
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 247.8,
+                            "y": 315
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 143.6,
+                            "y": 349.6
+                        }
+                    }
+                }
+            }
+        },
+        "start_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "START GAME",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        },
+        "back_button": {
+            "file": "orange_button01.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "orange_button01.png",
+                "pressed": "orange_button01.png",
+                "hover": "orange_button02.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -254,
+                    "y": 315
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -254,
+                            "y": 315
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -143.6,
+                            "y": 349.3
+                        }
+                    }
+                }
+            }
+        },
+        "back_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 25
+            },
+            "text": "BACK",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 4,
+            "position": {
+                "x": 0,
+                "y": 3.1
+            },
+            "type": "text"
+        }
+    }
+}

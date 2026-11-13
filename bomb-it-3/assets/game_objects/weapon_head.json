@@ -1,0 +1,33 @@
+{
+    "hierarchy": {
+        "name": "weapon_head",
+        "children": [
+            {
+                "name": "number"
+            },
+            {
+                "name": "icon_base"
+            }
+        ]
+    },
+    "properties": {
+        "number": {
+            "file": "weapon_head0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 7.4,
+                "y": -91.1
+            },
+            "type": "sprite"
+        },
+        "icon_base": {
+            "file": "weapon_head_thrower.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -17.7,
+                "y": -90
+            },
+            "type": "sprite"
+        }
+    }
+}

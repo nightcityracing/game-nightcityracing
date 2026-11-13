@@ -1,0 +1,282 @@
+  {
+    "preload": {
+      "image": [
+
+      ],
+      "atlas": [
+
+      ]
+    },
+
+    "firstLoad": {
+
+      "image":[
+
+        {"searchPath": "assets/bgs/"},
+        {"key": "bg_mm1"},
+        {"key": "bg_mm2"},
+
+        {"searchPath": "assets/images/"},
+        {"key": "bg_black"}
+
+      ],
+
+      "json": [
+
+        {"searchPath": "assets/uis/"},
+        {"key": "dress_up_character"},
+        {"key": "dress_up_gameover"},
+        {"key": "game_completed"},
+        {"key": "game_settings"},
+        {"key": "gameover"},
+        {"key": "gameplay"},
+        {"key": "level_completed"},
+        {"key": "loading"},
+        {"key": "loading_ingame"},
+        {"key": "main_menu"},
+        {"key": "pause"},
+        {"key": "powerups"},
+        {"key": "settings"},
+
+        {"searchPath": "assets/json/"},
+        {"key": "balance"},
+        {"key": "localization"},
+        {"key": "maps_generic"},
+        {"key": "maps_special"},
+
+        {"searchPath": "assets/game_objects/"},
+        {"key": "anim_stars"},
+        {"key": "base"},
+        {"key": "basketball_court"},
+        {"key": "bomb"},
+        {"key": "bomb_explosion"},
+        {"key": "bomb_explosion_edge"},
+        {"key": "bomb_explosion_line"},
+        {"key": "boxing"},
+        {"key": "brick_explosion"},
+        {"key": "brick2_explosion"},
+        {"key": "center_egyptian_tomb"},
+        {"key": "center_mysterius_garden"},
+        {"key": "center_pizza_restaurant"},
+        {"key": "center_volcano_cave"},
+        {"key": "center_wedding_ceremony"},
+        {"key": "character1"},
+        {"key": "character2"},
+        {"key": "character3"},
+        {"key": "character4"},
+        {"key": "character5"},
+        {"key": "character6"},
+        {"key": "coin"},
+        {"key": "decor"},
+        {"key": "decor_button"},
+        {"key": "decor_buttton_small"},
+        {"key": "dust_hand"},
+        {"key": "gc_eyes"},
+        {"key": "hammer"},
+        {"key": "icon_bomb"},
+        {"key": "icon_bomb_launcher"},
+        {"key": "icon_boxing"},
+        {"key": "icon_flamethrower"},
+        {"key": "icon_grenade"},
+        {"key": "icon_hammer"},
+        {"key": "icon_invincibility"},
+        {"key": "icon_laser_gun"},
+        {"key": "icon_launcher"},
+        {"key": "icon_life"},
+        {"key": "icon_magic_carpet"},
+        {"key": "icon_mighty_hammer"},
+        {"key": "icon_ninja_stars"},
+        {"key": "icon_pogo_stick"},
+        {"key": "icon_power_blast"},
+        {"key": "icon_shield"},
+        {"key": "icon_snowmobile"},
+        {"key": "icon_speed"},
+        {"key": "icon_super_dinosaur"},
+        {"key": "launcher"},
+        {"key": "lightning_gun"},
+        {"key": "message_lose"},
+        {"key": "message_time"},
+        {"key": "message_win"},
+        {"key": "mm_pink_eyes"},
+        {"key": "portal_blue"},
+        {"key": "portal_red"},
+        {"key": "powerup_number"},
+        {"key": "rainbows"},
+        {"key": "target_grenade"},
+        {"key": "thrower"},
+        {"key": "tile_volcano"},
+
+        {"searchPath": "assets/game_objects/animations/anim_decor"},
+        {"key": "decor_loop"},
+
+        {"searchPath": "assets/game_objects/animations/anim_message"},
+        {"key": "message"},
+
+        {"searchPath": "assets/game_objects/animations/anim_message_time"},
+        {"key": "time_play"},
+
+        {"searchPath": "assets/game_objects/animations/anim_stars"},
+        {"key": "stars_loop"},
+
+        {"searchPath": "assets/game_objects/animations/anim_target_grenade"},
+        {"key": "target_grenade_stand"},
+
+        {"searchPath": "assets/game_objects/animations/base"},
+        {"key": "base_loop"},
+
+        {"searchPath": "assets/game_objects/animations/basketball_court"},
+        {"key": "center_basketball_stand"},
+
+        {"searchPath": "assets/game_objects/animations/bomb"},
+        {"key": "bomb_anim"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion"},
+        {"key": "bomb_explosion1"},
+        {"key": "bomb_explosion2"},
+        {"key": "bomb_explosion3"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_edge"},
+        {"key": "anim_explosion_edge"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_line"},
+        {"key": "anim_explosion_line"},
+
+        {"searchPath": "assets/game_objects/animations/boxing"},
+        {"key": "super_gloves_down1"},
+        {"key": "super_gloves_down2"},
+        {"key": "super_gloves_down3"},
+        {"key": "super_gloves_side1"},
+        {"key": "super_gloves_side2"},
+        {"key": "super_gloves_side3"},
+        {"key": "super_gloves_up1"},
+        {"key": "super_gloves_up2"},
+        {"key": "super_gloves_up3"},
+
+        {"searchPath": "assets/game_objects/animations/brick2_explosion/"},
+        {"key": "brick2_explosion_anim"},
+
+        {"searchPath": "assets/game_objects/animations/brick_explosion/"},
+        {"key": "brick_explosion_anim"},
+
+        {"searchPath": "assets/game_objects/animations/center_mysterius_garden/"},
+        {"key": "center_mysterius_garden_play"},
+        {"key": "center_mysterius_garden_stand"},
+
+        {"searchPath": "assets/game_objects/animations/center_volcano_cave/"},
+        {"key": "center_volacano_cave_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character1/"},
+        {"key": "character1_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character2/"},
+        {"key": "character2_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character3/"},
+        {"key": "character3_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character4/"},
+        {"key": "character4_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character5/"},
+        {"key": "character5_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character6/"},
+        {"key": "character6_stand"},
+
+        {"searchPath": "assets/game_objects/animations/coin/"},
+        {"key": "coin_stand"},
+
+        {"searchPath": "assets/game_objects/animations/decor_stand/"},
+        {"key": "decor_button_stand"},
+
+        {"searchPath": "assets/game_objects/animations/gc_eyes/"},
+        {"key": "gc_eyes_stand"},
+
+        {"searchPath": "assets/game_objects/animations/hammer/"},
+        {"key": "hammer_down"},
+        {"key": "hammer_side"},
+        {"key": "hammer_up"},
+
+        {"searchPath": "assets/game_objects/animations/icon_stand_anim/"},
+        {"key": "icon_anim"},
+
+        {"searchPath": "assets/game_objects/animations/launcher/"},
+        {"key": "launcher_down_play"},
+        {"key": "launcher_side_play"},
+        {"key": "launcher_up_play"},
+
+        {"searchPath": "assets/game_objects/animations/lightning_gun/"},
+        {"key": "lightning_down"},
+        {"key": "lightning_side"},
+        {"key": "lightning_up"},
+
+        {"searchPath": "assets/game_objects/animations/mm_pink_eyes/"},
+        {"key": "mm_pink_eyes_loop"},
+
+        {"searchPath": "assets/game_objects/animations/portals/"},
+        {"key": "portal_blue_in"},
+        {"key": "portal_red_in"},
+        {"key": "portal_stand"},
+
+        {"searchPath": "assets/game_objects/animations/rainbows/"},
+        {"key": "rainbows_stand"},
+
+        {"searchPath": "assets/game_objects/animations/thrower/"},
+        {"key": "thrower_down_play"},
+        {"key": "thrower_side_play"},
+        {"key": "thrower_up_play"},
+
+        {"searchPath": "assets/game_objects/animations/tile_volcano/"},
+        {"key": "tile_volcano_play"}
+
+      ],
+      "atlas": [
+        {"searchPath": "assets/atlases/"},
+        {"key": "atlas_animation"},
+        {"key": "atlas_gameover"},
+        {"key": "atlas_gameplay"},
+        {"key": "atlas_message"},
+        {"key": "atlas_weapon0"},
+        {"key": "atlas_weapon1"},
+
+        {"key": "atlas_ui_dress_up"},
+        {"key": "atlas_ui_gameplay"},
+        {"key": "atlas_ui_main_menu"},
+        {"key": "atlas_uis"}
+
+      ],
+      "bitmapFont": [
+
+      ],
+      "spine": [
+
+        {"searchPath": "assets/spines/"},
+        {"key": "dress_hero1"},
+        {"key": "dress_hero2"},
+        {"key": "dress_hero3"},
+        {"key": "dress_hero4"},
+        {"key": "dress_hero5"},
+        {"key": "dress_hero6"},
+
+        {"key": "gp_hero1"},
+        {"key": "gp_hero2"},
+        {"key": "gp_hero3"},
+        {"key": "gp_hero4"},
+        {"key": "gp_hero5"},
+        {"key": "gp_hero6"},
+
+        {"key": "dinosaur"},
+        {"key": "magic_carpet"},
+        {"key": "pogo_stick"},
+        {"key": "snowmobile"}
+
+      ],
+      "audio": [
+
+      ],
+      "webFont": [
+
+      ]
+    }
+
+}

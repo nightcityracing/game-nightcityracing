@@ -1,0 +1,87 @@
+{
+    "name": "firework_pink_anim",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "pink_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "anim_star_base34.png"
+                },
+                {
+                    "frame": 17,
+                    "value": "pink_star1.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "pink_star3.png"
+                },
+                {
+                    "frame": 83,
+                    "value": "pink_star5.png"
+                },
+                {
+                    "frame": 117,
+                    "value": "pink_star7.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "pink_star9.png"
+                },
+                {
+                    "frame": 183,
+                    "value": "pink_star11.png"
+                },
+                {
+                    "frame": 217,
+                    "value": "pink_star13.png"
+                },
+                {
+                    "frame": 250,
+                    "value": "pink_star15.png"
+                },
+                {
+                    "frame": 283,
+                    "value": "pink_star17.png"
+                },
+                {
+                    "frame": 317,
+                    "value": "pink_star19.png"
+                },
+                {
+                    "frame": 350,
+                    "value": "pink_star21.png"
+                },
+                {
+                    "frame": 383,
+                    "value": "pink_star23.png"
+                },
+                {
+                    "frame": 417,
+                    "value": "pink_star25.png"
+                },
+                {
+                    "frame": 450,
+                    "value": "pink_star27.png"
+                },
+                {
+                    "frame": 483,
+                    "value": "pink_star29.png"
+                },
+                {
+                    "frame": 517,
+                    "value": "pink_star31.png"
+                },
+                {
+                    "frame": 550,
+                    "value": "pink_star33.png"
+                },
+                {
+                    "frame": 567,
+                    "value": "anim_star_base34.png"
+                }
+            ]
+        }
+    }
+}

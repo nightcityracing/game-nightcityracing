@@ -1,0 +1,291 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "sound_container",
+                        "children": [
+                            {
+                                "name": "audio_button"
+                            },
+                            {
+                                "name": "music_button"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "base"
+                    }
+                ]
+            },
+            {
+                "name": "main_menu_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "pause_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -18
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -18
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -61
+                        }
+                    }
+                }
+            }
+        },
+        "container/sound_container": {
+            "type": "container",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 375,
+                    "y": -129
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 375,
+                            "y": -129
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 319,
+                            "y": -238
+                        }
+                    }
+                }
+            }
+        },
+        "container/sound_container/audio_button": {
+            "file": "mm_audio.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -31.1
+            },
+            "type": "button"
+        },
+        "container/sound_container/music_button": {
+            "file": "mm_music.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 31
+            },
+            "type": "button"
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "PAUSE",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 8.3,
+                "y": -183.6
+            },
+            "color": "#fea367",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {
+                        "position": {
+                            "x": 8.3,
+                            "y": -187
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 8.3,
+                            "y": -280.5
+                        }
+                    }
+                }
+            }
+        },
+        "container/base": {
+            "file": "characters_pause.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -5.3,
+                "y": 42.1
+            },
+            "type": "sprite"
+        },
+        "main_menu_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -122.8,
+                    "y": 293.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -122.8,
+                            "y": 293.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -122.8,
+                            "y": 353.6
+                        }
+                    }
+                }
+            }
+        },
+        "main_menu_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "MAIN MENU",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 2.4,
+            "position": {
+                "x": 9,
+                "y": -0.9
+            },
+            "type": "text"
+        },
+        "pause_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 118.8,
+                    "y": 293.5
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 118.8,
+                            "y": 293.5
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 118.8,
+                            "y": 353.6
+                        }
+                    }
+                }
+            }
+        },
+        "pause_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "RESUME",
+            "align": "center",
+            "stroke": "#ab3f00",
+            "strokeThickness": 2.4,
+            "position": {
+                "x": 11.5,
+                "y": -0.6
+            },
+            "type": "text"
+        }
+    }
+}

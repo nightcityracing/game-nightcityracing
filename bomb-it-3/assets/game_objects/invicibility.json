@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "invicibility",
+        "children": [
+            {
+                "name": "fx_base"
+            }
+        ],
+        "animations": [
+            "invincibility_anim"
+        ]
+    },
+    "properties": {
+        "fx_base": {
+            "file": "invincibity_play11.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -11.6
+            },
+            "type": "sprite"
+        }
+    }
+}

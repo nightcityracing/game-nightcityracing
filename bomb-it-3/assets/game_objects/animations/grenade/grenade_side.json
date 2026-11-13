@@ -1,0 +1,52 @@
+{
+    "name": "grenade_side",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "grenade_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0.1,
+                        -12
+                    ]
+                },
+                {
+                    "frame": 133,
+                    "value": [
+                        -2.9,
+                        -12.7
+                    ]
+                },
+                {
+                    "frame": 233,
+                    "value": [
+                        0.1,
+                        -12
+                    ]
+                },
+                {
+                    "frame": 317,
+                    "value": [
+                        2.1,
+                        -12.2
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        0.1,
+                        -12
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "grenade_left.png"
+                }
+            ]
+        }
+    }
+}

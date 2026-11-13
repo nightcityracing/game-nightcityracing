@@ -1,0 +1,149 @@
+{
+    "hierarchy": {
+        "name": "gc_eyes",
+        "children": [
+            {
+                "name": "hero1_eye"
+            },
+            {
+                "name": "hero2_eye"
+            },
+            {
+                "name": "hero3_eye"
+            },
+            {
+                "name": "hero4_eye"
+            },
+            {
+                "name": "hero5_eye"
+            },
+            {
+                "name": "hero6_eye"
+            },
+            {
+                "name": "star1"
+            },
+            {
+                "name": "star2"
+            },
+            {
+                "name": "star3"
+            },
+            {
+                "name": "star4"
+            }
+        ],
+        "animations": [
+            "gc_eyes_stand"
+        ]
+    },
+    "properties": {
+        "hero1_eye": {
+            "file": "gc_hero1_0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -136.6,
+                "y": -140.4
+            },
+            "type": "sprite"
+        },
+        "hero2_eye": {
+            "file": "gc_hero2_0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 299.4,
+                "y": 80.9
+            },
+            "type": "sprite"
+        },
+        "hero3_eye": {
+            "file": "gc_hero3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 213.7,
+                "y": -121.1
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "hero4_eye": {
+            "file": "gc_hero4_0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 10.2,
+                "y": -151.7
+            },
+            "type": "sprite"
+        },
+        "hero5_eye": {
+            "file": "gc_hero5_0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -275.3,
+                "y": -62
+            },
+            "type": "sprite"
+        },
+        "hero6_eye": {
+            "file": "gc_hero6_0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -307.9,
+                "y": 62.6
+            },
+            "type": "sprite"
+        },
+        "star1": {
+            "file": "gc_star_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -320.8,
+                "y": -10
+            },
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            },
+            "type": "sprite"
+        },
+        "star2": {
+            "file": "gc_star_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -262.3,
+                "y": -194.4
+            },
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            },
+            "type": "sprite"
+        },
+        "star3": {
+            "file": "gc_star_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 279.5,
+                "y": -228.8
+            },
+            "scale": {
+                "x": 0.4,
+                "y": 0.4
+            },
+            "type": "sprite"
+        },
+        "star4": {
+            "file": "gc_star_anim.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 283.8,
+                "y": -125
+            },
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            },
+            "type": "sprite"
+        }
+    }
+}

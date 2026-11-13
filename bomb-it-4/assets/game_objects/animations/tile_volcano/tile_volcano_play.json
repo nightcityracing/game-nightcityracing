@@ -1,0 +1,207 @@
+{
+    "name": "tile_volcano_play",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "base3": {
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 1320,
+                    "value": 1
+                },
+                {
+                    "frame": 3120,
+                    "value": 1
+                },
+                {
+                    "frame": 3200,
+                    "value": 0
+                }
+            ]
+        },
+        "lava": {
+            "scaleX": [
+                {
+                    "frame": 1320,
+                    "value": 0
+                },
+                {
+                    "frame": 1520,
+                    "value": 1
+                },
+                {
+                    "frame": 2080,
+                    "value": 1.4
+                },
+                {
+                    "frame": 2160,
+                    "value": 0
+                },
+                {
+                    "frame": 2400,
+                    "value": 1
+                },
+                {
+                    "frame": 3000,
+                    "value": 1.4
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 1320,
+                    "value": 0
+                },
+                {
+                    "frame": 1520,
+                    "value": 1
+                },
+                {
+                    "frame": 2080,
+                    "value": 1.4
+                },
+                {
+                    "frame": 2160,
+                    "value": 0
+                },
+                {
+                    "frame": 2400,
+                    "value": 1
+                },
+                {
+                    "frame": 3000,
+                    "value": 1.4
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 1320,
+                    "value": 0
+                },
+                {
+                    "frame": 1520,
+                    "value": 1
+                },
+                {
+                    "frame": 2080,
+                    "value": 0
+                },
+                {
+                    "frame": 2160,
+                    "value": 0
+                },
+                {
+                    "frame": 2400,
+                    "value": 1
+                },
+                {
+                    "frame": 3000,
+                    "value": 0
+                }
+            ]
+        },
+        "lava_fx": {
+            "frameName": [
+                {
+                    "frame": 1320,
+                    "value": "anim_tile_volcano30.png"
+                },
+                {
+                    "frame": 1400,
+                    "value": "anim_tile_volcano5.png"
+                },
+                {
+                    "frame": 1480,
+                    "value": "anim_tile_volcano6.png"
+                },
+                {
+                    "frame": 1560,
+                    "value": "anim_tile_volcano7.png"
+                },
+                {
+                    "frame": 1640,
+                    "value": "anim_tile_volcano8.png"
+                },
+                {
+                    "frame": 1720,
+                    "value": "anim_tile_volcano9.png"
+                },
+                {
+                    "frame": 1800,
+                    "value": "anim_tile_volcano10.png"
+                },
+                {
+                    "frame": 1880,
+                    "value": "anim_tile_volcano11.png"
+                },
+                {
+                    "frame": 1960,
+                    "value": "anim_tile_volcano12.png"
+                },
+                {
+                    "frame": 2040,
+                    "value": "anim_tile_volcano13.png"
+                },
+                {
+                    "frame": 2120,
+                    "value": "anim_tile_volcano14.png"
+                },
+                {
+                    "frame": 2200,
+                    "value": "anim_tile_volcano15.png"
+                },
+                {
+                    "frame": 2280,
+                    "value": "anim_tile_volcano16.png"
+                },
+                {
+                    "frame": 2360,
+                    "value": "anim_tile_volcano17.png"
+                },
+                {
+                    "frame": 2440,
+                    "value": "anim_tile_volcano18.png"
+                },
+                {
+                    "frame": 2520,
+                    "value": "anim_tile_volcano19.png"
+                },
+                {
+                    "frame": 2600,
+                    "value": "anim_tile_volcano20.png"
+                },
+                {
+                    "frame": 2680,
+                    "value": "anim_tile_volcano21.png"
+                },
+                {
+                    "frame": 2760,
+                    "value": "anim_tile_volcano22.png"
+                },
+                {
+                    "frame": 2840,
+                    "value": "anim_tile_volcano23.png"
+                },
+                {
+                    "frame": 2920,
+                    "value": "anim_tile_volcano24.png"
+                },
+                {
+                    "frame": 3000,
+                    "value": "anim_tile_volcano25.png"
+                },
+                {
+                    "frame": 3080,
+                    "value": "anim_tile_volcano26.png"
+                },
+                {
+                    "frame": 3160,
+                    "value": "anim_tile_volcano30.png"
+                }
+            ]
+        }
+    }
+}

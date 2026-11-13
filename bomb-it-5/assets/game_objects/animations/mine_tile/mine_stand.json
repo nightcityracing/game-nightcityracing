@@ -1,0 +1,39 @@
+{
+    "name": "mine_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "mine_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "mine_play1.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "mine_play2.png"
+                },
+                {
+                    "frame": 133,
+                    "value": "mine_play3.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "mine_play4.png"
+                },
+                {
+                    "frame": 267,
+                    "value": "mine_play3.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "mine_play2.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "mine_play1.png"
+                }
+            ]
+        }
+    }
+}

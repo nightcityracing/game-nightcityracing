@@ -1,0 +1,19 @@
+{
+    "name": "portal_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "round": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 1500,
+                    "value": 360
+                }
+            ]
+        }
+    }
+}

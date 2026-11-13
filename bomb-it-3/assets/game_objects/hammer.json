@@ -1,0 +1,29 @@
+{
+    "hierarchy": {
+        "name": "hammer",
+        "children": [
+            {
+                "name": "hammer_base"
+            }
+        ],
+        "animations": [
+            "hammer_down",
+            "hammer_up",
+            "hammer_side",
+            "hammer_down_play",
+            "hammer_up_play",
+            "hammer_side_play"
+        ]
+    },
+    "properties": {
+        "hammer_base": {
+            "file": "hammer_down.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -25.1,
+                "y": -23.7
+            },
+            "type": "sprite"
+        }
+    }
+}

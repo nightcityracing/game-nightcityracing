@@ -1,0 +1,44 @@
+{
+    "hierarchy": {
+        "name": "shotgun",
+        "children": [
+            {
+                "name": "shotgun_base"
+            },
+            {
+                "name": " shotgun_fx"
+            }
+        ],
+        "animations": [
+            "shotgun_side_play",
+            "shotgun_down_play",
+            "shotgun_up_play",
+            "shotgun_down",
+            "shotgun_side",
+            "shotgun_up",
+            "shotgun_down_stand",
+            "shotgun_side_stand",
+            "shotgun_up_stand"
+        ]
+    },
+    "properties": {
+        "shotgun_base": {
+            "file": "shotgun_side.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -3.2,
+                "y": -15.1
+            },
+            "type": "sprite"
+        },
+        " shotgun_fx": {
+            "file": "shotgun_play8.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -36.9,
+                "y": -19.4
+            },
+            "type": "sprite"
+        }
+    }
+}

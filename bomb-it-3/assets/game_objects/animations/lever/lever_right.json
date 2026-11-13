@@ -1,0 +1,35 @@
+{
+    "name": "lever_right",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "level_top": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 250,
+                    "value": 81
+                }
+            ],
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -0.5,
+                        -3.5
+                    ]
+                },
+                {
+                    "frame": 250,
+                    "value": [
+                        -0.8,
+                        -5.3
+                    ]
+                }
+            ]
+        }
+    }
+}

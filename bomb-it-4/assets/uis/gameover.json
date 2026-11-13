@@ -1,0 +1,274 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "total_score"
+                    },
+                    {
+                        "name": "description"
+                    },
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "contaainer_score_p1",
+                        "children": [
+                            {
+                                "name": "avatar"
+                            },
+                            {
+                                "name": "score"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "contaainer_score_p2",
+                        "children": [
+                            {
+                                "name": "avatar"
+                            },
+                            {
+                                "name": "score"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "start_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            },
+            {
+                "name": "more_games_button",
+                "children": [
+                    {
+                        "name": "text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container": {
+            "file": "container_gameover.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER"
+            }
+        },
+        "container/total_score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 34
+            },
+            "text": "TOTAL\nSCORE",
+            "align": "center",
+            "stroke": "#ffffff",
+            "strokeThickness": 2,
+            "position": {
+                "x": -189.2,
+                "y": 156
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/description": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 24
+            },
+            "text": "Dot give up! Give it another bomb...",
+            "align": "center",
+            "position": {
+                "x": 0,
+                "y": 37.8
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 72
+            },
+            "text": "GAME OVER",
+            "align": "center",
+            "stroke": "#174461",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -82.4
+            },
+            "color": "#476876",
+            "type": "text"
+        },
+        "container/contaainer_score_p1": {
+            "file": "container_go_score.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 20,
+                "bottom": 20,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 146.3,
+                "height": 26.9
+            },
+            "position": {
+                "x": 38.4,
+                "y": 150.1
+            },
+            "type": "sprite"
+        },
+        "container/contaainer_score_p1/avatar": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 1.1,
+                "y": -54.7
+            },
+            "type": "sprite"
+        },
+        "container/contaainer_score_p1/score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "999",
+            "align": "center",
+            "position": {
+                "x": -0.3,
+                "y": 0.2
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container/contaainer_score_p2": {
+            "file": "container_go_score.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 20,
+                "bottom": 20,
+                "left": 20,
+                "right": 20
+            },
+            "size": {
+                "width": 146.3,
+                "height": 26.9
+            },
+            "position": {
+                "x": 218,
+                "y": 150
+            },
+            "type": "sprite",
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container/contaainer_score_p2/avatar": {
+            "file": "face1_normal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 1.1,
+                "y": -54.7
+            },
+            "type": "sprite"
+        },
+        "container/contaainer_score_p2/score": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "999",
+            "align": "center",
+            "position": {
+                "x": 1.8,
+                "y": 0.2
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "start_button": {
+            "file": "button_options_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_options_1.png",
+                "pressed": "button_options_3.png",
+                "hover": "button_options_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 150,
+                    "y": 258
+                }
+            }
+        },
+        "start_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "START",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 3.6,
+            "position": {
+                "x": 15,
+                "y": 2
+            },
+            "type": "text"
+        },
+        "more_games_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -150,
+                    "y": 262
+                }
+            }
+        },
+        "more_games_button/text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "MORE GAMES",
+            "align": "center",
+            "stroke": "#ae4700",
+            "strokeThickness": 3.6,
+            "position": {
+                "x": 12.1,
+                "y": -0.5
+            },
+            "type": "text"
+        }
+    }
+}

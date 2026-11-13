@@ -1,0 +1,195 @@
+
+gp_human3.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back/human_body_back
+  rotate: false
+  xy: 637, 29
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+back/human_head_back
+  rotate: false
+  xy: 941, 85
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+back/human_leg_back
+  rotate: true
+  xy: 677, 88
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+death/ghost34
+  rotate: true
+  xy: 2, 87
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost36
+  rotate: true
+  xy: 2, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost38
+  rotate: true
+  xy: 137, 87
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost40
+  rotate: true
+  xy: 2, 5
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost42
+  rotate: true
+  xy: 137, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost44
+  rotate: true
+  xy: 272, 87
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost46
+  rotate: true
+  xy: 137, 5
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost48
+  rotate: true
+  xy: 272, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost50
+  rotate: true
+  xy: 407, 87
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost52
+  rotate: true
+  xy: 272, 5
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost54
+  rotate: true
+  xy: 407, 46
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost56
+  rotate: true
+  xy: 542, 87
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/ghost57
+  rotate: true
+  xy: 542, 87
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+death/hero_death1
+  rotate: true
+  xy: 542, 19
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+death/hero_eye
+  rotate: false
+  xy: 510, 25
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+front/human_arm_front
+  rotate: true
+  xy: 407, 10
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+front/human_body_front
+  rotate: false
+  xy: 685, 34
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+front/human_head_front
+  rotate: true
+  xy: 805, 82
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+front/human_leg_front
+  rotate: false
+  xy: 468, 10
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 496, 2
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+side/human_arm_side
+  rotate: true
+  xy: 744, 93
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+side/human_body_side
+  rotate: false
+  xy: 901, 82
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+side/human_head_side
+  rotate: false
+  xy: 858, 82
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+side/human_leg_side
+  rotate: false
+  xy: 982, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

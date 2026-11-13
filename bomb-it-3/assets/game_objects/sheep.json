@@ -1,0 +1,27 @@
+{
+    "hierarchy": {
+        "name": "sheep",
+        "children": [
+            {
+                "name": "sheep_base"
+            }
+        ],
+        "animations": [
+            "sheep_front_stand",
+            "sheep_side_stand",
+            "sheep_front_hit",
+            "sheep_side_hit"
+        ]
+    },
+    "properties": {
+        "sheep_base": {
+            "file": "sheep_stand_front1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -25.7
+            },
+            "type": "sprite"
+        }
+    }
+}

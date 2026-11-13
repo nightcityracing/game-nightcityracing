@@ -1,0 +1,1046 @@
+{
+    "hierarchy": {
+        "name": "Canvas",
+        "children": [
+            {
+                "name": "container_1player",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "decor"
+                    },
+                    {
+                        "name": "info_container",
+                        "children": [
+                            {
+                                "name": "enemies_killed_text"
+                            },
+                            {
+                                "name": "time_bonus_text"
+                            },
+                            {
+                                "name": "easy_bonus_text"
+                            },
+                            {
+                                "name": "level_score_text"
+                            },
+                            {
+                                "name": "total_score_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "avatar_player1"
+                    },
+                    {
+                        "name": "player1_container",
+                        "children": [
+                            {
+                                "name": "enemies_killed_p1"
+                            },
+                            {
+                                "name": "time_bonus_p1"
+                            },
+                            {
+                                "name": "easy_bonus_p1"
+                            },
+                            {
+                                "name": "level_score_p1"
+                            },
+                            {
+                                "name": "total_score_p1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "container_2players",
+                "children": [
+                    {
+                        "name": "title"
+                    },
+                    {
+                        "name": "decor"
+                    },
+                    {
+                        "name": "info_container",
+                        "children": [
+                            {
+                                "name": "enemies_killed_text"
+                            },
+                            {
+                                "name": "time_bonus_text"
+                            },
+                            {
+                                "name": "easy_bonus_text"
+                            },
+                            {
+                                "name": "level_score_text"
+                            },
+                            {
+                                "name": "total_score_text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "avatar_player1"
+                    },
+                    {
+                        "name": "player1_container",
+                        "children": [
+                            {
+                                "name": "enemies_killed_p1"
+                            },
+                            {
+                                "name": "time_bonus_p1"
+                            },
+                            {
+                                "name": "easy_bonus_p1"
+                            },
+                            {
+                                "name": "level_score_p1"
+                            },
+                            {
+                                "name": "total_score_p1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "avatar_player2"
+                    },
+                    {
+                        "name": "player2_container",
+                        "children": [
+                            {
+                                "name": "enemies_killed_p1"
+                            },
+                            {
+                                "name": "time_bonus_p1"
+                            },
+                            {
+                                "name": "easy_bonus_p1"
+                            },
+                            {
+                                "name": "level_score_p1"
+                            },
+                            {
+                                "name": "total_score_p1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "next_button",
+                "children": [
+                    {
+                        "name": "next_text"
+                    }
+                ]
+            },
+            {
+                "name": "more_games_button",
+                "children": [
+                    {
+                        "name": "more_games_text"
+                    }
+                ]
+            },
+            {
+                "name": "dress_up_button",
+                "children": [
+                    {
+                        "name": "dress_up_text"
+                    }
+                ]
+            }
+        ]
+    },
+    "properties": {
+        "Canvas": {
+            "design": {
+                "width": 1280,
+                "height": 720
+            },
+            "type": "canvas"
+        },
+        "container_1player": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -13
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -13
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 0,
+                            "y": -60
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "LEVEL 1/5  COMPLETE!",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -183.4
+            },
+            "color": "#fea367",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -279.2
+                        }
+                    }
+                }
+            }
+        },
+        "container_1player/decor": {
+            "file": "line_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 10,
+                "left": 12,
+                "right": 12
+            },
+            "size": {
+                "width": 667.8,
+                "height": 344.9
+            },
+            "position": {
+                "x": 0.3,
+                "y": 42.3
+            },
+            "type": "sprite"
+        },
+        "container_1player/info_container": {
+            "file": "items_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 58,
+                "right": 20
+            },
+            "size": {
+                "width": 271.7,
+                "height": 282
+            },
+            "position": {
+                "x": -187.8,
+                "y": 60.7
+            },
+            "type": "sprite"
+        },
+        "container_1player/info_container/enemies_killed_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "ENEMIES KILLED",
+            "align": "center",
+            "position": {
+                "x": -80.4,
+                "y": -113.8
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_1player/info_container/time_bonus_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "TIME BONUS",
+            "align": "center",
+            "position": {
+                "x": -80.4,
+                "y": -56.9
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_1player/info_container/easy_bonus_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "EASY BONUS",
+            "align": "center",
+            "position": {
+                "x": -80.4,
+                "y": -0.3
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_1player/info_container/level_score_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "LEVEL SCORE",
+            "align": "center",
+            "position": {
+                "x": -80.4,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_1player/info_container/total_score_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "TOTAL SCORE",
+            "align": "center",
+            "position": {
+                "x": -80.4,
+                "y": 114.4
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_1player/avatar_player1": {
+            "position": {
+                "x": 132.5,
+                "y": -103.5
+            },
+            "type": "container"
+        },
+        "container_1player/player1_container": {
+            "file": "score_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 26,
+                "right": 36
+            },
+            "size": {
+                "width": 214.2,
+                "height": 266
+            },
+            "position": {
+                "x": 133.8,
+                "y": 66.5
+            },
+            "type": "sprite"
+        },
+        "container_1player/player1_container/enemies_killed_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "400",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -107.2
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_1player/player1_container/time_bonus_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "200",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -57.1
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_1player/player1_container/easy_bonus_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "80",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -5.7
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_1player/player1_container/level_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": 48.6
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_1player/player1_container/total_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": 111.7
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players": {
+            "file": "big_container1.png",
+            "image": "SIMPLE",
+            "type": "sprite",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 0,
+                    "y": -13
+                }
+            },
+            "visibility": "desktop",
+            "orientation": {}
+        },
+        "container_2players/title": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 40
+            },
+            "text": "LEVEL 1/5  COMPLETE!",
+            "align": "center",
+            "stroke": "#640000",
+            "strokeThickness": 5,
+            "position": {
+                "x": 0,
+                "y": -183.4
+            },
+            "color": "#fea367",
+            "type": "text",
+            "orientation": {
+                "landscape": {
+                    "properties": {}
+                },
+                "portrait": {
+                    "properties": {
+                        "position": {
+                            "x": 0,
+                            "y": -279.2
+                        }
+                    }
+                }
+            }
+        },
+        "container_2players/decor": {
+            "file": "line_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 10,
+                "bottom": 10,
+                "left": 12,
+                "right": 12
+            },
+            "size": {
+                "width": 667.8,
+                "height": 344.9
+            },
+            "position": {
+                "x": 0.3,
+                "y": 42.3
+            },
+            "type": "sprite"
+        },
+        "container_2players/info_container": {
+            "file": "items_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 58,
+                "right": 20
+            },
+            "size": {
+                "width": 248.2,
+                "height": 282
+            },
+            "position": {
+                "x": -202,
+                "y": 60.7
+            },
+            "type": "sprite"
+        },
+        "container_2players/info_container/enemies_killed_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "ENEMIES KILLED",
+            "align": "center",
+            "position": {
+                "x": -67.9,
+                "y": -113.9
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_2players/info_container/time_bonus_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "TIME BONUS",
+            "align": "center",
+            "position": {
+                "x": -67.9,
+                "y": -57
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_2players/info_container/easy_bonus_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "EASY BONUS",
+            "align": "center",
+            "position": {
+                "x": -67.9,
+                "y": -0.4
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_2players/info_container/level_score_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "LEVEL SCORE",
+            "align": "center",
+            "position": {
+                "x": -67.9,
+                "y": 56.9
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_2players/info_container/total_score_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 21
+            },
+            "text": "TOTAL SCORE",
+            "align": "center",
+            "position": {
+                "x": -67.9,
+                "y": 113.2
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "color": "#07326f",
+            "type": "text"
+        },
+        "container_2players/avatar_player1": {
+            "position": {
+                "x": 34.5,
+                "y": -103.5
+            },
+            "type": "container"
+        },
+        "container_2players/player1_container": {
+            "file": "score_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 26,
+                "right": 36
+            },
+            "size": {
+                "width": 180,
+                "height": 266
+            },
+            "position": {
+                "x": 35.8,
+                "y": 66.5
+            },
+            "type": "sprite"
+        },
+        "container_2players/player1_container/enemies_killed_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "400",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -106.7
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player1_container/time_bonus_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "200",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -55.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player1_container/easy_bonus_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "80",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -5.4
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player1_container/level_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": 47.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player1_container/total_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": 111.5
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/avatar_player2": {
+            "position": {
+                "x": 225.5,
+                "y": -104
+            },
+            "type": "container"
+        },
+        "container_2players/player2_container": {
+            "file": "score_container.png",
+            "image": "SLICED",
+            "slice": {
+                "top": 0,
+                "bottom": 0,
+                "left": 26,
+                "right": 36
+            },
+            "size": {
+                "width": 180,
+                "height": 266
+            },
+            "position": {
+                "x": 227.5,
+                "y": 66
+            },
+            "type": "sprite"
+        },
+        "container_2players/player2_container/enemies_killed_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "400",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -106.7
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player2_container/time_bonus_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "200",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -55.3
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player2_container/easy_bonus_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "80",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": -5.4
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player2_container/level_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": 47.8
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "container_2players/player2_container/total_score_p1": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 20
+            },
+            "text": "1000",
+            "align": "center",
+            "position": {
+                "x": 62.2,
+                "y": 111.5
+            },
+            "anchor": {
+                "x": 1,
+                "y": 0.5
+            },
+            "color": "#663200",
+            "type": "text"
+        },
+        "next_button": {
+            "file": "button_powerup_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_powerup_1.png",
+                "pressed": "button_powerup_3.png",
+                "hover": "button_powerup_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 233.2,
+                    "y": 293
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 233.2,
+                            "y": 293
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 232.6,
+                            "y": 352.2
+                        }
+                    }
+                }
+            }
+        },
+        "next_button/next_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 19
+            },
+            "text": "NEXT",
+            "align": "center",
+            "stroke": "#b44800",
+            "strokeThickness": 2.6,
+            "position": {
+                "x": 12.9,
+                "y": -1.2
+            },
+            "type": "text"
+        },
+        "more_games_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": -228.2,
+                    "y": 293
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -228.2,
+                            "y": 293
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": -226.5,
+                            "y": 352.4
+                        }
+                    }
+                }
+            }
+        },
+        "more_games_button/more_games_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 19
+            },
+            "text": "MORE GAMES",
+            "align": "center",
+            "stroke": "#b44800",
+            "strokeThickness": 2.6,
+            "position": {
+                "x": 8.5,
+                "y": -0.9
+            },
+            "type": "text"
+        },
+        "dress_up_button": {
+            "file": "button_back_1.png",
+            "image": "SIMPLE",
+            "transitionMode": "image",
+            "transition": {
+                "normal": "button_back_1.png",
+                "pressed": "button_back_3.png",
+                "hover": "button_back_2.png"
+            },
+            "type": "button",
+            "alignment": {
+                "type": "CENTER",
+                "offset": {
+                    "x": 1,
+                    "y": 293
+                }
+            },
+            "orientation": {
+                "landscape": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 1,
+                            "y": 293
+                        }
+                    }
+                },
+                "portrait": {
+                    "properties": {},
+                    "alignment": {
+                        "type": "CENTER",
+                        "offset": {
+                            "x": 1,
+                            "y": 352.4
+                        }
+                    }
+                }
+            }
+        },
+        "dress_up_button/dress_up_text": {
+            "font": {
+                "name": "roboto_condensedbold",
+                "fontSize": 19
+            },
+            "text": "DRESS UP",
+            "align": "center",
+            "stroke": "#b44800",
+            "strokeThickness": 2.6,
+            "position": {
+                "x": 9.6,
+                "y": -1.1
+            },
+            "type": "text"
+        }
+    }
+}

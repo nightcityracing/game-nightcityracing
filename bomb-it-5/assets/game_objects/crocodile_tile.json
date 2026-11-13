@@ -1,0 +1,49 @@
+{
+    "hierarchy": {
+        "name": "crocodile_tile",
+        "children": [
+            {
+                "name": "crocodile_base"
+            },
+            {
+                "name": "crocodile_bottom"
+            },
+            {
+                "name": "crocodile"
+            }
+        ],
+        "animations": [
+            "crocodile_tile_stand",
+            "crocodile_tile_play"
+        ]
+    },
+    "properties": {
+        "crocodile_base": {
+            "file": "crocodile_base.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "crocodile_bottom": {
+            "file": "crocodile_bottom1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 10.51
+            },
+            "type": "sprite"
+        },
+        "crocodile": {
+            "file": "crocodile_top1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 3.3,
+                "y": -7.4
+            },
+            "type": "sprite"
+        }
+    }
+}

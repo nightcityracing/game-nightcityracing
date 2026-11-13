@@ -1,0 +1,183 @@
+{
+    "name": "gc_eyes_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "hero2_eye": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "gc_hero2_0.png"
+                },
+                {
+                    "frame": 367,
+                    "value": "gc_hero2_0.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "gc_hero2_1.png"
+                },
+                {
+                    "frame": 433,
+                    "value": "gc_hero2_3.png"
+                },
+                {
+                    "frame": 467,
+                    "value": "gc_hero2_4.png"
+                },
+                {
+                    "frame": 500,
+                    "value": "gc_hero2_5.png"
+                },
+                {
+                    "frame": 567,
+                    "value": "gc_hero2_4.png"
+                },
+                {
+                    "frame": 600,
+                    "value": "gc_hero2_3.png"
+                },
+                {
+                    "frame": 633,
+                    "value": "gc_hero2_2.png"
+                },
+                {
+                    "frame": 667,
+                    "value": "gc_hero2_1.png"
+                },
+                {
+                    "frame": 700,
+                    "value": "gc_hero2_0.png"
+                },
+                {
+                    "frame": 2000,
+                    "value": "gc_hero2_0.png"
+                }
+            ]
+        },
+        "hero1_hear1": {
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1000,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1167,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1267,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1400,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1567,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1667,
+                    "value": 0.8
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1000,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1167,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1267,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1400,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1567,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1667,
+                    "value": 0.8
+                }
+            ]
+        },
+        "hero1_heart2": {
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1000,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1167,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1267,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1400,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1567,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1667,
+                    "value": 0.8
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1000,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1167,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1267,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1400,
+                    "value": 0.8
+                },
+                {
+                    "frame": 1567,
+                    "value": 0.9
+                },
+                {
+                    "frame": 1667,
+                    "value": 0.8
+                }
+            ]
+        }
+    }
+}

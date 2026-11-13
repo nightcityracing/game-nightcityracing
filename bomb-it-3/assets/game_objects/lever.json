@@ -1,0 +1,41 @@
+{
+    "hierarchy": {
+        "name": "lever",
+        "children": [
+            {
+                "name": "lever_bottom"
+            },
+            {
+                "name": "level_top"
+            }
+        ],
+        "animations": [
+            "lever_right",
+            "lever_left"
+        ]
+    },
+    "properties": {
+        "lever_bottom": {
+            "file": "aqua_base.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 1.3
+            },
+            "type": "sprite"
+        },
+        "level_top": {
+            "file": "aqua_bar.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.5,
+                "y": -3.5
+            },
+            "anchor": {
+                "x": 0.9,
+                "y": 1
+            },
+            "type": "sprite"
+        }
+    }
+}

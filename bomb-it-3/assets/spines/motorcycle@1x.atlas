@@ -1,0 +1,55 @@
+
+motorcycle.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x1
+  rotate: false
+  xy: 2, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+motorcycle_back1
+  rotate: false
+  xy: 88, 39
+  size: 38, 87
+  orig: 38, 87
+  offset: 0, 0
+  index: -1
+motorcycle_back2
+  rotate: false
+  xy: 128, 39
+  size: 38, 87
+  orig: 38, 87
+  offset: 0, 0
+  index: -1
+motorcycle_front1
+  rotate: false
+  xy: 168, 42
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+motorcycle_front2
+  rotate: true
+  xy: 168, 2
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+motorcycle_side1
+  rotate: false
+  xy: 2, 67
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+motorcycle_side2
+  rotate: false
+  xy: 2, 6
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1

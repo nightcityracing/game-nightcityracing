@@ -1,0 +1,47 @@
+{
+    "name": "portal_blue_in",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "light_blue_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "blue1.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "blue2.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "blue3.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "blue4.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "blue5.png"
+                },
+                {
+                    "frame": 333,
+                    "value": "blue4.png"
+                },
+                {
+                    "frame": 383,
+                    "value": "blue3.png"
+                },
+                {
+                    "frame": 433,
+                    "value": "blue2.png"
+                },
+                {
+                    "frame": 483,
+                    "value": "blue1.png"
+                }
+            ]
+        }
+    }
+}

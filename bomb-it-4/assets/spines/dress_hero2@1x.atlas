@@ -1,0 +1,125 @@
+
+dress_hero2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frente/eyes_1
+  rotate: true
+  xy: 473, 151
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: false
+  xy: 397, 93
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 473, 210
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: false
+  xy: 131, 41
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 397, 186
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front2
+  rotate: false
+  xy: 321, 172
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+frente/robot_body_front3
+  rotate: false
+  xy: 321, 102
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front4
+  rotate: false
+  xy: 397, 116
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front5
+  rotate: false
+  xy: 170, 47
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front6
+  rotate: true
+  xy: 246, 41
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_body_front7
+  rotate: false
+  xy: 316, 32
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 41, 21
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 2, 87
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: false
+  xy: 392, 51
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: false
+  xy: 419, 51
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 170, 117
+  size: 149, 137
+  orig: 149, 137
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

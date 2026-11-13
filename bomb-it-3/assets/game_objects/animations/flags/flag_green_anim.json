@@ -1,0 +1,27 @@
+{
+    "name": "flag_green_anim",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "flag_green_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "flag_green_anim1.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "flag_green_anim2.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "flag_green_anim3.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "flag_green_anim4.png"
+                }
+            ]
+        }
+    }
+}

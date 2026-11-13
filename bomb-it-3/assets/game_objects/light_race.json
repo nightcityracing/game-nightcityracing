@@ -1,0 +1,143 @@
+{
+    "hierarchy": {
+        "name": "light_race",
+        "children": [
+            {
+                "name": "container",
+                "children": [
+                    {
+                        "name": "red_light_base1",
+                        "children": [
+                            {
+                                "name": "red1_off"
+                            },
+                            {
+                                "name": "red1_on"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "red_light_base2",
+                        "children": [
+                            {
+                                "name": "red2_off"
+                            },
+                            {
+                                "name": "red2_on"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "green_light_base",
+                        "children": [
+                            {
+                                "name": "green_off"
+                            },
+                            {
+                                "name": "green_on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "animations": [
+            "light_race_anim"
+        ]
+    },
+    "properties": {
+        "container": {
+            "file": "light_container.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "container/red_light_base1": {
+            "file": "light_base.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -83,
+                "y": -18
+            },
+            "type": "sprite"
+        },
+        "container/red_light_base1/red1_off": {
+            "file": "light_red.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 3.1,
+                "y": 3.4
+            },
+            "type": "sprite"
+        },
+        "container/red_light_base1/red1_on": {
+            "file": "light_red2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 3.4,
+                "y": 4.1
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "container/red_light_base2": {
+            "file": "light_base.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.5,
+                "y": -18
+            },
+            "type": "sprite"
+        },
+        "container/red_light_base2/red2_off": {
+            "file": "light_red.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 3.1,
+                "y": 3.4
+            },
+            "type": "sprite"
+        },
+        "container/red_light_base2/red2_on": {
+            "file": "light_red2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 2.5,
+                "y": 2.7
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "container/green_light_base": {
+            "file": "light_base.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 86.2,
+                "y": -18
+            },
+            "type": "sprite"
+        },
+        "container/green_light_base/green_off": {
+            "file": "light_green.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.3,
+                "y": 2.2
+            },
+            "type": "sprite"
+        },
+        "container/green_light_base/green_on": {
+            "file": "light_green2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 4.1,
+                "y": 4.5
+            },
+            "alpha": 0,
+            "type": "sprite"
+        }
+    }
+}

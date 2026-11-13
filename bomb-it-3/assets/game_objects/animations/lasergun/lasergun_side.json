@@ -1,0 +1,52 @@
+{
+    "name": "lasergun_side",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "lasergun_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -18.5
+                    ]
+                },
+                {
+                    "frame": 133,
+                    "value": [
+                        -5.8,
+                        -19
+                    ]
+                },
+                {
+                    "frame": 233,
+                    "value": [
+                        0,
+                        -18.5
+                    ]
+                },
+                {
+                    "frame": 317,
+                    "value": [
+                        4.2,
+                        -19.4
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        0,
+                        -18.5
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "lasergun_left.png"
+                }
+            ]
+        }
+    }
+}

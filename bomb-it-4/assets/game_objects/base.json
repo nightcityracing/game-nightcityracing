@@ -1,0 +1,49 @@
+{
+    "hierarchy": {
+        "name": "base",
+        "children": [
+            {
+                "name": "pink_eyes"
+            },
+            {
+                "name": "black_eyes"
+            },
+            {
+                "name": "green_eyes"
+            }
+        ],
+        "animations": [
+            "base_loop"
+        ]
+    },
+    "properties": {
+        "pink_eyes": {
+            "file": "pink_eyes0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 22.5,
+                "y": -26.1
+            },
+            "type": "sprite"
+        },
+        "black_eyes": {
+            "file": "black_eyes0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 185.8,
+                "y": 13.4
+            },
+            "type": "sprite"
+        },
+        "green_eyes": {
+            "file": "green_eyes0.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -130.3,
+                "y": -36.7
+            },
+            "alpha": 0,
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "flag_blue",
+        "children": [
+            {
+                "name": "flag_blue_base"
+            }
+        ],
+        "animations": [
+            "flag_blue_anim"
+        ]
+    },
+    "properties": {
+        "flag_blue_base": {
+            "file": "flag_blue_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

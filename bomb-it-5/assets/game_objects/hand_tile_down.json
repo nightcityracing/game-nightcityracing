@@ -1,0 +1,51 @@
+{
+    "hierarchy": {
+        "name": "hand_tile_down",
+        "children": [
+            {
+                "name": "base_down"
+            },
+            {
+                "name": "spring_down"
+            },
+            {
+                "name": "hand_down"
+            }
+        ],
+        "animations": [
+            "hand_tile_down_play1",
+            "hand_tile_down_play2",
+            "hand_tile_down_play3",
+            "hand_tile_down_play4"
+        ]
+    },
+    "properties": {
+        "base_down": {
+            "file": "base_down.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "spring_down": {
+            "file": "spring_down1_1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 1.1,
+                "y": 52.7
+            },
+            "type": "sprite"
+        },
+        "hand_down": {
+            "file": "hand_down1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 2.7,
+                "y": -36.7
+            },
+            "type": "sprite"
+        }
+    }
+}

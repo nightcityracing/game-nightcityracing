@@ -1,0 +1,52 @@
+{
+    "name": "bowling_ball_up",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "bowling_ball_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        17.3,
+                        -17.5
+                    ]
+                },
+                {
+                    "frame": 117,
+                    "value": [
+                        16.4,
+                        -18.2
+                    ]
+                },
+                {
+                    "frame": 217,
+                    "value": [
+                        17.3,
+                        -17.5
+                    ]
+                },
+                {
+                    "frame": 283,
+                    "value": [
+                        17.8,
+                        -16.4
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        17.3,
+                        -17.5
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "bowling_ball_up.png"
+                }
+            ]
+        }
+    }
+}

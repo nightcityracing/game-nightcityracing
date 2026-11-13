@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "bomb.png",
+	"frame": {"x":600,"y":845,"w":43,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":50},
+	"sourceSize": {"w":43,"h":50}
+},
+{
+	"filename": "gear1.png",
+	"frame": {"x":2,"y":781,"w":106,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":107},
+	"sourceSize": {"w":106,"h":107}
+},
+{
+	"filename": "gear2.png",
+	"frame": {"x":597,"y":781,"w":60,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":62},
+	"sourceSize": {"w":60,"h":62}
+},
+{
+	"filename": "loading_bar.png",
+	"frame": {"x":110,"y":781,"w":485,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":485,"h":77},
+	"sourceSize": {"w":485,"h":77}
+},
+{
+	"filename": "loading_image1.png",
+	"frame": {"x":718,"y":2,"w":420,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":420,"h":223},
+	"sourceSize": {"w":426,"h":230}
+},
+{
+	"filename": "loading_image2.png",
+	"frame": {"x":718,"y":227,"w":420,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":420,"h":223},
+	"sourceSize": {"w":426,"h":230}
+},
+{
+	"filename": "loading_image3.png",
+	"frame": {"x":718,"y":452,"w":420,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":420,"h":223},
+	"sourceSize": {"w":426,"h":230}
+},
+{
+	"filename": "loading_image4.png",
+	"frame": {"x":700,"y":677,"w":420,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":420,"h":223},
+	"sourceSize": {"w":426,"h":230}
+},
+{
+	"filename": "logo.png",
+	"frame": {"x":2,"y":614,"w":696,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":696,"h":165},
+	"sourceSize": {"w":696,"h":165}
+},
+{
+	"filename": "orange_button01.png",
+	"frame": {"x":365,"y":860,"w":233,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":71},
+	"sourceSize": {"w":233,"h":71}
+},
+{
+	"filename": "orange_button02.png",
+	"frame": {"x":110,"y":860,"w":253,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":75},
+	"sourceSize": {"w":253,"h":75}
+},
+{
+	"filename": "set_avatar_container.png",
+	"frame": {"x":2,"y":2,"w":714,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":714,"h":610},
+	"sourceSize": {"w":714,"h":610}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_loading.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":937},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aeaa510382ee7a7dec48a8e0733a74ca:5ebb3cf3db9c79167c6753caab5354ed:60f2cbe27981a52e7cb26742207c0ed2$"
+}
+}

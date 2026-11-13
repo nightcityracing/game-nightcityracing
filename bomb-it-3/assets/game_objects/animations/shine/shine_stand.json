@@ -1,0 +1,19 @@
+{
+    "name": "shine_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "base": {
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 21000,
+                    "value": 360
+                }
+            ]
+        }
+    }
+}

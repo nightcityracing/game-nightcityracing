@@ -1,0 +1,362 @@
+  {
+    "preload": {
+      "image": [
+
+      ],
+      "atlas": [
+
+      ]
+    },
+
+    "firstLoad": {
+
+      "image":[
+
+        {"searchPath": "assets/bgs/"},
+        {"key": "mm_land"},
+        {"key": "mm_port"},
+
+        {"searchPath": "assets/images/"},
+        {"key": "bg_black"}
+
+      ],
+
+      "json": [
+
+        {"searchPath": "assets/uis/"},
+        {"key": "dress_up_character"},
+        {"key": "dress_up_gameover"},
+        {"key": "flag_bar"},
+        {"key": "game_completed"},
+        {"key": "game_settings"},
+        {"key": "gameover"},
+        {"key": "gameplay"},
+        {"key": "level_completed"},
+        {"key": "loading_ingame"},
+        {"key": "main_menu"},
+        {"key": "pause"},
+        {"key": "powerups"},
+        {"key": "settings"},
+
+        {"searchPath": "assets/json/"},
+        {"key": "balance"},
+        {"key": "localization"},
+        {"key": "maps_generic"},
+        {"key": "maps_special"},
+
+        {"searchPath": "assets/game_objects/"},
+        {"key": "bomb"},
+        {"key": "bomb_explosion"},
+        {"key": "bomb_explosion_center"},
+        {"key": "bomb_explosion_edge"},
+        {"key": "bomb_explosion_line"},
+        {"key": "boxing"},
+        {"key": "brick_explosion"},
+        {"key": "brick2_explosion"},
+        {"key": "button_decor"},
+        {"key": "center_birthday"},
+        {"key": "center_candy_factory"},
+        {"key": "center_luxury_shop"},
+        {"key": "center_magic_library"},
+        {"key": "center_movie_theater"},
+        {"key": "center_zoo"},
+        {"key": "character1"},
+        {"key": "character2"},
+        {"key": "character3"},
+        {"key": "character4"},
+        {"key": "character5"},
+        {"key": "character6"},
+        {"key": "character7"},
+        {"key": "character8"},
+        {"key": "character_decor"},
+        {"key": "coin"},
+        {"key": "confeti"},
+        {"key": "corner_tile"},
+        {"key": "crocodile_tile"},
+        {"key": "decor_bg"},
+        {"key": "end_tile"},
+        {"key": "end_tile_shine"},
+        {"key": "flag"},
+        {"key": "gc_eyes"},
+        {"key": "gc_eyes_pause"},
+        {"key": "hammer"},
+        {"key": "hand_tile_down"},
+        {"key": "hand_tile_side"},
+        {"key": "hand_tile_up"},
+        {"key": "icon_bomb"},
+        {"key": "icon_bomb_launcher"},
+        {"key": "icon_boxing"},
+        {"key": "icon_car"},
+        {"key": "icon_flamethrower"},
+        {"key": "icon_frog"},
+        {"key": "icon_hammer"},
+        {"key": "icon_hand"},
+        {"key": "icon_invincibility"},
+        {"key": "icon_life"},
+        {"key": "icon_lightning_gun"},
+        {"key": "icon_machine_gun"},
+        {"key": "icon_mammoth"},
+        {"key": "icon_mine"},
+        {"key": "icon_power_blast"},
+        {"key": "icon_shield"},
+        {"key": "icon_skate"},
+        {"key": "icon_speed"},
+        {"key": "laser_gun_fx1"},
+        {"key": "laser_gun_fx2"},
+        {"key": "laser_gun_fx3"},
+        {"key": "lightning_gun"},
+        {"key": "item1"},
+        {"key": "item2"},
+        {"key": "item3"},
+        {"key": "item4"},
+        {"key": "item5"},
+        {"key": "item6"},
+        {"key": "item7"},
+        {"key": "item8"},
+        {"key": "line_tile"},
+        {"key": "magic_star_blue"},
+        {"key": "magic_star_red"},
+        {"key": "message_lose"},
+        {"key": "message_time"},
+        {"key": "message_win"},
+        {"key": "mine_tile"},
+        {"key": "portal_blue"},
+        {"key": "portal_green"},
+        {"key": "powerup_number"},
+        {"key": "rainbows"},
+        {"key": "shotgun"},
+        {"key": "thrower"},
+
+        {"searchPath": "assets/game_objects/animations/anim_message/"},
+        {"key": "message"},
+
+        {"searchPath": "assets/game_objects/animations/anim_message_time/"},
+        {"key": "time_play"},
+
+        {"searchPath": "assets/game_objects/animations/bomb/"},
+        {"key": "bomb_anim"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion/"},
+        {"key": "bomb_explosion1"},
+        {"key": "bomb_explosion2"},
+        {"key": "bomb_explosion3"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_center/"},
+        {"key": "bomb_explosion_center1"},
+        {"key": "bomb_explosion_center2"},
+        {"key": "bomb_explosion_center3"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_edge/"},
+        {"key": "anim_explosion_edge"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_line/"},
+        {"key": "anim_explosion_line"},
+
+        {"searchPath": "assets/game_objects/animations/boxing/"},
+        {"key": "super_gloves_down1"},
+        {"key": "super_gloves_down2"},
+        {"key": "super_gloves_down3"},
+        {"key": "super_gloves_side1"},
+        {"key": "super_gloves_side2"},
+        {"key": "super_gloves_side3"},
+        {"key": "super_gloves_up1"},
+        {"key": "super_gloves_up2"},
+        {"key": "super_gloves_up3"},
+
+        {"searchPath": "assets/game_objects/animations/brick_explosion/"},
+        {"key": "brick_explosion_anim"},
+
+        {"searchPath": "assets/game_objects/animations/brick2_explosion/"},
+        {"key": "brick2_explosion_anim"},
+
+        {"searchPath": "assets/game_objects/animations/button_decor/"},
+        {"key": "button_decor_stand"},
+
+        {"searchPath": "assets/game_objects/animations/center_birthday/"},
+        {"key": "center_birthday_stand"},
+
+        {"searchPath": "assets/game_objects/animations/center_candy_factory/"},
+        {"key": "center_candy_factory_stand"},
+
+        {"searchPath": "assets/game_objects/animations/center_magic_library/"},
+        {"key": "center_magic_library_stand"},
+        {"key": "center_magic_library_play"},
+
+        {"searchPath": "assets/game_objects/animations/center_movie_theater/"},
+        {"key": "center_movie_theater_light_stand"},
+        {"key": "center_movie_theater_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character1/"},
+        {"key": "character1_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character2/"},
+        {"key": "character2_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character3/"},
+        {"key": "character3_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character4/"},
+        {"key": "character4_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character5/"},
+        {"key": "character5_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character6/"},
+        {"key": "character6_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character7/"},
+        {"key": "character7_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character8/"},
+        {"key": "character8_stand"},
+
+        {"searchPath": "assets/game_objects/animations/character_decor/"},
+        {"key": "button_decor_stand"},
+
+        {"searchPath": "assets/game_objects/animations/coin/"},
+        {"key": "coin_stand"},
+
+        {"searchPath": "assets/game_objects/animations/confeti/"},
+        {"key": "confeti_anim_h"},
+        {"key": "confeti_anim_v"},
+
+        {"searchPath": "assets/game_objects/animations/corner_tile/"},
+        {"key": "corner_tile_stand"},
+
+        {"searchPath": "assets/game_objects/animations/crocodile_tile/"},
+        {"key": "crocodile_tile_play"},
+        {"key": "crocodile_tile_stand"},
+
+        {"searchPath": "assets/game_objects/animations/decor_bg/"},
+        {"key": "decor_bg_loop"},
+
+        {"searchPath": "assets/game_objects/animations/end_tile/"},
+        {"key": "end_tile_stand"},
+
+        {"searchPath": "assets/game_objects/animations/end_tile_shine/"},
+        {"key": "end_tile_shine_play"},
+
+        {"searchPath": "assets/game_objects/animations/flag/"},
+        {"key": "flag_in"},
+        {"key": "flag_out"},
+        {"key": "flag_stand"},
+
+        {"searchPath": "assets/game_objects/animations/gc_eyes/"},
+        {"key": "gc_eyes_stand"},
+
+        {"searchPath": "assets/game_objects/animations/hammer/"},
+        {"key": "hammer_down"},
+        {"key": "hammer_side"},
+        {"key": "hammer_up"},
+
+        {"searchPath": "assets/game_objects/animations/hand_tile_down/"},
+        {"key": "hand_tile_down_play1"},
+        {"key": "hand_tile_down_play2"},
+        {"key": "hand_tile_down_play3"},
+        {"key": "hand_tile_down_play4"},
+
+        {"searchPath": "assets/game_objects/animations/hand_tile_side/"},
+        {"key": "hand_tile_side_play1"},
+        {"key": "hand_tile_side_play2"},
+        {"key": "hand_tile_side_play3"},
+        {"key": "hand_tile_side_play4"},
+
+        {"searchPath": "assets/game_objects/animations/hand_tile_up/"},
+        {"key": "hand_tile_up_play1"},
+        {"key": "hand_tile_up_play2"},
+        {"key": "hand_tile_up_play3"},
+        {"key": "hand_tile_up_play4"},
+
+        {"searchPath": "assets/game_objects/animations/icon/"},
+        {"key": "icon_anim"},
+
+        {"searchPath": "assets/game_objects/animations/items/"},
+        {"key": "unlock_play"},
+
+        {"searchPath": "assets/game_objects/animations/laser_gun_fx/"},
+        {"key": "laser_gun_fx1_anim"},
+        {"key": "laser_gun_fx2_anim"},
+        {"key": "laser_gun_fx3_anim"},
+
+        {"searchPath": "assets/game_objects/animations/lightning_gun/"},
+        {"key": "lightning_down"},
+        {"key": "lightning_side"},
+        {"key": "lightning_up"},
+
+        {"searchPath": "assets/game_objects/animations/line_tile/"},
+        {"key": "line_tile_stand"},
+
+        {"searchPath": "assets/game_objects/animations/magic_star/"},
+        {"key": "star_play"},
+
+        {"searchPath": "assets/game_objects/animations/mine_tile/"},
+        {"key": "mine_stand"},
+
+        {"searchPath": "assets/game_objects/animations/portal/"},
+        {"key": "portal_play"},
+
+        {"searchPath": "assets/game_objects/animations/rainbows/"},
+        {"key": "rainbows_stand"},
+
+        {"searchPath": "assets/game_objects/animations/thrower/"},
+        {"key": "thrower_down_play"},
+        {"key": "thrower_side_play"},
+        {"key": "thrower_up_play"}
+
+      ],
+      "atlas": [
+        {"searchPath": "assets/atlases/"},
+        {"key": "atlas_animation"},
+        {"key": "atlas_decor_bg"},
+        {"key": "atlas_dress_up"},
+        {"key": "atlas_game_completed"},
+        {"key": "atlas_game_settings"},
+        {"key": "atlas_gameover"},
+        {"key": "atlas_gameplay"},
+        {"key": "atlas_loading"},
+        {"key": "atlas_main_menu"},
+        {"key": "atlas_message"},
+        {"key": "atlas_powerups"},
+        {"key": "atlas_ui_gameplay"},
+        {"key": "atlas_weapon0"}
+
+      ],
+      "bitmapFont": [
+
+      ],
+      "spine": [
+        {"searchPath": "assets/spines/"},
+
+        {"key": "dress_hero1"},
+        {"key": "dress_hero2"},
+        {"key": "dress_hero3"},
+        {"key": "dress_hero4"},
+        {"key": "dress_hero5"},
+        {"key": "dress_hero6"},
+        {"key": "dress_hero7"},
+        {"key": "dress_hero8"},
+
+        {"key": "frog"},
+        {"key": "skate"},
+        {"key": "sport_car"},
+        {"key": "mammoth"},
+        {"key": "mm_hero"},
+
+        {"key": "gp_hero1"},
+        {"key": "gp_hero2"},
+        {"key": "gp_hero3"},
+        {"key": "gp_hero4"},
+        {"key": "gp_hero5"},
+        {"key": "gp_hero6"},
+        {"key": "gp_hero7"},
+        {"key": "gp_hero8"}
+      ],
+      "audio": [
+
+      ],
+      "webFont": [
+
+      ]
+    }
+
+}

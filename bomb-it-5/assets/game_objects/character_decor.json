@@ -1,0 +1,45 @@
+{
+    "hierarchy": {
+        "name": "character_decor",
+        "children": [
+            {
+                "name": "gear1"
+            },
+            {
+                "name": "gear2"
+            }
+        ],
+        "animations": [
+            "button_decor_stand"
+        ]
+    },
+    "properties": {
+        "gear1": {
+            "file": "gear.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 27.3,
+                "y": 40.7
+            },
+            "scale": {
+                "x": 0.45,
+                "y": 0.45
+            },
+            "type": "sprite"
+        },
+        "gear2": {
+            "file": "gear.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 45.1,
+                "y": 31.9
+            },
+            "angle": -6,
+            "scale": {
+                "x": 0.35,
+                "y": 0.35
+            },
+            "type": "sprite"
+        }
+    }
+}

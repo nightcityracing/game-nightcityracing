@@ -1,0 +1,26 @@
+{
+  "frames": {
+    "missions/frame_mission": [1,1,658,1026,0,0,658,1026],
+    "game-settings/frame_game_choice": [661,1,659,1014,0,0,659,1014],
+    "settings/frame_settings": [1,1029,658,880,0,0,658,880],
+    "shop/frame_shop": [661,1017,658,759,0,0,658,759],
+    "settings/frame_statistics": [1322,1,658,728,0,0,658,728],
+    "shop/frame_shop_popup": [1322,731,658,605,0,0,658,605],
+    "loading-screen/gear03": [1321,1338,455,455,0,0,455,455],
+    "daily/daily_money_btn": [661,1795,448,108,0,0,448,108],
+    "daily/daily_money_check": [1111,1795,440,100,0,0,440,100],
+    "daily/mission_daily_frame": [1,1911,440,100,0,0,440,100],
+    "lobby/lobby_btn_blue_stroke": [1111,1897,389,108,0,0,389,108],
+    "settings/btn_yellow": [1502,1897,386,107,0,0,386,107],
+    "complete/btn_orange": [443,1911,382,100,0,0,382,100],
+    "lobby/btn_green_l": [1553,1795,381,100,0,0,381,100],
+    "complete/btn_green_buy": [827,1905,230,100,0,0,230,100],
+    "shop/btn_green": [1778,1338,195,100,0,0,195,100],
+    "shop/btn_grey": [1778,1440,195,100,0,0,195,100],
+    "game/game_ui_timer_frame": [1778,1542,180,74,0,0,180,74],
+    "game-settings/place_loc_enemis": [1778,1618,148,118,0,0,148,118],
+    "game/game_ui_icon_bomb": [1890,1897,87,111,0,0,87,111],
+    "shop/btn_back": [1982,1,62,70,0,0,62,70],
+    "lobby/lobby_btn_orange_stroke": [443,1911,382,100,0,0,382,100]
+  }
+}

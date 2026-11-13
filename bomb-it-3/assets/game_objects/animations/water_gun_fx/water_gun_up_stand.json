@@ -1,0 +1,58 @@
+{
+    "name": "water_gun_up_stand",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "water_fx_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -15.9,
+                        -22.3
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "water_base1.png"
+                },
+                {
+                    "frame": 33,
+                    "value": "water_base2.png"
+                },
+                {
+                    "frame": 67,
+                    "value": "water_base3.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "water_base4.png"
+                }
+            ]
+        },
+        "water_fx_base/water_fx_top": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "water_top1.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "water_top2.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "water_top3.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "hierarchy": {
+        "name": "portal_red",
+        "children": [
+            {
+                "name": "tile"
+            },
+            {
+                "name": "round"
+            },
+            {
+                "name": "top"
+            },
+            {
+                "name": "light_red",
+                "children": [
+                    {
+                        "name": "light_red_base"
+                    }
+                ],
+                "animations": [
+                    "portal_red_in"
+                ]
+            }
+        ],
+        "animations": [
+            "portal_stand"
+        ]
+    },
+    "properties": {
+        "tile": {
+            "file": "tile_portal1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "round": {
+            "file": "portal_round1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "top": {
+            "file": "tile_top_portal.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        },
+        "light_red": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "container"
+        },
+        "light_red/light_red_base": {
+            "file": "red1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.7,
+                "y": -38.8
+            },
+            "type": "sprite"
+        }
+    }
+}

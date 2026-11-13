@@ -1,0 +1,77 @@
+{
+    "hierarchy": {
+        "name": "message_time",
+        "children": [
+            {
+                "name": "base3"
+            },
+            {
+                "name": "base"
+            },
+            {
+                "name": "base2"
+            },
+            {
+                "name": "base4"
+            }
+        ],
+        "animations": [
+            "time_play"
+        ]
+    },
+    "properties": {
+        "base3": {
+            "file": "clock.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0.1,
+                "y": -32.3
+            },
+            "angle": -17,
+            "scale": {
+                "x": 1.2,
+                "y": 1.2
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "base": {
+            "file": "clock.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -6.3
+            },
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "base2": {
+            "file": "messege1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1,
+                "y": 68.5
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.8
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "base4": {
+            "file": "messege1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -0.7,
+                "y": 81
+            },
+            "alpha": 0,
+            "type": "sprite"
+        }
+    }
+}

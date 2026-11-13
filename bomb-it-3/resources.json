@@ -1,0 +1,328 @@
+  {
+    "preload": {
+      "image": [
+
+      ],
+      "atlas": [
+
+      ]
+    },
+
+    "firstLoad": {
+
+      "image":[
+
+        {"searchPath": "assets/bgs/"},
+        {"key": "bg_land"},
+        {"key": "bg_port"},
+        {"key": "bg_farm"},
+        {"key": "bg_shop"},
+        {"key": "bg_aqua"},
+        {"key": "bg_city"},
+
+        {"searchPath": "assets/images/"},
+        {"key": "bg_black"}
+      ],
+
+      "json": [
+
+        {"searchPath": "assets/json/"},
+        {"key": "balance"},
+        {"key": "localization"},
+        {"key": "maps_race"},
+        {"key": "maps_special"},
+        {"key": "maps_watermania"},
+
+        {"searchPath": "assets/uis/"},
+        {"key": "main_menu"},
+        {"key": "powerups"},
+        {"key": "controls"},
+        {"key": "game_settings"},
+        {"key": "character_select"},
+        {"key": "gameplay"},
+        {"key": "loading"},
+        {"key": "loading_start"},
+        {"key": "congratulations"},
+        {"key": "game_completed"},
+        {"key": "gameover"},
+
+        {"searchPath": "assets/game_objects/"},
+        {"key": "bomb"},
+        {"key": "bomb_explosion_center"},
+        {"key": "bomb_explosion_edge"},
+        {"key": "bomb_explosion_line"},
+        {"key": "brick_explosion"},
+        {"key": "bowling_ball"},
+        {"key": "bowling_ball_fx"},
+        {"key": "decor"},
+        {"key": "decor_button"},
+        {"key": "decor_buttton_small"},
+        {"key": "decor_gear1"},
+        {"key": "decor_gear2"},
+        {"key": "decor_gear3"},
+        {"key": "explosion_brick"},
+        {"key": "firework_blue"},
+        {"key": "firework_green"},
+        {"key": "firework_pink"},
+        {"key": "firework_red"},
+        {"key": "firework_white"},
+        {"key": "flag_black"},
+        {"key": "flag_blue"},
+        {"key": "flag_green"},
+        {"key": "flag_pink"},
+        {"key": "flag_purple"},
+        {"key": "flag_yellow"},
+        {"key": "grenade"},
+        {"key": "hammer"},
+        {"key": "icon_bomb"},
+        {"key": "icon_bowling_ball"},
+        {"key": "icon_car"},
+        {"key": "icon_hammer"},
+        {"key": "icon_hand"},
+        {"key": "icon_horse"},
+        {"key": "icon_hoovercraft"},
+        {"key": "icon_grenade"},
+        {"key": "icon_invincible"},
+        {"key": "icon_laser"},
+        {"key": "icon_launcher"},
+        {"key": "icon_life"},
+        {"key": "icon_motorcycle"},
+        {"key": "icon_power"},
+        {"key": "icon_shield"},
+        {"key": "icon_speed"},
+        {"key": "icon_thrower"},
+        {"key": "invicibility"},
+        {"key": "lasergun"},
+        {"key": "launcher"},
+        {"key": "lever"},
+        {"key": "light_race"},
+        {"key": "message_lose"},
+        {"key": "message_time"},
+        {"key": "message_win"},
+        {"key": "rainbows"},
+        {"key": "sheep"},
+        {"key": "shield"},
+        {"key": "shine"},
+        {"key": "target_grenade"},
+        {"key": "thrower"},
+        {"key": "tramcar"},
+        {"key": "water_corner"},
+        {"key": "water_gun"},
+        {"key": "water_gun_fx"},
+        {"key": "water_line"},
+        {"key": "weapon_head"},
+
+        {"searchPath": "assets/game_objects/animations/bomb/"},
+        {"key": "bomb_anim"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_center/"},
+        {"key": "bomb_explosion_center1"},
+        {"key": "bomb_explosion_center2"},
+        {"key": "bomb_explosion_center3"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_edge/"},
+        {"key": "anim_explosion_edge"},
+
+        {"searchPath": "assets/game_objects/animations/bomb_explosion_line/"},
+        {"key": "anim_explosion_line"},
+
+        {"searchPath": "assets/game_objects/animations/bowling_ball/"},
+        {"key": "bowling_ball_down"},
+        {"key": "bowling_ball_up"},
+        {"key": "bowling_ball_side"},
+
+        {"searchPath": "assets/game_objects/animations/bowling_ball_fx/"},
+        {"key": "bowling_ball_stand"},
+
+        {"searchPath": "assets/game_objects/animations/brick_explosion/"},
+        {"key": "brick2_explosion_anim"},
+
+        {"searchPath": "assets/game_objects/animations/decor/"},
+        {"key": "decor_loop"},
+
+        {"searchPath": "assets/game_objects/animations/decor_button/"},
+        {"key": "decor_button_stand"},
+
+        {"searchPath": "assets/game_objects/animations/decor_gear1/"},
+        {"key": "gear_stand"},
+
+        {"searchPath": "assets/game_objects/animations/decor_gear2/"},
+        {"key": "gear_stand"},
+
+        {"searchPath": "assets/game_objects/animations/decor_gear3/"},
+        {"key": "gear_stand"},
+
+        {"searchPath": "assets/game_objects/animations/explosion_brick/"},
+        {"key": "explosion_anim"},
+
+        {"searchPath": "assets/game_objects/animations/fireworks/"},
+        {"key": "firework_blue_anim"},
+        {"key": "firework_green_anim"},
+        {"key": "firework_pink_anim"},
+        {"key": "firework_red_anim"},
+        {"key": "firework_white_anim"},
+
+        {"searchPath": "assets/game_objects/animations/flags/"},
+        {"key": "flag_black_anim"},
+        {"key": "flag_blue_anim"},
+        {"key": "flag_green_anim"},
+        {"key": "flag_pink_anim"},
+        {"key": "flag_purple_anim"},
+        {"key": "flag_yellow_anim"},
+
+        {"searchPath": "assets/game_objects/animations/grenade/"},
+        {"key": "grenade_down"},
+        {"key": "grenade_side"},
+        {"key": "grenade_up"},
+
+        {"searchPath": "assets/game_objects/animations/hammer/"},
+        {"key": "hammer_down"},
+        {"key": "hammer_down_play"},
+        {"key": "hammer_side"},
+        {"key": "hammer_side_play"},
+        {"key": "hammer_up"},
+        {"key": "hammer_up_play"},
+
+        {"searchPath": "assets/game_objects/animations/icons/"},
+        {"key": "icon_anim"},
+
+        {"searchPath": "assets/game_objects/animations/invicibility/"},
+        {"key": "invincibility_anim"},
+
+        {"searchPath": "assets/game_objects/animations/lasergun/"},
+        {"key": "lasergun_down"},
+        {"key": "lasergun_down_play"},
+        {"key": "lasergun_side"},
+        {"key": "lasergun_side_play"},
+        {"key": "lasergun_up"},
+        {"key": "lasergun_up_play"},
+
+        {"searchPath": "assets/game_objects/animations/launcher/"},
+        {"key": "launcher_down"},
+        {"key": "launcher_down_play"},
+        {"key": "launcher_up"},
+        {"key": "launcher_up_play"},
+        {"key": "launcher_side"},
+        {"key": "launcher_side_play"},
+
+        {"searchPath": "assets/game_objects/animations/lever/"},
+        {"key": "lever_left"},
+        {"key": "lever_right"},
+
+        {"searchPath": "assets/game_objects/animations/light_race/"},
+        {"key": "light_race_anim"},
+
+        {"searchPath": "assets/game_objects/animations/message_match_complete/"},
+        {"key": "message"},
+        {"key": "time_play"},
+
+        {"searchPath": "assets/game_objects/animations/rainbows/"},
+        {"key": "rainbows_stand"},
+
+        {"searchPath": "assets/game_objects/animations/sheep/"},
+        {"key": "sheep_front_hit"},
+        {"key": "sheep_front_stand"},
+        {"key": "sheep_side_hit"},
+        {"key": "sheep_side_stand"},
+
+        {"searchPath": "assets/game_objects/animations/shield/"},
+        {"key": "shield_down"},
+        {"key": "shield_side"},
+        {"key": "shield_up"},
+
+        {"searchPath": "assets/game_objects/animations/shine/"},
+        {"key": "shine_stand"},
+
+        {"searchPath": "assets/game_objects/animations/target_grenade/"},
+        {"key": "target_grenade_stand"},
+
+        {"searchPath": "assets/game_objects/animations/thrower/"},
+        {"key": "thrower_down"},
+        {"key": "thrower_down_play"},
+        {"key": "thrower_up"},
+        {"key": "thrower_up_play"},
+        {"key": "thrower_side"},
+        {"key": "thrower_side_play"},
+
+        {"searchPath": "assets/game_objects/animations/tramcar/"},
+        {"key": "tramcar_down"},
+        {"key": "tramcar_left"},
+        {"key": "tramcar_left_stand"},
+        {"key": "tramcar_right"},
+        {"key": "tramcar_right_stand"},
+        {"key": "tramcar_up"},
+
+        {"searchPath": "assets/game_objects/animations/water_corner/"},
+        {"key": "water_corner_stand"},
+
+        {"searchPath": "assets/game_objects/animations/water_gun/"},
+        {"key": "water_gun_down"},
+        {"key": "water_gun_up"},
+        {"key": "water_gun_side"},
+
+        {"searchPath": "assets/game_objects/animations/water_gun_fx/"},
+        {"key": "water_gun_down_stand"},
+        {"key": "water_gun_up_stand"},
+        {"key": "water_gun_side_stand"},
+
+        {"searchPath": "assets/game_objects/animations/water_line/"},
+        {"key": "water_line_stand"}
+
+      ],
+      "atlas": [
+        {"searchPath": "assets/atlases/"},
+        {"key": "atlas_ui"},
+        {"key": "atlas_gameplay"},
+        {"key": "atlas_fx"},
+        {"key": "atlas_loading"},
+        {"key": "atlas_message"}
+
+      ],
+      "bitmapFont": [
+
+      ],
+      "spine": [
+        {"searchPath": "assets/spines/"},
+
+        {"key": "bulldozer"},
+        {"key": "car"},
+        {"key": "car_race"},
+        {"key": "horse"},
+        {"key": "hoverkraft"},
+        {"key": "motorcycle"},
+
+        {"key": "dress_robot1"},
+        {"key": "dress_robot2"},
+        {"key": "dress_robot3"},
+        {"key": "dress_robot4"},
+        {"key": "dress_robot5"},
+        {"key": "dress_robot6"},
+
+        {"key": "gp_hero1"},
+        {"key": "gp_hero2"},
+        {"key": "gp_hero3"},
+        {"key": "gp_hero4"},
+        {"key": "gp_hero5"},
+        {"key": "gp_hero6"},
+
+        {"key": "frog"},
+
+        {"key": "gp_human1"},
+        {"key": "gp_human2"},
+        {"key": "gp_human3"},
+        {"key": "gp_human4"},
+
+        {"key": "dress_human1"},
+        {"key": "dress_human2"},
+        {"key": "dress_human3"},
+        {"key": "dress_human4"}
+      ],
+      "audio": [
+
+      ],
+      "webFont": [
+
+      ]
+    }
+
+}

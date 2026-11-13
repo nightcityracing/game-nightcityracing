@@ -1,0 +1,41 @@
+{
+    "hierarchy": {
+        "name": "lasergun",
+        "children": [
+            {
+                "name": "lasergun_base"
+            },
+            {
+                "name": "lasergun_fx"
+            }
+        ],
+        "animations": [
+            "lasergun_down_play",
+            "lasergun_side_play",
+            "lasergun_up_play",
+            "lasergun_down",
+            "lasergun_side",
+            "lasergun_up"
+        ]
+    },
+    "properties": {
+        "lasergun_base": {
+            "file": "lasergun_up.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -16.38,
+                "y": -21.48
+            },
+            "type": "sprite"
+        },
+        "lasergun_fx": {
+            "file": "lasergun_play12.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 19.7,
+                "y": -26.2
+            },
+            "type": "sprite"
+        }
+    }
+}

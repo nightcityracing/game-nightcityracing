@@ -1,0 +1,103 @@
+{
+    "name": "mm_pink_eyes_loop",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "eyes": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "mm_pink_eyes0.png"
+                },
+                {
+                    "frame": 50,
+                    "value": "mm_pink_eyes1.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "mm_pink_eyes2.png"
+                },
+                {
+                    "frame": 150,
+                    "value": "mm_pink_eyes3.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "mm_pink_eyes4.png"
+                },
+                {
+                    "frame": 250,
+                    "value": "mm_pink_eyes5.png"
+                },
+                {
+                    "frame": 350,
+                    "value": "mm_pink_eyes4.png"
+                },
+                {
+                    "frame": 400,
+                    "value": "mm_pink_eyes3.png"
+                },
+                {
+                    "frame": 450,
+                    "value": "mm_pink_eyes2.png"
+                },
+                {
+                    "frame": 500,
+                    "value": "mm_pink_eyes1.png"
+                },
+                {
+                    "frame": 550,
+                    "value": "mm_pink_eyes0.png"
+                },
+                {
+                    "frame": 750,
+                    "value": "mm_pink_eyes0.png"
+                },
+                {
+                    "frame": 800,
+                    "value": "mm_pink_eyes1.png"
+                },
+                {
+                    "frame": 850,
+                    "value": "mm_pink_eyes2.png"
+                },
+                {
+                    "frame": 900,
+                    "value": "mm_pink_eyes3.png"
+                },
+                {
+                    "frame": 950,
+                    "value": "mm_pink_eyes4.png"
+                },
+                {
+                    "frame": 1000,
+                    "value": "mm_pink_eyes5.png"
+                },
+                {
+                    "frame": 1100,
+                    "value": "mm_pink_eyes4.png"
+                },
+                {
+                    "frame": 1150,
+                    "value": "mm_pink_eyes3.png"
+                },
+                {
+                    "frame": 1200,
+                    "value": "mm_pink_eyes2.png"
+                },
+                {
+                    "frame": 1250,
+                    "value": "mm_pink_eyes1.png"
+                },
+                {
+                    "frame": 1300,
+                    "value": "mm_pink_eyes0.png"
+                },
+                {
+                    "frame": 2500,
+                    "value": "mm_pink_eyes0.png"
+                }
+            ]
+        }
+    }
+}

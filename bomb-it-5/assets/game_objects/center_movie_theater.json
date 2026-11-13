@@ -1,0 +1,102 @@
+{
+    "hierarchy": {
+        "name": "center_movie_theater",
+        "children": [
+            {
+                "name": "movie_base"
+            },
+            {
+                "name": "movie4"
+            },
+            {
+                "name": "movie3"
+            },
+            {
+                "name": "movie2"
+            },
+            {
+                "name": "movie1"
+            },
+            {
+                "name": "base",
+                "children": [
+                    {
+                        "name": "movie_light"
+                    }
+                ],
+                "animations": [
+                    "center_movie_theater_light_stand"
+                ]
+            }
+        ],
+        "animations": [
+            "center_movie_theater_stand"
+        ]
+    },
+    "properties": {
+        "movie_base": {
+            "file": "center_movie_theater.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": -20
+            },
+            "type": "sprite"
+        },
+        "movie4": {
+            "file": "center_movie1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.7,
+                "y": -0.6
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "movie3": {
+            "file": "center_movie3.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.7,
+                "y": -0.6
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "movie2": {
+            "file": "center_movie2.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.7,
+                "y": -0.6
+            },
+            "alpha": 0,
+            "type": "sprite"
+        },
+        "movie1": {
+            "file": "center_movie1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.7,
+                "y": -0.6
+            },
+            "type": "sprite"
+        },
+        "base": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "container"
+        },
+        "base/movie_light": {
+            "file": "center_light9.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": -1.8,
+                "y": -1.9
+            },
+            "type": "sprite"
+        }
+    }
+}

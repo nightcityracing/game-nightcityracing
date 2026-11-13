@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "flag_pink",
+        "children": [
+            {
+                "name": "flag_pink_base"
+            }
+        ],
+        "animations": [
+            "flag_pink_anim"
+        ]
+    },
+    "properties": {
+        "flag_pink_base": {
+            "file": "flag_pink_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

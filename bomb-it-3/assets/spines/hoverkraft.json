@@ -1,0 +1,90 @@
+{
+"skeleton": { "hash": "/2SyGdhK2Sc4M6sqN+r5MKPSW0Q", "spine": "2.1.27", "width": 55, "height": 88, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "body", "parent": "root", "x": 0.68, "y": -14.69 },
+	{ "name": "shadow", "parent": "root" },
+	{ "name": "player_bone", "parent": "body", "y": -3.14 }
+],
+"slots": [
+	{ "name": "hooverkraft_back", "bone": "body", "attachment": "hooverkraft_front" },
+	{ "name": "1x1", "bone": "player_bone", "attachment": "1x1" }
+],
+"skins": {
+	"default": {
+		"1x1": {
+			"1x1": { "width": 1, "height": 1 }
+		},
+		"hooverkraft_back": {
+			"hooverkraft_back": { "y": 21.82, "width": 59, "height": 79 },
+			"hooverkraft_front": { "y": 22.5, "width": 55, "height": 88 },
+			"hooverkraft_side": { "x": -6.13, "y": 16.36, "width": 84, "height": 63 }
+		}
+	}
+},
+"animations": {
+	"back": {
+		"slots": {
+			"hooverkraft_back": {
+				"attachment": [
+					{ "time": 0, "name": "hooverkraft_back" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"front": {
+		"slots": {
+			"hooverkraft_back": {
+				"attachment": [
+					{ "time": 0, "name": "hooverkraft_front" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"side": {
+		"slots": {
+			"hooverkraft_back": {
+				"attachment": [
+					{ "time": 0, "name": "hooverkraft_side" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0, "x": 0.3, "y": 3.99 }
+				]
+			},
+			"player_bone": {
+				"translate": [
+					{ "time": 0, "x": -2.11, "y": -7.74 }
+				]
+			}
+		}
+	}
+}
+}

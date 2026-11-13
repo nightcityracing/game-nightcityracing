@@ -1,0 +1,73 @@
+{
+
+  "SETTINGS": {
+
+    "CELL_WIDTH": 49,
+    "CELL_HEIGHT": 49,
+    "GRID_WIDTH": 15,
+    "GRID_HEIGHT": 13,
+
+    "LOADING_SCREEN": 2250,
+    "MATCH_TIME": 180000,
+    "INITIAL_BLINKING_TIME": 2000,
+    "INITIAL_SPEED": 0.2375,
+    "SPEED_INCREASE": 0.0625,
+    "INITIAL_LIVES": 3,
+    "BOMB_TIMER": 2500,
+    "BOMB_SPEED_KICKED": 0.5,
+    "MAX_BOMB_POWER": 5,
+    "MAX_SPEED": 9,
+    "MAX_BOMBS": 9,
+    "TIME_STUNNED": 5000,
+    "SPEED_BOOSTER": 0.5,
+
+    "ON_BLOCK_DESTROY": [
+      {"name": "power_up", "chance": 50},
+      {"name": "weapon", "chance": 20},
+      {"name": "mount", "chance": 5},
+      {"name": "nothing", "chance": 25}
+    ],
+
+    "POWER_UP_CHANCES": [
+      {"name": "bomb", "chance": 20},
+      {"name": "power", "chance": 20},
+      {"name": "speed", "chance": 20},
+      {"name": "heart", "chance": 2},
+      {"name": "shield", "chance": 10},
+      {"name": "push", "chance": 20},
+      {"name": "invincibility", "chance": 8}
+    ],
+
+    "WEAPON_CHANCES": [
+      {"name": "boxing_glove", "chance": 14},
+      {"name": "rocket_launcher", "chance": 14},
+      {"name": "flamethrower", "chance": 14},
+      {"name": "laser_gun", "chance": 14},
+      {"name": "hammer", "chance": 16},
+      {"name": "ninja_stars", "chance": 14},
+      {"name": "grenade", "chance": 14}
+    ],
+
+    "MOUNT_CHANCES": [
+      {"name": "dinosaur", "chance": 25},
+      {"name": "magic_carpet", "chance": 25},
+      {"name": "pogo_stick", "chance": 25},
+      {"name": "snowmobile", "chance": 25}
+    ],
+
+    "POINTS_EASY": 1000,
+    "POINTS_NORMAL": 2000,
+    "POINTS_HARD": 3000,
+    "POINTS_PER_POWER_UP": 100,
+    "POINTS_PER_KILL": 100,
+    "POINTS_PER_COIN": 100,
+    "POINTS_PER_BLOCK": 10,
+    "POINTS_PER_TILE": 20,
+
+    "CAMERA_SHAKE": 0.01,
+    "CAMERA_SHAKE_DURATION": 250,
+    "ITEM_COSTS": [2500, 5500, 8500, 13000, 18000, 24000]
+
+  }
+
+}

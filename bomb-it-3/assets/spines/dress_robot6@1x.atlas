@@ -1,0 +1,195 @@
+
+dress_robot6.png
+size: 1118,1118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frente/eye_3
+  rotate: false
+  xy: 949, 301
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_1
+  rotate: false
+  xy: 890, 301
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: false
+  xy: 137, 57
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_4
+  rotate: false
+  xy: 207, 85
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: false
+  xy: 207, 108
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: false
+  xy: 796, 169
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 137, 80
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 796, 252
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 2, 18
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: false
+  xy: 890, 261
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: true
+  xy: 137, 30
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+fx_black0001
+  rotate: false
+  xy: 2, 796
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0002
+  rotate: false
+  xy: 2, 796
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0003
+  rotate: false
+  xy: 2, 474
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0004
+  rotate: false
+  xy: 2, 474
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0005
+  rotate: false
+  xy: 399, 796
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0006
+  rotate: false
+  xy: 399, 796
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0007
+  rotate: false
+  xy: 2, 152
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0008
+  rotate: false
+  xy: 2, 152
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0009
+  rotate: false
+  xy: 399, 474
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0010
+  rotate: false
+  xy: 399, 474
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0011
+  rotate: true
+  xy: 796, 721
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0012
+  rotate: true
+  xy: 796, 721
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0013
+  rotate: false
+  xy: 399, 152
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0014
+  rotate: false
+  xy: 399, 152
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+fx_black0015
+  rotate: true
+  xy: 796, 324
+  size: 395, 320
+  orig: 395, 320
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 796, 213
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

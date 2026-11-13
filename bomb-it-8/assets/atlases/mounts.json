@@ -1,0 +1,31 @@
+{
+  "frames": {
+    "mount_icons/Black Car": [1,1,259,257,0,0,259,257],
+    "mount_icons/Black Motorcycle": [1,260,259,257,0,0,259,257],
+    "mount_icons/Blue Motorcycle": [1,519,259,257,0,0,259,257],
+    "mount_icons/Blue Scooter": [1,778,259,257,0,0,259,257],
+    "mount_icons/Deer": [1,1037,259,257,0,0,259,257],
+    "mount_icons/Fire Skateboard": [1,1296,259,257,0,0,259,257],
+    "mount_icons/Giraffe": [1,1555,259,257,0,0,259,257],
+    "mount_icons/Green Car": [262,1,259,257,0,0,259,257],
+    "mount_icons/Gyroboard 2": [262,260,259,257,0,0,259,257],
+    "mount_icons/Gyroboard 3": [262,519,259,257,0,0,259,257],
+    "mount_icons/Gyroboard": [262,778,259,257,0,0,259,257],
+    "mount_icons/Horse": [262,1037,259,257,0,0,259,257],
+    "mount_icons/Hoverboard 2": [262,1296,259,257,0,0,259,257],
+    "mount_icons/Hoverboard 3": [262,1555,259,257,0,0,259,257],
+    "mount_icons/Hoverboard": [523,1,259,257,0,0,259,257],
+    "mount_icons/Pink Scooter": [523,260,259,257,0,0,259,257],
+    "mount_icons/Pinto Horse": [523,519,259,257,0,0,259,257],
+    "mount_icons/Pogo": [523,778,259,257,0,0,259,257],
+    "mount_icons/Red Car": [523,1037,259,257,0,0,259,257],
+    "mount_icons/Red Motorcycle": [523,1296,259,257,0,0,259,257],
+    "mount_icons/Rollers": [523,1555,259,257,0,0,259,257],
+    "mount_icons/Tech Skateboard": [784,1,259,257,0,0,259,257],
+    "mount_icons/UFO": [784,260,259,257,0,0,259,257],
+    "mount_icons/Unicorn": [784,519,259,257,0,0,259,257],
+    "mount_icons/Wheel": [784,778,259,257,0,0,259,257],
+    "mount_icons/Yellow Scooter": [784,1037,259,257,0,0,259,257],
+    "mount_icons/Zebra": [784,1296,259,257,0,0,259,257]
+  }
+}

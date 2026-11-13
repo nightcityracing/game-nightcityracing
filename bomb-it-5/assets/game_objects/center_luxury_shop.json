@@ -1,0 +1,21 @@
+{
+    "hierarchy": {
+        "name": "center_luxury_shop",
+        "children": [
+            {
+                "name": "luxury_base"
+            }
+        ]
+    },
+    "properties": {
+        "luxury_base": {
+            "file": "center_luxury_shop.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 2.4,
+                "y": -15.1
+            },
+            "type": "sprite"
+        }
+    }
+}

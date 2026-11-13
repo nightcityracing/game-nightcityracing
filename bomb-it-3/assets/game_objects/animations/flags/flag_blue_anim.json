@@ -1,0 +1,27 @@
+{
+    "name": "flag_blue_anim",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "flag_blue_base": {
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "flag_blue_anim1.png"
+                },
+                {
+                    "frame": 100,
+                    "value": "flag_blue_anim2.png"
+                },
+                {
+                    "frame": 200,
+                    "value": "flag_blue_anim3.png"
+                },
+                {
+                    "frame": 300,
+                    "value": "flag_blue_anim4.png"
+                }
+            ]
+        }
+    }
+}

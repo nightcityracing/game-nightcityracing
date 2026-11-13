@@ -1,0 +1,132 @@
+
+dress_hero4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frente/eye_3
+  rotate: false
+  xy: 294, 3
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_1
+  rotate: true
+  xy: 471, 105
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_2
+  rotate: false
+  xy: 280, 66
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+frente/eyes_4
+  rotate: false
+  xy: 379, 66
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front1
+  rotate: true
+  xy: 184, 16
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+frente/robot_arm_front2
+  rotate: false
+  xy: 246, 2
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+frente/robot_body_front1
+  rotate: false
+  xy: 2, 7
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front2
+  rotate: false
+  xy: 289, 169
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front3
+  rotate: false
+  xy: 93, 7
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front4
+  rotate: false
+  xy: 380, 169
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front5
+  rotate: false
+  xy: 189, 64
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front6
+  rotate: false
+  xy: 289, 89
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_body_front7
+  rotate: false
+  xy: 380, 89
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+frente/robot_face_front1
+  rotate: false
+  xy: 189, 144
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+frente/robot_head_front1
+  rotate: false
+  xy: 2, 87
+  size: 185, 160
+  orig: 185, 160
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front1
+  rotate: false
+  xy: 294, 26
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+frente/robot_leg_front2
+  rotate: true
+  xy: 339, 60
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 471, 164
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

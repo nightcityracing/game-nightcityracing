@@ -1,0 +1,57 @@
+{
+    "hierarchy": {
+        "name": "boxing",
+        "children": [
+            {
+                "name": "chain"
+            },
+            {
+                "name": "hand"
+            }
+        ],
+        "animations": [
+            "super_gloves_side1",
+            "super_gloves_side2",
+            "super_gloves_side3",
+            "super_gloves_up1",
+            "super_gloves_up2",
+            "super_gloves_up3",
+            "super_gloves_down1",
+            "super_gloves_down2",
+            "super_gloves_down3"
+        ]
+    },
+    "properties": {
+        "chain": {
+            "file": "chain.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "angle": 90,
+            "scale": {
+                "x": 0.1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0.5
+            },
+            "type": "sprite"
+        },
+        "hand": {
+            "file": "boxing_down1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 8.7,
+                "y": 46.4
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.9
+            },
+            "type": "sprite"
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "name": "sheep_front_hit",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "sheep_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        0,
+                        -25.7
+                    ]
+                },
+                {
+                    "frame": 167,
+                    "value": [
+                        0,
+                        -51.5
+                    ]
+                },
+                {
+                    "frame": 500,
+                    "value": [
+                        0,
+                        -4.4
+                    ]
+                }
+            ],
+            "angle": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 167,
+                    "value": -25
+                },
+                {
+                    "frame": 500,
+                    "value": 470
+                }
+            ],
+            "scaleX": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 167,
+                    "value": 1
+                },
+                {
+                    "frame": 500,
+                    "value": 0.6
+                }
+            ],
+            "scaleY": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 167,
+                    "value": 1
+                },
+                {
+                    "frame": 500,
+                    "value": 0.6
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 1
+                },
+                {
+                    "frame": 433,
+                    "value": 1
+                },
+                {
+                    "frame": 500,
+                    "value": 0
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "sheep_dead_front.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "name": "tramcar_right",
+    "speed": 1,
+    "mode": "normal",
+    "data": {
+        "tramcar_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -2.1,
+                        -5.5
+                    ]
+                },
+                {
+                    "frame": 67,
+                    "value": [
+                        -2.1,
+                        -5.5
+                    ]
+                },
+                {
+                    "frame": 83,
+                    "value": [
+                        0,
+                        -11.3
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "farm_tramcar2.png"
+                },
+                {
+                    "frame": 83,
+                    "value": "farm_tramcar3.png"
+                },
+                {
+                    "frame": 167,
+                    "value": "farm_tramcar1.png"
+                }
+            ]
+        },
+        "big_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -21.2,
+                        -8.6
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 150,
+                    "value": 0
+                },
+                {
+                    "frame": 167,
+                    "value": 1
+                }
+            ]
+        },
+        "small_wheel": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        13.2,
+                        -2.1
+                    ]
+                }
+            ],
+            "alpha": [
+                {
+                    "frame": 0,
+                    "value": 0
+                },
+                {
+                    "frame": 150,
+                    "value": 0
+                },
+                {
+                    "frame": 167,
+                    "value": 1
+                }
+            ]
+        }
+    }
+}

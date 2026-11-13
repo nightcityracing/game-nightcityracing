@@ -1,0 +1,24 @@
+{
+    "hierarchy": {
+        "name": "flag_purple",
+        "children": [
+            {
+                "name": "flag_purple_base"
+            }
+        ],
+        "animations": [
+            "flag_purple_anim"
+        ]
+    },
+    "properties": {
+        "flag_purple_base": {
+            "file": "flag_purple_anim1.png",
+            "image": "SIMPLE",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "sprite"
+        }
+    }
+}

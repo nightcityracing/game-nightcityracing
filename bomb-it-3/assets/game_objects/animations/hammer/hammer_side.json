@@ -1,0 +1,56 @@
+{
+    "name": "hammer_side",
+    "speed": 1,
+    "mode": "loop",
+    "data": {
+        "hammer_base": {
+            "position": [
+                {
+                    "frame": 0,
+                    "value": [
+                        -4.7,
+                        -19
+                    ]
+                },
+                {
+                    "frame": 133,
+                    "value": [
+                        6,
+                        -20.1
+                    ]
+                },
+                {
+                    "frame": 233,
+                    "value": [
+                        -4.7,
+                        -19
+                    ]
+                },
+                {
+                    "frame": 317,
+                    "value": [
+                        -13.2,
+                        -21.2
+                    ]
+                },
+                {
+                    "frame": 400,
+                    "value": [
+                        -4.7,
+                        -19
+                    ]
+                }
+            ],
+            "frameName": [
+                {
+                    "frame": 0,
+                    "value": "hammer_side.png"
+                },
+                {
+                    "frame": 0,
+                    "value": "hammer_side.png"
+                }
+            ]
+        }
+    }
+}
