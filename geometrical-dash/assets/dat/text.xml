@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+
+    <languages>
+        <language>en</language>
+        <language>es</language>
+        <language>de</language>
+        <language>it</language>
+        <language>fr</language>
+        <language>pt</language>
+        <language>ru</language>
+    </languages>
+
+    <strings>
+        <string id="Languages" index="0">
+            <en>Languages</en>
+            <de>Sprachen</de>
+            <es>Idiomas</es>
+            <fr>Langues</fr>
+            <it>Lingue</it>
+            <pt>Idioamas</pt>
+            <ru>ЯЗЫК</ru>
+        </string>
+
+        <string id="Sounds" index="1">
+            <en>Sounds</en>
+            <de>TON</de>
+            <es>SONIDO</es>
+            <fr>SON</fr>
+            <it>SONORO</it>
+            <pt>SOM</pt>
+            <ru>ЗВУКИ</ru>
+        </string>
+
+        <string id="Music" index="2">
+            <en>Music</en>
+            <de>MUSIK</de>
+            <es>MÚSICA</es>
+            <fr>MUSIQUE</fr>
+            <it>MUSICA</it>
+            <pt>MÚSICA</pt>
+            <ru>МУЗЫКА</ru>
+        </string>
+
+        <string id="Avatar" index="3">
+            <en>Select avatar</en>
+            <es>SELECCIONAR AVATAR</es>
+            <de>AVATAR AUSWÄHLEN</de>
+            <it>SELEZIONA AVATAR</it>
+            <fr>SÉLECTIONNER AVATAR</fr>
+            <pt>SELECIONAR AVATAR</pt>
+            <ru>ВЫБЕРИТЕ АВАТАР</ru>
+        </string>
+
+        <string id="Rocket" index="4">
+            <en>Select ship</en>
+            <es>SELECCIONAR NAVE</es>
+            <de>SCHIFF AUSWÄHLEN</de>
+            <it>SELEZIONA NAVE</it>
+            <fr>SÉLECTIONNER VAISSEAU</fr>
+            <pt>SELECIONAR NAVIO</pt>
+            <ru>ВЫБЕРИТЕ КОРАБЛЬ</ru>
+        </string>
+
+        <string id="Buy" index="5">
+            <en>Buy</en>
+            <es>COMPRAR</es>
+            <de>KAUFEN</de>
+            <it>COMPRA</it>
+            <fr>ACHETER</fr>
+            <pt>COMPRAR</pt>
+            <ru>КУПИТЬ</ru>
+        </string>
+
+        <string id="InstructionsO" index="6">
+            <en>Instructions</en>
+            <de>Anleitung</de>
+            <es>Instrucciones</es>
+            <fr>Instructions</fr>
+            <it>Istruzioni</it>
+            <pt>Instruções</pt>
+            <ru>ИНСТРУКЦИЯ</ru>
+        </string>
+
+        <string id="INSTRUCTIONS" index="9">
+            <en>Tap the screen, or press space to jump. But make sure you time your jumps precisely! You can even hold your finger on the screen, or hold down space to jump repeatedly. (Or fly up, if you're in a rocket) Look out for spikes, if you touch them you will be returned to the beginning of the level. There are also many mutators to spice up the experience. </en>
+            <es>Toca la pantalla o pulsa la barra espaciadora para saltar. ¡Salta en el momento adecuado! Puedes mantener el dedo en la pantalla o mantener pulsada la barra espaciadora para saltar varias veces (o volar, si vas en un cohete). Pero cuidado con los pinchos; si los tocas, tendrás que empezar el nivel desde el principio. Además, te encontrarás con numerosos mutadores que harán la experiencia más interesante.</es>
+            <de>Tippe zum Springen auf den Bildschirm oder drücke die Leertaste. Aber achte dabei genau auf dein Timing! Du kannst deinen Finger auch auf dem Bildschirm oder die Leertaste gedrückt halten, um wiederholt zu springen. (Oder nach oben zu fliegen, wenn du in einer Rakete sitzt.) Achte auf Stachel – wenn du sie berührst, kehrst du zum Anfang des Levels zurück. Zusätzlich gibt es viele Mutatoren, die für mehr Abwechslung im Spiel sorgen.</de>
+            <it>Tocca lo schermo o premi lo spazio per saltare, ma assicurati di programmare con precisione i tuoi salti! Puoi anche tenere il dito sullo schermo o tenere premuto lo spazio per saltare ripetutamente (o volare in alto, se sei su un razzo). Fai attenzione agli spuntoni: se li tocchi verrai riportato all'inizio del livello. Ci sono anche molti mutatori per rendere più appassionante l'esperienza.</it>
+            <fr>Touchez l'écran ou appuyez sur la barre d'espace pour sauter. Mais assurez-vous de synchroniser vos sauts avec précision ! Vous pouvez même maintenir votre doigt appuyé sur l'écran ou maintenir la barre d'espace enfoncée pour sauter à plusieurs reprises (ou voler, si vous êtes dans une fusée). Attention aux pointes : si vous les touchez, vous retournerez au début du niveau. Il y a aussi de nombreux mutateurs pour pimenter l'expérience de jeu.</fr>
+            <pt>Toque na tela ou pressione espaço para pular. Lembre-se de dar seus saltos com precisão! Você pode segurar o dedo na tela ou manter pressionado da tecla espaço para pular repetidamente. (Ou voe, se você estiver em um foguete). Fique atento às estacas, se  tocá-las, você voltará ao início do nível. Há também muitos mutantes para apimentar a experiência.</pt>
+            <ru>Коснитесь экрана или нажмите пробел, чтобы прыгать. Но убедитесь, что вы точно рассчитали свой прыжок! Вы также можете удерживать палец на экране или удерживать клавишу пробела, чтобы непрерывно прыгать (или взлететь, если вы находитесь в ракете). Остерегайтесь шипов, если вы прикоснетесь к ним, вы вернетесь к началу уровня. Игра также включает в себя ряд режимов. </ru>
+        </string>
+
+        <string id="Level" index="10">
+            <en>Select level</en>
+            <es>SELECCIONAR NIVEL</es>
+            <de>LEVEL AUSWÄHLEN</de>
+            <it>SELEZIONA LIVELLO</it>
+            <fr>SÉLECTIONNER NIVEAU</fr>
+            <pt>SELECIONAR NÍVEL</pt>
+            <ru>ВЫБЕРИТЕ УРОВЕНЬ</ru>
+        </string>
+
+        <string id="Normal" index="11">
+            <en>Normal mode</en>
+            <es>MODO NORMAL</es>
+            <de>NORMALER MODUS</de>
+            <it>MODALITÀ NORMALE</it>
+            <fr>MODE NORMAL</fr>
+            <pt>MODO NORMAL</pt>
+            <ru>НОРМАЛЬНЫЙ РЕЖИМ</ru>
+        </string>
+
+        <string id="Practise" index="12">
+            <en>Practise mode</en>
+            <es>MODO DE PRÁCTICA</es>
+            <de>ÜBUNGSMODUS</de>
+            <it>MODALITÀ ESERCITAZIONE</it>
+            <fr>MODE ENTRAÎNEMENT</fr>
+            <pt>MODO DE PRÁTICA</pt>
+            <ru>ПРАКТИЧЕСКИЙ РЕЖИМ</ru>
+        </string>
+
+        <string id="Pause" index="13">
+            <en>Pause</en>
+            <es>PAUSA</es>
+            <de>PAUSE</de>
+            <it>PAUSA</it>
+            <fr>PAUSE</fr>
+            <pt>PAUSA</pt>
+            <ru>ПАУЗА</ru>
+        </string>
+
+        <string id="Completed" index="14">
+            <en>Level completed</en>
+            <es>Nivel Completado</es>
+            <de>Level Abgeschlossen</de>
+            <it>Livello Completato</it>
+            <fr>Niveau Terminé</fr>
+            <pt>Nível Concluído</pt>
+            <ru>УРОВЕНЬ ПРОЙДЕН</ru>
+        </string>
+
+        <string id="Attempts" index="15">
+            <en>Attempts</en>
+            <es>INTENTOS</es>
+            <de>VERSUCHE</de>
+            <it>TENTATIVI</it>
+            <fr>ESSAIS</fr>
+            <pt>TENTATIVAS</pt>
+            <ru>ПОПЫТОК</ru>
+        </string>
+
+        <string id="Jumps" index="16">
+            <en>Jumps</en>
+            <es>SALTAR</es>
+            <de>SPRÜNGE</de>
+            <it>SALTI</it>
+            <fr>SAUTS</fr>
+            <pt>SALTAR</pt>
+            <ru>ПРЫЖКОВ</ru>
+        </string>
+
+        <string id="Attempt" index="17">
+            <en>Attempt</en>
+            <es>INTENTO</es>
+            <de>VERSUCH</de>
+            <it>TENTATIVO</it>
+            <fr>ESSAI</fr>
+            <pt>TENTATIVA</pt>
+            <ru>ПОПЫТКА</ru>
+        </string>
+    </strings>
+</stringresources>
