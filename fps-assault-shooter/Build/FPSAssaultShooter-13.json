@@ -1,0 +1,16 @@
+{
+"companyName": "FPS Assault Shooter 17",
+"productName": "FPS Assault Shooter",
+"productVersion": "1.0",
+"dataUrl": "FPSAssaultShooter-13.data.unityweb",
+"wasmCodeUrl": "FPSAssaultShooter-13.wasm.code.unityweb",
+"wasmFrameworkUrl": "FPSAssaultShooter-13.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}

@@ -1,0 +1,133 @@
+.webgl-content * {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+#gameContainer canvas {
+    display: block;
+	background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab) 0 0/300% 300%;   
+	/*background: url('tunnelRush.jpg') no-repeat center;*/
+    /*background-color: black;*/
+}
+
+.webgl-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    /*disable selection in games which select content when dragging mouse*/
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+    .webgl-content .logo,
+    .progress,
+    .text {
+        position: absolute;
+        left: 50%;
+        top: 40%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+
+    .webgl-content .logo {
+        /*background: url('logo.png') no-repeat center / contain;*/
+        background: url("https://img.gamedistribution.com/0eb473da1c0546f39e348d83219db5e7-512x512.jpeg") 0% 0% / cover;
+        width: 150px;
+        height: 155px;
+        border:4px solid white;float:left;
+        border-radius: 8px;
+    }
+
+    .webgl-content .progress {
+        height: 26px;
+        width: 211px;
+        margin-top: 120px;
+    }
+
+        .webgl-content .progress .empty {
+            background: url('progressEmpty.Light.png') no-repeat right / cover;
+            float: right;
+            width: 100%;
+            height: 100%;
+            display: inline-block;
+        }
+
+        .webgl-content .progress .full {
+            background: url('progressFull.Light.png') no-repeat left / cover;
+            float: left;
+            width: 0%;
+            height: 100%;
+            display: inline-block;
+        }
+
+    .webgl-content .text {
+        margin-top: 170px;
+        /*color: blueviolet;*/
+        color: white;
+        font-family: Helvetica,Arial,sans-serif;
+        font-size: 25px;
+        width: 500px;
+        text-align: center;
+    }
+
+    .webgl-content .spinner {
+        vertical-align: middle;
+        height: 100px;
+    }
+
+    .webgl-content .logo.Dark {
+        /*background: url('logo.png') no-repeat center / contain;*/
+    }
+
+    .webgl-content .progress.Dark .empty {
+/*        background: white;
+        border-radius: 0px 25px 25px 0px;*/
+        background-image: url('progressEmpty.Dark.png');
+    }
+
+    .webgl-content .progress.Dark .full {
+ /*       background: cyan;
+        border-radius: 25px 0px 0px 25px;*/
+        background-image: url('progressFull.Dark.png');
+    }
+
+    .webgl-content .footer {
+        margin-top: 5px;
+        height: 38px;
+        line-height: 38px;
+        font-family: Helvetica, Verdana, Arial, sans-serif;
+        font-size: 18px;
+        background: #fff;
+    }
+
+        .webgl-content .footer .webgl-logo,
+        .title,
+        .fullscreen {
+            height: 100%;
+            display: inline-block;
+            background: transparent center no-repeat;
+        }
+
+        .webgl-content .footer .webgl-logo {
+            background-image: url('webgl-logo.png');
+            width: 204px;
+            float: left;
+        }
+
+        .webgl-content .footer .title {
+            margin-right: 10px;
+            float: right;
+        }
+
+        .webgl-content .footer .fullscreen {
+            background-image: url('fullscreen.png');
+            width: 38px;
+            float: right;
+        }

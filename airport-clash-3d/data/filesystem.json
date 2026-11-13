@@ -1,0 +1,19 @@
+{
+    "paks": [
+        "airport_r41C0.png",
+        "assets1_rB4CD.png"
+    ],
+    "pak_sizes": {
+        "assets1_rB4CD.png": 6497080,
+        "airport_r41C0.png": 5803975
+    },
+    "preload_paks": [
+        "assets1_rB4CD.png"
+    ],
+    "map_paks": {
+        "airport": "airport_r41C0.png"
+    },
+    "map_hashes": {
+        "airport": "E4690139"
+    }
+}

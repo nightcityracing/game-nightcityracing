@@ -1,0 +1,19 @@
+{
+    "paks": [
+        "assets1_rAFA7.png",
+        "ninja_r93B9.png"
+    ],
+    "pak_sizes": {
+        "assets1_rAFA7.png": 8622172,
+        "ninja_r93B9.png": 11015145
+    },
+    "preload_paks": [
+        "assets1_rAFA7.png"
+    ],
+    "map_paks": {
+        "ninja": "ninja_r93B9.png"
+    },
+    "map_hashes": {
+        "ninja": "152D7320"
+    }
+}
